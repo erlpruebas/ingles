@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>Curso de Inglés</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    :root{--bg:#121212;--surface:#1e1e1e;--text:#e0e0e0;--primary:#bb86fc;--accent:#03dac6;--rad:12px}
+    *{box-sizing:border-box}
+    body{margin:0;font-family:'Segoe UI',Roboto,sans-serif;background:var(--bg);color:var(--text);line-height:1.6;padding:1rem}
+    h1,h2{color:var(--primary)}
+    section{background:var(--surface);border-radius:var(--rad);padding:1rem 1.5rem;margin-bottom:2rem;box-shadow:0 4px 12px rgba(0,0,0,.5)}
+    button{background:var(--primary);color:var(--text);border:none;padding:.5rem 1rem;border-radius:var(--rad);cursor:pointer;font-size:1rem;margin-top:.5rem}
+    button:hover{background:var(--accent)}
+    .hidden{display:none}
+    .item{margin-bottom:.9rem}
+    .example{font-style:italic;font-size:.95rem}
+    .example strong{color:var(--accent)}
+    .note{margin:0 0 .5rem;color:var(--accent);font-size:.9rem}
+    #finish-btn{display:block;margin:2rem auto}
+    #status{color:var(--accent);margin-bottom:1rem;min-height:1.4em}
+    #review-list{display:grid;grid-template-columns:1fr 1fr;gap:.75rem}
+      @media (max-width:600px){
+      body{padding:.5rem}
+      section{padding:.75rem 1rem;margin-bottom:1.2rem}
+      h1{font-size:1.4rem;text-align:center}
+      h2{font-size:1.1rem}
+      #review-list{grid-template-columns:1fr}
+      button{width:100%}
+    }
+  </style>
+</head>
+<body>
+<h1>Curso de Inglés</h1>
+<p id="status"></p>
+<section><h2>Vocabulario</h2><p class="note">Copia 10 veces cada palabra en tu cuaderno para aprenderlas.</p><div id="vocab-list"></div></section>
+<section><h2>Ejercicios</h2><p class="note">Traduce al inglés en tu cuaderno y, si encuentras palabras que no conoces, cópialas diez veces para aprenderlas.</p><div id="exercise-list"></div></section>
+<section><h2>Repaso</h2><p class="note">Traduce estas palabras al inglés en tu cuaderno y, si alguna no te la sabes, cópiala diez veces para aprenderla.</p><div id="review-list"></div></section>
+<button id="finish-btn">Dar por terminada lección</button>
+<script>
+// --- CONFIGURACIÓN ---
+const MODEL = 'gpt-4o-mini';
+const DICT_KEY = 'curso_ingles_diccionario';
+// Llamadas a OpenAI pasan por la función serverless de Netlify
+const ENDPOINT = '/.netlify/functions/openai';
+
+// --- REFERENCIAS AL DOM ---
+const statusEl = document.getElementById('status');
+const vocabEl  = document.getElementById('vocab-list');
+const exEl     = document.getElementById('exercise-list');
+const repEl    = document.getElementById('review-list');
+const finishBtn= document.getElementById('finish-btn');
+
+// --- ESTADO ---
+let dictionary = JSON.parse(localStorage.getItem(DICT_KEY)||'[]');
+let currentLesson = null;
+let lastWords = [];
+
+// --- UTILIDADES ---
+const setStatus = t => statusEl.textContent = t;
+function safeJSON(t){
+  try { return JSON.parse(t); }
+  catch { const m = t.match(/\{[\s\S]*\}/);
+          if(m) try { return JSON.parse(m[0]); } catch{}
+          return null; }
+}
+
+// --- LLAMADA A LA FUNCIÓN SERVERLESS ---
+async function openAI(prompt){
+  const r = await fetch(ENDPOINT, {
+    method:'POST',
+    headers:{'Content-Type':'application/json'},
+    body:JSON.stringify({prompt})
+  });
+  if(!r.ok) throw new Error(r.status+' '+r.statusText);
+  const {content} = await r.json();
+  return content.trim();
+}
+
+// --- LÓGICA PRINCIPAL (sin cambios) ---
+const clear = () => { vocabEl.innerHTML=''; exEl.innerHTML=''; repEl.innerHTML=''; };
+
+async function fetchNewWords(){
+  setStatus('🔎 Obteniendo palabras…');
+  const banned = dictionary.map(w=>w.en).join(', ');
+  const prompt = `Devuelve SOLO JSON con clave "vocabulario" y 10 objetos {\"en\":word_en, \"es\":word_es}. 6 sust/adj y 4 verb/conector. No repitas: ${banned}.`;
+  for(let i=0;i<3;i++){
+    const obj = safeJSON(await openAI(prompt));
+    if(obj && Array.isArray(obj.vocabulario) && obj.vocabulario.length===10){
+      const words = obj.vocabulario.map(o=>({en:o.en?.trim(),es:o.es?.trim()})).filter(x=>x.en&&x.es);
+      if(words.length===10){ lastWords=words; return words; }
+    }
+  }
+  throw new Error('No se obtuvieron 10 palabras válidas');
+}
+
+async function fetchLesson(words){
+  setStatus('🛠️ Generando ejercicios…');
+  const listado = words.map(w=>`${w.en}:${w.es}`).join(', ');
+  const extra = dictionary.filter(d=>!words.some(w=>w.en===d.en));
+  const randomExtra = extra.sort(()=>0.5-Math.random()).slice(0,10).map(d=>`${d.en}:${d.es}`).join(', ');
+  const prompt = `Con estas 10 palabras: ${listado}. Genera: \n1. "vocabulario": array de 10 objetos {en, es, ej_en, ej_es}. El campo ej_es termina con un emoji apropiado. \n2. "ejercicios": array de 10 objetos {es, en}. Las 10 frases españolas deben formar UNA PEQUEÑA HISTORIA coherente, incluir al menos **2 oraciones negativas** y **2 interrogativas** (varía tiempos: presente/pasado/futuro) y cada "es" termina con un emoji. \n3. "repaso": array de 20 objetos {es, en}. Los primeros 10 son EXACTAMENTE las 10 palabras nuevas; los otros 10 elige al azar de este diccionario restante: ${randomExtra}. \nDevuelve SOLO JSON válido sin texto extra.`;
+  const obj = safeJSON(await openAI(prompt));
+  if(!obj) throw new Error('JSON lección inválido');
+  ['vocabulario','ejercicios','repaso'].forEach(k=>{ if(obj[k] && !Array.isArray(obj[k])) obj[k] = Object.values(obj[k]); });
+  return obj;
+}
+
+function renderBasic(words){
+  vocabEl.innerHTML='';
+  words.forEach(w=>vocabEl.insertAdjacentHTML('beforeend',`<div class='item'><strong>${w.es}</strong> - ${w.en}</div>`));
+}
+
+function renderLesson(les){
+  clear();
+  les.vocabulario.forEach(w=>{
+    if(!(w.en&&w.es)) return;
+    vocabEl.insertAdjacentHTML('beforeend',`<div class='item'><strong>${w.es}</strong> - ${w.en}<br><span class='example'>${w.ej_es}<br><strong>${w.ej_en}</strong></span></div>`);
+  });
+  les.ejercicios.forEach((f,i)=>{
+    if(!(f.es&&f.en)) return;
+    exEl.insertAdjacentHTML('beforeend',`<div class='item'>${i+1}. ${f.es} <button class='show'>Solución</button> <span class='hidden'>${f.en}</span></div>`);
+  });
+  les.repaso.forEach(p=>{
+    if(!(p.es&&p.en)) return;
+    repEl.insertAdjacentHTML('beforeend',`<div class='item'>${p.es} <button class='show'>Solución</button> <span class='hidden'>${p.en}</span></div>`);
+  });
+  currentLesson = les;
+}
+
+document.addEventListener('click', e => {
+  if(e.target.classList.contains('show')) e.target.nextElementSibling.classList.toggle('hidden');
+});
+
+async function generate(){
+  try {
+    clear();
+    const words = await fetchNewWords();
+    renderBasic(words);
+    const les  = await fetchLesson(words);
+    renderLesson(les);
+    setStatus('✅ Lección lista');
+  } catch(e) {
+    console.error(e);
+    setStatus('⚠️ '+e.message);
+  }
+}
+
+finishBtn.onclick = () => {
+  if(!currentLesson) return;
+  currentLesson.vocabulario.forEach(w=>{
+    if(!dictionary.some(d=>d.en===w.en)) dictionary.push({en:w.en,es:w.es});
+  });
+  localStorage.setItem(DICT_KEY, JSON.stringify(dictionary));
+  generate();
+};
+
+window.addEventListener('load', () => {
+  if(!navigator.onLine) return setStatus('⚠️ Sin conexión');
+  generate();
+});
+</script>
+</body>
+</html>
