@@ -90,7 +90,7 @@ async function fetchLesson(words){
  setStatus('🛠️ Generando ejercicios…');
  const listado=words.map(w=>`${w.en}:${w.es}`).join(', ');
  const extra=dictionary.filter(d=>!words.some(w=>w.en===d.en)).sort(()=>0.5-Math.random()).slice(0,10).map(d=>`${d.en}:${d.es}`).join(', ');
- const prompt=`Con estas 10 palabras: ${listado}. Devuelve JSON con 1) \"vocabulario\" 10 objetos {en,es,ej_en,ej_es} (ej_es emoji al final), 2) \"ejercicios\" 10 objetos {es,en} historia con 2 negativas y 2 preguntas y cada "es" termina con un emoji, 3) \"repaso\" 20 objetos {es,en} (10 nuevas+10 de ${extra}).`;
+ const prompt=`Con estas 10 palabras: ${listado}. Devuelve JSON con 1) \"vocabulario\" 10 objetos {en,es,ej_en,ej_es} (ej_es emoji al final), 2) \"ejercicios\" 10 objetos {es,en} las frases deben formar una historia con 2 negativas y 2 preguntas y cada "es" termina con un emoji, 3) \"repaso\" 20 objetos {es,en} (10 nuevas+10 de ${extra}).`;
  const obj=safeJSON(await openAI(prompt));
  if(!obj)throw new Error('JSON lección inválido');
  ['vocabulario','ejercicios','repaso'].forEach(k=>{if(obj[k]&&!Array.isArray(obj[k]))obj[k]=Object.values(obj[k]);});
