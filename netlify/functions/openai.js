@@ -23,9 +23,7 @@
     #chat-box{max-height:220px;overflow-y:auto;padding:1rem;border:1px solid #555;border-radius:var(--rad);background:var(--surface);font-size:.95rem;margin-bottom:1rem}
     #chat-box div{margin-bottom:.5rem}
     .speak{cursor:pointer;margin-left:.4rem}
-    /*----- diccionario en 4 columnas -----*/
     #dict-box{column-count:4;column-gap:1rem}
-    /* botones extra */
     #clear-dict{background:#e35353}
     @media (max-width:600px){
       body{padding:.5rem}
@@ -75,6 +73,15 @@
 </section>
 
 <script>
+/* ---------- función de log ---------- */
+function logEvent(action, details='') {
+  fetch('/.netlify/functions/log', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ action, details })
+  }).catch(console.error);
+}
+
 /* ---------- configuración ---------- */
 const DICT_KEY='curso_ingles_diccionario';
 const ENDPOINT='/.netlify/functions/openai';
@@ -109,7 +116,19 @@ async function askOpenAI(prompt){const r=await fetch(ENDPOINT,{method:'POST',hea
 
 /* ---------- TTS ---------- */
 const audioCache=new Map();
-async function speak(el,txt){if(audioCache.has(txt)){new Audio(audioCache.get(txt)).play();return;}el.textContent='⏳';try{const r=await fetch(TTS_ENDPOINT,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({text:txt})});if(!r.ok)throw new Error('TTS error');const b64=(await r.json()).audio;const blob=await fetch(`data:audio/mp3;base64,${b64}`).then(r=>r.blob());const url=URL.createObjectURL(blob);audioCache.set(txt,url);el.textContent='🔊';new Audio(url).play();}catch(e){el.textContent='❌';console.error(e);}}
+async function speak(el,txt){
+  if(audioCache.has(txt)){new Audio(audioCache.get(txt)).play();return;}
+  el.textContent='⏳';
+  try{
+    const r=await fetch(TTS_ENDPOINT,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({text:txt})});
+    if(!r.ok)throw new Error('TTS error');
+    const b64=(await r.json()).audio;
+    const blob=await fetch(`data:audio/mp3;base64,${b64}`).then(r=>r.blob());
+    const url=URL.createObjectURL(blob);
+    audioCache.set(txt,url);el.textContent='🔊';new Audio(url).play();
+    logEvent('tts', txt);              /* ← LOG AUDIO */
+  }catch(e){el.textContent='❌';console.error(e);}
+}
 const speakIcon=t=>` <span class="speak" data-text="${t}">🔊</span>`;
 
 /* ---------- generación de datos ---------- */
@@ -130,7 +149,6 @@ async function fetchNewWords(){
 async function fetchLesson(words){
   setStatus('🛠️ Generando ejercicios…');
   const listado=words.map(w=>`${w.en}:${w.es}`).join(', ');
-  const extra=dictionary.filter(d=>!words.some(w=>w.en===d.en)).slice(0,10).map(d=>`${d.en}:${d.es}`).join(', ');
   const prompt=`Tienes estas 10 palabras nuevas: ${listado}.
 Devuelve SOLO JSON:
 1) "vocabulario": 10 objetos {en,es,ej_en,ej_es}. ej_es termina con 1 emoji.
@@ -186,7 +204,10 @@ function renderLesson(les){
 /* ---------- eventos ---------- */
 document.addEventListener('click',e=>{
   if(e.target.classList.contains('speak')) speak(e.target,e.target.dataset.text);
-  if(e.target.classList.contains('show'))  e.target.nextElementSibling.classList.toggle('hidden');
+  if(e.target.classList.contains('show')){
+    e.target.nextElementSibling.classList.toggle('hidden');
+    logEvent('click_boton', 'Mostrar solución');
+  }
 });
 
 /* ---------- flujo principal ---------- */
@@ -198,6 +219,7 @@ async function generate(){
     lesson.repaso=[...words.map(w=>({es:w.es,en:w.en})), ...extra];
     renderLesson(lesson);
     setStatus('✅ Lección lista');
+    logEvent('iniciar_leccion');
   }catch(e){
     console.error(e);
     setStatus('Cargando página…');
@@ -213,6 +235,7 @@ document.getElementById('finish-btn').addEventListener('click',()=>{
     if(!dictionary.some(d=>d.en===w.en)) dictionary.push({en:w.en,es:w.es});
   });
   localStorage.setItem(DICT_KEY,JSON.stringify(dictionary));
+  logEvent('terminar_leccion', `Palabras nuevas: ${currentLesson.vocabulario.length}`);
   document.querySelectorAll('.item span:not(.hidden)').forEach(el=>el.classList.add('hidden'));
   dictBox.classList.add('hidden'); btnClear.classList.add('hidden'); btnShow.textContent='Ver diccionario completo';
   aboutText.classList.add('hidden'); toggleAbout.textContent='▸ Sobre la aplicación';
@@ -226,6 +249,7 @@ chatInp.addEventListener('keypress',e=>{if(e.key==='Enter')sendChat();});
 async function sendChat(){
   const q=chatInp.value.trim(); if(!q) return; chatInp.value='';
   chatBox.insertAdjacentHTML('beforeend',`<div><strong>Tú:</strong> ${q}</div>`); chatBox.scrollTop=chatBox.scrollHeight;
+  logEvent('chat_usuario', q);
   try{
     const a=await askOpenAI(`Actúa como profesor de inglés (niños 10‑11 años). Responde brevemente: ${q}`);
     chatBox.insertAdjacentHTML('beforeend',`<div><strong>ChatGPT:</strong> ${a}</div>`); chatBox.scrollTop=chatBox.scrollHeight;
@@ -238,18 +262,24 @@ btnShow.addEventListener('click',()=>{
     const list=JSON.parse(localStorage.getItem(DICT_KEY)||'[]');
     dictBox.textContent=list.length?list.map((w,i)=>`${i+1}. ${w.es} – ${w.en}`).join('\n'):'(diccionario vacío)';
     dictBox.classList.remove('hidden'); btnClear.classList.remove('hidden'); btnShow.textContent='Ocultar diccionario';
+    logEvent('click_boton','Mostrar diccionario');
   }else{
     dictBox.classList.add('hidden'); btnClear.classList.add('hidden'); btnShow.textContent='Ver diccionario completo';
+    logEvent('click_boton','Ocultar diccionario');
   }
 });
 btnClear.addEventListener('click',()=>{
-  if(confirm('¿Borrar todo el diccionario guardado?')){localStorage.removeItem(DICT_KEY);dictionary=[];dictBox.textContent='(diccionario borrado)';}
+  if(confirm('¿Borrar todo el diccionario guardado?')){
+    localStorage.removeItem(DICT_KEY); dictionary=[]; dictBox.textContent='(diccionario borrado)';
+    logEvent('click_boton','Borrar diccionario');
+  }
 });
 
 /* ---------- Sobre la aplicación ---------- */
 toggleAbout.addEventListener('click',()=>{
   const open=!aboutText.classList.toggle('hidden');
   toggleAbout.textContent=(open?'▾':'▸')+' Sobre la aplicación';
+  logEvent('click_boton', open?'Mostrar sobre':'Ocultar sobre');
 });
 </script>
 </body>
