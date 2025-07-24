@@ -70,6 +70,13 @@
     <em>Curso de Inglés</em> es un pequeño experimento de programación
     utilizando Inteligencia Artificial,<br>creado por <strong>Emilio Rodríguez</strong>.
   </p>
+  <div style="margin-top: 20px;">
+  <label for="sugerencia">¿Tienes alguna sugerencia?</label><br>
+  <textarea id="sugerencia" rows="3" style="width: 100%;"></textarea><br>
+  <button onclick="enviarSugerencia()">Enviar sugerencia</button>
+  <p id="mensaje-enviado" style="color: green; display: none;">✅ ¡Gracias por tu sugerencia!</p>
+</div>
+
 </section>
 
 <script>
@@ -281,6 +288,29 @@ toggleAbout.addEventListener('click',()=>{
   toggleAbout.textContent=(open?'▾':'▸')+' Sobre la aplicación';
   logEvent('click_boton', open?'Mostrar sobre':'Ocultar sobre');
 });
+
+  function enviarSugerencia() {
+  const comentario = document.getElementById('sugerencia').value;
+  const mensaje = document.getElementById('mensaje-enviado');
+  if (!comentario.trim()) return;
+
+  fetch('/.netlify/functions/log', {
+    method: 'POST',
+    headers: {'Content-Type': 'application/json'},
+    body: JSON.stringify({
+      ip: 'auto', // o '127.0.0.1' si prefieres
+      action: 'sugerencia',
+      details: comentario,
+      key: 'TU_CLAVE'
+    })
+  }).then(res => res.json())
+    .then(() => {
+      mensaje.style.display = 'block';
+      document.getElementById('sugerencia').value = '';
+      setTimeout(() => mensaje.style.display = 'none', 3000);
+    }).catch(console.error);
+}
+
 </script>
 </body>
 </html>
