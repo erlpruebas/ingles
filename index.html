@@ -31,7 +31,7 @@
       position: fixed;
       top: 18px;
       right: 18px;
-      z-index: 2147483647;
+      z-index: 2000;
       background: var(--surface);
       color: var(--primary);
       border: none;
@@ -45,7 +45,6 @@
       align-items: center;
       justify-content: center;
       transition: background 0.2s;
-      pointer-events: auto;
     }
     #help-btn:hover {
       background: var(--primary);
@@ -56,7 +55,7 @@
       top: 50%;
       left: 50%;
       transform: translate(-50%, -50%);
-      z-index: 2147483647;
+      z-index: 2000;
       background: var(--surface);
       color: var(--text);
       border-radius: var(--rad);
@@ -66,7 +65,6 @@
       width: 370px;
       font-size: 1.05rem;
       display: none;
-      pointer-events: auto;
     }
     #help-modal.visible { display: block; }
     #help-modal h3 {
@@ -180,9 +178,9 @@
 </section>
 
 <!-- Botón de ayuda flotante -->
-<button id="help-btn" title="¿Cómo funciona?" style="pointer-events:auto;z-index:2147483647"></button>
+<button id="help-btn" title="¿Cómo funciona?">?</button>
 <!-- Modal de ayuda -->
-<div id="help-modal" role="dialog" aria-modal="true" aria-labelledby="help-title" style="pointer-events:auto;z-index:2147483647">
+<div id="help-modal" role="dialog" aria-modal="true" aria-labelledby="help-title">
   <button class="close-help" title="Cerrar ayuda">&times;</button>
   <h3 id="help-title">¿Cómo usar la aplicación?</h3>
   <ul>
@@ -559,32 +557,11 @@ function enviarSugerencia() {
 const helpBtn = document.getElementById('help-btn');
 const helpModal = document.getElementById('help-modal');
 if(helpBtn && helpModal) {
-  function openHelpModal(e) {
-    e.stopPropagation();
-    helpModal.classList.add('visible');
-  }
-  function closeHelpModal(e) {
-    e.stopPropagation();
-    helpModal.classList.remove('visible');
-  }
-  helpBtn.addEventListener('click', openHelpModal, {passive: false});
-  helpBtn.addEventListener('touchstart', openHelpModal, {passive: false});
-  helpModal.querySelector('.close-help').addEventListener('click', closeHelpModal, {passive: false});
-  helpModal.querySelector('.close-help').addEventListener('touchstart', closeHelpModal, {passive: false});
+  helpBtn.onclick = () => helpModal.classList.add('visible');
+  helpModal.querySelector('.close-help').onclick = () => helpModal.classList.remove('visible');
   // Cerrar con Escape
   document.addEventListener('keydown', e => {
     if(helpModal.classList.contains('visible') && e.key === 'Escape') helpModal.classList.remove('visible');
-  });
-  // Cerrar tocando fuera del modal
-  document.addEventListener('click', function(e) {
-    if(helpModal.classList.contains('visible') && !helpModal.contains(e.target) && e.target !== helpBtn) {
-      helpModal.classList.remove('visible');
-    }
-  });
-  document.addEventListener('touchstart', function(e) {
-    if(helpModal.classList.contains('visible') && !helpModal.contains(e.target) && e.target !== helpBtn) {
-      helpModal.classList.remove('visible');
-    }
   });
 }
 
