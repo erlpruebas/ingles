@@ -61,12 +61,11 @@
       color: var(--text);
       border-radius: var(--rad);
       box-shadow: 0 8px 32px rgba(0,0,0,0.45);
-      padding: 2rem 1.5rem 1.5rem 1.5rem;
+      padding: 2.5rem 1.5rem 1.5rem 1.5rem;
       max-width: 95vw;
       width: 370px;
       font-size: 1.05rem;
       display: none;
-      pointer-events: auto;
     }
     #help-modal.visible { display: block; }
     #help-modal h3 {
@@ -82,8 +81,14 @@
       background: none;
       border: none;
       color: var(--accent);
-      font-size: 1.3rem;
+      font-size: 1.7rem;
       cursor: pointer;
+      line-height: 1;
+      width: 2.2em;
+      height: 2.2em;
+      display: flex;
+      align-items: center;
+      justify-content: center;
     }
     @media (max-width:600px){
       body{padding:.5rem}
@@ -95,9 +100,13 @@
       #help-modal {
         width: 98vw;
         max-width: 98vw;
-        padding: 2.2rem 0.5rem 1rem 0.5rem;
+        padding: 3.2rem 0.5rem 1rem 0.5rem;
         font-size: 1rem;
-        position: relative;
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        z-index: 9999;
       }
       #help-btn {
         top: 10px;
@@ -109,7 +118,9 @@
       #help-modal button.close-help {
         top: 10px;
         right: 10px;
-        font-size: 1.7rem;
+        font-size: 2rem;
+        width: 2.2em;
+        height: 2.2em;
       }
     }
   </style>
@@ -181,8 +192,8 @@
 
 <!-- Botón de ayuda flotante -->
 <button id="help-btn" title="¿Cómo funciona?" onclick="openHelpModal(event)" ontouchend="openHelpModal(event)">?</button>
-<!-- Modal de ayuda -->
-<div id="help-modal" role="dialog" aria-modal="true" aria-labelledby="help-title" style="pointer-events:auto;">
+<!-- Modal de ayuda (mover justo antes de </body>) -->
+<div id="help-modal" role="dialog" aria-modal="true" aria-labelledby="help-title">
   <button class="close-help" title="Cerrar ayuda">&times;</button>
   <h3 id="help-title">¿Cómo usar la aplicación?</h3>
   <ul>
