@@ -31,7 +31,7 @@
       position: fixed;
       top: 18px;
       right: 18px;
-      z-index: 1000;
+      z-index: 9999;
       background: var(--surface);
       color: var(--primary);
       border: none;
@@ -557,11 +557,23 @@ function enviarSugerencia() {
 const helpBtn = document.getElementById('help-btn');
 const helpModal = document.getElementById('help-modal');
 if(helpBtn && helpModal) {
-  helpBtn.onclick = () => helpModal.classList.add('visible');
-  helpModal.querySelector('.close-help').onclick = () => helpModal.classList.remove('visible');
+  helpBtn.addEventListener('click', function(e) {
+    e.stopPropagation();
+    helpModal.classList.add('visible');
+  }, {passive: false});
+  helpModal.querySelector('.close-help').addEventListener('click', function(e) {
+    e.stopPropagation();
+    helpModal.classList.remove('visible');
+  }, {passive: false});
   // Cerrar con Escape
   document.addEventListener('keydown', e => {
     if(helpModal.classList.contains('visible') && e.key === 'Escape') helpModal.classList.remove('visible');
+  });
+  // Cerrar tocando fuera del modal
+  document.addEventListener('click', function(e) {
+    if(helpModal.classList.contains('visible') && !helpModal.contains(e.target) && e.target !== helpBtn) {
+      helpModal.classList.remove('visible');
+    }
   });
 }
 
