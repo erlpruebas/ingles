@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -25,6 +26,63 @@
     .speak{cursor:pointer;margin-left:.4rem}
     #dict-box{column-count:4;column-gap:1rem}
     #clear-dict{background:#e35353}
+    /* Ayuda flotante */
+    #help-btn {
+      position: fixed;
+      top: 18px;
+      right: 18px;
+      z-index: 1000;
+      background: var(--surface);
+      color: var(--primary);
+      border: none;
+      border-radius: 50%;
+      width: 38px;
+      height: 38px;
+      font-size: 1.5rem;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.18);
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.2s;
+    }
+    #help-btn:hover {
+      background: var(--primary);
+      color: var(--surface);
+    }
+    #help-modal {
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      z-index: 2000;
+      background: var(--surface);
+      color: var(--text);
+      border-radius: var(--rad);
+      box-shadow: 0 8px 32px rgba(0,0,0,0.45);
+      padding: 2rem 1.5rem 1.5rem 1.5rem;
+      max-width: 95vw;
+      width: 370px;
+      font-size: 1.05rem;
+      display: none;
+    }
+    #help-modal.visible { display: block; }
+    #help-modal h3 {
+      margin-top: 0;
+      color: var(--primary);
+      font-size: 1.2rem;
+    }
+    #help-modal ul { margin: 0 0 0.5em 1.2em; padding: 0; }
+    #help-modal button.close-help {
+      position: absolute;
+      top: 10px;
+      right: 14px;
+      background: none;
+      border: none;
+      color: var(--accent);
+      font-size: 1.3rem;
+      cursor: pointer;
+    }
     @media (max-width:600px){
       body{padding:.5rem}
       section{padding:.75rem 1rem;margin-bottom:1.2rem}
@@ -32,6 +90,24 @@
       h2{font-size:1.1rem}
       #review-list{grid-template-columns:1fr}
       button{width:100%}
+      #help-modal {
+        width: 98vw;
+        max-width: 98vw;
+        padding: 1.2rem 0.5rem 1rem 0.5rem;
+        font-size: 1rem;
+      }
+      #help-btn {
+        top: 10px;
+        right: 10px;
+        width: 44px;
+        height: 44px;
+        font-size: 1.7rem;
+      }
+      #help-modal button.close-help {
+        top: 6px;
+        right: 10px;
+        font-size: 1.7rem;
+      }
     }
   </style>
 </head>
@@ -44,13 +120,26 @@
 <section><h2>Repaso</h2><p class="note">Traduce estas palabras al inglés en tu cuaderno y, si alguna no te la sabes, cópiala diez veces para aprenderla.</p><div id="review-list"></div></section>
 
 <section>
-  <h2>Pregúntame si tienes dudas</h2>
+  <h2>Chat con tu profesor virtual</h2>
   <div id="chat-box"></div>
   <input id="chat-input" placeholder="Escribe tu pregunta…" style="width:100%;padding:.5rem;border-radius:var(--rad);border:none">
   <button id="chat-send">Enviar</button>
 </section>
 
 <button id="finish-btn">Dar por terminada la lección</button>
+
+<section id="level-section" style="background:var(--surface);border-radius:var(--rad);padding:1rem 1.5rem;margin-bottom:2rem;box-shadow:0 4px 12px rgba(0,0,0,.5)">
+  <div style="margin-bottom:.7rem">
+    <button id="level-current-btn" style="all:unset;cursor:pointer;color:var(--primary);font-weight:bold;font-size:1.1em;">Nivel actual: <span id="level-current"></span></button>
+    <button id="level-next-btn" style="margin-left:1em;">Avanzar nivel</button>
+    <button id="level-toggle-select" style="margin-left:1em;">Selecciona nivel</button>
+  </div>
+  <div id="level-select-wrap" class="hidden" style="margin-top:.7rem">
+    <div class="note">Pulsa en Guardar y terminar lección para guardar tu elección</div>
+    <div id="level-radio-list" style="margin-bottom:.7rem"></div>
+    <button id="level-save-btn">Guardar y terminar lección</button>
+  </div>
+</section>
 
 <!-- ---------- Diccionario completo ---------- -->
 <section id="dict-section">
@@ -87,6 +176,22 @@
 
 </section>
 
+<!-- Botón de ayuda flotante -->
+<button id="help-btn" title="¿Cómo funciona?">?</button>
+<!-- Modal de ayuda -->
+<div id="help-modal" role="dialog" aria-modal="true" aria-labelledby="help-title">
+  <button class="close-help" title="Cerrar ayuda">&times;</button>
+  <h3 id="help-title">¿Cómo usar la aplicación?</h3>
+  <ul>
+    <li>En tu <strong>cuaderno</strong>, aprende el vocabulario, haz los ejercicios y el repaso que aparece en cada lección.</li>
+    <li>Usa el <strong>chat</strong> para preguntar dudas a tu profesor virtual sobre gramática, vocabulario y cualquier cosa que necesites.</li>
+    <li>Pulsa el icono <span style="color:var(--accent)">🔊</span> para escuchar la pronunciación en inglés.</li>
+    <li>Pulsa <strong>"Dar por terminada la lección"</strong> para guardar tu progreso y vocabulario.</li>
+    <li><strong>Selecciona tu nivel</strong> con el botón "Selecciona nivel" o avanza con "Avanzar nivel".</li>
+  </ul>
+  <div style="margin-top:1em;font-size:.97em;color:var(--accent)">¡Explora, repite y aprende a tu ritmo!</div>
+</div>
+
 <script>
 /* ---------- función de log ---------- */
 function logEvent(action, details='') {
@@ -101,6 +206,25 @@ function logEvent(action, details='') {
 const DICT_KEY='curso_ingles_diccionario';
 const ENDPOINT='/.netlify/functions/openai';
 const TTS_ENDPOINT='/.netlify/functions/tts';
+const LEVEL_KEY = 'curso_ingles_nivel';
+let nivel = Number(localStorage.getItem(LEVEL_KEY) || 1);
+const levels = [
+  {id:1, nombre:'Nivel 1', descripcion:'Presente simple afirmativo'},
+  {id:2, nombre:'Nivel 2', descripcion:'Presente negativo y presente continuo'},
+  {id:3, nombre:'Nivel 3', descripcion:'Pasado simple afirm./neg.'},
+  {id:4, nombre:'Nivel 4', descripcion:'Futuro (will / going to)'},
+  {id:5, nombre:'Nivel 5', descripcion:'Preguntas (todos los tiempos previos)'},
+  {id:6, nombre:'Nivel 6', descripcion:'Modales básicos (can, must, should, would)'},
+  {id:7, nombre:'Nivel 7', descripcion:'There is/are, some/any, much/many'},
+  {id:8, nombre:'Nivel 8', descripcion:'Comparativos y superlativos'},
+  {id:9, nombre:'Nivel 9', descripcion:'Conectores simples (and, but, because, so)'},
+  {id:10, nombre:'Nivel 10', descripcion:'Presente perfecto (for/since)'},
+  {id:11, nombre:'Nivel 11', descripcion:'Condicionales 0 y 1'},
+  {id:12, nombre:'Nivel 12', descripcion:'Voz pasiva'},
+  {id:13, nombre:'Nivel 13', descripcion:'Condicionales 2 y 3'},
+  {id:14, nombre:'Nivel 14', descripcion:'Discurso indirecto y formas impersonales'},
+  {id:15, nombre:'Nivel 15', descripcion:'Inversión, conectores complejos, idioms, phrasal verbs, registro formal/informal'}
+];
 
 /* ---------- referencias DOM ---------- */
 const vocabEl=document.getElementById('vocab-list');
@@ -114,6 +238,15 @@ const btnShow=document.getElementById('show-dict');
 const btnClear=document.getElementById('clear-dict');
 const aboutText=document.getElementById('about-text');
 const toggleAbout=document.getElementById('toggle-about');
+const levelCurrent = document.getElementById('level-current');
+const levelCurrentBtn = document.getElementById('level-current-btn');
+const levelNextBtn = document.getElementById('level-next-btn');
+const levelToggleSelect = document.getElementById('level-toggle-select');
+const levelSelectWrap = document.getElementById('level-select-wrap');
+const levelRadioList = document.getElementById('level-radio-list');
+const levelSelect = document.getElementById('level-select');
+const levelInfo = document.getElementById('level-info');
+const levelSaveBtn = document.getElementById('level-save-btn');
 
 /* ---------- estado ---------- */
 let dictionary=JSON.parse(localStorage.getItem(DICT_KEY)||'[]');
@@ -127,6 +260,15 @@ if ('scrollRestoration' in history) history.scrollRestoration='manual';
 function decodeEmojis(s=''){return String(s).replace(/\\u([\\da-fA-F]{4})/g,(_,h)=>String.fromCharCode(parseInt(h,16)));}
 function stripEmojis(s){return decodeEmojis(s).replace(/\p{Extended_Pictographic}/gu,'').trim();}
 function safeJSON(t){try{return JSON.parse(t.replace(/```json|```/gi,'').trim());}catch{const m=t.match(/\{[\s\S]*\}/);if(m)try{return JSON.parse(m[0]);}catch{};return null;}}
+function getGrammarInstructions(nivel) {
+  let out = '– Frases simples.';
+  for (let i = 0; i < nivel; ++i) {
+    let desc = levels[i].descripcion;
+    if (i === 2) desc = desc.replace('afirm./neg.', 'afirmativo y negativo');
+    out += `\n  – ${desc}`;
+  }
+  return out;
+}
 async function askOpenAI(prompt){const r=await fetch(ENDPOINT,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({prompt})});if(!r.ok)throw new Error(r.statusText);return (await r.json()).content.trim();}
 
 /* ---------- TTS ---------- */
@@ -164,16 +306,11 @@ async function fetchNewWords(){
 async function fetchLesson(words){
   setStatus('🛠️ Generando ejercicios…');
   const listado=words.map(w=>`${w.en}:${w.es}`).join(', ');
+  const grammar = getGrammarInstructions(nivel);
   const prompt=`Tienes estas 10 palabras nuevas: ${listado}.
 Devuelve SOLO JSON:
 1) "vocabulario": 10 objetos {en,es,ej_en,ej_es}. ej_es termina con 1 emoji.
-2) "ejercicios": 10 objetos {es,en}.  
-   – Frases simples, nivel principiante, independientes (sin historia).  
-   – 5 en presente, 3 en pasado, 2 en futuro.  
-   – EXACTAMENTE 2 negativas y 2 interrogativas.  
-   – Cada ES usa una palabra nueva (todas deben aparecer) y termina con un emoji.  
-   – EN es la traducción y termina con el MISMO emoji.  
-3) "repaso": 20 objetos {es,en} (10 nuevas + 10 del resto del diccionario).`;
+2) "ejercicios": 10 objetos {es,en}.\n${grammar}\n– Las frases deben respetar la gramática del nivel actual y de todos los niveles anteriores.\n– Cada ES usa una palabra nueva (todas deben aparecer) y termina con un emoji.\n– EN es la traducción y termina con el MISMO emoji.\n3) "repaso": 20 objetos {es,en} (10 nuevas + 10 del resto del diccionario).`;
   const obj=safeJSON(await askOpenAI(prompt));
   if(!obj) throw new Error('JSON lección inválido');
   ['vocabulario','ejercicios','repaso'].forEach(k=>{
@@ -233,7 +370,7 @@ async function generate(){
     const extra  = dictionary.filter(d=>!words.some(w=>w.en===d.en)).sort(()=>Math.random()-0.5).slice(0,10).map(d=>({es:d.es,en:d.en}));
     lesson.repaso=[...words.map(w=>({es:w.es,en:w.en})), ...extra];
     renderLesson(lesson);
-    setStatus('✅ Lección lista');
+    setStatus('✅ Lección lista (Nivel ' + nivel + ')');
     logEvent('iniciar_leccion');
   }catch(e){
     console.error(e);
@@ -241,10 +378,106 @@ async function generate(){
     setTimeout(()=>location.reload(),1500);
   }
 }
-window.addEventListener('load',()=>navigator.onLine?generate():setStatus('Sin conexión'));
+
+window.addEventListener('load',()=>{
+  // --- Inicializar selector de nivel ---
+  if (levelRadioList && levelCurrent) {
+    levelCurrent.textContent = `${nivel}.`;
+    // Crear radio buttons para selección múltiple
+    levelRadioList.innerHTML = levels.map(l => `
+      <div style="margin-bottom:.5rem">
+        <input type="radio" id="level-${l.id}" name="level-select" value="${l.id}" ${l.id === nivel ? 'checked' : ''}>
+        <label for="level-${l.id}" style="margin-left:.5rem">${l.id}. ${l.nombre} — ${l.descripcion}</label>
+      </div>
+    `).join('');
+    // Botón avanzar nivel
+    levelNextBtn.onclick = function() {
+      if (nivel < levels.length) {
+        nivel++;
+        localStorage.setItem(LEVEL_KEY, nivel);
+        levelCurrent.textContent = `${nivel}.`;
+        document.querySelectorAll('input[name="level-select"]').forEach(radio => {
+          radio.checked = radio.value == nivel;
+        });
+        // Guardar vocabulario y recargar como si se hubiera terminado la lección
+        if(currentLesson) {
+          currentLesson.vocabulario.forEach(w=>{
+            if(!dictionary.some(d=>d.en===w.en)) dictionary.push({en:w.en,es:w.es});
+          });
+          localStorage.setItem(DICT_KEY,JSON.stringify(dictionary));
+        }
+        logEvent('nivel_avanzar', `Nuevo nivel: ${nivel}`);
+        logEvent('terminar_leccion', `Palabras nuevas: ${currentLesson?.vocabulario?.length||0}`);
+        document.querySelectorAll('.item span:not(.hidden)').forEach(el=>el.classList.add('hidden'));
+        dictBox.classList.add('hidden'); btnClear.classList.add('hidden'); btnShow.textContent='Ver diccionario completo';
+        aboutText.classList.add('hidden'); toggleAbout.textContent='▸ Sobre la aplicación';
+        window.scrollTo({top:0,left:0,behavior:'smooth'});
+        setTimeout(()=>location.reload(),500);
+      }
+    };
+    // Botón mostrar selector
+    levelToggleSelect.onclick = function() {
+      levelSelectWrap.classList.toggle('hidden');
+      if (!levelSelectWrap.classList.contains('hidden')) {
+        levelSelectWrap.style.display = 'block';
+        logEvent('nivel_selector_abrir', 'Abre selector de nivel');
+      } else {
+        levelSelectWrap.style.display = '';
+      }
+    };
+    // Botón guardar selección (Guardar y terminar lección en selector)
+    levelSaveBtn.onclick = function() {
+      const selectedRadio = document.querySelector('input[name="level-select"]:checked');
+      if (selectedRadio) {
+        nivel = Number(selectedRadio.value);
+        localStorage.setItem(LEVEL_KEY, nivel);
+        levelCurrent.textContent = `${nivel}.`;
+        levelSelectWrap.classList.add('hidden');
+        // Guardar vocabulario y recargar como si se hubiera terminado la lección
+        if(currentLesson) {
+          currentLesson.vocabulario.forEach(w=>{
+            if(!dictionary.some(d=>d.en===w.en)) dictionary.push({en:w.en,es:w.es});
+          });
+          localStorage.setItem(DICT_KEY,JSON.stringify(dictionary));
+        }
+        logEvent('nivel_guardar', `Nivel guardado: ${nivel}`);
+        logEvent('terminar_leccion', `Palabras nuevas: ${currentLesson?.vocabulario?.length||0}`);
+        document.querySelectorAll('.item span:not(.hidden)').forEach(el=>el.classList.add('hidden'));
+        dictBox.classList.add('hidden'); btnClear.classList.add('hidden'); btnShow.textContent='Ver diccionario completo';
+        aboutText.classList.add('hidden'); toggleAbout.textContent='▸ Sobre la aplicación';
+        window.scrollTo({top:0,left:0,behavior:'smooth'});
+        setTimeout(()=>location.reload(),500);
+      }
+    };
+    // Al hacer click en el botón de nivel actual, también muestra el selector
+    levelCurrentBtn.onclick = function() {
+      levelSelectWrap.classList.toggle('hidden');
+      if (!levelSelectWrap.classList.contains('hidden')) {
+        levelSelectWrap.style.display = 'block';
+        logEvent('nivel_selector_abrir', 'Abre selector de nivel desde botón nivel actual');
+      } else {
+        levelSelectWrap.style.display = '';
+      }
+    };
+    // Log para selección de radio
+    levelRadioList.addEventListener('change', function(e) {
+      if(e.target && e.target.matches('input[type="radio"]')) {
+        logEvent('nivel_radio_seleccion', `Seleccionado: ${e.target.value}`);
+      }
+    });
+  }
+  navigator.onLine?generate():setStatus('Sin conexión');
+});
 
 /* ---------- botón FIN ---------- */
 document.getElementById('finish-btn').addEventListener('click',()=>{
+  // Guardar nivel si se ha cambiado en el selector
+  const selectedRadio = document.querySelector('input[name="level-select"]:checked');
+  if (selectedRadio) {
+    nivel = Number(selectedRadio.value);
+    localStorage.setItem(LEVEL_KEY, nivel);
+    if(levelCurrent) levelCurrent.textContent = `${nivel}.`;
+  }
   if(!currentLesson) return;
   currentLesson.vocabulario.forEach(w=>{
     if(!dictionary.some(d=>d.en===w.en)) dictionary.push({en:w.en,es:w.es});
@@ -253,7 +486,7 @@ document.getElementById('finish-btn').addEventListener('click',()=>{
   logEvent('terminar_leccion', `Palabras nuevas: ${currentLesson.vocabulario.length}`);
   document.querySelectorAll('.item span:not(.hidden)').forEach(el=>el.classList.add('hidden'));
   dictBox.classList.add('hidden'); btnClear.classList.add('hidden'); btnShow.textContent='Ver diccionario completo';
-  aboutText.classList.add('hidden'); toggleAbout.textContent='▸ Sobre la aplicación';
+  aboutText.classList.add('hidden'); toggleAbout.textContent='▸ Sobre la aplicación';
   window.scrollTo({top:0,left:0,behavior:'smooth'});
   setTimeout(()=>location.reload(),500);
 });
@@ -266,7 +499,7 @@ async function sendChat(){
   chatBox.insertAdjacentHTML('beforeend',`<div><strong>Tú:</strong> ${q}</div>`); chatBox.scrollTop=chatBox.scrollHeight;
   logEvent('chat_usuario', q);
   try{
-    const a=await askOpenAI(`Actúa como profesor de inglés (niños 10‑11 años). Responde brevemente: ${q}`);
+    const a=await askOpenAI(`Actúa como profesor de inglés (niños 10‑11 años). Responde brevemente: ${q}`);
     chatBox.insertAdjacentHTML('beforeend',`<div><strong>ChatGPT:</strong> ${a}</div>`); chatBox.scrollTop=chatBox.scrollHeight;
   }catch(e){chatBox.insertAdjacentHTML('beforeend',`<div style="color:#ff6b6b;">Error: ${e.message}</div>`);}
 }
@@ -275,7 +508,7 @@ async function sendChat(){
 btnShow.addEventListener('click',()=>{
   if(dictBox.classList.contains('hidden')){
     const list=JSON.parse(localStorage.getItem(DICT_KEY)||'[]');
-    dictBox.textContent=list.length?list.map((w,i)=>`${i+1}. ${w.es} – ${w.en}`).join('\n'):'(diccionario vacío)';
+    dictBox.textContent=list.length?list.map((w,i)=>`${i+1}. ${w.es} – ${w.en}`).join('\n'):'(diccionario vacío)';
     dictBox.classList.remove('hidden'); btnClear.classList.remove('hidden'); btnShow.textContent='Ocultar diccionario';
     logEvent('click_boton','Mostrar diccionario');
   }else{
@@ -293,11 +526,11 @@ btnClear.addEventListener('click',()=>{
 /* ---------- Sobre la aplicación ---------- */
 toggleAbout.addEventListener('click',()=>{
   const open=!aboutText.classList.toggle('hidden');
-  toggleAbout.textContent=(open?'▾':'▸')+' Sobre la aplicación';
+  toggleAbout.textContent=(open?'▾':'▸')+' Sobre la aplicación';
   logEvent('click_boton', open?'Mostrar sobre':'Ocultar sobre');
 });
 
-  function enviarSugerencia() {
+function enviarSugerencia() {
   const comentario = document.getElementById('sugerencia').value;
   const mensaje = document.getElementById('mensaje-enviado');
   if (!comentario.trim()) return;
@@ -317,6 +550,18 @@ toggleAbout.addEventListener('click',()=>{
       document.getElementById('sugerencia').value = '';
       setTimeout(() => mensaje.style.display = 'none', 3000);
     }).catch(console.error);
+}
+
+// Ayuda flotante
+const helpBtn = document.getElementById('help-btn');
+const helpModal = document.getElementById('help-modal');
+if(helpBtn && helpModal) {
+  helpBtn.onclick = () => helpModal.classList.add('visible');
+  helpModal.querySelector('.close-help').onclick = () => helpModal.classList.remove('visible');
+  // Cerrar con Escape
+  document.addEventListener('keydown', e => {
+    if(helpModal.classList.contains('visible') && e.key === 'Escape') helpModal.classList.remove('visible');
+  });
 }
 
 </script>
