@@ -45,6 +45,7 @@
       align-items: center;
       justify-content: center;
       transition: background 0.2s;
+      pointer-events: auto;
     }
     #help-btn:hover {
       background: var(--primary);
@@ -55,7 +56,7 @@
       top: 50%;
       left: 50%;
       transform: translate(-50%, -50%);
-      z-index: 2000;
+      z-index: 9999;
       background: var(--surface);
       color: var(--text);
       border-radius: var(--rad);
@@ -65,6 +66,7 @@
       width: 370px;
       font-size: 1.05rem;
       display: none;
+      pointer-events: auto;
     }
     #help-modal.visible { display: block; }
     #help-modal h3 {
@@ -178,9 +180,9 @@
 </section>
 
 <!-- Botón de ayuda flotante -->
-<button id="help-btn" title="¿Cómo funciona?">?</button>
+<button id="help-btn" title="¿Cómo funciona?" onclick="openHelpModal(event)" ontouchend="openHelpModal(event)">?</button>
 <!-- Modal de ayuda -->
-<div id="help-modal" role="dialog" aria-modal="true" aria-labelledby="help-title">
+<div id="help-modal" role="dialog" aria-modal="true" aria-labelledby="help-title" style="pointer-events:auto;">
   <button class="close-help" title="Cerrar ayuda">&times;</button>
   <h3 id="help-title">¿Cómo usar la aplicación?</h3>
   <ul>
@@ -554,13 +556,21 @@ function enviarSugerencia() {
 }
 
 // Ayuda flotante
-const helpBtn = document.getElementById('help-btn');
+function openHelpModal(e) {
+  e.preventDefault();
+  e.stopPropagation();
+  var helpModal = document.getElementById('help-modal');
+  if(helpModal) helpModal.classList.add('visible');
+}
 const helpModal = document.getElementById('help-modal');
-if(helpBtn && helpModal) {
-  helpBtn.onclick = () => helpModal.classList.add('visible');
-  helpModal.querySelector('.close-help').onclick = () => helpModal.classList.remove('visible');
+if(helpModal) {
+  helpModal.querySelector('.close-help').onclick = function(e) {
+    e.preventDefault();
+    e.stopPropagation();
+    helpModal.classList.remove('visible');
+  };
   // Cerrar con Escape
-  document.addEventListener('keydown', e => {
+  document.addEventListener('keydown', function(e) {
     if(helpModal.classList.contains('visible') && e.key === 'Escape') helpModal.classList.remove('visible');
   });
 }
