@@ -322,7 +322,7 @@ async function fetchLesson(words){
   const prompt=`Tienes estas 10 palabras nuevas: ${listado}.
 Devuelve SOLO JSON:
 1) "vocabulario": 10 objetos {en,es,ej_en,ej_es}. ej_es termina con 1 emoji.
-2) "ejercicios": 10 objetos {es,en}.\n${grammar}\n– Las frases deben respetar la gramática del nivel actual y de todos los niveles anteriores devolviendo variedad en la gramatica de las distintas frases.\n– Cada ES usa una palabra nueva (todas deben aparecer) y termina con un emoji.\n– EN es la traducción y termina con el MISMO emoji.\n3) "repaso": 20 objetos {es,en} (10 nuevas + 10 del resto del diccionario).`;
+2) "ejercicios": 10 objetos {es,en}.\n${grammar}\n– Las frases deben respetar la gramática del nivel actual y de todos los niveles anteriores.tratamos generar como minimo una frase de cada una de las gramaticas propuestas.\n– Cada ES usa una palabra nueva (todas deben aparecer) y termina con un emoji.\n– EN es la traducción y termina con el MISMO emoji.\n3) "repaso": 20 objetos {es,en} (10 nuevas + 10 del resto del diccionario).`;
   const obj=safeJSON(await askOpenAI(prompt));
   if(!obj) throw new Error('JSON lección inválido');
   ['vocabulario','ejercicios','repaso'].forEach(k=>{
