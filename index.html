@@ -318,13 +318,34 @@ async function fetchNewWords(){
 async function fetchLesson(words){
   setStatus('🛠️ Generando ejercicios…');
   const listado=words.map(w=>`${w.en}:${w.es}`).join(', ');
-  const grammar = getGrammarInstructions(nivel);
-  const prompt=`Tienes estas 10 palabras nuevas: ${listado}.
+  const prompt = `Tienes estas 10 palabras nuevas: ${listado}.
+
 Devuelve SOLO JSON:
 1) "vocabulario": 10 objetos {en,es,ej_en,ej_es}. ej_es termina con 1 emoji.
-2) "ejercicios": 10 objetos {es,en}.\n${grammar}\n– Las frases deben respetar la gramática del nivel actual y de todos los niveles anteriores.tratamos generar como minimo una frase de cada una de las gramaticas propuestas.\n– Cada ES usa una palabra nueva (todas deben aparecer) y termina con un emoji.\n– EN es la traducción y termina con el MISMO emoji.\n3) "repaso": 20 objetos {es,en} (10 nuevas + 10 del resto del diccionario).`;
-  const obj=safeJSON(await askOpenAI(prompt));
-  if(!obj) throw new Error('JSON lección inválido');
+
+2) "ejercicios": 10 objetos {es,en}.
+
+– Crea una frase para CADA UNO de los siguientes puntos gramaticales (una frase por punto).
+– Usa este ORDEN (de mayor a menor dificultad):
+  1. Inversión, conectores complejos, idioms, phrasal verbs, registro formal/informal
+  2. Discurso indirecto y formas impersonales
+  3. Condicionales 2 y 3
+  4. Voz pasiva
+  5. Condicionales 0 y 1
+  6. Presente perfecto (for/since)
+  7. Conectores simples (and, but, because, so)
+  8. Comparativos y superlativos
+  9. There is/are, some/any, much/many
+  10. Modales básicos (can, must, should, would)
+
+– Cada frase debe usar una palabra nueva distinta (todas deben aparecer).
+– El campo "es" es la frase en español y termina con 1 emoji.
+– El campo "en" es la traducción exacta en inglés, con el MISMO emoji.
+
+3) "repaso": 20 objetos {es,en} (10 nuevas + 10 al azar del diccionario).`;
+
+  const obj = safeJSON(await askOpenAI(prompt));
+  if (!obj) throw new Error('JSON lección inválido');
   ['vocabulario','ejercicios','repaso'].forEach(k=>{
     if(!obj[k]) return;
     if(Array.isArray(obj[k])) return;
@@ -338,6 +359,7 @@ Devuelve SOLO JSON:
   });
   return obj;
 }
+
 
 /* ---------- render ---------- */
 function renderLesson(les){
