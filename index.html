@@ -321,7 +321,11 @@ async function fetchLesson(words){
   const prompt = `Tienes estas 10 palabras nuevas: ${listado}.
 
 Devuelve SOLO JSON:
-1) "vocabulario": 10 objetos {en,es,ej_en,ej_es}. ej_es termina con 1 emoji.
+1) "vocabulario": 10 objetos {en,es,ej_en,ej_es}.
+– ej_en y ej_es son frases MUY sencillas en presente afirmativo.
+– Ambas siguen la estructura: sujeto + verbo + predicado.
+– Ej_es termina con 1 emoji, ej_en termina con el MISMO emoji.
+
 
 2) "ejercicios": 10 objetos {es,en}.
 
