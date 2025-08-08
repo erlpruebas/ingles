@@ -1,0 +1,3432 @@
+{
+  "metadata": {
+    "nivel": 25,
+    "descripcion": "Expresiones y conectores más complejos (although, however, despite...)",
+    "total_frases": 220,
+    "fecha_creacion": "2025-08-05T21:00:25.321694",
+    "version": "1.0"
+  },
+  "frases": [
+    {
+      "id": "n25_f001",
+      "es": "Aunque estaba cansado, terminó su tarea. 😴📚",
+      "en": "Although he was tired, he finished his homework.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "tired",
+        "homework"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f002",
+      "es": "El libro es interesante; sin embargo, es muy largo. 📖⏳",
+      "en": "The book is interesting; however, it is very long.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "however",
+      "palabras_clave": [
+        "book",
+        "interesting",
+        "long"
+      ],
+      "dificultad": 1,
+      "categoria": "literatura",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f003",
+      "es": "A pesar de la lluvia, fuimos al cine. 🌧️🎬",
+      "en": "Despite the rain, we went to the cinema.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "despite",
+      "palabras_clave": [
+        "rain",
+        "cinema"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f004",
+      "es": "Ella es muy talentosa; por lo tanto, ganó el concurso. 🎤🏆",
+      "en": "She is very talented; therefore, she won the contest.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "therefore",
+      "palabras_clave": [
+        "talented",
+        "won",
+        "contest"
+      ],
+      "dificultad": 1,
+      "categoria": "competencias",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f005",
+      "es": "Aunque es pequeño, el gato es muy ágil. 🐱💨",
+      "en": "Although it is small, the cat is very agile.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "small",
+        "cat",
+        "agile"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f006",
+      "es": "El clima es cálido; sin embargo, el viento es fuerte. ☀️💨",
+      "en": "The weather is warm; however, the wind is strong.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "however",
+      "palabras_clave": [
+        "weather",
+        "warm",
+        "wind"
+      ],
+      "dificultad": 1,
+      "categoria": "clima",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f007",
+      "es": "A pesar de su edad, corre muy rápido. 🏃‍♂️💨",
+      "en": "Despite his age, he runs very fast.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "despite",
+      "palabras_clave": [
+        "age",
+        "runs",
+        "fast"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f008",
+      "es": "El perro es leal; por lo tanto, siempre está a mi lado. 🐶❤️",
+      "en": "The dog is loyal; therefore, it is always by my side.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "therefore",
+      "palabras_clave": [
+        "dog",
+        "loyal",
+        "side"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f009",
+      "es": "Aunque no le gusta el brócoli, lo come por salud. 🥦💪",
+      "en": "Although he doesn't like broccoli, he eats it for health.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "broccoli",
+        "health"
+      ],
+      "dificultad": 1,
+      "categoria": "alimentación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f010",
+      "es": "La película fue emocionante; sin embargo, el final fue predecible. 🎥😮",
+      "en": "The movie was exciting; however, the ending was predictable.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "however",
+      "palabras_clave": [
+        "movie",
+        "exciting",
+        "predictable"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f011",
+      "es": "A pesar de la dificultad, logró resolver el problema. 🧩✅",
+      "en": "Despite the difficulty, he managed to solve the problem.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "despite",
+      "palabras_clave": [
+        "difficulty",
+        "solve",
+        "problem"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f012",
+      "es": "Aunque no tenía dinero, compró un regalo para su amigo. 🎁💖",
+      "en": "Although he had no money, he bought a gift for his friend.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "money",
+        "gift",
+        "friend"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f013",
+      "es": "El jardín es hermoso; sin embargo, necesita más flores. 🌸🌼",
+      "en": "The garden is beautiful; however, it needs more flowers.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "however",
+      "palabras_clave": [
+        "garden",
+        "beautiful",
+        "flowers"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f014",
+      "es": "A pesar de ser joven, tiene mucha experiencia. 👶💼",
+      "en": "Despite being young, he has a lot of experience.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "despite",
+      "palabras_clave": [
+        "young",
+        "experience"
+      ],
+      "dificultad": 1,
+      "categoria": "experiencia",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f015",
+      "es": "Aunque es difícil, estoy aprendiendo a tocar la guitarra. 🎸🎶",
+      "en": "Although it is difficult, I am learning to play the guitar.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "difficult",
+        "learning",
+        "guitar"
+      ],
+      "dificultad": 1,
+      "categoria": "música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f016",
+      "es": "El chocolate es delicioso; por lo tanto, lo como a menudo. 🍫😋",
+      "en": "Chocolate is delicious; therefore, I eat it often.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "therefore",
+      "palabras_clave": [
+        "chocolate",
+        "delicious",
+        "eat"
+      ],
+      "dificultad": 1,
+      "categoria": "alimentación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f017",
+      "es": "Aunque no tengo tiempo, siempre encuentro un momento para leer. 📚⏰",
+      "en": "Although I don't have time, I always find a moment to read.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "time",
+        "find",
+        "read"
+      ],
+      "dificultad": 1,
+      "categoria": "lectura",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f018",
+      "es": "El equipo es fuerte; sin embargo, necesita más práctica. 🏆⚽",
+      "en": "The team is strong; however, it needs more practice.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "however",
+      "palabras_clave": [
+        "team",
+        "strong",
+        "practice"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f019",
+      "es": "A pesar de la distancia, seguimos siendo amigos. 🌍🤝",
+      "en": "Despite the distance, we remain friends.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "despite",
+      "palabras_clave": [
+        "distance",
+        "friends"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f020",
+      "es": "Aunque es tarde, quiero terminar mi proyecto. 🕒💻",
+      "en": "Although it is late, I want to finish my project.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "late",
+        "finish",
+        "project"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f021",
+      "es": "Aunque estaba cansado, terminó su tarea. 💤✏️",
+      "en": "Although he was tired, he finished his homework.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "tired",
+        "homework"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f022",
+      "es": "El gato es perezoso; sin embargo, es muy cariñoso. 🐱❤️",
+      "en": "The cat is lazy; however, it is very affectionate.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "however",
+      "palabras_clave": [
+        "cat",
+        "lazy",
+        "affectionate"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f023",
+      "es": "A pesar de la lluvia, salimos a jugar. ☔⚽",
+      "en": "Despite the rain, we went out to play.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "despite",
+      "palabras_clave": [
+        "rain",
+        "play"
+      ],
+      "dificultad": 1,
+      "categoria": "actividades al aire libre",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f024",
+      "es": "Ella es muy talentosa; por lo tanto, ganó el concurso. 🎤🏆",
+      "en": "She is very talented; therefore, she won the contest.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "therefore",
+      "palabras_clave": [
+        "talented",
+        "won",
+        "contest"
+      ],
+      "dificultad": 1,
+      "categoria": "arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f025",
+      "es": "Aunque es joven, tiene mucha experiencia. 👶💼",
+      "en": "Although he is young, he has a lot of experience.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "young",
+        "experience"
+      ],
+      "dificultad": 1,
+      "categoria": "vida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f026",
+      "es": "El perro es grande; sin embargo, es muy amable. 🐶😊",
+      "en": "The dog is big; however, it is very friendly.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "however",
+      "palabras_clave": [
+        "dog",
+        "big",
+        "friendly"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f027",
+      "es": "A pesar del calor, disfrutamos del día en la playa. ☀️🏖️",
+      "en": "Despite the heat, we enjoyed the day at the beach.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "despite",
+      "palabras_clave": [
+        "heat",
+        "beach"
+      ],
+      "dificultad": 1,
+      "categoria": "actividades al aire libre",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f028",
+      "es": "Estudió mucho; por lo tanto, obtuvo buenas calificaciones. 📚👍",
+      "en": "He studied a lot; therefore, he got good grades.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "therefore",
+      "palabras_clave": [
+        "studied",
+        "grades"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f029",
+      "es": "Aunque no le gusta el brócoli, lo come por salud. 🥦💪",
+      "en": "Although he doesn't like broccoli, he eats it for health.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "broccoli",
+        "health"
+      ],
+      "dificultad": 1,
+      "categoria": "alimentación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f030",
+      "es": "El libro es interesante; sin embargo, es muy largo. 📖⏳",
+      "en": "The book is interesting; however, it is very long.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "however",
+      "palabras_clave": [
+        "book",
+        "interesting",
+        "long"
+      ],
+      "dificultad": 1,
+      "categoria": "literatura",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f031",
+      "es": "A pesar de estar cansados, seguimos jugando. 💤⚽",
+      "en": "Despite being tired, we kept playing.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "despite",
+      "palabras_clave": [
+        "tired",
+        "playing"
+      ],
+      "dificultad": 1,
+      "categoria": "actividades al aire libre",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f032",
+      "es": "Ella es muy creativa; por lo tanto, hace arte impresionante. 🎨✨",
+      "en": "She is very creative; therefore, she makes amazing art.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "therefore",
+      "palabras_clave": [
+        "creative",
+        "art"
+      ],
+      "dificultad": 1,
+      "categoria": "arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f033",
+      "es": "Aunque es difícil, le gusta resolver rompecabezas. 🧩🤔",
+      "en": "Although it is difficult, he enjoys solving puzzles.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "difficult",
+        "puzzles"
+      ],
+      "dificultad": 1,
+      "categoria": "juegos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f034",
+      "es": "El coche es rápido; sin embargo, consume mucha gasolina. 🚗⛽",
+      "en": "The car is fast; however, it consumes a lot of gas.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "however",
+      "palabras_clave": [
+        "car",
+        "fast",
+        "gas"
+      ],
+      "dificultad": 1,
+      "categoria": "transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f035",
+      "es": "A pesar de la niebla, el viaje fue seguro. 🌫️🚗",
+      "en": "Despite the fog, the trip was safe.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "despite",
+      "palabras_clave": [
+        "fog",
+        "trip",
+        "safe"
+      ],
+      "dificultad": 1,
+      "categoria": "viajes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f036",
+      "es": "Él es muy amable; por lo tanto, tiene muchos amigos. 😊👫",
+      "en": "He is very kind; therefore, he has many friends.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "therefore",
+      "palabras_clave": [
+        "kind",
+        "friends"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f037",
+      "es": "Aunque no le gusta el frío, disfruta del invierno. ❄️☃️",
+      "en": "Although he doesn't like the cold, he enjoys winter.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "cold",
+        "winter"
+      ],
+      "dificultad": 1,
+      "categoria": "estaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f038",
+      "es": "La película es larga; sin embargo, es muy emocionante. 🎬😮",
+      "en": "The movie is long; however, it is very exciting.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "however",
+      "palabras_clave": [
+        "movie",
+        "long",
+        "exciting"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f039",
+      "es": "A pesar de las dificultades, nunca se rindió. 💪🌟",
+      "en": "Despite the difficulties, he never gave up.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "despite",
+      "palabras_clave": [
+        "difficulties",
+        "gave up"
+      ],
+      "dificultad": 1,
+      "categoria": "motivación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f040",
+      "es": "Ella es muy organizada; por lo tanto, siempre llega a tiempo. ⏰👍",
+      "en": "She is very organized; therefore, she always arrives on time.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "therefore",
+      "palabras_clave": [
+        "organized",
+        "arrives",
+        "time"
+      ],
+      "dificultad": 1,
+      "categoria": "vida diaria",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f041",
+      "es": "Aunque estaba cansado, terminó su tarea. 💤✏️",
+      "en": "Although he was tired, he finished his homework.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "tired",
+        "homework"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f042",
+      "es": "El gato es muy juguetón; sin embargo, a veces es perezoso. 🐱😴",
+      "en": "The cat is very playful; however, sometimes it is lazy.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "however",
+      "palabras_clave": [
+        "cat",
+        "playful",
+        "lazy"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f043",
+      "es": "A pesar del calor, decidimos ir a la playa. ☀️🏖️",
+      "en": "Despite the heat, we decided to go to the beach.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "despite",
+      "palabras_clave": [
+        "heat",
+        "beach"
+      ],
+      "dificultad": 1,
+      "categoria": "actividades al aire libre",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f044",
+      "es": "Ella es muy talentosa; por lo tanto, ganó el concurso. 🎤🏆",
+      "en": "She is very talented; therefore, she won the contest.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "therefore",
+      "palabras_clave": [
+        "talented",
+        "won"
+      ],
+      "dificultad": 1,
+      "categoria": "competencias",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f045",
+      "es": "Aunque no le gusta el brócoli, lo come por su salud. 🥦💪",
+      "en": "Although he doesn't like broccoli, he eats it for his health.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "broccoli",
+        "health"
+      ],
+      "dificultad": 1,
+      "categoria": "salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f046",
+      "es": "El perro es grande; sin embargo, es muy amigable. 🐶❤️",
+      "en": "The dog is big; however, it is very friendly.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "however",
+      "palabras_clave": [
+        "dog",
+        "big",
+        "friendly"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f047",
+      "es": "A pesar de la lluvia, el partido se llevó a cabo. 🌧️⚽",
+      "en": "Despite the rain, the match took place.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "despite",
+      "palabras_clave": [
+        "rain",
+        "match"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f048",
+      "es": "Ella estudió mucho; por lo tanto, entendió la lección. 📚✅",
+      "en": "She studied a lot; therefore, she understood the lesson.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "therefore",
+      "palabras_clave": [
+        "studied",
+        "understood"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f049",
+      "es": "Aunque es joven, tiene mucha experiencia. 👶💼",
+      "en": "Although he is young, he has a lot of experience.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "young",
+        "experience"
+      ],
+      "dificultad": 1,
+      "categoria": "vida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f050",
+      "es": "El coche es rápido; sin embargo, consume mucha gasolina. 🚗⛽",
+      "en": "The car is fast; however, it consumes a lot of gas.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "however",
+      "palabras_clave": [
+        "car",
+        "fast",
+        "gas"
+      ],
+      "dificultad": 1,
+      "categoria": "transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f051",
+      "es": "A pesar de su miedo, saltó del trampolín. 🏊‍♂️😱",
+      "en": "Despite his fear, he jumped off the diving board.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "despite",
+      "palabras_clave": [
+        "fear",
+        "jumped"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f052",
+      "es": "Ella es muy organizada; por lo tanto, siempre llega a tiempo. ⏰👍",
+      "en": "She is very organized; therefore, she always arrives on time.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "therefore",
+      "palabras_clave": [
+        "organized",
+        "arrives"
+      ],
+      "dificultad": 1,
+      "categoria": "vida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f053",
+      "es": "Aunque no le gusta el ejercicio, va al gimnasio. 🏋️‍♀️💪",
+      "en": "Although she doesn't like exercise, she goes to the gym.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "exercise",
+        "gym"
+      ],
+      "dificultad": 1,
+      "categoria": "salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f054",
+      "es": "El libro es interesante; sin embargo, es muy largo. 📖⏳",
+      "en": "The book is interesting; however, it is very long.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "however",
+      "palabras_clave": [
+        "book",
+        "interesting",
+        "long"
+      ],
+      "dificultad": 1,
+      "categoria": "literatura",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f055",
+      "es": "A pesar de la dificultad, logró resolver el problema. 🧩💡",
+      "en": "Despite the difficulty, he managed to solve the problem.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "despite",
+      "palabras_clave": [
+        "difficulty",
+        "solve"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f056",
+      "es": "Ella es muy creativa; por lo tanto, hace arte impresionante. 🎨✨",
+      "en": "She is very creative; therefore, she makes impressive art.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "therefore",
+      "palabras_clave": [
+        "creative",
+        "art"
+      ],
+      "dificultad": 1,
+      "categoria": "arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f057",
+      "es": "Aunque es un niño, sabe mucho sobre ciencia. 👦🔬",
+      "en": "Although he is a child, he knows a lot about science.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "child",
+        "science"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f058",
+      "es": "El tren es rápido; sin embargo, a veces se retrasa. 🚆⏱️",
+      "en": "The train is fast; however, sometimes it is delayed.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "however",
+      "palabras_clave": [
+        "train",
+        "fast",
+        "delayed"
+      ],
+      "dificultad": 1,
+      "categoria": "transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f059",
+      "es": "A pesar de estar cansado, fue a la fiesta. 🎉😴",
+      "en": "Despite being tired, he went to the party.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "despite",
+      "palabras_clave": [
+        "tired",
+        "party"
+      ],
+      "dificultad": 1,
+      "categoria": "social",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f060",
+      "es": "Ella es muy amable; por lo tanto, tiene muchos amigos. 🤗👫",
+      "en": "She is very kind; therefore, she has many friends.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "therefore",
+      "palabras_clave": [
+        "kind",
+        "friends"
+      ],
+      "dificultad": 1,
+      "categoria": "vida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f061",
+      "es": "Aunque estaba cansado, terminó su tarea. 💤✏️",
+      "en": "Although he was tired, he finished his homework.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "tired",
+        "homework"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f062",
+      "es": "El gato es perezoso; sin embargo, es muy cariñoso. 🐱❤️",
+      "en": "The cat is lazy; however, it is very affectionate.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "however",
+      "palabras_clave": [
+        "cat",
+        "lazy",
+        "affectionate"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f063",
+      "es": "A pesar de la lluvia, fuimos a la playa. 🌧️🏖️",
+      "en": "Despite the rain, we went to the beach.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "despite",
+      "palabras_clave": [
+        "rain",
+        "beach"
+      ],
+      "dificultad": 1,
+      "categoria": "actividades al aire libre",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f064",
+      "es": "Ella es muy talentosa; por lo tanto, ganó el concurso. 🎤🏆",
+      "en": "She is very talented; therefore, she won the contest.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "therefore",
+      "palabras_clave": [
+        "talented",
+        "won",
+        "contest"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f065",
+      "es": "Aunque no le gusta el brócoli, lo come por salud. 🥦💪",
+      "en": "Although he doesn't like broccoli, he eats it for health.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "broccoli",
+        "health"
+      ],
+      "dificultad": 1,
+      "categoria": "alimentación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f066",
+      "es": "El perro es grande; sin embargo, es muy amigable. 🐶😊",
+      "en": "The dog is big; however, it is very friendly.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "however",
+      "palabras_clave": [
+        "dog",
+        "big",
+        "friendly"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f067",
+      "es": "A pesar de estar cansados, seguimos jugando. 💤🎮",
+      "en": "Despite being tired, we kept playing.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "despite",
+      "palabras_clave": [
+        "tired",
+        "playing"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f068",
+      "es": "Ella estudió mucho; por lo tanto, entendió la lección. 📚✅",
+      "en": "She studied a lot; therefore, she understood the lesson.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "therefore",
+      "palabras_clave": [
+        "studied",
+        "understood",
+        "lesson"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f069",
+      "es": "Aunque es joven, tiene mucha experiencia. 👶💼",
+      "en": "Although he is young, he has a lot of experience.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "young",
+        "experience"
+      ],
+      "dificultad": 1,
+      "categoria": "vida personal",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f070",
+      "es": "La película es larga; sin embargo, es muy emocionante. 🎬😮",
+      "en": "The movie is long; however, it is very exciting.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "however",
+      "palabras_clave": [
+        "movie",
+        "long",
+        "exciting"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f071",
+      "es": "A pesar de la nieve, salimos a caminar. ❄️🚶‍♂️",
+      "en": "Despite the snow, we went out for a walk.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "despite",
+      "palabras_clave": [
+        "snow",
+        "walk"
+      ],
+      "dificultad": 1,
+      "categoria": "actividades al aire libre",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f072",
+      "es": "Él es muy amable; por lo tanto, tiene muchos amigos. 😊👫",
+      "en": "He is very kind; therefore, he has many friends.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "therefore",
+      "palabras_clave": [
+        "kind",
+        "friends"
+      ],
+      "dificultad": 1,
+      "categoria": "vida social",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f073",
+      "es": "Aunque no le gusta el ejercicio, va al gimnasio. 🏋️‍♂️💪",
+      "en": "Although he doesn't like exercise, he goes to the gym.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "exercise",
+        "gym"
+      ],
+      "dificultad": 1,
+      "categoria": "salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f074",
+      "es": "El libro es interesante; sin embargo, es un poco largo. 📖⏳",
+      "en": "The book is interesting; however, it is a bit long.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "however",
+      "palabras_clave": [
+        "book",
+        "interesting",
+        "long"
+      ],
+      "dificultad": 1,
+      "categoria": "literatura",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f075",
+      "es": "A pesar de los problemas, logramos terminar el proyecto. 🛠️🏁",
+      "en": "Despite the problems, we managed to finish the project.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "despite",
+      "palabras_clave": [
+        "problems",
+        "finish",
+        "project"
+      ],
+      "dificultad": 1,
+      "categoria": "trabajo en equipo",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f076",
+      "es": "Ella es muy creativa; por lo tanto, hace arte increíble. 🎨✨",
+      "en": "She is very creative; therefore, she makes amazing art.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "therefore",
+      "palabras_clave": [
+        "creative",
+        "art"
+      ],
+      "dificultad": 1,
+      "categoria": "arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f077",
+      "es": "Aunque es difícil, me gusta resolver rompecabezas. 🧩🤔",
+      "en": "Although it is difficult, I enjoy solving puzzles.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "difficult",
+        "puzzles"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f078",
+      "es": "El clima es cálido; sin embargo, decidimos quedarnos en casa. ☀️🏠",
+      "en": "The weather is warm; however, we decided to stay home.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "however",
+      "palabras_clave": [
+        "weather",
+        "warm",
+        "stay"
+      ],
+      "dificultad": 1,
+      "categoria": "clima",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f079",
+      "es": "A pesar de la falta de tiempo, completamos la tarea. ⏰✅",
+      "en": "Despite the lack of time, we completed the task.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "despite",
+      "palabras_clave": [
+        "lack",
+        "time",
+        "completed"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f080",
+      "es": "Él es muy trabajador; por lo tanto, siempre tiene éxito. 💼🏆",
+      "en": "He is very hardworking; therefore, he is always successful.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "therefore",
+      "palabras_clave": [
+        "hardworking",
+        "successful"
+      ],
+      "dificultad": 1,
+      "categoria": "vida personal",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f081",
+      "es": "Aunque estaba cansado, terminó su tarea. 💤✏️",
+      "en": "Although he was tired, he finished his homework.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "tired",
+        "homework"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f082",
+      "es": "El gato es perezoso; sin embargo, es muy cariñoso. 🐱❤️",
+      "en": "The cat is lazy; however, it is very affectionate.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "however",
+      "palabras_clave": [
+        "cat",
+        "lazy",
+        "affectionate"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f083",
+      "es": "A pesar de la lluvia, salimos a jugar. 🌧️⚽",
+      "en": "Despite the rain, we went out to play.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "despite",
+      "palabras_clave": [
+        "rain",
+        "play"
+      ],
+      "dificultad": 1,
+      "categoria": "actividades al aire libre",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f084",
+      "es": "Estudió mucho, por lo tanto, obtuvo buenas notas. 📚🌟",
+      "en": "He studied a lot; therefore, he got good grades.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "therefore",
+      "palabras_clave": [
+        "studied",
+        "grades"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f085",
+      "es": "Aunque es pequeño, puede correr rápido. 🐾🏃‍♂️",
+      "en": "Although he is small, he can run fast.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "small",
+        "run"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f086",
+      "es": "El libro es interesante; sin embargo, es muy largo. 📖⏳",
+      "en": "The book is interesting; however, it is very long.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "however",
+      "palabras_clave": [
+        "book",
+        "interesting",
+        "long"
+      ],
+      "dificultad": 1,
+      "categoria": "literatura",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f087",
+      "es": "A pesar de su edad, juega muy bien al fútbol. ⚽👦",
+      "en": "Despite his age, he plays soccer very well.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "despite",
+      "palabras_clave": [
+        "age",
+        "soccer"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f088",
+      "es": "Ella es muy talentosa, por lo tanto, ganó el concurso. 🏆🎨",
+      "en": "She is very talented; therefore, she won the contest.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "therefore",
+      "palabras_clave": [
+        "talented",
+        "won"
+      ],
+      "dificultad": 1,
+      "categoria": "arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f089",
+      "es": "Aunque no le gusta el frío, disfruta del invierno. ❄️☃️",
+      "en": "Although he doesn't like the cold, he enjoys winter.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "cold",
+        "enjoys"
+      ],
+      "dificultad": 1,
+      "categoria": "estaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f090",
+      "es": "El perro es grande; sin embargo, es muy amigable. 🐶🤗",
+      "en": "The dog is big; however, it is very friendly.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "however",
+      "palabras_clave": [
+        "dog",
+        "big",
+        "friendly"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f091",
+      "es": "A pesar de estar cansado, fue a la fiesta. 🎉😴",
+      "en": "Despite being tired, he went to the party.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "despite",
+      "palabras_clave": [
+        "tired",
+        "party"
+      ],
+      "dificultad": 1,
+      "categoria": "social",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f092",
+      "es": "Ella se preparó bien, por lo tanto, tuvo éxito. 🎓🌟",
+      "en": "She prepared well; therefore, she succeeded.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "therefore",
+      "palabras_clave": [
+        "prepared",
+        "succeeded"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f093",
+      "es": "Aunque es difícil, lo intentaré. 💪🤔",
+      "en": "Although it is difficult, I will try.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "difficult",
+        "try"
+      ],
+      "dificultad": 1,
+      "categoria": "motivación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f094",
+      "es": "El coche es rápido; sin embargo, no es seguro. 🚗⚠️",
+      "en": "The car is fast; however, it is not safe.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "however",
+      "palabras_clave": [
+        "car",
+        "fast",
+        "safe"
+      ],
+      "dificultad": 1,
+      "categoria": "transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f095",
+      "es": "A pesar de la distancia, siempre estamos en contacto. 📞🌍",
+      "en": "Despite the distance, we are always in touch.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "despite",
+      "palabras_clave": [
+        "distance",
+        "contact"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f096",
+      "es": "Ella es muy creativa; por lo tanto, hace arte impresionante. 🎨✨",
+      "en": "She is very creative; therefore, she makes impressive art.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "therefore",
+      "palabras_clave": [
+        "creative",
+        "art"
+      ],
+      "dificultad": 1,
+      "categoria": "arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f097",
+      "es": "Aunque no tengo mucho tiempo, siempre leo un poco. 📖⏰",
+      "en": "Although I don't have much time, I always read a little.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "time",
+        "read"
+      ],
+      "dificultad": 1,
+      "categoria": "lectura",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f098",
+      "es": "El clima es cálido; sin embargo, me gusta. ☀️😊",
+      "en": "The weather is warm; however, I like it.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "however",
+      "palabras_clave": [
+        "weather",
+        "warm",
+        "like"
+      ],
+      "dificultad": 1,
+      "categoria": "clima",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f099",
+      "es": "A pesar de los desafíos, seguimos adelante. 🚀💪",
+      "en": "Despite the challenges, we move forward.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "despite",
+      "palabras_clave": [
+        "challenges",
+        "move forward"
+      ],
+      "dificultad": 1,
+      "categoria": "motivación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f100",
+      "es": "Estudió para el examen; por lo tanto, se siente preparado. 📚✅",
+      "en": "He studied for the exam; therefore, he feels prepared.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "therefore",
+      "palabras_clave": [
+        "studied",
+        "exam",
+        "prepared"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f101",
+      "es": "Aunque estaba cansado, terminó su tarea. 💤✏️",
+      "en": "Although he was tired, he finished his homework.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "tired",
+        "homework"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f102",
+      "es": "El gato es perezoso; sin embargo, es muy cariñoso. 🐱❤️",
+      "en": "The cat is lazy; however, it is very affectionate.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "however",
+      "palabras_clave": [
+        "cat",
+        "lazy",
+        "affectionate"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f103",
+      "es": "A pesar de la lluvia, fuimos a la playa. 🌧️🏖️",
+      "en": "Despite the rain, we went to the beach.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "despite",
+      "palabras_clave": [
+        "rain",
+        "beach"
+      ],
+      "dificultad": 1,
+      "categoria": "actividades al aire libre",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f104",
+      "es": "Ella es muy talentosa; por lo tanto, ganó el concurso. 🎨🏆",
+      "en": "She is very talented; therefore, she won the contest.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "therefore",
+      "palabras_clave": [
+        "talented",
+        "won",
+        "contest"
+      ],
+      "dificultad": 1,
+      "categoria": "arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f105",
+      "es": "Aunque es pequeño, el coche es rápido. 🚗💨",
+      "en": "Although it is small, the car is fast.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "small",
+        "car",
+        "fast"
+      ],
+      "dificultad": 1,
+      "categoria": "transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f106",
+      "es": "El libro es antiguo; sin embargo, es muy interesante. 📚✨",
+      "en": "The book is old; however, it is very interesting.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "however",
+      "palabras_clave": [
+        "book",
+        "old",
+        "interesting"
+      ],
+      "dificultad": 1,
+      "categoria": "literatura",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f107",
+      "es": "A pesar del calor, disfrutamos del picnic. ☀️🍉",
+      "en": "Despite the heat, we enjoyed the picnic.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "despite",
+      "palabras_clave": [
+        "heat",
+        "picnic"
+      ],
+      "dificultad": 1,
+      "categoria": "actividades al aire libre",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f108",
+      "es": "Él estudió mucho; por lo tanto, mejoró sus notas. 📖📈",
+      "en": "He studied a lot; therefore, he improved his grades.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "therefore",
+      "palabras_clave": [
+        "studied",
+        "improved",
+        "grades"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f109",
+      "es": "Aunque no le gusta el frío, salió a jugar. ❄️🏃‍♂️",
+      "en": "Although he doesn't like the cold, he went out to play.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "cold",
+        "play"
+      ],
+      "dificultad": 1,
+      "categoria": "actividades al aire libre",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f110",
+      "es": "La película es larga; sin embargo, es muy emocionante. 🎬😃",
+      "en": "The movie is long; however, it is very exciting.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "however",
+      "palabras_clave": [
+        "movie",
+        "long",
+        "exciting"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f111",
+      "es": "A pesar de su edad, corre muy rápido. 🏃‍♀️💨",
+      "en": "Despite her age, she runs very fast.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "despite",
+      "palabras_clave": [
+        "age",
+        "runs",
+        "fast"
+      ],
+      "dificultad": 1,
+      "categoria": "deporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f112",
+      "es": "Aunque no le gusta el chocolate, lo comió. 🍫😋",
+      "en": "Although he doesn't like chocolate, he ate it.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "chocolate",
+        "ate"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f113",
+      "es": "El perro es grande; sin embargo, es muy amable. 🐶❤️",
+      "en": "The dog is big; however, it is very friendly.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "however",
+      "palabras_clave": [
+        "dog",
+        "big",
+        "friendly"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f114",
+      "es": "A pesar de la distancia, siempre estamos en contacto. 📞🌍",
+      "en": "Despite the distance, we are always in touch.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "despite",
+      "palabras_clave": [
+        "distance",
+        "in touch"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f115",
+      "es": "Ella es muy organizada; por lo tanto, nunca pierde nada. 📅✅",
+      "en": "She is very organized; therefore, she never loses anything.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "therefore",
+      "palabras_clave": [
+        "organized",
+        "loses"
+      ],
+      "dificultad": 1,
+      "categoria": "vida diaria",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f116",
+      "es": "Aunque no tenía hambre, comió un bocadillo. 🍔😋",
+      "en": "Although he wasn't hungry, he ate a snack.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "hungry",
+        "snack"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f117",
+      "es": "El clima es frío; sin embargo, decidimos salir. ❄️🚶‍♂️",
+      "en": "The weather is cold; however, we decided to go out.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "however",
+      "palabras_clave": [
+        "weather",
+        "cold",
+        "go out"
+      ],
+      "dificultad": 1,
+      "categoria": "actividades al aire libre",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f118",
+      "es": "A pesar de los desafíos, logramos completar el proyecto. 🏆📊",
+      "en": "Despite the challenges, we managed to complete the project.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "despite",
+      "palabras_clave": [
+        "challenges",
+        "complete",
+        "project"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f119",
+      "es": "Aunque estaba enfermo, asistió a la escuela. 🤒🏫",
+      "en": "Although he was sick, he attended school.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "sick",
+        "attended",
+        "school"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f120",
+      "es": "El examen fue difícil; sin embargo, todos aprobaron. 📚👍",
+      "en": "The exam was difficult; however, everyone passed.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "however",
+      "palabras_clave": [
+        "exam",
+        "difficult",
+        "passed"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f121",
+      "es": "Aunque estaba cansado, terminó su tarea. 💤✏️",
+      "en": "Although he was tired, he finished his homework.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "tired",
+        "homework"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f122",
+      "es": "El gato es perezoso; sin embargo, es muy cariñoso. 🐱❤️",
+      "en": "The cat is lazy; however, it is very affectionate.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "however",
+      "palabras_clave": [
+        "cat",
+        "lazy",
+        "affectionate"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f123",
+      "es": "A pesar del ruido, ella pudo concentrarse. 🔊📚",
+      "en": "Despite the noise, she was able to concentrate.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "despite",
+      "palabras_clave": [
+        "noise",
+        "concentrate"
+      ],
+      "dificultad": 1,
+      "categoria": "estudio",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f124",
+      "es": "Estudió mucho, por lo tanto, obtuvo buenas notas. 📖🏆",
+      "en": "He studied a lot; therefore, he got good grades.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "therefore",
+      "palabras_clave": [
+        "studied",
+        "grades"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f125",
+      "es": "Aunque hace frío, vamos a la playa. ❄️🏖️",
+      "en": "Although it is cold, we are going to the beach.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "cold",
+        "beach"
+      ],
+      "dificultad": 1,
+      "categoria": "actividades al aire libre",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f126",
+      "es": "El perro es grande; sin embargo, es muy amistoso. 🐶🤗",
+      "en": "The dog is big; however, it is very friendly.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "however",
+      "palabras_clave": [
+        "dog",
+        "big",
+        "friendly"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f127",
+      "es": "A pesar de la lluvia, decidimos salir a caminar. ☔🚶‍♂️",
+      "en": "Despite the rain, we decided to go for a walk.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "despite",
+      "palabras_clave": [
+        "rain",
+        "walk"
+      ],
+      "dificultad": 1,
+      "categoria": "actividades al aire libre",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f128",
+      "es": "Ella se esforzó mucho, por lo tanto, ganó el concurso. 🏅🎉",
+      "en": "She worked very hard; therefore, she won the contest.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "therefore",
+      "palabras_clave": [
+        "worked",
+        "won"
+      ],
+      "dificultad": 1,
+      "categoria": "competencias",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f129",
+      "es": "Aunque es joven, tiene mucha experiencia. 👶💼",
+      "en": "Although he is young, he has a lot of experience.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "young",
+        "experience"
+      ],
+      "dificultad": 1,
+      "categoria": "vida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f130",
+      "es": "La película es larga; sin embargo, es muy interesante. 🎬🤔",
+      "en": "The movie is long; however, it is very interesting.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "however",
+      "palabras_clave": [
+        "movie",
+        "long",
+        "interesting"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f131",
+      "es": "A pesar de su miedo, saltó del trampolín. 😱🏊‍♂️",
+      "en": "Despite his fear, he jumped off the diving board.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "despite",
+      "palabras_clave": [
+        "fear",
+        "jumped"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f132",
+      "es": "Estudió para el examen, por lo tanto, se sintió preparado. 📚✅",
+      "en": "He studied for the exam; therefore, he felt prepared.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "therefore",
+      "palabras_clave": [
+        "studied",
+        "prepared"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f133",
+      "es": "Aunque estaba enfermo, asistió a la escuela. 🤒🏫",
+      "en": "Although he was sick, he attended school.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "sick",
+        "attended"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f134",
+      "es": "El coche es viejo; sin embargo, funciona perfectamente. 🚗👌",
+      "en": "The car is old; however, it works perfectly.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "however",
+      "palabras_clave": [
+        "car",
+        "old",
+        "works"
+      ],
+      "dificultad": 1,
+      "categoria": "transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f135",
+      "es": "A pesar de las dificultades, lograron completar el proyecto. 💪📊",
+      "en": "Despite the difficulties, they managed to complete the project.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "despite",
+      "palabras_clave": [
+        "difficulties",
+        "complete"
+      ],
+      "dificultad": 1,
+      "categoria": "trabajo en equipo",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f136",
+      "es": "Ella es talentosa, por lo tanto, ganó el premio. 🏆🎨",
+      "en": "She is talented; therefore, she won the award.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "therefore",
+      "palabras_clave": [
+        "talented",
+        "won"
+      ],
+      "dificultad": 1,
+      "categoria": "arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f137",
+      "es": "Aunque no le gusta el chocolate, lo come a veces. 🍫🤷‍♂️",
+      "en": "Although he doesn't like chocolate, he eats it sometimes.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "chocolate",
+        "eats"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f138",
+      "es": "El libro es interesante; sin embargo, es muy largo. 📖⏳",
+      "en": "The book is interesting; however, it is very long.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "however",
+      "palabras_clave": [
+        "book",
+        "interesting",
+        "long"
+      ],
+      "dificultad": 1,
+      "categoria": "literatura",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f139",
+      "es": "A pesar de su corta edad, es muy sabio. 👶🧠",
+      "en": "Despite his young age, he is very wise.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "despite",
+      "palabras_clave": [
+        "young",
+        "wise"
+      ],
+      "dificultad": 1,
+      "categoria": "vida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f140",
+      "es": "Ella se preparó bien, por lo tanto, se sintió segura. 🎓👍",
+      "en": "She prepared well; therefore, she felt confident.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "therefore",
+      "palabras_clave": [
+        "prepared",
+        "confident"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f141",
+      "es": "Aunque estaba cansado, fui a la fiesta. 🎉😴",
+      "en": "Although I was tired, I went to the party.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "tired",
+        "party"
+      ],
+      "dificultad": 1,
+      "categoria": "social",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f142",
+      "es": "El libro es interesante; sin embargo, es muy largo. 📚⏳",
+      "en": "The book is interesting; however, it is very long.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "however",
+      "palabras_clave": [
+        "book",
+        "interesting",
+        "long"
+      ],
+      "dificultad": 1,
+      "categoria": "literatura",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f143",
+      "es": "A pesar de la lluvia, salimos a caminar. ☔🚶‍♂️",
+      "en": "Despite the rain, we went out for a walk.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "despite",
+      "palabras_clave": [
+        "rain",
+        "walk"
+      ],
+      "dificultad": 1,
+      "categoria": "actividades al aire libre",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f144",
+      "es": "Ella es muy talentosa; por lo tanto, ganó el concurso. 🏆🎨",
+      "en": "She is very talented; therefore, she won the contest.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "therefore",
+      "palabras_clave": [
+        "talented",
+        "won",
+        "contest"
+      ],
+      "dificultad": 1,
+      "categoria": "competencias",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f145",
+      "es": "Aunque no tenía hambre, comí un poco. 🍽️😋",
+      "en": "Although I wasn't hungry, I ate a little.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "hungry",
+        "ate"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f146",
+      "es": "El gato es perezoso; sin embargo, es muy cariñoso. 🐱❤️",
+      "en": "The cat is lazy; however, it is very affectionate.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "however",
+      "palabras_clave": [
+        "cat",
+        "lazy",
+        "affectionate"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f147",
+      "es": "A pesar del calor, disfrutamos de la playa. ☀️🏖️",
+      "en": "Despite the heat, we enjoyed the beach.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "despite",
+      "palabras_clave": [
+        "heat",
+        "enjoyed",
+        "beach"
+      ],
+      "dificultad": 1,
+      "categoria": "vacaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f148",
+      "es": "Él estudió mucho; por lo tanto, entendió la lección. 📖✅",
+      "en": "He studied a lot; therefore, he understood the lesson.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "therefore",
+      "palabras_clave": [
+        "studied",
+        "understood",
+        "lesson"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f149",
+      "es": "Aunque es pequeño, el coche es rápido. 🚗💨",
+      "en": "Although it is small, the car is fast.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "small",
+        "car",
+        "fast"
+      ],
+      "dificultad": 1,
+      "categoria": "transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f150",
+      "es": "La película fue emocionante; sin embargo, duró mucho. 🎬⏰",
+      "en": "The movie was exciting; however, it lasted a long time.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "however",
+      "palabras_clave": [
+        "movie",
+        "exciting",
+        "lasted"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f151",
+      "es": "A pesar de los desafíos, logramos terminar el proyecto. 🏗️🎉",
+      "en": "Despite the challenges, we managed to finish the project.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "despite",
+      "palabras_clave": [
+        "challenges",
+        "managed",
+        "finish"
+      ],
+      "dificultad": 1,
+      "categoria": "trabajo en equipo",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f152",
+      "es": "Ella es muy amable; por lo tanto, tiene muchos amigos. 🤝😊",
+      "en": "She is very kind; therefore, she has many friends.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "therefore",
+      "palabras_clave": [
+        "kind",
+        "friends"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f153",
+      "es": "Aunque no me gusta el frío, disfruto del invierno. ❄️☃️",
+      "en": "Although I don't like the cold, I enjoy winter.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "cold",
+        "enjoy",
+        "winter"
+      ],
+      "dificultad": 1,
+      "categoria": "estaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f154",
+      "es": "El perro es juguetón; sin embargo, a veces es travieso. 🐶😜",
+      "en": "The dog is playful; however, sometimes it is naughty.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "however",
+      "palabras_clave": [
+        "dog",
+        "playful",
+        "naughty"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f155",
+      "es": "A pesar de la distancia, seguimos en contacto. 📞🌍",
+      "en": "Despite the distance, we keep in touch.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "despite",
+      "palabras_clave": [
+        "distance",
+        "keep",
+        "touch"
+      ],
+      "dificultad": 1,
+      "categoria": "comunicaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f156",
+      "es": "Él es muy inteligente; por lo tanto, siempre saca buenas notas. 📊🎓",
+      "en": "He is very smart; therefore, he always gets good grades.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "therefore",
+      "palabras_clave": [
+        "smart",
+        "good",
+        "grades"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f157",
+      "es": "Aunque es difícil, estoy aprendiendo a tocar la guitarra. 🎸🎶",
+      "en": "Although it is difficult, I am learning to play the guitar.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "difficult",
+        "learning",
+        "guitar"
+      ],
+      "dificultad": 1,
+      "categoria": "música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f158",
+      "es": "El clima es soleado; sin embargo, hay viento. 🌞💨",
+      "en": "The weather is sunny; however, it is windy.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "however",
+      "palabras_clave": [
+        "sunny",
+        "windy"
+      ],
+      "dificultad": 1,
+      "categoria": "clima",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f159",
+      "es": "A pesar de ser nuevo, se adaptó rápidamente. 🆕🚀",
+      "en": "Despite being new, he adapted quickly.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "despite",
+      "palabras_clave": [
+        "new",
+        "adapted",
+        "quickly"
+      ],
+      "dificultad": 1,
+      "categoria": "adaptación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f160",
+      "es": "Ella es muy creativa; por lo tanto, siempre tiene buenas ideas. 💡🎨",
+      "en": "She is very creative; therefore, she always has good ideas.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "therefore",
+      "palabras_clave": [
+        "creative",
+        "good",
+        "ideas"
+      ],
+      "dificultad": 1,
+      "categoria": "creatividad",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f161",
+      "es": "Aunque estaba cansado, terminó su tarea. 📝😌",
+      "en": "Although he was tired, he finished his homework.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "tired",
+        "homework"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f162",
+      "es": "El gato es perezoso; sin embargo, juega mucho. 🐱🎾",
+      "en": "The cat is lazy; however, it plays a lot.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "however",
+      "palabras_clave": [
+        "cat",
+        "lazy",
+        "plays"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f163",
+      "es": "A pesar de la lluvia, fuimos a la playa. 🌧️🏖️",
+      "en": "Despite the rain, we went to the beach.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "despite",
+      "palabras_clave": [
+        "rain",
+        "beach"
+      ],
+      "dificultad": 1,
+      "categoria": "actividades al aire libre",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f164",
+      "es": "Ella es muy talentosa; por lo tanto, ganó el concurso. 🏆🎤",
+      "en": "She is very talented; therefore, she won the contest.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "therefore",
+      "palabras_clave": [
+        "talented",
+        "won",
+        "contest"
+      ],
+      "dificultad": 1,
+      "categoria": "competencias",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f165",
+      "es": "Aunque no le gusta el brócoli, lo come. 🥦😋",
+      "en": "Although he doesn't like broccoli, he eats it.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "broccoli",
+        "eats"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f166",
+      "es": "El perro es grande; sin embargo, es muy amigable. 🐶❤️",
+      "en": "The dog is big; however, it is very friendly.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "however",
+      "palabras_clave": [
+        "dog",
+        "big",
+        "friendly"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f167",
+      "es": "A pesar de estar cansados, seguimos jugando. 🎮😅",
+      "en": "Despite being tired, we kept playing.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "despite",
+      "palabras_clave": [
+        "tired",
+        "playing"
+      ],
+      "dificultad": 1,
+      "categoria": "actividades",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f168",
+      "es": "Ella estudió mucho; por lo tanto, entendió la lección. 📚👍",
+      "en": "She studied a lot; therefore, she understood the lesson.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "therefore",
+      "palabras_clave": [
+        "studied",
+        "understood",
+        "lesson"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f169",
+      "es": "Aunque es pequeño, el coche es rápido. 🚗💨",
+      "en": "Although it is small, the car is fast.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "small",
+        "car",
+        "fast"
+      ],
+      "dificultad": 1,
+      "categoria": "transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f170",
+      "es": "El libro es interesante; sin embargo, es muy largo. 📖⏳",
+      "en": "The book is interesting; however, it is very long.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "however",
+      "palabras_clave": [
+        "book",
+        "interesting",
+        "long"
+      ],
+      "dificultad": 1,
+      "categoria": "literatura",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f171",
+      "es": "A pesar de la nieve, salimos a jugar. ❄️⛄",
+      "en": "Despite the snow, we went out to play.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "despite",
+      "palabras_clave": [
+        "snow",
+        "play"
+      ],
+      "dificultad": 1,
+      "categoria": "actividades al aire libre",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f172",
+      "es": "Él es muy amable; por lo tanto, tiene muchos amigos. 🤝😊",
+      "en": "He is very kind; therefore, he has many friends.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "therefore",
+      "palabras_clave": [
+        "kind",
+        "friends"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f173",
+      "es": "Aunque no le gusta el ejercicio, va al gimnasio. 🏋️‍♂️💪",
+      "en": "Although he doesn't like exercise, he goes to the gym.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "exercise",
+        "gym"
+      ],
+      "dificultad": 1,
+      "categoria": "salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f174",
+      "es": "La película es larga; sin embargo, es muy emocionante. 🎬😲",
+      "en": "The movie is long; however, it is very exciting.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "however",
+      "palabras_clave": [
+        "movie",
+        "long",
+        "exciting"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f175",
+      "es": "A pesar de la dificultad, resolvimos el problema. 🧩🤔",
+      "en": "Despite the difficulty, we solved the problem.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "despite",
+      "palabras_clave": [
+        "difficulty",
+        "solved",
+        "problem"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f176",
+      "es": "Ella es muy creativa; por lo tanto, hace arte hermoso. 🎨🌟",
+      "en": "She is very creative; therefore, she makes beautiful art.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "therefore",
+      "palabras_clave": [
+        "creative",
+        "art",
+        "beautiful"
+      ],
+      "dificultad": 1,
+      "categoria": "arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f177",
+      "es": "Aunque es tarde, quiero seguir leyendo. 📖🌙",
+      "en": "Although it is late, I want to keep reading.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "late",
+        "reading"
+      ],
+      "dificultad": 1,
+      "categoria": "lectura",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f178",
+      "es": "El clima es cálido; sin embargo, decidimos quedarnos en casa. 🌞🏠",
+      "en": "The weather is warm; however, we decided to stay home.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "however",
+      "palabras_clave": [
+        "weather",
+        "warm",
+        "stay"
+      ],
+      "dificultad": 1,
+      "categoria": "clima",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f179",
+      "es": "A pesar de su miedo, se lanzó al agua. 🌊😱",
+      "en": "Despite his fear, he jumped into the water.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "despite",
+      "palabras_clave": [
+        "fear",
+        "jumped",
+        "water"
+      ],
+      "dificultad": 1,
+      "categoria": "aventura",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f180",
+      "es": "Él es un buen jugador; por lo tanto, siempre gana. ⚽🏅",
+      "en": "He is a good player; therefore, he always wins.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "therefore",
+      "palabras_clave": [
+        "good",
+        "player",
+        "wins"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f181",
+      "es": "Aunque estaba cansado, terminó su tarea. 😴📚",
+      "en": "Although he was tired, he finished his homework.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "tired",
+        "finished",
+        "homework"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f182",
+      "es": "El gato es juguetón; sin embargo, a veces es muy perezoso. 🐱😴",
+      "en": "The cat is playful; however, sometimes it is very lazy.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "however",
+      "palabras_clave": [
+        "cat",
+        "playful",
+        "lazy"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f183",
+      "es": "A pesar de la lluvia, fuimos a la playa. 🌧️🏖️",
+      "en": "Despite the rain, we went to the beach.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "despite",
+      "palabras_clave": [
+        "rain",
+        "went",
+        "beach"
+      ],
+      "dificultad": 1,
+      "categoria": "actividades al aire libre",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f184",
+      "es": "Ella es muy talentosa; por lo tanto, ganó el concurso. 🎨🏆",
+      "en": "She is very talented; therefore, she won the contest.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "therefore",
+      "palabras_clave": [
+        "talented",
+        "won",
+        "contest"
+      ],
+      "dificultad": 1,
+      "categoria": "arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f185",
+      "es": "Aunque no tenía mucho tiempo, ayudó a su amigo. ⏳🤝",
+      "en": "Although he didn't have much time, he helped his friend.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "time",
+        "helped",
+        "friend"
+      ],
+      "dificultad": 1,
+      "categoria": "amistad",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f186",
+      "es": "El libro es interesante; sin embargo, es un poco largo. 📖⏳",
+      "en": "The book is interesting; however, it is a bit long.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "however",
+      "palabras_clave": [
+        "book",
+        "interesting",
+        "long"
+      ],
+      "dificultad": 1,
+      "categoria": "literatura",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f187",
+      "es": "A pesar de su miedo, se subió a la montaña rusa. 🎢😱",
+      "en": "Despite his fear, he got on the roller coaster.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "despite",
+      "palabras_clave": [
+        "fear",
+        "got on",
+        "roller coaster"
+      ],
+      "dificultad": 1,
+      "categoria": "diversión",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f188",
+      "es": "Ella estudió mucho; por lo tanto, entendió la lección. 📚✅",
+      "en": "She studied a lot; therefore, she understood the lesson.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "therefore",
+      "palabras_clave": [
+        "studied",
+        "understood",
+        "lesson"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f189",
+      "es": "Aunque estaba enfermo, asistió a la escuela. 🤒🏫",
+      "en": "Although he was sick, he attended school.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "sick",
+        "attended",
+        "school"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f190",
+      "es": "El perro es grande; sin embargo, es muy amigable. 🐶❤️",
+      "en": "The dog is big; however, it is very friendly.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "however",
+      "palabras_clave": [
+        "dog",
+        "big",
+        "friendly"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f191",
+      "es": "A pesar de la nieve, salimos a jugar. ❄️🏃‍♂️",
+      "en": "Despite the snow, we went out to play.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "despite",
+      "palabras_clave": [
+        "snow",
+        "went out",
+        "play"
+      ],
+      "dificultad": 1,
+      "categoria": "actividades al aire libre",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f192",
+      "es": "Él es muy rápido; por lo tanto, ganó la carrera. 🏃‍♂️🏅",
+      "en": "He is very fast; therefore, he won the race.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "therefore",
+      "palabras_clave": [
+        "fast",
+        "won",
+        "race"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f193",
+      "es": "Aunque no le gusta el brócoli, lo come. 🥦😅",
+      "en": "Although he doesn't like broccoli, he eats it.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "doesn't like",
+        "eats",
+        "broccoli"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f194",
+      "es": "La película es larga; sin embargo, es muy emocionante. 🎬😲",
+      "en": "The movie is long; however, it is very exciting.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "however",
+      "palabras_clave": [
+        "movie",
+        "long",
+        "exciting"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f195",
+      "es": "A pesar de su edad, toca la guitarra muy bien. 🎸👏",
+      "en": "Despite his age, he plays the guitar very well.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "despite",
+      "palabras_clave": [
+        "age",
+        "plays",
+        "guitar"
+      ],
+      "dificultad": 1,
+      "categoria": "música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f196",
+      "es": "Ella es muy organizada; por lo tanto, siempre llega a tiempo. ⏰👍",
+      "en": "She is very organized; therefore, she always arrives on time.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "therefore",
+      "palabras_clave": [
+        "organized",
+        "arrives",
+        "time"
+      ],
+      "dificultad": 1,
+      "categoria": "vida diaria",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f197",
+      "es": "Aunque hace frío, disfrutamos del paseo. ❄️🚶‍♂️",
+      "en": "Although it is cold, we enjoyed the walk.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "cold",
+        "enjoyed",
+        "walk"
+      ],
+      "dificultad": 1,
+      "categoria": "actividades al aire libre",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f198",
+      "es": "El coche es viejo; sin embargo, funciona muy bien. 🚗👌",
+      "en": "The car is old; however, it works very well.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "however",
+      "palabras_clave": [
+        "car",
+        "old",
+        "works"
+      ],
+      "dificultad": 1,
+      "categoria": "transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f199",
+      "es": "A pesar de la dificultad, resolvió el problema. 🧩💡",
+      "en": "Despite the difficulty, he solved the problem.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "despite",
+      "palabras_clave": [
+        "difficulty",
+        "solved",
+        "problem"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f200",
+      "es": "Ella es muy amable; por lo tanto, tiene muchos amigos. 😊👫",
+      "en": "She is very kind; therefore, she has many friends.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "therefore",
+      "palabras_clave": [
+        "kind",
+        "has",
+        "friends"
+      ],
+      "dificultad": 1,
+      "categoria": "amistad",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f201",
+      "es": "Aunque el libro es largo, es muy interesante. 📚✨",
+      "en": "Although the book is long, it is very interesting.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "book",
+        "long",
+        "interesting"
+      ],
+      "dificultad": 1,
+      "categoria": "literatura",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f202",
+      "es": "El coche es rápido; sin embargo, consume mucha gasolina. 🚗💨",
+      "en": "The car is fast; however, it consumes a lot of gas.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "however",
+      "palabras_clave": [
+        "car",
+        "fast",
+        "gas"
+      ],
+      "dificultad": 1,
+      "categoria": "transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f203",
+      "es": "A pesar de la lluvia, salimos a jugar. ☔⚽",
+      "en": "Despite the rain, we went out to play.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "despite",
+      "palabras_clave": [
+        "rain",
+        "play"
+      ],
+      "dificultad": 1,
+      "categoria": "actividades al aire libre",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f204",
+      "es": "Ella es muy talentosa; por lo tanto, ganó el concurso. 🏆🎨",
+      "en": "She is very talented; therefore, she won the contest.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "therefore",
+      "palabras_clave": [
+        "talented",
+        "won",
+        "contest"
+      ],
+      "dificultad": 1,
+      "categoria": "arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f205",
+      "es": "Aunque estaba cansado, terminé mi tarea. 😴✏️",
+      "en": "Although I was tired, I finished my homework.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "tired",
+        "finished",
+        "homework"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f206",
+      "es": "El gato es pequeño; sin embargo, es muy ágil. 🐱💨",
+      "en": "The cat is small; however, it is very agile.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "however",
+      "palabras_clave": [
+        "cat",
+        "small",
+        "agile"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f207",
+      "es": "A pesar del calor, disfrutamos de la playa. ☀️🏖️",
+      "en": "Despite the heat, we enjoyed the beach.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "despite",
+      "palabras_clave": [
+        "heat",
+        "enjoyed",
+        "beach"
+      ],
+      "dificultad": 1,
+      "categoria": "vacaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f208",
+      "es": "Él estudió mucho; por lo tanto, mejoró sus notas. 📖📈",
+      "en": "He studied a lot; therefore, he improved his grades.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "therefore",
+      "palabras_clave": [
+        "studied",
+        "improved",
+        "grades"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f209",
+      "es": "Aunque no tenía hambre, comí un poco. 🍽️😋",
+      "en": "Although I wasn't hungry, I ate a little.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "hungry",
+        "ate"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f210",
+      "es": "La película fue larga; sin embargo, fue emocionante. 🎬😲",
+      "en": "The movie was long; however, it was exciting.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "however",
+      "palabras_clave": [
+        "movie",
+        "long",
+        "exciting"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f211",
+      "es": "A pesar de los desafíos, logramos completar el proyecto. 🏗️✅",
+      "en": "Despite the challenges, we managed to complete the project.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "despite",
+      "palabras_clave": [
+        "challenges",
+        "managed",
+        "project"
+      ],
+      "dificultad": 1,
+      "categoria": "trabajo en equipo",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f212",
+      "es": "Ella es muy amable; por lo tanto, tiene muchos amigos. 🤝😊",
+      "en": "She is very kind; therefore, she has many friends.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "therefore",
+      "palabras_clave": [
+        "kind",
+        "friends"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f213",
+      "es": "Aunque el examen fue difícil, lo aprobé. 📄👍",
+      "en": "Although the exam was difficult, I passed it.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "exam",
+        "difficult",
+        "passed"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f214",
+      "es": "El perro es grande; sin embargo, es muy cariñoso. 🐶❤️",
+      "en": "The dog is big; however, it is very affectionate.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "however",
+      "palabras_clave": [
+        "dog",
+        "big",
+        "affectionate"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f215",
+      "es": "A pesar de que estaba cansado, fui a la fiesta. 🎉😌",
+      "en": "Despite being tired, I went to the party.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "despite",
+      "palabras_clave": [
+        "tired",
+        "party"
+      ],
+      "dificultad": 1,
+      "categoria": "social",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f216",
+      "es": "Él es muy inteligente; por lo tanto, siempre tiene buenas ideas. 💡🧠",
+      "en": "He is very smart; therefore, he always has good ideas.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "therefore",
+      "palabras_clave": [
+        "smart",
+        "ideas"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f217",
+      "es": "Aunque no me gusta el frío, disfruto del invierno. ❄️☕",
+      "en": "Although I don't like the cold, I enjoy winter.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "although",
+      "palabras_clave": [
+        "cold",
+        "enjoy",
+        "winter"
+      ],
+      "dificultad": 1,
+      "categoria": "estaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f218",
+      "es": "La comida es deliciosa; sin embargo, es un poco cara. 🍽️💰",
+      "en": "The food is delicious; however, it is a bit expensive.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "however",
+      "palabras_clave": [
+        "food",
+        "delicious",
+        "expensive"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f219",
+      "es": "A pesar de ser joven, tiene mucha experiencia. 👶💼",
+      "en": "Despite being young, he has a lot of experience.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "despite",
+      "palabras_clave": [
+        "young",
+        "experience"
+      ],
+      "dificultad": 1,
+      "categoria": "trabajo",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n25_f220",
+      "es": "Ella es una gran atleta; por lo tanto, compite en muchos eventos. 🏅🏃‍♀️",
+      "en": "She is a great athlete; therefore, she competes in many events.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "therefore",
+      "palabras_clave": [
+        "athlete",
+        "competes",
+        "events"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    }
+  ]
+}

@@ -1,0 +1,3311 @@
+{
+  "metadata": {
+    "nivel": 14,
+    "descripcion": "There is / there are + cuantificadores (some, any, a lot of, much/many)",
+    "total_frases": 220,
+    "fecha_creacion": "2025-08-05T18:56:04.126182",
+    "version": "1.0"
+  },
+  "frases": [
+    {
+      "id": "n14_f001",
+      "es": "Hay algunas flores en el jardín 🌸",
+      "en": "There are some flowers in the garden.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "flowers",
+        "garden"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f002",
+      "es": "Hay muchas galletas en la caja 🍪",
+      "en": "There are a lot of cookies in the box.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "cookies",
+        "box"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f003",
+      "es": "Hay muchos juguetes en la sala 🧸",
+      "en": "There are many toys in the living room.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "toys",
+        "living room"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f004",
+      "es": "Hay algunas sillas en la cocina 🍽️",
+      "en": "There are some chairs in the kitchen.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "chairs",
+        "kitchen"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f005",
+      "es": "Hay muchas nubes en el cielo ☁️",
+      "en": "There are a lot of clouds in the sky.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "clouds",
+        "sky"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f006",
+      "es": "Hay muchos libros en la biblioteca 📚",
+      "en": "There are many books in the library.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "books",
+        "library"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f007",
+      "es": "Hay algunas frutas en la mesa 🍎",
+      "en": "There are some fruits on the table.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "fruits",
+        "table"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f008",
+      "es": "Hay muchas bicicletas en el parque 🚲",
+      "en": "There are a lot of bicycles in the park.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "bicycles",
+        "park"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f009",
+      "es": "Hay muchos peces en el acuario 🐟",
+      "en": "There are many fish in the aquarium.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "fish",
+        "aquarium"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f010",
+      "es": "Hay algunas ventanas en la casa 🏠",
+      "en": "There are some windows in the house.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "windows",
+        "house"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f011",
+      "es": "Hay muchas estrellas en el cielo nocturno 🌌",
+      "en": "There are a lot of stars in the night sky.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "stars",
+        "night sky"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f012",
+      "es": "Hay muchos animales en el zoológico 🦁",
+      "en": "There are many animals in the zoo.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "animals",
+        "zoo"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f013",
+      "es": "Hay algunas cartas en la mesa de trabajo ✉️",
+      "en": "There are some letters on the desk.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "letters",
+        "desk"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f014",
+      "es": "Hay muchas plantas en la oficina 🌿",
+      "en": "There are a lot of plants in the office.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "plants",
+        "office"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f015",
+      "es": "Hay muchos coches en la calle 🚗",
+      "en": "There are many cars on the street.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "cars",
+        "street"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f016",
+      "es": "Hay algunas revistas en la mesa de café 📖",
+      "en": "There are some magazines on the coffee table.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "magazines",
+        "coffee table"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f017",
+      "es": "Hay muchas computadoras en la escuela 💻",
+      "en": "There are a lot of computers in the school.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "computers",
+        "school"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f018",
+      "es": "Hay muchos estudiantes en la clase 👩‍🎓",
+      "en": "There are many students in the class.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "students",
+        "class"
+      ],
+      "dificultad": 1,
+      "categoria": "personas",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f019",
+      "es": "Hay algunas lámparas en la habitación 💡",
+      "en": "There are some lamps in the room.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "lamps",
+        "room"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f020",
+      "es": "Hay muchas canciones en mi lista de reproducción 🎶",
+      "en": "There are a lot of songs in my playlist.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "songs",
+        "playlist"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f021",
+      "es": "Hay algunos juguetes en la caja 🧸",
+      "en": "There are some toys in the box.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "toys",
+        "box"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f022",
+      "es": "Hay muchas flores en el jardín 🌸",
+      "en": "There are a lot of flowers in the garden.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "flowers",
+        "garden"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f023",
+      "es": "Hay muchos pájaros en el árbol 🐦",
+      "en": "There are many birds in the tree.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "birds",
+        "tree"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f024",
+      "es": "Hay algunas galletas en la mesa 🍪",
+      "en": "There are some cookies on the table.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "cookies",
+        "table"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f025",
+      "es": "Hay muchas casas en la ciudad 🏠",
+      "en": "There are a lot of houses in the city.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "houses",
+        "city"
+      ],
+      "dificultad": 1,
+      "categoria": "lugares",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f026",
+      "es": "Hay muchos estudiantes en la clase 👩‍🎓",
+      "en": "There are many students in the class.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "students",
+        "class"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f027",
+      "es": "Hay algunas frutas en la nevera 🍎",
+      "en": "There are some fruits in the fridge.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "fruits",
+        "fridge"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f028",
+      "es": "Hay muchas estrellas en el cielo 🌟",
+      "en": "There are a lot of stars in the sky.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "stars",
+        "sky"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f029",
+      "es": "Hay muchos libros en la biblioteca 📚",
+      "en": "There are many books in the library.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "books",
+        "library"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f030",
+      "es": "Hay algunas sillas en la sala 🪑",
+      "en": "There are some chairs in the living room.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "chairs",
+        "living room"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f031",
+      "es": "Hay muchas montañas en el paisaje ⛰️",
+      "en": "There are a lot of mountains in the landscape.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "mountains",
+        "landscape"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f032",
+      "es": "Hay muchos peces en el acuario 🐠",
+      "en": "There are many fish in the aquarium.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "fish",
+        "aquarium"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f033",
+      "es": "Hay algunas plantas en el balcón 🌿",
+      "en": "There are some plants on the balcony.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "plants",
+        "balcony"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f034",
+      "es": "Hay muchas computadoras en la sala de informática 💻",
+      "en": "There are a lot of computers in the computer room.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "computers",
+        "computer room"
+      ],
+      "dificultad": 1,
+      "categoria": "tecnología",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f035",
+      "es": "Hay muchos animales en el zoológico 🦁",
+      "en": "There are many animals in the zoo.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "animals",
+        "zoo"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f036",
+      "es": "Hay algunas revistas en la mesa de café 📰",
+      "en": "There are some magazines on the coffee table.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "magazines",
+        "coffee table"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f037",
+      "es": "Hay muchas ideas en el proyecto 💡",
+      "en": "There are a lot of ideas in the project.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "ideas",
+        "project"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f038",
+      "es": "Hay muchos juegos en la consola 🎮",
+      "en": "There are many games on the console.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "games",
+        "console"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f039",
+      "es": "Hay algunas fotos en el álbum 📸",
+      "en": "There are some photos in the album.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "photos",
+        "album"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f040",
+      "es": "Hay muchas ideas en la reunión 🗣️",
+      "en": "There are a lot of ideas in the meeting.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "ideas",
+        "meeting"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f041",
+      "es": "Hay algunas flores en el jardín 🌸",
+      "en": "There are some flowers in the garden.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "flowers",
+        "garden"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f042",
+      "es": "Hay muchas galletas en la caja 🍪",
+      "en": "There are a lot of cookies in the box.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "cookies",
+        "box"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f043",
+      "es": "Hay muchos juguetes en la habitación 🧸",
+      "en": "There are many toys in the room.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "toys",
+        "room"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f044",
+      "es": "Hay algunas frutas en la mesa 🍎",
+      "en": "There are some fruits on the table.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "fruits",
+        "table"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f045",
+      "es": "Hay muchas casas en la calle 🏠",
+      "en": "There are a lot of houses on the street.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "houses",
+        "street"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f046",
+      "es": "Hay muchos pájaros en el árbol 🐦",
+      "en": "There are many birds in the tree.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "birds",
+        "tree"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f047",
+      "es": "Hay algunas sillas en la sala 🪑",
+      "en": "There are some chairs in the living room.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "chairs",
+        "living room"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f048",
+      "es": "Hay muchas estrellas en el cielo 🌟",
+      "en": "There are a lot of stars in the sky.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "stars",
+        "sky"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f049",
+      "es": "Hay muchos libros en la biblioteca 📚",
+      "en": "There are many books in the library.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "books",
+        "library"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f050",
+      "es": "Hay algunas gomas en la mesa 🖊️",
+      "en": "There are some erasers on the table.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "erasers",
+        "table"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f051",
+      "es": "Hay muchas flores en el campo 🌼",
+      "en": "There are a lot of flowers in the field.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "flowers",
+        "field"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f052",
+      "es": "Hay muchos peces en el acuario 🐟",
+      "en": "There are many fish in the aquarium.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "fish",
+        "aquarium"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f053",
+      "es": "Hay algunas bicicletas en el parque 🚲",
+      "en": "There are some bicycles in the park.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "bicycles",
+        "park"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f054",
+      "es": "Hay muchas nubes en el cielo ☁️",
+      "en": "There are a lot of clouds in the sky.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "clouds",
+        "sky"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f055",
+      "es": "Hay muchos animales en el zoológico 🦁",
+      "en": "There are many animals in the zoo.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "animals",
+        "zoo"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f056",
+      "es": "Hay algunas cartas en la mesa 📬",
+      "en": "There are some letters on the table.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "letters",
+        "table"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f057",
+      "es": "Hay muchas computadoras en la escuela 💻",
+      "en": "There are a lot of computers in the school.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "computers",
+        "school"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f058",
+      "es": "Hay muchos relojes en la tienda ⏰",
+      "en": "There are many clocks in the store.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "clocks",
+        "store"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f059",
+      "es": "Hay algunas plantas en la ventana 🌿",
+      "en": "There are some plants on the window.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "plants",
+        "window"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f060",
+      "es": "Hay muchas páginas en el libro 📖",
+      "en": "There are a lot of pages in the book.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "pages",
+        "book"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f061",
+      "es": "Hay algunas flores en el jardín 🌸",
+      "en": "There are some flowers in the garden.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "flowers",
+        "garden"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f062",
+      "es": "Hay muchas galletas en la caja 🍪",
+      "en": "There are a lot of cookies in the box.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "cookies",
+        "box"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f063",
+      "es": "Hay muchos juguetes en la habitación 🧸",
+      "en": "There are many toys in the room.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "toys",
+        "room"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f064",
+      "es": "Hay algunas sillas en la sala 🪑",
+      "en": "There are some chairs in the living room.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "chairs",
+        "living room"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f065",
+      "es": "Hay muchas nubes en el cielo ☁️",
+      "en": "There are a lot of clouds in the sky.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "clouds",
+        "sky"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f066",
+      "es": "Hay muchos libros en la biblioteca 📚",
+      "en": "There are many books in the library.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "books",
+        "library"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f067",
+      "es": "Hay algunas frutas en la mesa 🍎",
+      "en": "There are some fruits on the table.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "fruits",
+        "table"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f068",
+      "es": "Hay muchas estrellas en el cielo 🌟",
+      "en": "There are a lot of stars in the sky.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "stars",
+        "sky"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f069",
+      "es": "Hay muchos lápices en la mochila ✏️",
+      "en": "There are many pencils in the backpack.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "pencils",
+        "backpack"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f070",
+      "es": "Hay algunas plantas en la ventana 🌱",
+      "en": "There are some plants on the window.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "plants",
+        "window"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f071",
+      "es": "Hay muchas bicicletas en el parque 🚲",
+      "en": "There are a lot of bicycles in the park.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "bicycles",
+        "park"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f072",
+      "es": "Hay muchos animales en el zoológico 🦁",
+      "en": "There are many animals in the zoo.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "animals",
+        "zoo"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f073",
+      "es": "Hay algunas gorras en la tienda 🧢",
+      "en": "There are some caps in the store.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "caps",
+        "store"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f074",
+      "es": "Hay muchas fotos en el álbum 📸",
+      "en": "There are a lot of photos in the album.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "photos",
+        "album"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f075",
+      "es": "Hay muchos peces en el acuario 🐠",
+      "en": "There are many fish in the aquarium.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "fish",
+        "aquarium"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f076",
+      "es": "Hay algunas cartas en la mesa 📬",
+      "en": "There are some letters on the table.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "letters",
+        "table"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f077",
+      "es": "Hay muchas casas en la ciudad 🏘️",
+      "en": "There are a lot of houses in the city.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "houses",
+        "city"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f078",
+      "es": "Hay muchos estudiantes en la clase 👩‍🎓",
+      "en": "There are many students in the class.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "students",
+        "class"
+      ],
+      "dificultad": 1,
+      "categoria": "personas",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f079",
+      "es": "Hay algunas revistas en la mesa 📖",
+      "en": "There are some magazines on the table.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "magazines",
+        "table"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f080",
+      "es": "Hay muchas computadoras en la escuela 💻",
+      "en": "There are a lot of computers in the school.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "computers",
+        "school"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f081",
+      "es": "Hay algunas flores en el jardín 🌸",
+      "en": "There are some flowers in the garden.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "flowers",
+        "garden"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f082",
+      "es": "Hay muchas galletas en la caja 🍪",
+      "en": "There are a lot of cookies in the box.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "cookies",
+        "box"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f083",
+      "es": "Hay muchos juguetes en la sala 🧸",
+      "en": "There are many toys in the living room.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "toys",
+        "living room"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f084",
+      "es": "Hay algunas frutas en la nevera 🍎",
+      "en": "There are some fruits in the fridge.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "fruits",
+        "fridge"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f085",
+      "es": "Hay muchas casas en la calle 🏡",
+      "en": "There are a lot of houses on the street.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "houses",
+        "street"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f086",
+      "es": "Hay muchos pájaros en el árbol 🐦",
+      "en": "There are many birds in the tree.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "birds",
+        "tree"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f087",
+      "es": "Hay algunas sillas en la cocina 🍽️",
+      "en": "There are some chairs in the kitchen.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "chairs",
+        "kitchen"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f088",
+      "es": "Hay muchas estrellas en el cielo 🌟",
+      "en": "There are a lot of stars in the sky.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "stars",
+        "sky"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f089",
+      "es": "Hay muchos libros en la biblioteca 📚",
+      "en": "There are many books in the library.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "books",
+        "library"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f090",
+      "es": "Hay algunas mascotas en el parque 🐶",
+      "en": "There are some pets in the park.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "pets",
+        "park"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f091",
+      "es": "Hay muchas flores en el campo 🌼",
+      "en": "There are a lot of flowers in the field.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "flowers",
+        "field"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f092",
+      "es": "Hay muchos coches en el estacionamiento 🚗",
+      "en": "There are many cars in the parking lot.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "cars",
+        "parking lot"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f093",
+      "es": "Hay algunas cartas en la mesa 📬",
+      "en": "There are some letters on the table.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "letters",
+        "table"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f094",
+      "es": "Hay muchas computadoras en la escuela 💻",
+      "en": "There are a lot of computers in the school.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "computers",
+        "school"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f095",
+      "es": "Hay muchos peces en el acuario 🐟",
+      "en": "There are many fish in the aquarium.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "fish",
+        "aquarium"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f096",
+      "es": "Hay algunas bicicletas en el parque 🚲",
+      "en": "There are some bicycles in the park.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "bicycles",
+        "park"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f097",
+      "es": "Hay muchas montañas en el paisaje ⛰️",
+      "en": "There are a lot of mountains in the landscape.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "mountains",
+        "landscape"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f098",
+      "es": "Hay muchos estudiantes en la clase 👩‍🎓",
+      "en": "There are many students in the class.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "students",
+        "class"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f099",
+      "es": "Hay algunas lámparas en la habitación 💡",
+      "en": "There are some lamps in the room.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "lamps",
+        "room"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f100",
+      "es": "Hay muchas ideas en la reunión 💡",
+      "en": "There are a lot of ideas in the meeting.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "ideas",
+        "meeting"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f101",
+      "es": "Hay algunas flores en el jardín 🌸",
+      "en": "There are some flowers in the garden.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "flowers",
+        "garden"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f102",
+      "es": "Hay muchas galletas en la caja 🍪",
+      "en": "There are a lot of cookies in the box.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "cookies",
+        "box"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f103",
+      "es": "Hay muchos juguetes en el suelo 🧸",
+      "en": "There are many toys on the floor.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "toys",
+        "floor"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f104",
+      "es": "Hay algunas sillas en la sala 🪑",
+      "en": "There are some chairs in the living room.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "chairs",
+        "living room"
+      ],
+      "dificultad": 1,
+      "categoria": "muebles",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f105",
+      "es": "Hay muchas nubes en el cielo ☁️",
+      "en": "There are a lot of clouds in the sky.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "clouds",
+        "sky"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f106",
+      "es": "Hay muchos libros en la biblioteca 📚",
+      "en": "There are many books in the library.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "books",
+        "library"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f107",
+      "es": "Hay algunas frutas en la mesa 🍎",
+      "en": "There are some fruits on the table.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "fruits",
+        "table"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f108",
+      "es": "Hay muchas personas en el parque 🌳",
+      "en": "There are a lot of people in the park.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "people",
+        "park"
+      ],
+      "dificultad": 1,
+      "categoria": "sociedad",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f109",
+      "es": "Hay muchos peces en el acuario 🐟",
+      "en": "There are many fish in the aquarium.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "fish",
+        "aquarium"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f110",
+      "es": "Hay algunas cartas en la mesa 📬",
+      "en": "There are some letters on the table.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "letters",
+        "table"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f111",
+      "es": "Hay muchas estrellas en el cielo 🌟",
+      "en": "There are a lot of stars in the sky.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "stars",
+        "sky"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f112",
+      "es": "Hay muchos animales en el zoológico 🦁",
+      "en": "There are many animals in the zoo.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "animals",
+        "zoo"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f113",
+      "es": "Hay algunas plantas en la casa 🌿",
+      "en": "There are some plants in the house.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "plants",
+        "house"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f114",
+      "es": "Hay muchas bicicletas en la calle 🚲",
+      "en": "There are a lot of bicycles on the street.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "bicycles",
+        "street"
+      ],
+      "dificultad": 1,
+      "categoria": "transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f115",
+      "es": "Hay muchos estudiantes en la clase 👩‍🏫",
+      "en": "There are many students in the class.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "students",
+        "class"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f116",
+      "es": "Hay algunas computadoras en la sala de informática 💻",
+      "en": "There are some computers in the computer room.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "computers",
+        "computer room"
+      ],
+      "dificultad": 1,
+      "categoria": "tecnología",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f117",
+      "es": "Hay muchas montañas en la distancia ⛰️",
+      "en": "There are a lot of mountains in the distance.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "mountains",
+        "distance"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f118",
+      "es": "Hay muchos relojes en la tienda ⏰",
+      "en": "There are many clocks in the store.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "clocks",
+        "store"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f119",
+      "es": "Hay algunas pinturas en la galería 🎨",
+      "en": "There are some paintings in the gallery.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "paintings",
+        "gallery"
+      ],
+      "dificultad": 1,
+      "categoria": "arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f120",
+      "es": "Hay muchas ventanas en la casa 🏠",
+      "en": "There are a lot of windows in the house.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "windows",
+        "house"
+      ],
+      "dificultad": 1,
+      "categoria": "muebles",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f121",
+      "es": "Hay algunas flores en el jardín 🌸",
+      "en": "There are some flowers in the garden.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "flowers",
+        "garden"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f122",
+      "es": "Hay muchas galletas en la caja 🍪",
+      "en": "There are a lot of cookies in the box.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "cookies",
+        "box"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f123",
+      "es": "Hay muchos juguetes en la habitación 🧸",
+      "en": "There are many toys in the room.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "toys",
+        "room"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f124",
+      "es": "Hay algunas sillas en la sala 🪑",
+      "en": "There are some chairs in the living room.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "chairs",
+        "living room"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f125",
+      "es": "Hay muchas estrellas en el cielo 🌟",
+      "en": "There are a lot of stars in the sky.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "stars",
+        "sky"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f126",
+      "es": "Hay muchos libros en la biblioteca 📚",
+      "en": "There are many books in the library.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "books",
+        "library"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f127",
+      "es": "Hay algunas frutas en la mesa 🍎",
+      "en": "There are some fruits on the table.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "fruits",
+        "table"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f128",
+      "es": "Hay muchas casas en la calle 🏠",
+      "en": "There are a lot of houses on the street.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "houses",
+        "street"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f129",
+      "es": "Hay muchos peces en el acuario 🐟",
+      "en": "There are many fish in the aquarium.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "fish",
+        "aquarium"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f130",
+      "es": "Hay algunas cartas en la mesa 📬",
+      "en": "There are some letters on the table.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "letters",
+        "table"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f131",
+      "es": "Hay muchas plantas en el balcón 🌿",
+      "en": "There are a lot of plants on the balcony.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "plants",
+        "balcony"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f132",
+      "es": "Hay muchos lápices en la mochila ✏️",
+      "en": "There are many pencils in the backpack.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "pencils",
+        "backpack"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f133",
+      "es": "Hay algunas gorras en la tienda 🧢",
+      "en": "There are some caps in the store.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "caps",
+        "store"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f134",
+      "es": "Hay muchas nubes en el cielo ☁️",
+      "en": "There are a lot of clouds in the sky.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "clouds",
+        "sky"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f135",
+      "es": "Hay muchos zapatos en el armario 👟",
+      "en": "There are many shoes in the closet.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "shoes",
+        "closet"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f136",
+      "es": "Hay algunas galletas en la mesa 🍪",
+      "en": "There are some cookies on the table.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "cookies",
+        "table"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f137",
+      "es": "Hay muchas bicicletas en el parque 🚲",
+      "en": "There are a lot of bicycles in the park.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "bicycles",
+        "park"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f138",
+      "es": "Hay muchos animales en el zoológico 🦁",
+      "en": "There are many animals in the zoo.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "animals",
+        "zoo"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f139",
+      "es": "Hay algunas revistas en la mesa 📖",
+      "en": "There are some magazines on the table.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "magazines",
+        "table"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f140",
+      "es": "Hay muchas computadoras en la clase 💻",
+      "en": "There are a lot of computers in the classroom.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "computers",
+        "classroom"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f141",
+      "es": "Hay algunas flores en el jardín 🌸",
+      "en": "There are some flowers in the garden.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "flowers",
+        "garden"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f142",
+      "es": "Hay muchas galletas en la caja 🍪",
+      "en": "There are a lot of cookies in the box.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "cookies",
+        "box"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f143",
+      "es": "Hay muchos juguetes en la habitación 🧸",
+      "en": "There are many toys in the room.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "toys",
+        "room"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f144",
+      "es": "Hay algunas frutas en la mesa 🍎",
+      "en": "There are some fruits on the table.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "fruits",
+        "table"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f145",
+      "es": "Hay muchas personas en el parque 🌳",
+      "en": "There are a lot of people in the park.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "people",
+        "park"
+      ],
+      "dificultad": 1,
+      "categoria": "sociedad",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f146",
+      "es": "Hay muchos libros en la biblioteca 📚",
+      "en": "There are many books in the library.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "books",
+        "library"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f147",
+      "es": "Hay algunas sillas en la sala 🪑",
+      "en": "There are some chairs in the living room.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "chairs",
+        "living room"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f148",
+      "es": "Hay muchas estrellas en el cielo 🌌",
+      "en": "There are a lot of stars in the sky.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "stars",
+        "sky"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f149",
+      "es": "Hay muchos animales en el zoológico 🦁",
+      "en": "There are many animals in the zoo.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "animals",
+        "zoo"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f150",
+      "es": "Hay algunas computadoras en la clase 💻",
+      "en": "There are some computers in the classroom.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "computers",
+        "classroom"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f151",
+      "es": "Hay muchas flores en el campo 🌼",
+      "en": "There are a lot of flowers in the field.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "flowers",
+        "field"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f152",
+      "es": "Hay muchos coches en la calle 🚗",
+      "en": "There are many cars on the street.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "cars",
+        "street"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f153",
+      "es": "Hay algunas revistas en la mesa 📖",
+      "en": "There are some magazines on the table.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "magazines",
+        "table"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f154",
+      "es": "Hay muchas casas en el vecindario 🏡",
+      "en": "There are a lot of houses in the neighborhood.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "houses",
+        "neighborhood"
+      ],
+      "dificultad": 1,
+      "categoria": "sociedad",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f155",
+      "es": "Hay muchos peces en el acuario 🐟",
+      "en": "There are many fish in the aquarium.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "fish",
+        "aquarium"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f156",
+      "es": "Hay algunas lámparas en la habitación 💡",
+      "en": "There are some lamps in the room.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "lamps",
+        "room"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f157",
+      "es": "Hay muchas montañas en el paisaje ⛰️",
+      "en": "There are a lot of mountains in the landscape.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "mountains",
+        "landscape"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f158",
+      "es": "Hay muchos estudiantes en la escuela 🎓",
+      "en": "There are many students in the school.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "students",
+        "school"
+      ],
+      "dificultad": 1,
+      "categoria": "sociedad",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f159",
+      "es": "Hay algunas bicicletas en el parque 🚲",
+      "en": "There are some bicycles in the park.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "bicycles",
+        "park"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f160",
+      "es": "Hay muchas ideas en la reunión 💡",
+      "en": "There are a lot of ideas in the meeting.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "ideas",
+        "meeting"
+      ],
+      "dificultad": 1,
+      "categoria": "sociedad",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f161",
+      "es": "Hay algunos gatos en el jardín 🐱",
+      "en": "There are some cats in the garden.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "cats",
+        "garden"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f162",
+      "es": "Hay muchas flores en el parque 🌸",
+      "en": "There are a lot of flowers in the park.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "flowers",
+        "park"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f163",
+      "es": "Hay muchas sillas en la sala de clase 🪑",
+      "en": "There are many chairs in the classroom.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "chairs",
+        "classroom"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f164",
+      "es": "Hay algunos juguetes en la caja 🧸",
+      "en": "There are some toys in the box.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "toys",
+        "box"
+      ],
+      "dificultad": 1,
+      "categoria": "juguetes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f165",
+      "es": "Hay muchas galletas en la mesa 🍪",
+      "en": "There are a lot of cookies on the table.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "cookies",
+        "table"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f166",
+      "es": "Hay muchos pájaros en el árbol 🐦",
+      "en": "There are many birds in the tree.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "birds",
+        "tree"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f167",
+      "es": "Hay algunos lápices en el escritorio ✏️",
+      "en": "There are some pencils on the desk.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "pencils",
+        "desk"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f168",
+      "es": "Hay muchas estrellas en el cielo 🌟",
+      "en": "There are a lot of stars in the sky.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "stars",
+        "sky"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f169",
+      "es": "Hay muchos libros en la biblioteca 📚",
+      "en": "There are many books in the library.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "books",
+        "library"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f170",
+      "es": "Hay algunos perros en el parque 🐶",
+      "en": "There are some dogs in the park.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "dogs",
+        "park"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f171",
+      "es": "Hay muchas frutas en la mesa 🍎",
+      "en": "There are a lot of fruits on the table.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "fruits",
+        "table"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f172",
+      "es": "Hay muchos coches en la calle 🚗",
+      "en": "There are many cars on the street.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "cars",
+        "street"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f173",
+      "es": "Hay algunos peces en el acuario 🐟",
+      "en": "There are some fish in the aquarium.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "fish",
+        "aquarium"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f174",
+      "es": "Hay muchas computadoras en la escuela 💻",
+      "en": "There are a lot of computers in the school.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "computers",
+        "school"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f175",
+      "es": "Hay muchos estudiantes en la clase 👩‍🎓",
+      "en": "There are many students in the class.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "students",
+        "class"
+      ],
+      "dificultad": 1,
+      "categoria": "personas",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f176",
+      "es": "Hay algunos relojes en la tienda ⌚",
+      "en": "There are some watches in the store.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "watches",
+        "store"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f177",
+      "es": "Hay muchas nubes en el cielo ☁️",
+      "en": "There are a lot of clouds in the sky.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "clouds",
+        "sky"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f178",
+      "es": "Hay muchos zapatos en el armario 👟",
+      "en": "There are many shoes in the closet.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "shoes",
+        "closet"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f179",
+      "es": "Hay algunos helados en el congelador 🍦",
+      "en": "There are some ice creams in the freezer.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "ice creams",
+        "freezer"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f180",
+      "es": "Hay muchas ventanas en la casa 🏠",
+      "en": "There are a lot of windows in the house.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "windows",
+        "house"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f181",
+      "es": "Hay algunas flores en el jardín 🌸",
+      "en": "There are some flowers in the garden.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "flowers",
+        "garden"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f182",
+      "es": "Hay muchas galletas en la caja 🍪",
+      "en": "There are a lot of cookies in the box.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "cookies",
+        "box"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f183",
+      "es": "Hay muchos juguetes en la habitación 🧸",
+      "en": "There are many toys in the room.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "toys",
+        "room"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f184",
+      "es": "Hay algunas revistas en la mesa 📚",
+      "en": "There are some magazines on the table.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "magazines",
+        "table"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f185",
+      "es": "Hay muchas nubes en el cielo ☁️",
+      "en": "There are a lot of clouds in the sky.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "clouds",
+        "sky"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f186",
+      "es": "Hay muchos lápices en el estuche ✏️",
+      "en": "There are many pencils in the pencil case.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "pencils",
+        "pencil case"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f187",
+      "es": "Hay algunas frutas en la nevera 🍎",
+      "en": "There are some fruits in the fridge.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "fruits",
+        "fridge"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f188",
+      "es": "Hay muchas personas en el parque 🌳",
+      "en": "There are a lot of people in the park.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "people",
+        "park"
+      ],
+      "dificultad": 1,
+      "categoria": "sociedad",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f189",
+      "es": "Hay muchos peces en el acuario 🐟",
+      "en": "There are many fish in the aquarium.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "fish",
+        "aquarium"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f190",
+      "es": "Hay algunas sillas en la sala 🪑",
+      "en": "There are some chairs in the living room.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "chairs",
+        "living room"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f191",
+      "es": "Hay muchas estrellas en el cielo nocturno 🌌",
+      "en": "There are a lot of stars in the night sky.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "stars",
+        "night sky"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f192",
+      "es": "Hay muchos libros en la biblioteca 📖",
+      "en": "There are many books in the library.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "books",
+        "library"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f193",
+      "es": "Hay algunas gorras en la tienda 🧢",
+      "en": "There are some caps in the store.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "caps",
+        "store"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f194",
+      "es": "Hay muchas flores en el campo 🌼",
+      "en": "There are a lot of flowers in the field.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "flowers",
+        "field"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f195",
+      "es": "Hay muchos animales en el zoológico 🦁",
+      "en": "There are many animals in the zoo.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "animals",
+        "zoo"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f196",
+      "es": "Hay algunas computadoras en la clase 💻",
+      "en": "There are some computers in the classroom.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "computers",
+        "classroom"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f197",
+      "es": "Hay muchas montañas en la distancia ⛰️",
+      "en": "There are a lot of mountains in the distance.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "mountains",
+        "distance"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f198",
+      "es": "Hay muchos coches en la carretera 🚗",
+      "en": "There are many cars on the road.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "cars",
+        "road"
+      ],
+      "dificultad": 1,
+      "categoria": "transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f199",
+      "es": "Hay algunas lámparas en la habitación 💡",
+      "en": "There are some lamps in the room.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "lamps",
+        "room"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f200",
+      "es": "Hay muchas ideas en la reunión 💡",
+      "en": "There are a lot of ideas in the meeting.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "ideas",
+        "meeting"
+      ],
+      "dificultad": 1,
+      "categoria": "sociedad",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f201",
+      "es": "Hay algunas flores en el jardín 🌸",
+      "en": "There are some flowers in the garden.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "flowers",
+        "garden"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f202",
+      "es": "Hay muchas galletas en la caja 🍪",
+      "en": "There are a lot of cookies in the box.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "cookies",
+        "box"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f203",
+      "es": "Hay muchos juguetes en la habitación 🧸",
+      "en": "There are many toys in the room.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "toys",
+        "room"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f204",
+      "es": "Hay algunas frutas en la mesa 🍎",
+      "en": "There are some fruits on the table.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "fruits",
+        "table"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f205",
+      "es": "Hay muchas películas en la estantería 🎬",
+      "en": "There are a lot of movies on the shelf.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "movies",
+        "shelf"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f206",
+      "es": "Hay muchos pájaros en el árbol 🐦",
+      "en": "There are many birds in the tree.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "birds",
+        "tree"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f207",
+      "es": "Hay algunas sillas en la sala de clase 🪑",
+      "en": "There are some chairs in the classroom.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "chairs",
+        "classroom"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f208",
+      "es": "Hay muchas estrellas en el cielo 🌟",
+      "en": "There are a lot of stars in the sky.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "stars",
+        "sky"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f209",
+      "es": "Hay muchos libros en la biblioteca 📚",
+      "en": "There are many books in the library.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "books",
+        "library"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f210",
+      "es": "Hay algunas mascotas en el parque 🐶",
+      "en": "There are some pets in the park.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "pets",
+        "park"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f211",
+      "es": "Hay muchas computadoras en la escuela 💻",
+      "en": "There are a lot of computers in the school.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "computers",
+        "school"
+      ],
+      "dificultad": 1,
+      "categoria": "tecnología",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f212",
+      "es": "Hay muchos peces en el acuario 🐠",
+      "en": "There are many fish in the aquarium.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "fish",
+        "aquarium"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f213",
+      "es": "Hay algunas cartas en la mesa 📮",
+      "en": "There are some letters on the table.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "letters",
+        "table"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f214",
+      "es": "Hay muchas plantas en la casa 🌿",
+      "en": "There are a lot of plants in the house.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "plants",
+        "house"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f215",
+      "es": "Hay muchos lápices en la mochila ✏️",
+      "en": "There are many pencils in the backpack.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "pencils",
+        "backpack"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f216",
+      "es": "Hay algunas revistas en la mesa de café 📖",
+      "en": "There are some magazines on the coffee table.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "magazines",
+        "coffee table"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f217",
+      "es": "Hay muchas montañas en el paisaje ⛰️",
+      "en": "There are a lot of mountains in the landscape.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "mountains",
+        "landscape"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f218",
+      "es": "Hay muchos amigos en la fiesta 🎉",
+      "en": "There are many friends at the party.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + many",
+      "palabras_clave": [
+        "friends",
+        "party"
+      ],
+      "dificultad": 1,
+      "categoria": "social",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f219",
+      "es": "Hay algunas bicicletas en el parque 🚲",
+      "en": "There are some bicycles in the park.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + some",
+      "palabras_clave": [
+        "bicycles",
+        "park"
+      ],
+      "dificultad": 1,
+      "categoria": "transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n14_f220",
+      "es": "Hay muchas ideas en la reunión 💡",
+      "en": "There are a lot of ideas in the meeting.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "There are + a lot of",
+      "palabras_clave": [
+        "ideas",
+        "meeting"
+      ],
+      "dificultad": 1,
+      "categoria": "social",
+      "usada": false,
+      "fecha_uso": null
+    }
+  ]
+}

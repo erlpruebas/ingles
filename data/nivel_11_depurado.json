@@ -1,0 +1,3311 @@
+{
+  "metadata": {
+    "nivel": 11,
+    "descripcion": "Futuro con 'will' (predicciones, promesas, decisiones rápidas)",
+    "total_frases": 220,
+    "fecha_creacion": "2025-08-05T18:29:10.493375",
+    "version": "1.0"
+  },
+  "frases": [
+    {
+      "id": "n11_f001",
+      "es": "El tren llegará a tiempo 🚆",
+      "en": "The train will arrive on time.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "train",
+        "arrive"
+      ],
+      "dificultad": 1,
+      "categoria": "transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f002",
+      "es": "Te prometo que siempre estaré aquí para ti 🤝",
+      "en": "I promise I will always be here for you.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "be"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f003",
+      "es": "Decidí que iré a la fiesta 🎉",
+      "en": "I will go to the party.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "go",
+        "party"
+      ],
+      "dificultad": 1,
+      "categoria": "social",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f004",
+      "es": "El clima será soleado este fin de semana ☀️",
+      "en": "The weather will be sunny this weekend.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "weather",
+        "sunny"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f005",
+      "es": "Te prometo que te compraré un regalo 🎁",
+      "en": "I promise I will buy you a gift.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "buy"
+      ],
+      "dificultad": 1,
+      "categoria": "regalos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f006",
+      "es": "Decidí que estudiaré más para el examen 📚",
+      "en": "I will study more for the exam.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "study",
+        "exam"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f007",
+      "es": "El gato atrapará el ratón 🐱",
+      "en": "The cat will catch the mouse.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "cat",
+        "catch"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f008",
+      "es": "Te prometo que siempre te apoyaré 💪",
+      "en": "I promise I will always support you.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "support"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f009",
+      "es": "Decidí que iré a nadar mañana 🏊",
+      "en": "I will go swimming tomorrow.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "go",
+        "swimming"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f010",
+      "es": "La película será emocionante 🎬",
+      "en": "The movie will be exciting.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "movie",
+        "exciting"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f011",
+      "es": "Te prometo que te ayudaré a aprender inglés 📖",
+      "en": "I promise I will help you learn English.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "help"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f012",
+      "es": "Decidí que comeré pizza esta noche 🍕",
+      "en": "I will eat pizza tonight.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "eat",
+        "pizza"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f013",
+      "es": "El perro ladrará cuando llegue el cartero 🐶",
+      "en": "The dog will bark when the mailman arrives.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "dog",
+        "bark"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f014",
+      "es": "Te prometo que seré tu amigo para siempre 🤗",
+      "en": "I promise I will be your friend forever.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "friend"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f015",
+      "es": "Decidí que visitaré a mis abuelos este fin de semana 👵👴",
+      "en": "I will visit my grandparents this weekend.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "visit",
+        "grandparents"
+      ],
+      "dificultad": 1,
+      "categoria": "familia",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f016",
+      "es": "La clase comenzará a las nueve 🕘",
+      "en": "The class will start at nine.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "class",
+        "start"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f017",
+      "es": "Te prometo que siempre te diré la verdad 🗣️",
+      "en": "I promise I will always tell you the truth.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "tell"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f018",
+      "es": "Decidí que aprenderé a tocar la guitarra 🎸",
+      "en": "I will learn to play the guitar.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "learn",
+        "guitar"
+      ],
+      "dificultad": 1,
+      "categoria": "música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f019",
+      "es": "El coche alcanzará una gran velocidad 🚗",
+      "en": "The car will reach a high speed.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "car",
+        "reach"
+      ],
+      "dificultad": 1,
+      "categoria": "transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f020",
+      "es": "Te prometo que siempre te escucharé 👂",
+      "en": "I promise I will always listen to you.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "listen"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f021",
+      "es": "El clima será soleado este fin de semana ☀️",
+      "en": "The weather will be sunny this weekend.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "weather",
+        "sunny"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f022",
+      "es": "Te prometo que siempre estaré aquí para ti 🤝",
+      "en": "I promise I will always be here for you.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "here"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f023",
+      "es": "Decidí que iré a la fiesta esta noche 🎉",
+      "en": "I will go to the party tonight.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "go",
+        "party"
+      ],
+      "dificultad": 1,
+      "categoria": "ocio",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f024",
+      "es": "Los árboles crecerán más altos el próximo año 🌳",
+      "en": "The trees will grow taller next year.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "trees",
+        "grow"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f025",
+      "es": "Te prometo que te daré un regalo 🎁",
+      "en": "I promise I will give you a gift.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "give"
+      ],
+      "dificultad": 1,
+      "categoria": "regalos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f026",
+      "es": "Decidí que estudiaré más para el examen 📚",
+      "en": "I will study more for the exam.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "study",
+        "exam"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f027",
+      "es": "El tren llegará a tiempo mañana 🚆",
+      "en": "The train will arrive on time tomorrow.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "train",
+        "arrive"
+      ],
+      "dificultad": 1,
+      "categoria": "transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f028",
+      "es": "Te prometo que te ayudaré con tu proyecto 🛠️",
+      "en": "I promise I will help you with your project.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "help"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f029",
+      "es": "Decidí que comeré pizza para la cena 🍕",
+      "en": "I will eat pizza for dinner.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "eat",
+        "pizza"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f030",
+      "es": "La película será emocionante 🎬",
+      "en": "The movie will be exciting.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "movie",
+        "exciting"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f031",
+      "es": "Te prometo que siempre te apoyaré 💪",
+      "en": "I promise I will always support you.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "support"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f032",
+      "es": "Decidí que iré a nadar mañana 🏊",
+      "en": "I will go swimming tomorrow.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "go",
+        "swimming"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f033",
+      "es": "El gato atrapará el ratón 🐱",
+      "en": "The cat will catch the mouse.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "cat",
+        "catch"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f034",
+      "es": "Te prometo que nunca te olvidaré ❤️",
+      "en": "I promise I will never forget you.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "forget"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f035",
+      "es": "Decidí que compraré un nuevo libro 📖",
+      "en": "I will buy a new book.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "buy",
+        "book"
+      ],
+      "dificultad": 1,
+      "categoria": "compras",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f036",
+      "es": "El equipo ganará el campeonato este año 🏆",
+      "en": "The team will win the championship this year.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "team",
+        "win"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f037",
+      "es": "Te prometo que seré tu amigo para siempre 🤗",
+      "en": "I promise I will be your friend forever.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "friend"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f038",
+      "es": "Decidí que jugaré videojuegos este fin de semana 🎮",
+      "en": "I will play video games this weekend.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "play",
+        "video games"
+      ],
+      "dificultad": 1,
+      "categoria": "ocio",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f039",
+      "es": "La flor florecerá en primavera 🌸",
+      "en": "The flower will bloom in spring.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "flower",
+        "bloom"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f040",
+      "es": "Te prometo que siempre diré la verdad 🗣️",
+      "en": "I promise I will always tell the truth.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "tell"
+      ],
+      "dificultad": 1,
+      "categoria": "valores",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f041",
+      "es": "El tren llegará a tiempo 🚆",
+      "en": "The train will arrive on time.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "train",
+        "arrive"
+      ],
+      "dificultad": 1,
+      "categoria": "transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f042",
+      "es": "Te prometo que siempre estaré aquí para ti 🤝",
+      "en": "I promise I will always be here for you.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "be"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f043",
+      "es": "Decidí que iré a la fiesta 🎉",
+      "en": "I will go to the party.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "go",
+        "party"
+      ],
+      "dificultad": 1,
+      "categoria": "ocio",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f044",
+      "es": "Mañana lloverá en la ciudad ☔",
+      "en": "It will rain in the city tomorrow.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "rain",
+        "city"
+      ],
+      "dificultad": 1,
+      "categoria": "clima",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f045",
+      "es": "Te prometo que te compraré un regalo 🎁",
+      "en": "I promise I will buy you a gift.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "buy"
+      ],
+      "dificultad": 1,
+      "categoria": "regalos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f046",
+      "es": "Decidí que estudiaré más para el examen 📚",
+      "en": "I will study more for the exam.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "study",
+        "exam"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f047",
+      "es": "El gato atrapará el ratón 🐱",
+      "en": "The cat will catch the mouse.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "cat",
+        "catch"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f048",
+      "es": "Te prometo que te ayudaré con tu proyecto 🛠️",
+      "en": "I promise I will help you with your project.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "help"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f049",
+      "es": "Decidí que iré a nadar este fin de semana 🏊",
+      "en": "I will go swimming this weekend.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "go",
+        "swimming"
+      ],
+      "dificultad": 1,
+      "categoria": "ocio",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f050",
+      "es": "El coche llegará pronto 🚗",
+      "en": "The car will arrive soon.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "car",
+        "arrive"
+      ],
+      "dificultad": 1,
+      "categoria": "transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f051",
+      "es": "Te prometo que no te fallaré 🙌",
+      "en": "I promise I will not let you down.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "let down"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f052",
+      "es": "Decidí que comeré pizza esta noche 🍕",
+      "en": "I will eat pizza tonight.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "eat",
+        "pizza"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f053",
+      "es": "El sol brillará mañana ☀️",
+      "en": "The sun will shine tomorrow.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "sun",
+        "shine"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f054",
+      "es": "Te prometo que siempre te apoyaré 💪",
+      "en": "I promise I will always support you.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "support"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f055",
+      "es": "Decidí que aprenderé a tocar la guitarra 🎸",
+      "en": "I will learn to play the guitar.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "learn",
+        "guitar"
+      ],
+      "dificultad": 1,
+      "categoria": "música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f056",
+      "es": "La película comenzará a las ocho 🎬",
+      "en": "The movie will start at eight.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "movie",
+        "start"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f057",
+      "es": "Te prometo que seré tu amigo para siempre 🤗",
+      "en": "I promise I will be your friend forever.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "friend"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f058",
+      "es": "Decidí que visitaré a mis abuelos este verano 👵👴",
+      "en": "I will visit my grandparents this summer.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "visit",
+        "grandparents"
+      ],
+      "dificultad": 1,
+      "categoria": "familia",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f059",
+      "es": "El perro ladrará si ve a un extraño 🐶",
+      "en": "The dog will bark if it sees a stranger.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "dog",
+        "bark"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f060",
+      "es": "Te prometo que siempre seré honesto contigo 🤞",
+      "en": "I promise I will always be honest with you.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "honest"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f061",
+      "es": "El tren llegará a tiempo 🚆",
+      "en": "The train will arrive on time.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "train",
+        "arrive"
+      ],
+      "dificultad": 1,
+      "categoria": "transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f062",
+      "es": "Te prometo que siempre estaré aquí para ti 🤝",
+      "en": "I promise I will always be here for you.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "be"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f063",
+      "es": "Decidí que iré a la fiesta 🎉",
+      "en": "I will go to the party.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "go",
+        "party"
+      ],
+      "dificultad": 1,
+      "categoria": "ocio",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f064",
+      "es": "Mañana lloverá 🌧️",
+      "en": "It will rain tomorrow.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "rain",
+        "tomorrow"
+      ],
+      "dificultad": 1,
+      "categoria": "clima",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f065",
+      "es": "Te prometo que te compraré un regalo 🎁",
+      "en": "I promise I will buy you a gift.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "buy"
+      ],
+      "dificultad": 1,
+      "categoria": "regalos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f066",
+      "es": "El gato atrapará el ratón 🐱",
+      "en": "The cat will catch the mouse.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "cat",
+        "catch"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f067",
+      "es": "Decidí que estudiaré más para el examen 📚",
+      "en": "I will study more for the exam.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "study",
+        "exam"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f068",
+      "es": "El equipo ganará el partido ⚽",
+      "en": "The team will win the match.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "team",
+        "win"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f069",
+      "es": "Te prometo que te ayudaré con tu proyecto 🛠️",
+      "en": "I promise I will help you with your project.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "help"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f070",
+      "es": "Decidí que comeré pizza esta noche 🍕",
+      "en": "I will eat pizza tonight.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "eat",
+        "pizza"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f071",
+      "es": "El sol brillará mañana ☀️",
+      "en": "The sun will shine tomorrow.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "sun",
+        "shine"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f072",
+      "es": "Te prometo que siempre te apoyaré 💪",
+      "en": "I promise I will always support you.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "support"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f073",
+      "es": "El perro encontrará su camino a casa 🐶",
+      "en": "The dog will find its way home.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "dog",
+        "find"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f074",
+      "es": "Decidí que iré al cine este fin de semana 🎬",
+      "en": "I will go to the movies this weekend.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "go",
+        "movies"
+      ],
+      "dificultad": 1,
+      "categoria": "ocio",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f075",
+      "es": "Mañana será un gran día 🌈",
+      "en": "Tomorrow will be a great day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "tomorrow",
+        "great"
+      ],
+      "dificultad": 1,
+      "categoria": "tiempo",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f076",
+      "es": "Te prometo que te llevaré a la playa 🏖️",
+      "en": "I promise I will take you to the beach.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "take"
+      ],
+      "dificultad": 1,
+      "categoria": "vacaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f077",
+      "es": "El coche alcanzará la velocidad máxima 🚗",
+      "en": "The car will reach its maximum speed.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "car",
+        "reach"
+      ],
+      "dificultad": 1,
+      "categoria": "transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f078",
+      "es": "Decidí que aprenderé a tocar la guitarra 🎸",
+      "en": "I will learn to play the guitar.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "learn",
+        "guitar"
+      ],
+      "dificultad": 1,
+      "categoria": "música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f079",
+      "es": "El clima mejorará pronto 🌤️",
+      "en": "The weather will improve soon.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "weather",
+        "improve"
+      ],
+      "dificultad": 1,
+      "categoria": "clima",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f080",
+      "es": "Te prometo que siempre seré tu amigo 🤗",
+      "en": "I promise I will always be your friend.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "friend"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f081",
+      "es": "El tren llegará a tiempo 🚆",
+      "en": "The train will arrive on time.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "train",
+        "arrive"
+      ],
+      "dificultad": 1,
+      "categoria": "transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f082",
+      "es": "Te prometo que siempre estaré aquí para ti 🤝",
+      "en": "I promise I will always be here for you.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "be"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f083",
+      "es": "Decidí que iré a la fiesta 🎉",
+      "en": "I will go to the party.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "go",
+        "party"
+      ],
+      "dificultad": 1,
+      "categoria": "social",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f084",
+      "es": "Mañana lloverá 🌧️",
+      "en": "It will rain tomorrow.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "rain",
+        "tomorrow"
+      ],
+      "dificultad": 1,
+      "categoria": "clima",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f085",
+      "es": "Te prometo que te compraré un regalo 🎁",
+      "en": "I promise I will buy you a gift.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "buy"
+      ],
+      "dificultad": 1,
+      "categoria": "regalos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f086",
+      "es": "Decidí que estudiaré más para el examen 📚",
+      "en": "I will study more for the exam.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "study",
+        "exam"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f087",
+      "es": "El gato atrapará al ratón 🐱",
+      "en": "The cat will catch the mouse.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "cat",
+        "catch"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f088",
+      "es": "Te prometo que siempre te apoyaré 💪",
+      "en": "I promise I will always support you.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "support"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f089",
+      "es": "Decidí que iré a nadar este fin de semana 🏊",
+      "en": "I will go swimming this weekend.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "go",
+        "swimming"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f090",
+      "es": "El coche alcanzará la velocidad máxima 🚗",
+      "en": "The car will reach its maximum speed.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "car",
+        "reach"
+      ],
+      "dificultad": 1,
+      "categoria": "transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f091",
+      "es": "Te prometo que no te fallaré 🙏",
+      "en": "I promise I will not let you down.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "let down"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f092",
+      "es": "Decidí que haré mi tarea más tarde 📝",
+      "en": "I will do my homework later.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "do",
+        "homework"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f093",
+      "es": "El sol brillará en el cielo ☀️",
+      "en": "The sun will shine in the sky.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "sun",
+        "shine"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f094",
+      "es": "Te prometo que seré tu amigo para siempre 🤗",
+      "en": "I promise I will be your friend forever.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "friend"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f095",
+      "es": "Decidí que aprenderé a tocar la guitarra 🎸",
+      "en": "I will learn to play the guitar.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "learn",
+        "guitar"
+      ],
+      "dificultad": 1,
+      "categoria": "música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f096",
+      "es": "La planta crecerá en primavera 🌱",
+      "en": "The plant will grow in spring.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "plant",
+        "grow"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f097",
+      "es": "Te prometo que siempre te escucharé 👂",
+      "en": "I promise I will always listen to you.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "listen"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f098",
+      "es": "Decidí que iré a visitar a mis abuelos 👵👴",
+      "en": "I will visit my grandparents.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "visit",
+        "grandparents"
+      ],
+      "dificultad": 1,
+      "categoria": "familia",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f099",
+      "es": "El equipo ganará el campeonato 🏆",
+      "en": "The team will win the championship.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "team",
+        "win"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f100",
+      "es": "Te prometo que siempre seré honesto contigo 🤝",
+      "en": "I promise I will always be honest with you.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "honest"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f101",
+      "es": "El tren llegará a tiempo 🚆",
+      "en": "The train will arrive on time.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "train",
+        "arrive"
+      ],
+      "dificultad": 1,
+      "categoria": "transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f102",
+      "es": "Te prometo que siempre estaré aquí para ti 🤝",
+      "en": "I promise I will always be here for you.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "be"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f103",
+      "es": "Decidí que iré a la fiesta 🎉",
+      "en": "I will go to the party.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "go",
+        "party"
+      ],
+      "dificultad": 1,
+      "categoria": "ocio",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f104",
+      "es": "Mañana lloverá 🌧️",
+      "en": "It will rain tomorrow.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "rain",
+        "tomorrow"
+      ],
+      "dificultad": 1,
+      "categoria": "clima",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f105",
+      "es": "Te prometo que te compraré un regalo 🎁",
+      "en": "I promise I will buy you a gift.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "buy"
+      ],
+      "dificultad": 1,
+      "categoria": "regalos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f106",
+      "es": "Decidí que estudiaré más para el examen 📚",
+      "en": "I will study more for the exam.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "study",
+        "exam"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f107",
+      "es": "El gato atrapará el ratón 🐱",
+      "en": "The cat will catch the mouse.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "cat",
+        "catch"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f108",
+      "es": "Te prometo que siempre te apoyaré 💪",
+      "en": "I promise I will always support you.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "support"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f109",
+      "es": "Decidí que iré a nadar este fin de semana 🏊‍♂️",
+      "en": "I will go swimming this weekend.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "go",
+        "swimming"
+      ],
+      "dificultad": 1,
+      "categoria": "ocio",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f110",
+      "es": "El coche llegará pronto 🚗",
+      "en": "The car will arrive soon.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "car",
+        "arrive"
+      ],
+      "dificultad": 1,
+      "categoria": "transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f111",
+      "es": "Te prometo que te ayudaré con el proyecto 📝",
+      "en": "I promise I will help you with the project.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "help"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f112",
+      "es": "Decidí que compraré una bicicleta 🚲",
+      "en": "I will buy a bicycle.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "buy",
+        "bicycle"
+      ],
+      "dificultad": 1,
+      "categoria": "compras",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f113",
+      "es": "El sol brillará mañana ☀️",
+      "en": "The sun will shine tomorrow.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "sun",
+        "shine"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f114",
+      "es": "Te prometo que seré tu amigo para siempre 🤗",
+      "en": "I promise I will be your friend forever.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "friend"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f115",
+      "es": "Decidí que iré al cine esta noche 🎬",
+      "en": "I will go to the movies tonight.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "go",
+        "movies"
+      ],
+      "dificultad": 1,
+      "categoria": "ocio",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f116",
+      "es": "El perro ladrará cuando llegue el cartero 🐶",
+      "en": "The dog will bark when the mailman arrives.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "dog",
+        "bark"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f117",
+      "es": "Te prometo que nunca te dejaré solo 🥰",
+      "en": "I promise I will never leave you alone.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "leave"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f118",
+      "es": "Decidí que aprenderé a tocar la guitarra 🎸",
+      "en": "I will learn to play the guitar.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "learn",
+        "guitar"
+      ],
+      "dificultad": 1,
+      "categoria": "música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f119",
+      "es": "El clima será cálido este fin de semana 🌞",
+      "en": "The weather will be warm this weekend.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "weather",
+        "warm"
+      ],
+      "dificultad": 1,
+      "categoria": "clima",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f120",
+      "es": "Te prometo que siempre te escucharé 👂",
+      "en": "I promise I will always listen to you.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "listen"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f121",
+      "es": "El tren llegará a tiempo 🚆",
+      "en": "The train will arrive on time.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "train",
+        "arrive"
+      ],
+      "dificultad": 1,
+      "categoria": "transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f122",
+      "es": "Te prometo que siempre estaré aquí para ti 🤝",
+      "en": "I promise I will always be here for you.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "be"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f123",
+      "es": "Decidí que iré al cine esta noche 🎬",
+      "en": "I will go to the movies tonight.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "go",
+        "movies"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f124",
+      "es": "Mañana lloverá en la ciudad ☔",
+      "en": "It will rain in the city tomorrow.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "rain",
+        "city"
+      ],
+      "dificultad": 1,
+      "categoria": "clima",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f125",
+      "es": "Te prometo que te daré un regalo 🎁",
+      "en": "I promise I will give you a gift.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "give"
+      ],
+      "dificultad": 1,
+      "categoria": "regalos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f126",
+      "es": "Decidí que estudiaré más para el examen 📚",
+      "en": "I will study more for the exam.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "study",
+        "exam"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f127",
+      "es": "El gato atrapará el ratón 🐱",
+      "en": "The cat will catch the mouse.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "cat",
+        "catch"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f128",
+      "es": "Te prometo que te ayudaré a aprender inglés 🇬🇧",
+      "en": "I promise I will help you learn English.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "help"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f129",
+      "es": "Decidí que comeré pizza esta noche 🍕",
+      "en": "I will eat pizza tonight.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "eat",
+        "pizza"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f130",
+      "es": "El equipo ganará el partido 🏆",
+      "en": "The team will win the match.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "team",
+        "win"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f131",
+      "es": "Te prometo que siempre seré tu amigo 🤗",
+      "en": "I promise I will always be your friend.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "friend"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f132",
+      "es": "Decidí que visitaré a mis abuelos este fin de semana 👵👴",
+      "en": "I will visit my grandparents this weekend.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "visit",
+        "grandparents"
+      ],
+      "dificultad": 1,
+      "categoria": "familia",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f133",
+      "es": "El sol brillará mañana ☀️",
+      "en": "The sun will shine tomorrow.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "sun",
+        "shine"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f134",
+      "es": "Te prometo que te llevaré a la playa 🏖️",
+      "en": "I promise I will take you to the beach.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "take"
+      ],
+      "dificultad": 1,
+      "categoria": "viajes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f135",
+      "es": "Decidí que compraré un nuevo libro 📖",
+      "en": "I will buy a new book.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "buy",
+        "book"
+      ],
+      "dificultad": 1,
+      "categoria": "compras",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f136",
+      "es": "El perro encontrará su camino a casa 🐶",
+      "en": "The dog will find its way home.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "dog",
+        "find"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f137",
+      "es": "Te prometo que siempre te apoyaré 💪",
+      "en": "I promise I will always support you.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "support"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f138",
+      "es": "Decidí que practicaré deportes este verano 🏄",
+      "en": "I will play sports this summer.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "play",
+        "sports"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f139",
+      "es": "La luna brillará esta noche 🌙",
+      "en": "The moon will shine tonight.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "moon",
+        "shine"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f140",
+      "es": "Te prometo que seré puntual ⏰",
+      "en": "I promise I will be on time.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "be"
+      ],
+      "dificultad": 1,
+      "categoria": "tiempo",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f141",
+      "es": "El tren llegará a tiempo 🚆",
+      "en": "The train will arrive on time.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "train",
+        "arrive"
+      ],
+      "dificultad": 1,
+      "categoria": "transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f142",
+      "es": "Te prometo que siempre estaré aquí para ti 🤝",
+      "en": "I promise I will always be here for you.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "be"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f143",
+      "es": "Decidí que iré al cine esta noche 🎬",
+      "en": "I will go to the movies tonight.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "go",
+        "movies"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f144",
+      "es": "Mañana lloverá en la tarde ☔",
+      "en": "It will rain in the afternoon tomorrow.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "rain",
+        "afternoon"
+      ],
+      "dificultad": 1,
+      "categoria": "clima",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f145",
+      "es": "Te prometo que te daré un regalo 🎁",
+      "en": "I promise I will give you a gift.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "give"
+      ],
+      "dificultad": 1,
+      "categoria": "regalos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f146",
+      "es": "Decidí que aprenderé a tocar la guitarra 🎸",
+      "en": "I will learn to play the guitar.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "learn",
+        "guitar"
+      ],
+      "dificultad": 1,
+      "categoria": "música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f147",
+      "es": "El próximo año viajaré a España ✈️",
+      "en": "Next year, I will travel to Spain.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "travel",
+        "Spain"
+      ],
+      "dificultad": 1,
+      "categoria": "viajes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f148",
+      "es": "Te prometo que siempre te apoyaré 💪",
+      "en": "I promise I will always support you.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "support"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f149",
+      "es": "Decidí que haré mis deberes después de cenar 📚",
+      "en": "I will do my homework after dinner.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "do",
+        "homework"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f150",
+      "es": "El próximo mes comenzará la escuela 📅",
+      "en": "School will start next month.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "school",
+        "start"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f151",
+      "es": "Te prometo que seré tu amigo para siempre 🤗",
+      "en": "I promise I will be your friend forever.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "friend"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f152",
+      "es": "Decidí que comeré pizza esta noche 🍕",
+      "en": "I will eat pizza tonight.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "eat",
+        "pizza"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f153",
+      "es": "El sol brillará mañana por la mañana ☀️",
+      "en": "The sun will shine tomorrow morning.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "sun",
+        "shine"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f154",
+      "es": "Te prometo que te ayudaré con tu proyecto 🛠️",
+      "en": "I promise I will help you with your project.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "help"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f155",
+      "es": "Decidí que compraré un nuevo libro 📖",
+      "en": "I will buy a new book.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "buy",
+        "book"
+      ],
+      "dificultad": 1,
+      "categoria": "compras",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f156",
+      "es": "El gato atrapará el ratón 🐱",
+      "en": "The cat will catch the mouse.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "cat",
+        "catch"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f157",
+      "es": "Te prometo que nunca te dejaré solo 🙋‍♂️",
+      "en": "I promise I will never leave you alone.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "leave"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f158",
+      "es": "Decidí que jugaré videojuegos este fin de semana 🎮",
+      "en": "I will play video games this weekend.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "play",
+        "video games"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f159",
+      "es": "El equipo ganará el partido 🏆",
+      "en": "The team will win the match.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "team",
+        "win"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f160",
+      "es": "Te prometo que seré puntual ⏰",
+      "en": "I promise I will be on time.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "be"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f161",
+      "es": "El tren llegará a tiempo 🚂",
+      "en": "The train will arrive on time.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "train",
+        "arrive"
+      ],
+      "dificultad": 1,
+      "categoria": "transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f162",
+      "es": "Te prometo que siempre estaré aquí para ti 🤝",
+      "en": "I promise I will always be here for you.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "be"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f163",
+      "es": "Decidí que iré a la fiesta 🎉",
+      "en": "I will go to the party.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "go",
+        "party"
+      ],
+      "dificultad": 1,
+      "categoria": "ocio",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f164",
+      "es": "El clima será soleado este fin de semana ☀️",
+      "en": "The weather will be sunny this weekend.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "weather",
+        "sunny"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f165",
+      "es": "Te prometo que te compraré un regalo 🎁",
+      "en": "I promise I will buy you a gift.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "buy"
+      ],
+      "dificultad": 1,
+      "categoria": "regalos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f166",
+      "es": "Decidí que estudiaré más para el examen 📚",
+      "en": "I will study more for the exam.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "study",
+        "exam"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f167",
+      "es": "Los árboles florecerán en primavera 🌸",
+      "en": "The trees will bloom in spring.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "trees",
+        "bloom"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f168",
+      "es": "Te prometo que siempre seré tu amigo 🤗",
+      "en": "I promise I will always be your friend.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "friend"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f169",
+      "es": "Decidí que iré a nadar mañana 🏊‍♂️",
+      "en": "I will go swimming tomorrow.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "go",
+        "swimming"
+      ],
+      "dificultad": 1,
+      "categoria": "ocio",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f170",
+      "es": "El gato atrapará el ratón 🐱",
+      "en": "The cat will catch the mouse.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "cat",
+        "catch"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f171",
+      "es": "Te prometo que te ayudaré con el proyecto 📝",
+      "en": "I promise I will help you with the project.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "help"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f172",
+      "es": "Decidí que comeré pizza esta noche 🍕",
+      "en": "I will eat pizza tonight.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "eat",
+        "pizza"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f173",
+      "es": "La luna brillará esta noche 🌕",
+      "en": "The moon will shine tonight.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "moon",
+        "shine"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f174",
+      "es": "Te prometo que no te fallaré 🙌",
+      "en": "I promise I will not let you down.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "let down"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f175",
+      "es": "Decidí que aprenderé a tocar la guitarra 🎸",
+      "en": "I will learn to play the guitar.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "learn",
+        "guitar"
+      ],
+      "dificultad": 1,
+      "categoria": "música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f176",
+      "es": "Los pájaros cantarán en la mañana 🎶",
+      "en": "The birds will sing in the morning.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "birds",
+        "sing"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f177",
+      "es": "Te prometo que siempre te apoyaré 💪",
+      "en": "I promise I will always support you.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "support"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f178",
+      "es": "Decidí que iré a visitar a mis abuelos 👵👴",
+      "en": "I will visit my grandparents.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "visit",
+        "grandparents"
+      ],
+      "dificultad": 1,
+      "categoria": "familia",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f179",
+      "es": "Las flores crecerán en el jardín 🌼",
+      "en": "The flowers will grow in the garden.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "flowers",
+        "grow"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f180",
+      "es": "Te prometo que siempre seré honesto contigo 🤝",
+      "en": "I promise I will always be honest with you.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "honest"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f181",
+      "es": "El tren llegará a tiempo 🚆",
+      "en": "The train will arrive on time.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "train",
+        "arrive"
+      ],
+      "dificultad": 1,
+      "categoria": "transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f182",
+      "es": "Te prometo que siempre estaré aquí para ti 🤝",
+      "en": "I promise I will always be here for you.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "be"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f183",
+      "es": "Decidí que iré a la fiesta 🎉",
+      "en": "I will go to the party.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "go",
+        "party"
+      ],
+      "dificultad": 1,
+      "categoria": "ocio",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f184",
+      "es": "La lluvia comenzará más tarde 🌧️",
+      "en": "The rain will start later.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "rain",
+        "start"
+      ],
+      "dificultad": 1,
+      "categoria": "clima",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f185",
+      "es": "Te prometo que te compraré un regalo 🎁",
+      "en": "I promise I will buy you a gift.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "buy"
+      ],
+      "dificultad": 1,
+      "categoria": "regalos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f186",
+      "es": "Mañana estudiaré para el examen 📚",
+      "en": "I will study for the exam tomorrow.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "study",
+        "exam"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f187",
+      "es": "El gato atrapará el ratón 🐱",
+      "en": "The cat will catch the mouse.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "cat",
+        "catch"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f188",
+      "es": "Te prometo que siempre te apoyaré 💪",
+      "en": "I promise I will always support you.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "support"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f189",
+      "es": "Decidí que aprenderé a tocar la guitarra 🎸",
+      "en": "I will learn to play the guitar.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "learn",
+        "guitar"
+      ],
+      "dificultad": 1,
+      "categoria": "música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f190",
+      "es": "La película comenzará a las ocho 🎬",
+      "en": "The movie will start at eight.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "movie",
+        "start"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f191",
+      "es": "Te prometo que no te fallaré 🙏",
+      "en": "I promise I will not let you down.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "let down"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f192",
+      "es": "Decidí que iré a nadar este fin de semana 🏊‍♂️",
+      "en": "I will go swimming this weekend.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "go",
+        "swimming"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f193",
+      "es": "El perro ladrará si ve a un extraño 🐶",
+      "en": "The dog will bark if it sees a stranger.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "dog",
+        "bark"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f194",
+      "es": "Te prometo que siempre seré tu amigo 🤗",
+      "en": "I promise I will always be your friend.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "friend"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f195",
+      "es": "Decidí que comeré pizza esta noche 🍕",
+      "en": "I will eat pizza tonight.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "eat",
+        "pizza"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f196",
+      "es": "El sol saldrá mañana por la mañana ☀️",
+      "en": "The sun will rise tomorrow morning.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "sun",
+        "rise"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f197",
+      "es": "Te prometo que te ayudaré a estudiar 📖",
+      "en": "I promise I will help you study.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "help"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f198",
+      "es": "Decidí que visitaré a mis abuelos este fin de semana 👵👴",
+      "en": "I will visit my grandparents this weekend.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "visit",
+        "grandparents"
+      ],
+      "dificultad": 1,
+      "categoria": "familia",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f199",
+      "es": "El equipo ganará el partido ⚽",
+      "en": "The team will win the match.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "team",
+        "win"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f200",
+      "es": "Te prometo que siempre seré honesto contigo 🤝",
+      "en": "I promise I will always be honest with you.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "honest"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f201",
+      "es": "El tren llegará a tiempo 🚆",
+      "en": "The train will arrive on time.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "train",
+        "arrive"
+      ],
+      "dificultad": 1,
+      "categoria": "transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f202",
+      "es": "Te prometo que siempre estaré aquí para ti 🤝",
+      "en": "I promise I will always be here for you.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "be"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f203",
+      "es": "Decidí que iré al cine esta noche 🎬",
+      "en": "I will go to the movies tonight.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "go",
+        "movies"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f204",
+      "es": "Mañana lloverá en la ciudad 🌧️",
+      "en": "It will rain in the city tomorrow.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "rain",
+        "city"
+      ],
+      "dificultad": 1,
+      "categoria": "clima",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f205",
+      "es": "Te prometo que te compraré un regalo 🎁",
+      "en": "I promise I will buy you a gift.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "buy"
+      ],
+      "dificultad": 1,
+      "categoria": "regalos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f206",
+      "es": "Decidí que estudiaré más para el examen 📚",
+      "en": "I will study more for the exam.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "study",
+        "exam"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f207",
+      "es": "El equipo ganará el partido este fin de semana ⚽",
+      "en": "The team will win the match this weekend.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "team",
+        "win"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f208",
+      "es": "Te prometo que siempre te apoyaré 💪",
+      "en": "I promise I will always support you.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "support"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f209",
+      "es": "Decidí que haré una fiesta el sábado 🎉",
+      "en": "I will have a party on Saturday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "have",
+        "party"
+      ],
+      "dificultad": 1,
+      "categoria": "celebraciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f210",
+      "es": "El gato atrapará el ratón 🐱",
+      "en": "The cat will catch the mouse.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "cat",
+        "catch"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f211",
+      "es": "Te prometo que te ayudaré a aprender inglés 📖",
+      "en": "I promise I will help you learn English.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "help"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f212",
+      "es": "Decidí que iré a la playa este verano 🏖️",
+      "en": "I will go to the beach this summer.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "go",
+        "beach"
+      ],
+      "dificultad": 1,
+      "categoria": "vacaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f213",
+      "es": "El árbol crecerá más alto este año 🌳",
+      "en": "The tree will grow taller this year.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "tree",
+        "grow"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f214",
+      "es": "Te prometo que siempre seré tu amigo 🤗",
+      "en": "I promise I will always be your friend.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "friend"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f215",
+      "es": "Decidí que compraré una bicicleta 🚲",
+      "en": "I will buy a bicycle.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "buy",
+        "bicycle"
+      ],
+      "dificultad": 1,
+      "categoria": "compras",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f216",
+      "es": "El sol brillará mañana ☀️",
+      "en": "The sun will shine tomorrow.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "sun",
+        "shine"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f217",
+      "es": "Te prometo que te llevaré a la feria 🎡",
+      "en": "I promise I will take you to the fair.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "take"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f218",
+      "es": "Decidí que aprenderé a tocar la guitarra 🎸",
+      "en": "I will learn to play the guitar.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "decisión rápida",
+      "palabras_clave": [
+        "learn",
+        "guitar"
+      ],
+      "dificultad": 1,
+      "categoria": "música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f219",
+      "es": "El perro ladrará cuando llegue el cartero 🐶",
+      "en": "The dog will bark when the mailman arrives.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "predicción",
+      "palabras_clave": [
+        "dog",
+        "bark"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n11_f220",
+      "es": "Te prometo que siempre te escucharé 👂",
+      "en": "I promise I will always listen to you.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "promesa",
+      "palabras_clave": [
+        "promise",
+        "listen"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    }
+  ]
+}

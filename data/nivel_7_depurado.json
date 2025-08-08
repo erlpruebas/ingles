@@ -1,0 +1,3191 @@
+{
+  "metadata": {
+    "nivel": 7,
+    "descripcion": "Pasado simple negativo y preguntas",
+    "total_frases": 220,
+    "fecha_creacion": "2025-08-05T17:51:13.654036",
+    "version": "1.0"
+  },
+  "frases": [
+    {
+      "id": "n7_f002",
+      "es": "Nosotros no vimos la película el sábado 🎬🚫",
+      "en": "We did not watch the movie on Saturday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "watch",
+        "movie"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f003",
+      "es": "Ella no compró un regalo para su amigo 🎁🚫",
+      "en": "She did not buy a gift for her friend.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "buy",
+        "gift"
+      ],
+      "dificultad": 1,
+      "categoria": "Compras",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f005",
+      "es": "Yo no jugué videojuegos ayer 🎮🚫",
+      "en": "I did not play video games yesterday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "play",
+        "video games"
+      ],
+      "dificultad": 1,
+      "categoria": "Juegos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f006",
+      "es": "Mi hermana no leyó el libro la semana pasada 📚🚫",
+      "en": "My sister did not read the book last week.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "read",
+        "book"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f008",
+      "es": "Nosotros no hicimos la tarea anoche 📖🚫",
+      "en": "We did not do the homework last night.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "do",
+        "homework"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f009",
+      "es": "Ella no escuchó música el viernes 🎶🚫",
+      "en": "She did not listen to music on Friday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "listen",
+        "music"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f010",
+      "es": "Ellos no bailaron en la fiesta 🎉🚫",
+      "en": "They did not dance at the party.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "dance",
+        "party"
+      ],
+      "dificultad": 1,
+      "categoria": "Fiestas",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f011",
+      "es": "Yo no visité a mis abuelos el fin de semana pasado 👵👴🚫",
+      "en": "I did not visit my grandparents last weekend.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "visit",
+        "grandparents"
+      ],
+      "dificultad": 1,
+      "categoria": "Familia",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f012",
+      "es": "El niño no pintó un cuadro en la clase de arte 🎨🚫",
+      "en": "The boy did not paint a picture in art class.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "paint",
+        "picture"
+      ],
+      "dificultad": 1,
+      "categoria": "Arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f013",
+      "es": "Nosotros no comimos pizza anoche 🍕🚫",
+      "en": "We did not eat pizza last night.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "eat",
+        "pizza"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f014",
+      "es": "Ella no jugó con sus amigos el domingo 👫🚫",
+      "en": "She did not play with her friends on Sunday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "play",
+        "friends"
+      ],
+      "dificultad": 1,
+      "categoria": "Amistad",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f015",
+      "es": "El profesor no explicó la lección ayer 👨‍🏫🚫",
+      "en": "The teacher did not explain the lesson yesterday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "explain",
+        "lesson"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f016",
+      "es": "Ellos no compraron helado el sábado 🍦🚫",
+      "en": "They did not buy ice cream on Saturday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "buy",
+        "ice cream"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f017",
+      "es": "Yo no escribí una carta la semana pasada ✉️🚫",
+      "en": "I did not write a letter last week.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "write",
+        "letter"
+      ],
+      "dificultad": 1,
+      "categoria": "Comunicación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f018",
+      "es": "El niño no corrió en la carrera 🏃🚫",
+      "en": "The boy did not run in the race.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "run",
+        "race"
+      ],
+      "dificultad": 1,
+      "categoria": "Deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f019",
+      "es": "Nosotros no vimos el amanecer esta mañana 🌅🚫",
+      "en": "We did not see the sunrise this morning.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "see",
+        "sunrise"
+      ],
+      "dificultad": 1,
+      "categoria": "Naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f020",
+      "es": "Ella no tomó fotos en el viaje 📸🚫",
+      "en": "She did not take pictures on the trip.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "take",
+        "pictures"
+      ],
+      "dificultad": 1,
+      "categoria": "Viajes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f021",
+      "es": "El gato no comió su comida anoche 🐱🍽️",
+      "en": "The cat did not eat its food last night.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "cat",
+        "eat"
+      ],
+      "dificultad": 1,
+      "categoria": "Animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f022",
+      "es": "Nosotros no vimos la película el sábado 🎬❌",
+      "en": "We did not watch the movie on Saturday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "watch",
+        "movie"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f023",
+      "es": "Ella no fue a la fiesta el viernes 🎉🚫",
+      "en": "She did not go to the party on Friday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "go",
+        "party"
+      ],
+      "dificultad": 1,
+      "categoria": "Social",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f024",
+      "es": "Ellos no compraron regalos para Navidad 🎁❌",
+      "en": "They did not buy gifts for Christmas.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "buy",
+        "gifts"
+      ],
+      "dificultad": 1,
+      "categoria": "Celebraciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f025",
+      "es": "Yo no jugué videojuegos ayer 🎮🚫",
+      "en": "I did not play video games yesterday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "play",
+        "video games"
+      ],
+      "dificultad": 1,
+      "categoria": "Tecnología",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f026",
+      "es": "El perro no corrió en el parque esta mañana 🐶🏞️",
+      "en": "The dog did not run in the park this morning.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "dog",
+        "run"
+      ],
+      "dificultad": 1,
+      "categoria": "Animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f027",
+      "es": "Nosotros no escuchamos música en la clase 🎶❌",
+      "en": "We did not listen to music in class.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "listen",
+        "music"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f028",
+      "es": "Ella no leyó el libro la semana pasada 📚🚫",
+      "en": "She did not read the book last week.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "read",
+        "book"
+      ],
+      "dificultad": 1,
+      "categoria": "Literatura",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f029",
+      "es": "Ellos no hicieron la tarea anoche 📖❌",
+      "en": "They did not do the homework last night.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "do",
+        "homework"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f030",
+      "es": "Yo no compré helado el fin de semana 🍦🚫",
+      "en": "I did not buy ice cream over the weekend.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "buy",
+        "ice cream"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f031",
+      "es": "El niño no dibujó en su cuaderno ayer 🖍️❌",
+      "en": "The boy did not draw in his notebook yesterday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "draw",
+        "notebook"
+      ],
+      "dificultad": 1,
+      "categoria": "Arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f032",
+      "es": "Nosotros no viajamos el verano pasado ✈️🚫",
+      "en": "We did not travel last summer.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "travel",
+        "summer"
+      ],
+      "dificultad": 1,
+      "categoria": "Viajes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f033",
+      "es": "Ella no compró ropa nueva la semana pasada 👗❌",
+      "en": "She did not buy new clothes last week.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "buy",
+        "clothes"
+      ],
+      "dificultad": 1,
+      "categoria": "Moda",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f034",
+      "es": "El maestro no explicó la lección ayer 📚🚫",
+      "en": "The teacher did not explain the lesson yesterday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "explain",
+        "lesson"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f036",
+      "es": "Yo no vi a mis amigos el lunes pasado 👥🚫",
+      "en": "I did not see my friends last Monday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "see",
+        "friends"
+      ],
+      "dificultad": 1,
+      "categoria": "Social",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f037",
+      "es": "El perro no encontró su juguete ayer 🐕❌",
+      "en": "The dog did not find its toy yesterday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "find",
+        "toy"
+      ],
+      "dificultad": 1,
+      "categoria": "Animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f038",
+      "es": "Nosotros no hicimos un pastel el fin de semana 🎂🚫",
+      "en": "We did not make a cake over the weekend.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "make",
+        "cake"
+      ],
+      "dificultad": 1,
+      "categoria": "Cocina",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f039",
+      "es": "Ella no se despertó temprano esta mañana ⏰❌",
+      "en": "She did not wake up early this morning.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "wake up",
+        "early"
+      ],
+      "dificultad": 1,
+      "categoria": "Rutina",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f040",
+      "es": "Ellos no fueron al zoológico el mes pasado 🦁🚫",
+      "en": "They did not go to the zoo last month.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "go",
+        "zoo"
+      ],
+      "dificultad": 1,
+      "categoria": "Naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f041",
+      "es": "El gato no comió su comida anoche 🐱🍽️",
+      "en": "The cat did not eat its food last night.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "cat",
+        "eat"
+      ],
+      "dificultad": 1,
+      "categoria": "Animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f042",
+      "es": "Ella no fue a la fiesta el sábado 🎉🚫",
+      "en": "She did not go to the party on Saturday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "go",
+        "party"
+      ],
+      "dificultad": 1,
+      "categoria": "Social",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f043",
+      "es": "Nosotros no vimos la película ayer 🎬🚫",
+      "en": "We did not watch the movie yesterday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "watch",
+        "movie"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f044",
+      "es": "Ellos no escucharon música en la tarde 🎶🚫",
+      "en": "They did not listen to music in the afternoon.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "listen",
+        "music"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f045",
+      "es": "Mi hermano no jugó videojuegos el fin de semana 🎮🚫",
+      "en": "My brother did not play video games over the weekend.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "brother",
+        "play"
+      ],
+      "dificultad": 1,
+      "categoria": "Deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f046",
+      "es": "Ella no compró un regalo para su amigo 🎁🚫",
+      "en": "She did not buy a gift for her friend.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "buy",
+        "gift"
+      ],
+      "dificultad": 1,
+      "categoria": "Compras",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f047",
+      "es": "El profesor no explicó la lección ayer 📚🚫",
+      "en": "The teacher did not explain the lesson yesterday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "teacher",
+        "explain"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f048",
+      "es": "Nosotros no viajamos el verano pasado ✈️🚫",
+      "en": "We did not travel last summer.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "travel",
+        "summer"
+      ],
+      "dificultad": 1,
+      "categoria": "Viajes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f049",
+      "es": "Ellos no estudiaron para el examen 📖🚫",
+      "en": "They did not study for the exam.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "study",
+        "exam"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f050",
+      "es": "El perro no corrió en el parque 🐶🚫",
+      "en": "The dog did not run in the park.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "dog",
+        "run"
+      ],
+      "dificultad": 1,
+      "categoria": "Animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f051",
+      "es": "Ella no pintó el cuadro el mes pasado 🎨🚫",
+      "en": "She did not paint the picture last month.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "paint",
+        "picture"
+      ],
+      "dificultad": 1,
+      "categoria": "Arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f052",
+      "es": "Nosotros no hicimos la tarea anoche 📋🚫",
+      "en": "We did not do the homework last night.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "do",
+        "homework"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f053",
+      "es": "Ellos no compraron comida para la cena 🍽️🚫",
+      "en": "They did not buy food for dinner.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "buy",
+        "food"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f054",
+      "es": "Mi hermana no bailó en la fiesta 💃🚫",
+      "en": "My sister did not dance at the party.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "sister",
+        "dance"
+      ],
+      "dificultad": 1,
+      "categoria": "Social",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f055",
+      "es": "El niño no jugó en el patio 🏡🚫",
+      "en": "The boy did not play in the yard.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "boy",
+        "play"
+      ],
+      "dificultad": 1,
+      "categoria": "Niños",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f056",
+      "es": "Ella no leyó el libro la semana pasada 📖🚫",
+      "en": "She did not read the book last week.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "read",
+        "book"
+      ],
+      "dificultad": 1,
+      "categoria": "Literatura",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f057",
+      "es": "Nosotros no visitamos a nuestros abuelos el domingo 👵👴🚫",
+      "en": "We did not visit our grandparents on Sunday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "visit",
+        "grandparents"
+      ],
+      "dificultad": 1,
+      "categoria": "Familia",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f058",
+      "es": "El coche no arrancó esta mañana 🚗🚫",
+      "en": "The car did not start this morning.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "car",
+        "start"
+      ],
+      "dificultad": 1,
+      "categoria": "Transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f059",
+      "es": "Ella no se despertó temprano hoy ⏰🚫",
+      "en": "She did not wake up early today.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "wake up",
+        "early"
+      ],
+      "dificultad": 1,
+      "categoria": "Rutina",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f060",
+      "es": "Ellos no jugaron en el equipo el año pasado ⚽🚫",
+      "en": "They did not play on the team last year.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "play",
+        "team"
+      ],
+      "dificultad": 1,
+      "categoria": "Deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f061",
+      "es": "El gato no comió su comida ayer 🐱🍽️",
+      "en": "The cat did not eat its food yesterday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "cat",
+        "eat"
+      ],
+      "dificultad": 1,
+      "categoria": "Animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f062",
+      "es": "Nosotros no vimos la película el sábado 🎬🚫",
+      "en": "We did not watch the movie on Saturday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "watch",
+        "movie"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f063",
+      "es": "Ella no jugó con sus amigos la semana pasada 👧👫🚫",
+      "en": "She did not play with her friends last week.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "play",
+        "friends"
+      ],
+      "dificultad": 1,
+      "categoria": "Social",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f065",
+      "es": "Yo no compré un regalo para mi hermano 🎁🚫",
+      "en": "I did not buy a gift for my brother.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "buy",
+        "gift"
+      ],
+      "dificultad": 1,
+      "categoria": "Familia",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f066",
+      "es": "El profesor no explicó la lección ayer 📚🚫",
+      "en": "The teacher did not explain the lesson yesterday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "teacher",
+        "explain"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f067",
+      "es": "Mis padres no viajaron el año pasado ✈️🚫",
+      "en": "My parents did not travel last year.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "parents",
+        "travel"
+      ],
+      "dificultad": 1,
+      "categoria": "Familia",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f068",
+      "es": "Nosotros no comimos pizza anoche 🍕🚫",
+      "en": "We did not eat pizza last night.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "eat",
+        "pizza"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f069",
+      "es": "Ella no leyó el libro que le presté 📖🚫",
+      "en": "She did not read the book I lent her.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "read",
+        "book"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f070",
+      "es": "Ellos no escucharon música en la fiesta 🎶🚫",
+      "en": "They did not listen to music at the party.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "listen",
+        "music"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f071",
+      "es": "Yo no vi a mi amigo en el parque 🏞️🚫",
+      "en": "I did not see my friend at the park.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "see",
+        "friend"
+      ],
+      "dificultad": 1,
+      "categoria": "Social",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f072",
+      "es": "El perro no corrió en el jardín 🐶🚫",
+      "en": "The dog did not run in the garden.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "dog",
+        "run"
+      ],
+      "dificultad": 1,
+      "categoria": "Animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f073",
+      "es": "Nosotros no hicimos la tarea a tiempo ⏰🚫",
+      "en": "We did not do the homework on time.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "do",
+        "homework"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f074",
+      "es": "Ella no compró dulces en la tienda 🍬🚫",
+      "en": "She did not buy candy at the store.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "buy",
+        "candy"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f075",
+      "es": "Ellos no bailaron en la fiesta anoche 💃🚫",
+      "en": "They did not dance at the party last night.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "dance",
+        "party"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f076",
+      "es": "Yo no escribí en mi diario ayer 📓🚫",
+      "en": "I did not write in my diary yesterday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "write",
+        "diary"
+      ],
+      "dificultad": 1,
+      "categoria": "Personal",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f077",
+      "es": "El niño no pintó el dibujo en clase 🎨🚫",
+      "en": "The boy did not paint the drawing in class.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "paint",
+        "drawing"
+      ],
+      "dificultad": 1,
+      "categoria": "Arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f078",
+      "es": "Nosotros no jugamos videojuegos el fin de semana 🎮🚫",
+      "en": "We did not play video games over the weekend.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "play",
+        "video games"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f079",
+      "es": "Ella no llevó su mochila a la escuela 🎒🚫",
+      "en": "She did not take her backpack to school.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "take",
+        "backpack"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f080",
+      "es": "El coche no arrancó esta mañana 🚗🚫",
+      "en": "The car did not start this morning.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "car",
+        "start"
+      ],
+      "dificultad": 1,
+      "categoria": "Transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f081",
+      "es": "El gato no comió su comida anoche 🐱🍽️",
+      "en": "The cat did not eat its food last night.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "cat",
+        "eat"
+      ],
+      "dificultad": 1,
+      "categoria": "Animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f082",
+      "es": "Nosotros no vimos la película el sábado 🎬🚫",
+      "en": "We did not watch the movie on Saturday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "watch",
+        "movie"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f083",
+      "es": "Ella no compró un vestido nuevo 🛍️❌",
+      "en": "She did not buy a new dress.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "buy",
+        "dress"
+      ],
+      "dificultad": 1,
+      "categoria": "Moda",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f084",
+      "es": "Ellos no viajaron a la playa el verano pasado 🏖️✈️",
+      "en": "They did not travel to the beach last summer.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "travel",
+        "beach"
+      ],
+      "dificultad": 1,
+      "categoria": "Viajes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f085",
+      "es": "Yo no jugué videojuegos ayer 🎮🚫",
+      "en": "I did not play video games yesterday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "play",
+        "video games"
+      ],
+      "dificultad": 1,
+      "categoria": "Juegos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f087",
+      "es": "Nosotros no escuchamos música en la fiesta 🎶🚫",
+      "en": "We did not listen to music at the party.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "listen",
+        "music"
+      ],
+      "dificultad": 1,
+      "categoria": "Música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f088",
+      "es": "Ella no pintó el cuadro el mes pasado 🎨❌",
+      "en": "She did not paint the picture last month.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "paint",
+        "picture"
+      ],
+      "dificultad": 1,
+      "categoria": "Arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f089",
+      "es": "Ellos no corrieron en la carrera el domingo 🏃‍♂️🚫",
+      "en": "They did not run in the race on Sunday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "run",
+        "race"
+      ],
+      "dificultad": 1,
+      "categoria": "Deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f090",
+      "es": "Yo no hice mi cama esta mañana 🛏️❌",
+      "en": "I did not make my bed this morning.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "make",
+        "bed"
+      ],
+      "dificultad": 1,
+      "categoria": "Hogar",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f091",
+      "es": "Mi padre no cocinó la cena anoche 🍽️🚫",
+      "en": "My father did not cook dinner last night.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "cook",
+        "dinner"
+      ],
+      "dificultad": 1,
+      "categoria": "Cocina",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f092",
+      "es": "Nosotros no bailamos en la fiesta 🎉🚫",
+      "en": "We did not dance at the party.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "dance",
+        "party"
+      ],
+      "dificultad": 1,
+      "categoria": "Fiestas",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f093",
+      "es": "Ella no compró helado el fin de semana 🍦❌",
+      "en": "She did not buy ice cream over the weekend.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "buy",
+        "ice cream"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f094",
+      "es": "Ellos no visitaron a sus abuelos el domingo 👵👴🚫",
+      "en": "They did not visit their grandparents on Sunday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "visit",
+        "grandparents"
+      ],
+      "dificultad": 1,
+      "categoria": "Familia",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f095",
+      "es": "Yo no aprendí a nadar el verano pasado 🏊‍♂️❌",
+      "en": "I did not learn to swim last summer.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "learn",
+        "swim"
+      ],
+      "dificultad": 1,
+      "categoria": "Actividades",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f096",
+      "es": "Mi hermana no jugó con sus amigos el viernes 👫🚫",
+      "en": "My sister did not play with her friends on Friday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "play",
+        "friends"
+      ],
+      "dificultad": 1,
+      "categoria": "Social",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f097",
+      "es": "Nosotros no compramos entradas para el concierto 🎟️❌",
+      "en": "We did not buy tickets for the concert.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "buy",
+        "tickets"
+      ],
+      "dificultad": 1,
+      "categoria": "Eventos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f098",
+      "es": "Ella no usó su abrigo en invierno 🧥❌",
+      "en": "She did not wear her coat in winter.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "wear",
+        "coat"
+      ],
+      "dificultad": 1,
+      "categoria": "Ropa",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f099",
+      "es": "Ellos no hicieron ejercicio el lunes 🏋️‍♂️🚫",
+      "en": "They did not exercise on Monday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "exercise",
+        "Monday"
+      ],
+      "dificultad": 1,
+      "categoria": "Salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f100",
+      "es": "Yo no escribí una carta el mes pasado ✉️❌",
+      "en": "I did not write a letter last month.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "write",
+        "letter"
+      ],
+      "dificultad": 1,
+      "categoria": "Comunicación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f101",
+      "es": "El gato no comió su comida anoche 🐱🍽️",
+      "en": "The cat did not eat its food last night.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "cat",
+        "eat"
+      ],
+      "dificultad": 1,
+      "categoria": "Animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f102",
+      "es": "Nosotros no vimos la película ayer 🎬🚫",
+      "en": "We did not watch the movie yesterday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "watch",
+        "movie"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f103",
+      "es": "Ella no fue a la fiesta el sábado 🎉🚫",
+      "en": "She did not go to the party on Saturday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "go",
+        "party"
+      ],
+      "dificultad": 1,
+      "categoria": "Social",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f104",
+      "es": "Ellos no compraron dulces en la tienda 🍬🚫",
+      "en": "They did not buy candy at the store.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "buy",
+        "candy"
+      ],
+      "dificultad": 1,
+      "categoria": "Compras",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f105",
+      "es": "Yo no jugué videojuegos el fin de semana 🎮🚫",
+      "en": "I did not play video games over the weekend.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "play",
+        "video games"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f106",
+      "es": "El perro no corrió en el parque 🐶🚫",
+      "en": "The dog did not run in the park.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "dog",
+        "run"
+      ],
+      "dificultad": 1,
+      "categoria": "Animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f107",
+      "es": "Nosotros no hicimos la tarea anoche 📚🚫",
+      "en": "We did not do the homework last night.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "do",
+        "homework"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f108",
+      "es": "Ella no leyó el libro la semana pasada 📖🚫",
+      "en": "She did not read the book last week.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "read",
+        "book"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f109",
+      "es": "Ellos no escucharon música en el coche 🎶🚫",
+      "en": "They did not listen to music in the car.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "listen",
+        "music"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f110",
+      "es": "Yo no escribí en mi diario ayer 📓🚫",
+      "en": "I did not write in my diary yesterday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "write",
+        "diary"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f111",
+      "es": "El niño no dibujó en clase 🎨🚫",
+      "en": "The boy did not draw in class.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "boy",
+        "draw"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f112",
+      "es": "Nosotros no viajamos el verano pasado ✈️🚫",
+      "en": "We did not travel last summer.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "travel",
+        "summer"
+      ],
+      "dificultad": 1,
+      "categoria": "Viajes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f113",
+      "es": "Ella no compró ropa nueva el mes pasado 👗🚫",
+      "en": "She did not buy new clothes last month.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "buy",
+        "clothes"
+      ],
+      "dificultad": 1,
+      "categoria": "Compras",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f114",
+      "es": "El profesor no explicó la lección ayer 👨‍🏫🚫",
+      "en": "The teacher did not explain the lesson yesterday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "teacher",
+        "explain"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f115",
+      "es": "Ellos no jugaron en el parque el domingo 🌳🚫",
+      "en": "They did not play in the park on Sunday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "play",
+        "park"
+      ],
+      "dificultad": 1,
+      "categoria": "Deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f116",
+      "es": "Yo no vi a mis amigos el viernes 👥🚫",
+      "en": "I did not see my friends on Friday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "see",
+        "friends"
+      ],
+      "dificultad": 1,
+      "categoria": "Social",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f117",
+      "es": "El perro no encontró su juguete 🐕🚫",
+      "en": "The dog did not find its toy.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "dog",
+        "find"
+      ],
+      "dificultad": 1,
+      "categoria": "Animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f118",
+      "es": "Nosotros no escuchamos la radio esta mañana 📻🚫",
+      "en": "We did not listen to the radio this morning.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "listen",
+        "radio"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f119",
+      "es": "Ella no pintó el cuadro el año pasado 🎨🚫",
+      "en": "She did not paint the picture last year.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "paint",
+        "picture"
+      ],
+      "dificultad": 1,
+      "categoria": "Arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f120",
+      "es": "Ellos no hicieron un proyecto en clase 📊🚫",
+      "en": "They did not do a project in class.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "do",
+        "project"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f121",
+      "es": "El gato no comió su comida anoche 🐱🍽️",
+      "en": "The cat did not eat its food last night.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "cat",
+        "eat"
+      ],
+      "dificultad": 1,
+      "categoria": "Animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f122",
+      "es": "Ella no fue al cine el sábado 🎬🚫",
+      "en": "She did not go to the cinema on Saturday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "go",
+        "cinema"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f124",
+      "es": "Ellos no jugaron en el parque el domingo 🌳🚫",
+      "en": "They did not play in the park on Sunday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "play",
+        "park"
+      ],
+      "dificultad": 1,
+      "categoria": "Deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f125",
+      "es": "Mi hermano no compró un coche nuevo 🚗❌",
+      "en": "My brother did not buy a new car.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "brother",
+        "buy"
+      ],
+      "dificultad": 1,
+      "categoria": "Familia",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f126",
+      "es": "Ella no estudió para el examen 📚🚫",
+      "en": "She did not study for the exam.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "study",
+        "exam"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f127",
+      "es": "No hicimos la tarea anoche 📝❌",
+      "en": "We did not do the homework last night.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "do",
+        "homework"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f128",
+      "es": "Ellos no viajaron a la playa el verano pasado 🏖️🚫",
+      "en": "They did not travel to the beach last summer.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "travel",
+        "beach"
+      ],
+      "dificultad": 1,
+      "categoria": "Viajes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f129",
+      "es": "El perro no corrió en el parque 🐶🚫",
+      "en": "The dog did not run in the park.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "dog",
+        "run"
+      ],
+      "dificultad": 1,
+      "categoria": "Animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f130",
+      "es": "No compré un regalo para mi amigo 🎁❌",
+      "en": "I did not buy a gift for my friend.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "buy",
+        "gift"
+      ],
+      "dificultad": 1,
+      "categoria": "Regalos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f131",
+      "es": "Ella no bailó en la fiesta 🎉🚫",
+      "en": "She did not dance at the party.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "dance",
+        "party"
+      ],
+      "dificultad": 1,
+      "categoria": "Fiestas",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f132",
+      "es": "No escuché música ayer 🎶❌",
+      "en": "I did not listen to music yesterday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "listen",
+        "music"
+      ],
+      "dificultad": 1,
+      "categoria": "Música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f133",
+      "es": "No vi a mis amigos el fin de semana 👥❌",
+      "en": "I did not see my friends over the weekend.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "see",
+        "friends"
+      ],
+      "dificultad": 1,
+      "categoria": "Social",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f134",
+      "es": "El profesor no llegó a tiempo a clase 👨‍🏫🚫",
+      "en": "The teacher did not arrive on time to class.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "teacher",
+        "arrive"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f135",
+      "es": "No jugué videojuegos ayer 🎮❌",
+      "en": "I did not play video games yesterday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "play",
+        "video games"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f136",
+      "es": "No hice ejercicio la semana pasada 🏋️‍♂️❌",
+      "en": "I did not exercise last week.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "exercise",
+        "week"
+      ],
+      "dificultad": 1,
+      "categoria": "Salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f137",
+      "es": "No compré helado en la tienda 🍦❌",
+      "en": "I did not buy ice cream at the store.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "buy",
+        "ice cream"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f138",
+      "es": "No visité a mis abuelos el mes pasado 👵👴❌",
+      "en": "I did not visit my grandparents last month.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "visit",
+        "grandparents"
+      ],
+      "dificultad": 1,
+      "categoria": "Familia",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f139",
+      "es": "No hice la cama esta mañana 🛏️❌",
+      "en": "I did not make the bed this morning.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "make",
+        "bed"
+      ],
+      "dificultad": 1,
+      "categoria": "Hogar",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f140",
+      "es": "No leí el libro que me prestaste 📖❌",
+      "en": "I did not read the book you lent me.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "read",
+        "book"
+      ],
+      "dificultad": 1,
+      "categoria": "Literatura",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f141",
+      "es": "El gato no comió su comida anoche 🐱🚫",
+      "en": "The cat did not eat its food last night.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "cat",
+        "eat"
+      ],
+      "dificultad": 1,
+      "categoria": "Animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f142",
+      "es": "Nosotros no vimos la película el sábado 🎬🚫",
+      "en": "We did not watch the movie on Saturday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "watch",
+        "movie"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f143",
+      "es": "Ella no fue a la fiesta el viernes 🎉🚫",
+      "en": "She did not go to the party on Friday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "go",
+        "party"
+      ],
+      "dificultad": 1,
+      "categoria": "Social",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f144",
+      "es": "Ellos no jugaron videojuegos el domingo 🎮🚫",
+      "en": "They did not play video games on Sunday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "play",
+        "video games"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f145",
+      "es": "Yo no compré un regalo para mi amigo 🎁🚫",
+      "en": "I did not buy a gift for my friend.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "buy",
+        "gift"
+      ],
+      "dificultad": 1,
+      "categoria": "Regalos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f146",
+      "es": "El perro no corrió en el parque ayer 🐶🚫",
+      "en": "The dog did not run in the park yesterday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "dog",
+        "run"
+      ],
+      "dificultad": 1,
+      "categoria": "Animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f147",
+      "es": "Nosotros no hicimos la tarea anoche 📚🚫",
+      "en": "We did not do the homework last night.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "do",
+        "homework"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f148",
+      "es": "Ella no leyó el libro la semana pasada 📖🚫",
+      "en": "She did not read the book last week.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "read",
+        "book"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f149",
+      "es": "Ellos no viajaron a la playa el verano pasado 🏖️🚫",
+      "en": "They did not travel to the beach last summer.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "travel",
+        "beach"
+      ],
+      "dificultad": 1,
+      "categoria": "Viajes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f150",
+      "es": "Yo no escuché música ayer 🎶🚫",
+      "en": "I did not listen to music yesterday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "listen",
+        "music"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f151",
+      "es": "El maestro no explicó la lección ayer 👨‍🏫🚫",
+      "en": "The teacher did not explain the lesson yesterday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "teacher",
+        "explain"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f152",
+      "es": "Nosotros no bailamos en la fiesta el sábado 💃🚫",
+      "en": "We did not dance at the party on Saturday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "dance",
+        "party"
+      ],
+      "dificultad": 1,
+      "categoria": "Social",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f153",
+      "es": "Ella no pintó un cuadro el mes pasado 🎨🚫",
+      "en": "She did not paint a picture last month.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "paint",
+        "picture"
+      ],
+      "dificultad": 1,
+      "categoria": "Arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f154",
+      "es": "El niño no jugó con sus juguetes ayer 🧸🚫",
+      "en": "The boy did not play with his toys yesterday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "boy",
+        "play"
+      ],
+      "dificultad": 1,
+      "categoria": "Infantil",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f155",
+      "es": "Ellos no comieron pizza el viernes 🍕🚫",
+      "en": "They did not eat pizza on Friday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "eat",
+        "pizza"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f156",
+      "es": "Yo no vi a mis amigos el fin de semana 👥🚫",
+      "en": "I did not see my friends over the weekend.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "see",
+        "friends"
+      ],
+      "dificultad": 1,
+      "categoria": "Social",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f157",
+      "es": "El perro no encontró su hueso ayer 🦴🚫",
+      "en": "The dog did not find its bone yesterday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "dog",
+        "find"
+      ],
+      "dificultad": 1,
+      "categoria": "Animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f158",
+      "es": "Nosotros no compramos helado el domingo 🍦🚫",
+      "en": "We did not buy ice cream on Sunday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "buy",
+        "ice cream"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f159",
+      "es": "Ella no usó su abrigo el invierno pasado 🧥🚫",
+      "en": "She did not wear her coat last winter.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "wear",
+        "coat"
+      ],
+      "dificultad": 1,
+      "categoria": "Ropa",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f160",
+      "es": "Ellos no hicieron un proyecto para la clase 📊🚫",
+      "en": "They did not make a project for the class.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "make",
+        "project"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f161",
+      "es": "El gato no comió su comida anoche 🐱🚫",
+      "en": "The cat did not eat its food last night.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "cat",
+        "eat"
+      ],
+      "dificultad": 1,
+      "categoria": "Animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f162",
+      "es": "Nosotros no vimos la película el sábado 🎬🚫",
+      "en": "We did not watch the movie on Saturday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "watch",
+        "movie"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f163",
+      "es": "Ella no jugó con sus amigos ayer 🎮🚫",
+      "en": "She did not play with her friends yesterday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "play",
+        "friends"
+      ],
+      "dificultad": 1,
+      "categoria": "Social",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f164",
+      "es": "Él no compró un regalo para su hermana 🎁🚫",
+      "en": "He did not buy a gift for his sister.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "buy",
+        "gift"
+      ],
+      "dificultad": 1,
+      "categoria": "Familia",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f165",
+      "es": "Ellos no fueron a la playa el fin de semana 🏖️🚫",
+      "en": "They did not go to the beach over the weekend.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "go",
+        "beach"
+      ],
+      "dificultad": 1,
+      "categoria": "Viajes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f166",
+      "es": "Yo no estudié para el examen la semana pasada 📚🚫",
+      "en": "I did not study for the exam last week.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "study",
+        "exam"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f167",
+      "es": "La maestra no explicó la lección ayer 👩‍🏫🚫",
+      "en": "The teacher did not explain the lesson yesterday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "teacher",
+        "explain"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f168",
+      "es": "Mis padres no viajaron el verano pasado ✈️🚫",
+      "en": "My parents did not travel last summer.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "parents",
+        "travel"
+      ],
+      "dificultad": 1,
+      "categoria": "Familia",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f169",
+      "es": "El perro no corrió en el parque ayer 🐶🚫",
+      "en": "The dog did not run in the park yesterday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "dog",
+        "run"
+      ],
+      "dificultad": 1,
+      "categoria": "Animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f170",
+      "es": "Ella no compró helado en la tienda 🍦🚫",
+      "en": "She did not buy ice cream at the store.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "buy",
+        "ice cream"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f171",
+      "es": "Nosotros no escuchamos música anoche 🎶🚫",
+      "en": "We did not listen to music last night.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "listen",
+        "music"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f172",
+      "es": "Ellos no hicieron la tarea el viernes 📖🚫",
+      "en": "They did not do their homework on Friday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "do",
+        "homework"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f173",
+      "es": "Él no pintó el cuadro el mes pasado 🎨🚫",
+      "en": "He did not paint the picture last month.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "paint",
+        "picture"
+      ],
+      "dificultad": 1,
+      "categoria": "Arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f174",
+      "es": "Yo no compré libros en la feria 📚🚫",
+      "en": "I did not buy books at the fair.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "buy",
+        "books"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f175",
+      "es": "La familia no cenó en el restaurante 🍽️🚫",
+      "en": "The family did not have dinner at the restaurant.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "family",
+        "dinner"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f176",
+      "es": "Mis amigos no fueron al cine el domingo 🎥🚫",
+      "en": "My friends did not go to the cinema on Sunday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "friends",
+        "cinema"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f177",
+      "es": "Ella no bailó en la fiesta el sábado 💃🚫",
+      "en": "She did not dance at the party on Saturday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "dance",
+        "party"
+      ],
+      "dificultad": 1,
+      "categoria": "Social",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f178",
+      "es": "El niño no leyó el libro ayer 📖🚫",
+      "en": "The boy did not read the book yesterday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "boy",
+        "read"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f179",
+      "es": "Nosotros no jugamos en el parque el fin de semana 🏞️🚫",
+      "en": "We did not play in the park over the weekend.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "play",
+        "park"
+      ],
+      "dificultad": 1,
+      "categoria": "Deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f180",
+      "es": "Ellos no visitaron a sus abuelos el mes pasado 👵👴🚫",
+      "en": "They did not visit their grandparents last month.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "visit",
+        "grandparents"
+      ],
+      "dificultad": 1,
+      "categoria": "Familia",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f181",
+      "es": "El gato no comió su comida anoche 🐱🍽️",
+      "en": "The cat did not eat its food last night.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "cat",
+        "eat"
+      ],
+      "dificultad": 1,
+      "categoria": "Animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f182",
+      "es": "Nosotros no vimos la película el sábado 🎬🚫",
+      "en": "We did not watch the movie on Saturday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "watch",
+        "movie"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f183",
+      "es": "Ella no compró un regalo para su amigo 🎁🚫",
+      "en": "She did not buy a gift for her friend.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "buy",
+        "gift"
+      ],
+      "dificultad": 1,
+      "categoria": "Compras",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f184",
+      "es": "Ellos no viajaron a la playa el verano pasado 🏖️🚫",
+      "en": "They did not travel to the beach last summer.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "travel",
+        "beach"
+      ],
+      "dificultad": 1,
+      "categoria": "Viajes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f185",
+      "es": "Mi hermano no jugó videojuegos ayer 🎮🚫",
+      "en": "My brother did not play video games yesterday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "brother",
+        "play"
+      ],
+      "dificultad": 1,
+      "categoria": "Juegos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f186",
+      "es": "Yo no hice mi cama esta mañana 🛏️🚫",
+      "en": "I did not make my bed this morning.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "make",
+        "bed"
+      ],
+      "dificultad": 1,
+      "categoria": "Hogar",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f187",
+      "es": "Ellas no fueron a la fiesta el viernes 🎉🚫",
+      "en": "They did not go to the party on Friday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "go",
+        "party"
+      ],
+      "dificultad": 1,
+      "categoria": "Social",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f188",
+      "es": "El profesor no explicó la lección ayer 📚🚫",
+      "en": "The teacher did not explain the lesson yesterday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "teacher",
+        "explain"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f189",
+      "es": "Nosotros no escuchamos música en el coche 🚗🚫",
+      "en": "We did not listen to music in the car.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "listen",
+        "music"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f190",
+      "es": "Ella no pintó el cuadro el mes pasado 🎨🚫",
+      "en": "She did not paint the picture last month.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "paint",
+        "picture"
+      ],
+      "dificultad": 1,
+      "categoria": "Arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f191",
+      "es": "El perro no corrió en el parque ayer 🐶🚫",
+      "en": "The dog did not run in the park yesterday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "dog",
+        "run"
+      ],
+      "dificultad": 1,
+      "categoria": "Animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f192",
+      "es": "Yo no leí el libro la semana pasada 📖🚫",
+      "en": "I did not read the book last week.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "read",
+        "book"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f193",
+      "es": "Ellos no compraron comida para la cena 🍽️🚫",
+      "en": "They did not buy food for dinner.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "buy",
+        "food"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f194",
+      "es": "Mi hermana no jugó con sus amigos el fin de semana 👫🚫",
+      "en": "My sister did not play with her friends over the weekend.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "sister",
+        "play"
+      ],
+      "dificultad": 1,
+      "categoria": "Social",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f195",
+      "es": "Nosotros no hicimos un proyecto para la clase 📊🚫",
+      "en": "We did not do a project for class.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "do",
+        "project"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f196",
+      "es": "El niño no dibujó en su cuaderno ayer ✏️🚫",
+      "en": "The boy did not draw in his notebook yesterday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "boy",
+        "draw"
+      ],
+      "dificultad": 1,
+      "categoria": "Arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f197",
+      "es": "Ella no bailó en la fiesta el sábado 💃🚫",
+      "en": "She did not dance at the party on Saturday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "dance",
+        "party"
+      ],
+      "dificultad": 1,
+      "categoria": "Social",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f198",
+      "es": "Yo no compré helado el domingo 🍦🚫",
+      "en": "I did not buy ice cream on Sunday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "buy",
+        "ice cream"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f199",
+      "es": "Ellos no estudiaron para el examen la semana pasada 📚🚫",
+      "en": "They did not study for the exam last week.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "study",
+        "exam"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f200",
+      "es": "El perro no encontró su juguete ayer 🐕🚫",
+      "en": "The dog did not find its toy yesterday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "dog",
+        "find"
+      ],
+      "dificultad": 1,
+      "categoria": "Animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f201",
+      "es": "El gato no comió su comida anoche 🐱🍽️",
+      "en": "The cat did not eat its food last night.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "cat",
+        "eat"
+      ],
+      "dificultad": 1,
+      "categoria": "Animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f203",
+      "es": "Ella no compró un regalo para su amigo 🎁🚫",
+      "en": "She did not buy a gift for her friend.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "buy",
+        "gift"
+      ],
+      "dificultad": 1,
+      "categoria": "Compras",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f204",
+      "es": "Ellos no viajaron a la playa el verano pasado 🏖️🚫",
+      "en": "They did not travel to the beach last summer.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "travel",
+        "beach"
+      ],
+      "dificultad": 1,
+      "categoria": "Viajes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f205",
+      "es": "Yo no jugué videojuegos ayer 🎮🚫",
+      "en": "I did not play video games yesterday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "play",
+        "video games"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f206",
+      "es": "El profesor no explicó la lección ayer 📚🚫",
+      "en": "The teacher did not explain the lesson yesterday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "teacher",
+        "explain"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f207",
+      "es": "Mis amigos no llegaron a la fiesta a tiempo 🎉🚫",
+      "en": "My friends did not arrive at the party on time.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "friends",
+        "arrive"
+      ],
+      "dificultad": 1,
+      "categoria": "Social",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f208",
+      "es": "Ella no escuchó la música en la fiesta 🎶🚫",
+      "en": "She did not listen to the music at the party.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "listen",
+        "music"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f209",
+      "es": "El perro no corrió en el parque 🐶🚫",
+      "en": "The dog did not run in the park.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "dog",
+        "run"
+      ],
+      "dificultad": 1,
+      "categoria": "Animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f210",
+      "es": "Nosotros no comimos pizza anoche 🍕🚫",
+      "en": "We did not eat pizza last night.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "eat",
+        "pizza"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f211",
+      "es": "Ellos no estudiaron para el examen 📖🚫",
+      "en": "They did not study for the exam.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "study",
+        "exam"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f212",
+      "es": "Yo no vi a mis abuelos el fin de semana 👵👴🚫",
+      "en": "I did not see my grandparents over the weekend.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "see",
+        "grandparents"
+      ],
+      "dificultad": 1,
+      "categoria": "Familia",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f213",
+      "es": "Ella no pintó un cuadro en la clase de arte 🎨🚫",
+      "en": "She did not paint a picture in art class.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "paint",
+        "picture"
+      ],
+      "dificultad": 1,
+      "categoria": "Arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f214",
+      "es": "El niño no jugó en el parque ayer 🧒🚫",
+      "en": "The boy did not play in the park yesterday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "boy",
+        "play"
+      ],
+      "dificultad": 1,
+      "categoria": "Niños",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f215",
+      "es": "Nosotros no bailamos en la fiesta 🎉🚫",
+      "en": "We did not dance at the party.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "dance",
+        "party"
+      ],
+      "dificultad": 1,
+      "categoria": "Social",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f216",
+      "es": "Ella no leyó el libro que le presté 📖🚫",
+      "en": "She did not read the book I lent her.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "read",
+        "book"
+      ],
+      "dificultad": 1,
+      "categoria": "Literatura",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f217",
+      "es": "El coche no arrancó esta mañana 🚗🚫",
+      "en": "The car did not start this morning.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "car",
+        "start"
+      ],
+      "dificultad": 1,
+      "categoria": "Transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f218",
+      "es": "Ellos no compraron entradas para el concierto 🎟️🚫",
+      "en": "They did not buy tickets for the concert.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "buy",
+        "tickets"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f219",
+      "es": "Yo no hice mi cama esta mañana 🛏️🚫",
+      "en": "I did not make my bed this morning.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "make",
+        "bed"
+      ],
+      "dificultad": 1,
+      "categoria": "Hogar",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n7_f220",
+      "es": "Ella no se despertó temprano hoy ⏰🚫",
+      "en": "She did not wake up early today.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple negativo",
+      "palabras_clave": [
+        "wake up",
+        "early"
+      ],
+      "dificultad": 1,
+      "categoria": "Rutina",
+      "usada": false,
+      "fecha_uso": null
+    }
+  ]
+}

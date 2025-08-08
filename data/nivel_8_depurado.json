@@ -1,0 +1,3221 @@
+{
+  "metadata": {
+    "nivel": 8,
+    "descripcion": "Verbo 'to be' en pasado (was/were + preguntas/negaciones)",
+    "total_frases": 220,
+    "fecha_creacion": "2025-08-05T18:00:47.701653",
+    "version": "1.0"
+  },
+  "frases": [
+    {
+      "id": "n8_f001",
+      "es": "El perro estaba en el jardín 🐶🌳",
+      "en": "The dog was in the garden.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "dog",
+        "garden"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f002",
+      "es": "Las flores estaban hermosas en el campo 🌸🌼",
+      "en": "The flowers were beautiful in the field.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "flowers",
+        "field"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f003",
+      "es": "El coche estaba estacionado en la calle 🚗🏙️",
+      "en": "The car was parked on the street.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "car",
+        "street"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f004",
+      "es": "Los amigos estaban en la fiesta 🎉👫",
+      "en": "The friends were at the party.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "friends",
+        "party"
+      ],
+      "dificultad": 1,
+      "categoria": "social",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f005",
+      "es": "La casa estaba grande y bonita 🏠✨",
+      "en": "The house was big and beautiful.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "house",
+        "big"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f006",
+      "es": "Los pájaros estaban cantando en los árboles 🐦🌳",
+      "en": "The birds were singing in the trees.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "birds",
+        "trees"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f007",
+      "es": "El maestro estaba en la clase 👨‍🏫📚",
+      "en": "The teacher was in the classroom.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "teacher",
+        "classroom"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f008",
+      "es": "Los estudiantes estaban felices en el recreo 😄🏫",
+      "en": "The students were happy at recess.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "students",
+        "recess"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f009",
+      "es": "El gato estaba durmiendo en el sofá 🐱🛋️",
+      "en": "The cat was sleeping on the sofa.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "cat",
+        "sofa"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f010",
+      "es": "Las montañas estaban cubiertas de nieve 🏔️❄️",
+      "en": "The mountains were covered in snow.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "mountains",
+        "snow"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f011",
+      "es": "El teléfono estaba en la mesa 📱🛋️",
+      "en": "The phone was on the table.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "phone",
+        "table"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f012",
+      "es": "Los juguetes estaban en la caja 🧸📦",
+      "en": "The toys were in the box.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "toys",
+        "box"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f013",
+      "es": "El sol estaba brillando en el cielo ☀️🌤️",
+      "en": "The sun was shining in the sky.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "sun",
+        "sky"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f014",
+      "es": "Los peces estaban nadando en el acuario 🐟🏊‍♂️",
+      "en": "The fish were swimming in the aquarium.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "fish",
+        "aquarium"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f015",
+      "es": "La computadora estaba encendida 💻🔌",
+      "en": "The computer was on.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "computer",
+        "on"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f016",
+      "es": "Los libros estaban en la estantería 📚🗄️",
+      "en": "The books were on the shelf.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "books",
+        "shelf"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f017",
+      "es": "El reloj estaba en la pared ⏰🖼️",
+      "en": "The clock was on the wall.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "clock",
+        "wall"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f018",
+      "es": "Las nubes estaban blancas en el cielo ☁️🌤️",
+      "en": "The clouds were white in the sky.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "clouds",
+        "sky"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f019",
+      "es": "El tren estaba en la estación 🚆🚉",
+      "en": "The train was at the station.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "train",
+        "station"
+      ],
+      "dificultad": 1,
+      "categoria": "transportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f020",
+      "es": "Las galletas estaban deliciosas en la mesa 🍪🍽️",
+      "en": "The cookies were delicious on the table.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "cookies",
+        "table"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f021",
+      "es": "El perro estaba en el jardín 🐶🌳",
+      "en": "The dog was in the garden.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "dog",
+        "garden"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f022",
+      "es": "Las flores estaban hermosas en el campo 🌸🌼",
+      "en": "The flowers were beautiful in the field.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "flowers",
+        "field"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f023",
+      "es": "La casa estaba pintada de azul 🏠💙",
+      "en": "The house was painted blue.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "house",
+        "blue"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f024",
+      "es": "Los amigos estaban en la fiesta 🎉👫",
+      "en": "The friends were at the party.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "friends",
+        "party"
+      ],
+      "dificultad": 1,
+      "categoria": "social",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f025",
+      "es": "El coche estaba estacionado en la calle 🚗🛣️",
+      "en": "The car was parked on the street.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "car",
+        "street"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f026",
+      "es": "Los pájaros estaban cantando en los árboles 🐦🌳",
+      "en": "The birds were singing in the trees.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "birds",
+        "trees"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f027",
+      "es": "El maestro estaba en la clase 👨‍🏫📚",
+      "en": "The teacher was in the classroom.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "teacher",
+        "classroom"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f028",
+      "es": "Los estudiantes estaban felices en el recreo 😊🏫",
+      "en": "The students were happy at recess.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "students",
+        "recess"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f029",
+      "es": "La tortuga estaba en la playa 🐢🏖️",
+      "en": "The turtle was on the beach.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "turtle",
+        "beach"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f030",
+      "es": "Los libros estaban en la estantería 📚🛋️",
+      "en": "The books were on the shelf.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "books",
+        "shelf"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f031",
+      "es": "El sol estaba brillando en el cielo ☀️🌤️",
+      "en": "The sun was shining in the sky.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "sun",
+        "sky"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f032",
+      "es": "Las galletas estaban deliciosas en la mesa 🍪🍽️",
+      "en": "The cookies were delicious on the table.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "cookies",
+        "table"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f033",
+      "es": "La lámpara estaba encendida en la habitación 💡🛏️",
+      "en": "The lamp was on in the room.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "lamp",
+        "room"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f034",
+      "es": "Los juguetes estaban en la caja 🧸📦",
+      "en": "The toys were in the box.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "toys",
+        "box"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f035",
+      "es": "El tren estaba en la estación 🚆🚉",
+      "en": "The train was at the station.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "train",
+        "station"
+      ],
+      "dificultad": 1,
+      "categoria": "transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f036",
+      "es": "Las montañas estaban cubiertas de nieve 🏔️❄️",
+      "en": "The mountains were covered in snow.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "mountains",
+        "snow"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f037",
+      "es": "El reloj estaba en la pared ⏰🖼️",
+      "en": "The clock was on the wall.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "clock",
+        "wall"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f038",
+      "es": "Los peces estaban nadando en el acuario 🐟🏊‍♂️",
+      "en": "The fish were swimming in the aquarium.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "fish",
+        "aquarium"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f039",
+      "es": "La computadora estaba encendida en la oficina 💻🏢",
+      "en": "The computer was on in the office.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "computer",
+        "office"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f040",
+      "es": "Las estrellas estaban visibles en la noche 🌟🌙",
+      "en": "The stars were visible at night.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "stars",
+        "night"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f041",
+      "es": "El perro estaba en el jardín 🐶🌳",
+      "en": "The dog was in the garden.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "dog",
+        "garden"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f042",
+      "es": "Las flores estaban hermosas en el campo 🌸🌼",
+      "en": "The flowers were beautiful in the field.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "flowers",
+        "field"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f043",
+      "es": "La casa estaba grande y acogedora 🏠❤️",
+      "en": "The house was big and cozy.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "house",
+        "cozy"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f044",
+      "es": "Los amigos estaban felices en la fiesta 🎉😊",
+      "en": "The friends were happy at the party.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "friends",
+        "party"
+      ],
+      "dificultad": 1,
+      "categoria": "social",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f045",
+      "es": "El coche estaba rojo y rápido 🚗❤️",
+      "en": "The car was red and fast.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "car",
+        "fast"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f046",
+      "es": "Los libros estaban en la estantería 📚🛋️",
+      "en": "The books were on the shelf.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "books",
+        "shelf"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f047",
+      "es": "El gato estaba durmiendo en el sofá 🐱🛋️",
+      "en": "The cat was sleeping on the sofa.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "cat",
+        "sofa"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f048",
+      "es": "Los pájaros estaban cantando en la mañana 🐦🌅",
+      "en": "The birds were singing in the morning.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "birds",
+        "morning"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f049",
+      "es": "El maestro estaba en la clase 👨‍🏫📚",
+      "en": "The teacher was in the classroom.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "teacher",
+        "classroom"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f050",
+      "es": "Las montañas estaban cubiertas de nieve 🏔️❄️",
+      "en": "The mountains were covered in snow.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "mountains",
+        "snow"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f051",
+      "es": "El teléfono estaba en la mesa 📱🛋️",
+      "en": "The phone was on the table.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "phone",
+        "table"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f052",
+      "es": "Los estudiantes estaban en el patio 🏫🌳",
+      "en": "The students were in the courtyard.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "students",
+        "courtyard"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f053",
+      "es": "El sol estaba brillando en el cielo ☀️🌤️",
+      "en": "The sun was shining in the sky.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "sun",
+        "sky"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f054",
+      "es": "Las olas estaban altas en la playa 🌊🏖️",
+      "en": "The waves were high at the beach.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "waves",
+        "beach"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f055",
+      "es": "El reloj estaba en la pared ⏰🖼️",
+      "en": "The clock was on the wall.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "clock",
+        "wall"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f056",
+      "es": "Los peces estaban nadando en el acuario 🐟🏊‍♂️",
+      "en": "The fish were swimming in the aquarium.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "fish",
+        "aquarium"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f057",
+      "es": "El tren estaba en la estación 🚆🏙️",
+      "en": "The train was at the station.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "train",
+        "station"
+      ],
+      "dificultad": 1,
+      "categoria": "transportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f058",
+      "es": "Las galletas estaban deliciosas en la mesa 🍪😋",
+      "en": "The cookies were delicious on the table.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "cookies",
+        "table"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f059",
+      "es": "El jardín estaba lleno de mariposas 🦋🌺",
+      "en": "The garden was full of butterflies.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "garden",
+        "butterflies"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f060",
+      "es": "Los juguetes estaban en el suelo 🧸🛋️",
+      "en": "The toys were on the floor.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "toys",
+        "floor"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f061",
+      "es": "El perro estaba en el jardín 🐶🌳",
+      "en": "The dog was in the garden.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "dog",
+        "garden"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f062",
+      "es": "Las flores estaban hermosas en el campo 🌸🌼",
+      "en": "The flowers were beautiful in the field.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "flowers",
+        "field"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f063",
+      "es": "El coche estaba estacionado en la calle 🚗🏙️",
+      "en": "The car was parked on the street.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "car",
+        "street"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f064",
+      "es": "Los pájaros estaban cantando en los árboles 🐦🌳",
+      "en": "The birds were singing in the trees.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "birds",
+        "trees"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f065",
+      "es": "La casa estaba pintada de azul 🏠💙",
+      "en": "The house was painted blue.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "house",
+        "blue"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f066",
+      "es": "Los estudiantes estaban en la clase 📚👩‍🏫",
+      "en": "The students were in the classroom.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "students",
+        "classroom"
+      ],
+      "dificultad": 1,
+      "categoria": "lugares",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f067",
+      "es": "El gato estaba durmiendo en el sofá 🐱🛋️",
+      "en": "The cat was sleeping on the sofa.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "cat",
+        "sofa"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f068",
+      "es": "Las nubes estaban oscuras en el cielo ☁️🌧️",
+      "en": "The clouds were dark in the sky.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "clouds",
+        "sky"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f069",
+      "es": "El reloj estaba en la pared ⏰🖼️",
+      "en": "The clock was on the wall.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "clock",
+        "wall"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f070",
+      "es": "Los amigos estaban jugando en el parque 🎮🏞️",
+      "en": "The friends were playing in the park.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "friends",
+        "park"
+      ],
+      "dificultad": 1,
+      "categoria": "lugares",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f071",
+      "es": "La comida estaba deliciosa en la fiesta 🍕🎉",
+      "en": "The food was delicious at the party.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "food",
+        "party"
+      ],
+      "dificultad": 1,
+      "categoria": "eventos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f072",
+      "es": "Los libros estaban en la biblioteca 📚🏛️",
+      "en": "The books were in the library.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "books",
+        "library"
+      ],
+      "dificultad": 1,
+      "categoria": "lugares",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f073",
+      "es": "El sol estaba brillando en el cielo ☀️🌤️",
+      "en": "The sun was shining in the sky.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "sun",
+        "sky"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f074",
+      "es": "Las montañas estaban cubiertas de nieve 🏔️❄️",
+      "en": "The mountains were covered in snow.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "mountains",
+        "snow"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f075",
+      "es": "El tren estaba en la estación 🚆🚉",
+      "en": "The train was at the station.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "train",
+        "station"
+      ],
+      "dificultad": 1,
+      "categoria": "transportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f076",
+      "es": "Los juguetes estaban en la caja 🧸📦",
+      "en": "The toys were in the box.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "toys",
+        "box"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f077",
+      "es": "La película estaba muy interesante 🎬🍿",
+      "en": "The movie was very interesting.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "movie",
+        "interesting"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f078",
+      "es": "Los animales estaban en el zoológico 🦁🐒",
+      "en": "The animals were at the zoo.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "animals",
+        "zoo"
+      ],
+      "dificultad": 1,
+      "categoria": "lugares",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f080",
+      "es": "Las luces estaban apagadas en la casa 💡🏠",
+      "en": "The lights were off in the house.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "lights",
+        "house"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f081",
+      "es": "El perro estaba en el jardín 🐶🌳",
+      "en": "The dog was in the garden.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "dog",
+        "garden"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f082",
+      "es": "Las flores estaban en el campo 🌸🌼",
+      "en": "The flowers were in the field.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "flowers",
+        "field"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f084",
+      "es": "Los amigos estaban felices en la fiesta 🎉😊",
+      "en": "The friends were happy at the party.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "friends",
+        "party"
+      ],
+      "dificultad": 1,
+      "categoria": "social",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f085",
+      "es": "El coche estaba en el garaje 🚗🏠",
+      "en": "The car was in the garage.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "car",
+        "garage"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f086",
+      "es": "Los pájaros estaban cantando en la mañana 🐦🌅",
+      "en": "The birds were singing in the morning.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "birds",
+        "morning"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f087",
+      "es": "El profesor estaba en la clase 👨‍🏫📚",
+      "en": "The teacher was in the classroom.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "teacher",
+        "classroom"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f088",
+      "es": "Los estudiantes estaban en la biblioteca 📖🏫",
+      "en": "The students were in the library.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "students",
+        "library"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f089",
+      "es": "El gato estaba durmiendo en el sofá 🐱🛋️",
+      "en": "The cat was sleeping on the sofa.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "cat",
+        "sofa"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f090",
+      "es": "Las montañas estaban cubiertas de nieve 🏔️❄️",
+      "en": "The mountains were covered in snow.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "mountains",
+        "snow"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f091",
+      "es": "El reloj estaba en la pared ⏰🖼️",
+      "en": "The clock was on the wall.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "clock",
+        "wall"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f092",
+      "es": "Los juguetes estaban en la caja 🧸📦",
+      "en": "The toys were in the box.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "toys",
+        "box"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f093",
+      "es": "El sol estaba brillando en el cielo ☀️🌤️",
+      "en": "The sun was shining in the sky.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "sun",
+        "sky"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f094",
+      "es": "Los peces estaban nadando en el acuario 🐟🐠",
+      "en": "The fish were swimming in the aquarium.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "fish",
+        "aquarium"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f095",
+      "es": "La ventana estaba abierta 🌬️🪟",
+      "en": "The window was open.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "window",
+        "open"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f096",
+      "es": "Las nubes estaban blancas en el cielo ☁️☁️",
+      "en": "The clouds were white in the sky.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "clouds",
+        "sky"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f097",
+      "es": "El tren estaba en la estación 🚆🚉",
+      "en": "The train was at the station.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "train",
+        "station"
+      ],
+      "dificultad": 1,
+      "categoria": "transportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f098",
+      "es": "Los árboles estaban verdes en el parque 🌳🌲",
+      "en": "The trees were green in the park.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "trees",
+        "park"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f099",
+      "es": "El teléfono estaba en la mesa 📱🛋️",
+      "en": "The phone was on the table.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "phone",
+        "table"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f100",
+      "es": "Los libros estaban en la estantería 📚📚",
+      "en": "The books were on the shelf.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "books",
+        "shelf"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f101",
+      "es": "El perro estaba en el jardín 🐶🌳",
+      "en": "The dog was in the garden.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "dog",
+        "garden"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f102",
+      "es": "Las flores estaban hermosas en el campo 🌸🌼",
+      "en": "The flowers were beautiful in the field.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "flowers",
+        "field"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f103",
+      "es": "El coche estaba estacionado en la calle 🚗🏙️",
+      "en": "The car was parked on the street.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "car",
+        "street"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f104",
+      "es": "Los amigos estaban felices en la fiesta 🎉😊",
+      "en": "The friends were happy at the party.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "friends",
+        "party"
+      ],
+      "dificultad": 1,
+      "categoria": "emociones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f105",
+      "es": "La casa estaba grande y bonita 🏠✨",
+      "en": "The house was big and beautiful.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "house",
+        "big"
+      ],
+      "dificultad": 1,
+      "categoria": "lugares",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f106",
+      "es": "Los libros estaban en la biblioteca 📚🏛️",
+      "en": "The books were in the library.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "books",
+        "library"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f107",
+      "es": "El gato estaba durmiendo en el sofá 🐱🛋️",
+      "en": "The cat was sleeping on the sofa.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "cat",
+        "sofa"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f108",
+      "es": "Los estudiantes estaban en clase 📖🏫",
+      "en": "The students were in class.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "students",
+        "class"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f109",
+      "es": "El tren estaba a tiempo 🚆⏰",
+      "en": "The train was on time.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "train",
+        "time"
+      ],
+      "dificultad": 1,
+      "categoria": "transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f110",
+      "es": "Las montañas estaban cubiertas de nieve 🏔️❄️",
+      "en": "The mountains were covered in snow.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "mountains",
+        "snow"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f111",
+      "es": "El reloj estaba en la pared ⏰🖼️",
+      "en": "The clock was on the wall.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "clock",
+        "wall"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f112",
+      "es": "Los pájaros estaban cantando en los árboles 🐦🌳",
+      "en": "The birds were singing in the trees.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "birds",
+        "trees"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f113",
+      "es": "El helado estaba delicioso 🍦😋",
+      "en": "The ice cream was delicious.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "ice cream",
+        "delicious"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f114",
+      "es": "Los zapatos estaban en la tienda 👟🛍️",
+      "en": "The shoes were in the store.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "shoes",
+        "store"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f115",
+      "es": "La computadora estaba encendida 💻🔌",
+      "en": "The computer was on.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "computer",
+        "on"
+      ],
+      "dificultad": 1,
+      "categoria": "tecnología",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f116",
+      "es": "Los juguetes estaban en el suelo 🧸🧩",
+      "en": "The toys were on the floor.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "toys",
+        "floor"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f117",
+      "es": "El sol estaba brillando en el cielo ☀️🌤️",
+      "en": "The sun was shining in the sky.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "sun",
+        "sky"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f118",
+      "es": "Las galletas estaban recién horneadas 🍪🔥",
+      "en": "The cookies were freshly baked.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "cookies",
+        "baked"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f119",
+      "es": "El maestro estaba en la clase 👨‍🏫📚",
+      "en": "The teacher was in the classroom.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "teacher",
+        "classroom"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f120",
+      "es": "Los peces estaban nadando en el acuario 🐟🌊",
+      "en": "The fish were swimming in the aquarium.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "fish",
+        "aquarium"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f121",
+      "es": "El perro estaba en el jardín 🐶🌳",
+      "en": "The dog was in the garden.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "dog",
+        "garden"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f122",
+      "es": "Las flores estaban hermosas en el campo 🌸🌼",
+      "en": "The flowers were beautiful in the field.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "flowers",
+        "field"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f123",
+      "es": "El coche estaba estacionado en la calle 🚗🛣️",
+      "en": "The car was parked on the street.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "car",
+        "street"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f124",
+      "es": "Los amigos estaban felices en la fiesta 🎉😊",
+      "en": "The friends were happy at the party.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "friends",
+        "party"
+      ],
+      "dificultad": 1,
+      "categoria": "emociones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f125",
+      "es": "La casa estaba grande y bonita 🏠✨",
+      "en": "The house was big and beautiful.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "house",
+        "beautiful"
+      ],
+      "dificultad": 1,
+      "categoria": "lugares",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f126",
+      "es": "Los libros estaban en la biblioteca 📚🏛️",
+      "en": "The books were in the library.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "books",
+        "library"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f127",
+      "es": "El gato estaba durmiendo en el sofá 🐱🛋️",
+      "en": "The cat was sleeping on the sofa.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "cat",
+        "sofa"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f128",
+      "es": "Las montañas estaban cubiertas de nieve 🏔️❄️",
+      "en": "The mountains were covered in snow.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "mountains",
+        "snow"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f129",
+      "es": "El niño estaba jugando en el parque 🧒🏞️",
+      "en": "The boy was playing in the park.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "boy",
+        "park"
+      ],
+      "dificultad": 1,
+      "categoria": "actividades",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f130",
+      "es": "Las galletas estaban deliciosas en la mesa 🍪🍽️",
+      "en": "The cookies were delicious on the table.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "cookies",
+        "table"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f131",
+      "es": "El tren estaba a tiempo en la estación 🚆🕒",
+      "en": "The train was on time at the station.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "train",
+        "station"
+      ],
+      "dificultad": 1,
+      "categoria": "transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f132",
+      "es": "Los pájaros estaban cantando en los árboles 🐦🌳",
+      "en": "The birds were singing in the trees.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "birds",
+        "trees"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f133",
+      "es": "La maestra estaba enseñando en la clase 👩‍🏫📖",
+      "en": "The teacher was teaching in the classroom.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "teacher",
+        "classroom"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f134",
+      "es": "Los estudiantes estaban escuchando atentamente 🎓👂",
+      "en": "The students were listening attentively.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "students",
+        "listening"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f135",
+      "es": "El sol estaba brillando en el cielo ☀️🌤️",
+      "en": "The sun was shining in the sky.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "sun",
+        "sky"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f136",
+      "es": "Las olas estaban grandes en la playa 🌊🏖️",
+      "en": "The waves were big at the beach.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "waves",
+        "beach"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f138",
+      "es": "Las luces estaban apagadas en la habitación 💡🚪",
+      "en": "The lights were off in the room.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "lights",
+        "room"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f140",
+      "es": "Los zapatos estaban sucios después de jugar 👟🧼",
+      "en": "The shoes were dirty after playing.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "shoes",
+        "playing"
+      ],
+      "dificultad": 1,
+      "categoria": "ropa",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f141",
+      "es": "El perro estaba en el jardín 🐶🌳",
+      "en": "The dog was in the garden.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "dog",
+        "garden"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f142",
+      "es": "Las flores estaban hermosas en el campo 🌸🌼",
+      "en": "The flowers were beautiful in the field.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "flowers",
+        "field"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f143",
+      "es": "El coche estaba estacionado en la calle 🚗🛣️",
+      "en": "The car was parked on the street.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "car",
+        "street"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f144",
+      "es": "Los pájaros estaban cantando en los árboles 🐦🌳",
+      "en": "The birds were singing in the trees.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "birds",
+        "trees"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f145",
+      "es": "La casa estaba pintada de azul 🏠💙",
+      "en": "The house was painted blue.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "house",
+        "blue"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f146",
+      "es": "Los estudiantes estaban en la clase 📚👩‍🏫",
+      "en": "The students were in the classroom.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "students",
+        "classroom"
+      ],
+      "dificultad": 1,
+      "categoria": "lugares",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f147",
+      "es": "El gato estaba durmiendo en el sofá 🐱🛋️",
+      "en": "The cat was sleeping on the sofa.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "cat",
+        "sofa"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f148",
+      "es": "Las montañas estaban cubiertas de nieve 🏔️❄️",
+      "en": "The mountains were covered in snow.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "mountains",
+        "snow"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f149",
+      "es": "El reloj estaba en la pared ⏰🖼️",
+      "en": "The clock was on the wall.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "clock",
+        "wall"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f150",
+      "es": "Los amigos estaban jugando en el parque 🎮🌳",
+      "en": "The friends were playing in the park.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "friends",
+        "park"
+      ],
+      "dificultad": 1,
+      "categoria": "lugares",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f151",
+      "es": "El tren estaba a tiempo 🚆🕒",
+      "en": "The train was on time.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "train",
+        "time"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f152",
+      "es": "Las nubes estaban oscuras en el cielo ☁️🌌",
+      "en": "The clouds were dark in the sky.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "clouds",
+        "sky"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f153",
+      "es": "El niño estaba feliz en su cumpleaños 🎉👦",
+      "en": "The boy was happy on his birthday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "boy",
+        "birthday"
+      ],
+      "dificultad": 1,
+      "categoria": "emociones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f154",
+      "es": "Las galletas estaban deliciosas 🍪😋",
+      "en": "The cookies were delicious.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "cookies",
+        "delicious"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f155",
+      "es": "La película estaba emocionante 🎬😲",
+      "en": "The movie was exciting.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "movie",
+        "exciting"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f156",
+      "es": "Los juguetes estaban en la caja 🧸📦",
+      "en": "The toys were in the box.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "toys",
+        "box"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f157",
+      "es": "El sol estaba brillando en el cielo ☀️🌤️",
+      "en": "The sun was shining in the sky.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "sun",
+        "sky"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f158",
+      "es": "Las luces estaban encendidas en la fiesta 🎉💡",
+      "en": "The lights were on at the party.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "lights",
+        "party"
+      ],
+      "dificultad": 1,
+      "categoria": "eventos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f160",
+      "es": "Los libros estaban en la estantería 📚🛋️",
+      "en": "The books were on the shelf.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "books",
+        "shelf"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f161",
+      "es": "El perro estaba en el jardín 🐶🌳",
+      "en": "The dog was in the garden.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "dog",
+        "garden"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f162",
+      "es": "Los amigos estaban en la playa 🏖️👫",
+      "en": "The friends were at the beach.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "friends",
+        "beach"
+      ],
+      "dificultad": 1,
+      "categoria": "lugares",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f163",
+      "es": "La casa estaba pintada de azul 🏡💙",
+      "en": "The house was painted blue.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "house",
+        "blue"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f164",
+      "es": "Las flores estaban en el campo 🌼🌾",
+      "en": "The flowers were in the field.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "flowers",
+        "field"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f165",
+      "es": "El coche estaba estacionado afuera 🚗🏠",
+      "en": "The car was parked outside.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "car",
+        "outside"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f166",
+      "es": "Los estudiantes estaban en clase 📚👩‍🏫",
+      "en": "The students were in class.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "students",
+        "class"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f167",
+      "es": "El gato estaba durmiendo en el sofá 🐱🛋️",
+      "en": "The cat was sleeping on the sofa.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "cat",
+        "sofa"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f168",
+      "es": "Los árboles estaban llenos de hojas 🍃🌳",
+      "en": "The trees were full of leaves.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "trees",
+        "leaves"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f169",
+      "es": "El libro estaba en la estantería 📖📚",
+      "en": "The book was on the shelf.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "book",
+        "shelf"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f170",
+      "es": "Las galletas estaban en la mesa 🍪🍽️",
+      "en": "The cookies were on the table.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "cookies",
+        "table"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f171",
+      "es": "El sol estaba brillando en el cielo ☀️🌤️",
+      "en": "The sun was shining in the sky.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "sun",
+        "sky"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f172",
+      "es": "Los pájaros estaban cantando en los árboles 🐦🎶",
+      "en": "The birds were singing in the trees.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "birds",
+        "trees"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f173",
+      "es": "La niña estaba jugando en el parque 👧🏞️",
+      "en": "The girl was playing in the park.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "girl",
+        "park"
+      ],
+      "dificultad": 1,
+      "categoria": "niños",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f174",
+      "es": "Los juguetes estaban en la caja 🧸📦",
+      "en": "The toys were in the box.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "toys",
+        "box"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f175",
+      "es": "El reloj estaba en la pared ⏰🖼️",
+      "en": "The clock was on the wall.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "clock",
+        "wall"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f176",
+      "es": "Las montañas estaban cubiertas de nieve 🏔️❄️",
+      "en": "The mountains were covered in snow.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "mountains",
+        "snow"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f177",
+      "es": "El tren estaba en la estación 🚆🚉",
+      "en": "The train was at the station.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "train",
+        "station"
+      ],
+      "dificultad": 1,
+      "categoria": "transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f178",
+      "es": "Las estrellas estaban visibles en la noche 🌟🌌",
+      "en": "The stars were visible at night.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "stars",
+        "night"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f179",
+      "es": "El maestro estaba en la sala de clases 👨‍🏫📖",
+      "en": "The teacher was in the classroom.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "teacher",
+        "classroom"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f180",
+      "es": "Los peces estaban nadando en el acuario 🐟🐠",
+      "en": "The fish were swimming in the aquarium.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "fish",
+        "aquarium"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f181",
+      "es": "El perro estaba en el jardín 🐶🌳",
+      "en": "The dog was in the garden.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "dog",
+        "garden"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f182",
+      "es": "Las flores estaban hermosas en el campo 🌸🌼",
+      "en": "The flowers were beautiful in the field.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "flowers",
+        "field"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f183",
+      "es": "El coche estaba estacionado en la calle 🚗🏙️",
+      "en": "The car was parked on the street.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "car",
+        "street"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f184",
+      "es": "Los amigos estaban felices en la fiesta 🎉😊",
+      "en": "The friends were happy at the party.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "friends",
+        "party"
+      ],
+      "dificultad": 1,
+      "categoria": "emociones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f185",
+      "es": "La casa estaba grande y bonita 🏡✨",
+      "en": "The house was big and beautiful.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "house",
+        "big"
+      ],
+      "dificultad": 1,
+      "categoria": "lugares",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f186",
+      "es": "Los libros estaban en la biblioteca 📚🏛️",
+      "en": "The books were in the library.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "books",
+        "library"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f187",
+      "es": "El gato estaba durmiendo en el sofá 🐱🛋️",
+      "en": "The cat was sleeping on the sofa.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "cat",
+        "sofa"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f188",
+      "es": "Los estudiantes estaban en clase 📖🏫",
+      "en": "The students were in class.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "students",
+        "class"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f189",
+      "es": "El teléfono estaba en la mesa 📱🗄️",
+      "en": "The phone was on the table.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "phone",
+        "table"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f190",
+      "es": "Las computadoras estaban encendidas 💻🔌",
+      "en": "The computers were on.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "computers",
+        "on"
+      ],
+      "dificultad": 1,
+      "categoria": "tecnología",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f191",
+      "es": "El tren estaba a tiempo 🚆⏰",
+      "en": "The train was on time.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "train",
+        "time"
+      ],
+      "dificultad": 1,
+      "categoria": "transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f192",
+      "es": "Los árboles estaban verdes en el parque 🌳🌿",
+      "en": "The trees were green in the park.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "trees",
+        "park"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f193",
+      "es": "La comida estaba deliciosa 🍽️😋",
+      "en": "The food was delicious.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "food",
+        "delicious"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f194",
+      "es": "Los juguetes estaban en el suelo 🧸🪣",
+      "en": "The toys were on the floor.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "toys",
+        "floor"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f196",
+      "es": "Las ventanas estaban abiertas 🪟🌬️",
+      "en": "The windows were open.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "windows",
+        "open"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f197",
+      "es": "El sol estaba brillando ☀️🌞",
+      "en": "The sun was shining.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "sun",
+        "shining"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f198",
+      "es": "Los pájaros estaban cantando en los árboles 🐦🎶",
+      "en": "The birds were singing in the trees.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "birds",
+        "trees"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f199",
+      "es": "La playa estaba llena de gente 🏖️👥",
+      "en": "The beach was full of people.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "beach",
+        "people"
+      ],
+      "dificultad": 1,
+      "categoria": "lugares",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f200",
+      "es": "Los deportes estaban divertidos en la escuela 🏀🏫",
+      "en": "The sports were fun at school.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "sports",
+        "school"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f201",
+      "es": "El perro estaba en el jardín 🐶🌳",
+      "en": "The dog was in the garden.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "dog",
+        "garden"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f202",
+      "es": "Las flores estaban hermosas en el campo 🌸🌼",
+      "en": "The flowers were beautiful in the field.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "flowers",
+        "field"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f203",
+      "es": "La casa estaba pintada de azul 🏠💙",
+      "en": "The house was painted blue.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "house",
+        "blue"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f204",
+      "es": "Los amigos estaban felices en la fiesta 🎉😊",
+      "en": "The friends were happy at the party.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "friends",
+        "party"
+      ],
+      "dificultad": 1,
+      "categoria": "emociones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f205",
+      "es": "El coche estaba estacionado en la calle 🚗🛣️",
+      "en": "The car was parked on the street.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "car",
+        "street"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f206",
+      "es": "Los pájaros estaban cantando en los árboles 🐦🌳",
+      "en": "The birds were singing in the trees.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "birds",
+        "trees"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f207",
+      "es": "El niño estaba jugando en el parque 🧒🏞️",
+      "en": "The boy was playing in the park.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "boy",
+        "park"
+      ],
+      "dificultad": 1,
+      "categoria": "actividades",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f208",
+      "es": "Las galletas estaban deliciosas en la mesa 🍪🍽️",
+      "en": "The cookies were delicious on the table.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "cookies",
+        "table"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f209",
+      "es": "La película estaba emocionante 🎬😮",
+      "en": "The movie was exciting.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "movie",
+        "exciting"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f210",
+      "es": "Los estudiantes estaban en clase 📚🏫",
+      "en": "The students were in class.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "students",
+        "class"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f211",
+      "es": "El tren estaba a tiempo 🚆⏰",
+      "en": "The train was on time.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "train",
+        "time"
+      ],
+      "dificultad": 1,
+      "categoria": "transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f212",
+      "es": "Los libros estaban en la biblioteca 📖🏛️",
+      "en": "The books were in the library.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "books",
+        "library"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f213",
+      "es": "La tortuga estaba en la playa 🐢🏖️",
+      "en": "The turtle was on the beach.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "turtle",
+        "beach"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f214",
+      "es": "Los globos estaban flotando en el aire 🎈☁️",
+      "en": "The balloons were floating in the air.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "balloons",
+        "air"
+      ],
+      "dificultad": 1,
+      "categoria": "celebraciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f215",
+      "es": "El sol estaba brillando en el cielo ☀️🌤️",
+      "en": "The sun was shining in the sky.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "sun",
+        "sky"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f216",
+      "es": "Las montañas estaban cubiertas de nieve 🏔️❄️",
+      "en": "The mountains were covered in snow.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "mountains",
+        "snow"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f217",
+      "es": "El reloj estaba en la pared ⏰🖼️",
+      "en": "The clock was on the wall.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "clock",
+        "wall"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f218",
+      "es": "Las estrellas estaban visibles en la noche 🌟🌙",
+      "en": "The stars were visible at night.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "stars",
+        "night"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f219",
+      "es": "La comida estaba lista para servir 🍽️🍲",
+      "en": "The food was ready to serve.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa singular con 'was'",
+      "palabras_clave": [
+        "food",
+        "serve"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n8_f220",
+      "es": "Los juguetes estaban en la caja 🧸📦",
+      "en": "The toys were in the box.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa plural con 'were'",
+      "palabras_clave": [
+        "toys",
+        "box"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    }
+  ]
+}
