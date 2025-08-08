@@ -128,7 +128,6 @@
 <body>
 <h1>Curso de Inglés</h1>
 <p id="status"></p>
-<p id="debug-status" style="color:var(--accent);margin-top:0.5rem;font-size:0.9rem;"></p>
 
 <section><h2>Vocabulario</h2><p class="note">Copia 10&nbsp;veces cada palabra en tu cuaderno para aprenderlas.</p><div id="vocab-list"></div></section>
 <section><h2>Ejercicios</h2><p class="note">Traduce al inglés en tu cuaderno y, si encuentras palabras que no conoces, cópialas diez veces para aprenderlas.</p><div id="grammar-explanation" style="background:var(--surface);padding:1rem;border-radius:var(--rad);margin-bottom:1rem;border-left:4px solid var(--primary);"></div><div id="exercise-list"></div></section>
@@ -142,8 +141,8 @@
 </section>
 
 <button id="finish-btn">Dar por terminada la lección</button>
-<!-- Botón developer para generar 150 sesiones -->
-<!-- <button id="dev-run" style="position:fixed;bottom:18px;right:18px;z-index:3000;opacity:.25">DEBUG</button> -->
+<!-- Botón developer para generar 60 sesiones -->
+<button id="dev-run" style="position:fixed;bottom:18px;right:18px;z-index:3000;opacity:.25">RUN&nbsp;60</button>
 
 
 <section id="level-section" style="background:var(--surface);border-radius:var(--rad);padding:1rem 1.5rem;margin-bottom:2rem;box-shadow:0 4px 12px rgba(0,0,0,.5)">
@@ -269,86 +268,6 @@ const levels = [
   {id:25, nombre:'Nivel 25', descripcion:'Expresiones y conectores más complejos (although, however, despite...)'}
 ];
 
-// ===== NUEVO SISTEMA DE VOCABULARIO INTEGRADO =====
-
-// Cache para el diccionario completo traducido
-let diccionarioCompletoCache = null;
-
-// Cache para frases de ejercicios
-let frasesParaAppCache = null;
-
-// Cache para ejemplos de vocabulario
-let vocabularioCache = null;
-let ejemplosUsados = {};
-
-// Función para cargar el diccionario completo traducido
-async function cargarDiccionarioCompleto() {
-  if (diccionarioCompletoCache) {
-    return diccionarioCompletoCache;
-  }
-  
-  try {
-    const response = await fetch('data/diccionario_completo.json');
-    if (!response.ok) {
-      throw new Error('Error cargando diccionario completo');
-    }
-    const data = await response.json();
-    diccionarioCompletoCache = data;
-    return diccionarioCompletoCache;
-  } catch (error) {
-    console.error('Error cargando diccionario completo:', error);
-    // Fallback al diccionario original
-    return [
-      'hate', 'create', 'hot', 'year', 'write', 'evening', 'hard', 'read', 'drink', 'big', 'slow', 'talk', 'banana', 'friend', 'remember', 'never', 'morning', 'place', 'love', 'work', 'car', 'listen', 'late', 'child', 'pen', 'mother', 'quickly', 'cold', 'good', 'walk', 'know', 'time', 'help', 'easily', 'father', 'week', 'cut', 'well', 'sometimes', 'ugly', 'break', 'old', 'forget', 'build', 'day', 'sell', 'think', 'often', 'new', 'slowly', 'weak', 'understand', 'like', 'run', 'teacher', 'city', 'badly', 'country', 'dog', 'sad', 'young', 'month', 'cat', 'night', 'beautiful', 'small', 'play', 'fast', 'book', 'student', 'house', 'table', 'apple', 'sleep', 'always', 'study', 'tree', 'buy', 'learn', 'close', 'name', 'clean', 'strong', 'cook', 'watch', 'early', 'open', 'drive', 'make', 'happy', 'chair', 'school', 'name', 'eat', 'bad', 'name', 'open', 'place', 'fast', 'hot', 'old', 'pen', 'cut', 'fast', 'teacher', 'walk', 'slowly', 'play', 'car', 'month', 'week', 'remember', 'sleep', 'talk', 'week', 'easily', 'strong', 'build', 'country', 'cook', 'father', 'listen', 'sometimes', 'talk', 'drive', 'week', 'big', 'sometimes', 'build', 'mother', 'badly', 'table', 'cook', 'drink', 'fast', 'clean', 'tree', 'weak', 'beautiful', 'forget', 'like', 'happy', 'slow', 'dog', 'pen', 'help', 'cut', 'month', 'weak', 'slowly', 'quickly', 'evening', 'like', 'quickly', 'sometimes', 'sell', 'late', 'understand', 'eat', 'run', 'work', 'young', 'read', 'play', 'car', 'work', 'place', 'drink', 'big', 'week', 'big', 'forget', 'build', 'apple', 'cook', 'time', 'break', 'strong', 'walk', 'night', 'talk', 'listen', 'sad', 'old', 'sad', 'day', 'week', 'night', 'run', 'sometimes', 'dog', 'buy', 'month', 'read', 'early', 'make', 'friend', 'easily', 'build', 'slowly', 'weak', 'father', 'dog', 'pen', 'country', 'teacher', 'school', 'small', 'bad', 'hate', 'drink', 'pen', 'hot', 'good', 'day', 'know', 'walk', 'badly', 'slowly', 'apple', 'school', 'apple', 'break', 'apple', 'place', 'watch', 'morning', 'badly', 'learn', 'learn', 'quickly', 'sell', 'student', 'country', 'clean', 'close', 'night', 'teacher', 'cook', 'study', 'dog', 'make', 'badly', 'cat', 'early', 'close', 'big', 'play', 'old', 'strong', 'day', 'learn', 'chair', 'teacher', 'late', 'drive', 'cut', 'well', 'clean', 'well', 'young', 'late', 'make', 'listen', 'child', 'young', 'car', 'watch', 'ugly', 'well', 'think', 'write', 'early', 'forget', 'small', 'fast', 'cook', 'talk', 'school', 'slowly', 'like', 'talk', 'apple', 'write', 'understand', 'car', 'know', 'remember', 'hard', 'evening', 'forget', 'dog', 'year', 'create', 'school', 'weak', 'clean', 'help', 'year', 'build', 'cut', 'break', 'day', 'ugly', 'always', 'table', 'never', 'table', 'week', 'school', 'easily', 'well', 'eat', 'forget', 'love', 'mother', 'love', 'weak', 'good', 'hot', 'slow', 'listen', 'cold', 'drink', 'apple', 'new', 'open', 'happy', 'banana', 'work', 'child', 'think', 'read', 'hate', 'school', 'tree', 'dog', 'hard', 'evening', 'weak', 'work', 'buy', 'sleep', 'close', 'make', 'love', 'pen', 'open', 'father', 'badly', 'child', 'book', 'ugly', 'big', 'talk', 'fast', 'city', 'bad', 'think', 'sell', 'think', 'week', 'small', 'watch', 'buy', 'young', 'house', 'evening', 'dog', 'sleep', 'break', 'car', 'school', 'run', 'quickly', 'hot', 'cold', 'drive', 'friend', 'open', 'early', 'break', 'bad', 'morning', 'strong', 'break', 'often', 'always', 'house', 'new', 'sad', 'day', 'sad', 'talk', 'father', 'watch', 'small', 'love', 'month', 'banana', 'buy', 'remember', 'remember', 'tree', 'country', 'remember', 'easily', 'young', 'easily', 'sometimes', 'always', 'clean', 'beautiful', 'cold', 'day', 'close', 'make', 'run', 'new', 'clean', 'sell', 'talk', 'city', 'bad', 'watch', 'read', 'father', 'never', 'small', 'hard', 'mother', 'help', 'car', 'small', 'city', 'always', 'often', 'weak', 'happy', 'late', 'know', 'city', 'time', 'love', 'create', 'remember', 'sell', 'day', 'young', 'clean', 'listen', 'close', 'watch', 'always'
-    ];
-  }
-}
-
-// Función para cargar frases de ejercicios
-async function cargarFrasesParaApp() {
-  if (frasesParaAppCache) {
-    return frasesParaAppCache;
-  }
-  
-  try {
-    const response = await fetch('data/frases_para_app.json');
-    if (!response.ok) {
-      throw new Error('Error cargando frases para app');
-    }
-    const data = await response.json();
-    frasesParaAppCache = data;
-    return frasesParaAppCache;
-  } catch (error) {
-    console.error('Error cargando frases para app:', error);
-    return {};
-  }
-}
-
-// Función para cargar ejemplos de vocabulario
-async function cargarEjemplosVocabulario() {
-  if (vocabularioCache) {
-    return vocabularioCache;
-  }
-  
-  try {
-    const response = await fetch('data/vocabulario_ejemplos.json');
-    if (!response.ok) {
-      throw new Error('Error cargando ejemplos de vocabulario');
-    }
-    const data = await response.json();
-    vocabularioCache = data;
-    return vocabularioCache;
-  } catch (error) {
-    console.error('Error cargando ejemplos de vocabulario:', error);
-    return {};
-  }
-}
-
-// Diccionario total (mantener para compatibilidad)
-const totalDictionary = [
-  'hate', 'create', 'hot', 'year', 'write', 'evening', 'hard', 'read', 'drink', 'big', 'slow', 'talk', 'banana', 'friend', 'remember', 'never', 'morning', 'place', 'love', 'work', 'car', 'listen', 'late', 'child', 'pen', 'mother', 'quickly', 'cold', 'good', 'walk', 'know', 'time', 'help', 'easily', 'father', 'week', 'cut', 'well', 'sometimes', 'ugly', 'break', 'old', 'forget', 'build', 'day', 'sell', 'think', 'often', 'new', 'slowly', 'weak', 'understand', 'like', 'run', 'teacher', 'city', 'badly', 'country', 'dog', 'sad', 'young', 'month', 'cat', 'night', 'beautiful', 'small', 'play', 'fast', 'book', 'student', 'house', 'table', 'apple', 'sleep', 'always', 'study', 'tree', 'buy', 'learn', 'close', 'name', 'clean', 'strong', 'cook', 'watch', 'early', 'open', 'drive', 'make', 'happy', 'chair', 'school', 'name', 'eat', 'bad', 'name', 'open', 'place', 'fast', 'hot', 'old', 'pen', 'cut', 'fast', 'teacher', 'walk', 'slowly', 'play', 'car', 'month', 'week', 'remember', 'sleep', 'talk', 'week', 'easily', 'strong', 'build', 'country', 'cook', 'father', 'listen', 'sometimes', 'talk', 'drive', 'week', 'big', 'sometimes', 'build', 'mother', 'badly', 'table', 'cook', 'drink', 'fast', 'clean', 'tree', 'weak', 'beautiful', 'forget', 'like', 'happy', 'slow', 'dog', 'pen', 'help', 'cut', 'month', 'weak', 'slowly', 'quickly', 'evening', 'like', 'quickly', 'sometimes', 'sell', 'late', 'understand', 'eat', 'run', 'work', 'young', 'read', 'play', 'car', 'work', 'place', 'drink', 'big', 'week', 'big', 'forget', 'build', 'apple', 'cook', 'time', 'break', 'strong', 'walk', 'night', 'talk', 'listen', 'sad', 'old', 'sad', 'day', 'week', 'night', 'run', 'sometimes', 'dog', 'buy', 'month', 'read', 'early', 'make', 'friend', 'easily', 'build', 'slowly', 'weak', 'father', 'dog', 'pen', 'country', 'teacher', 'school', 'small', 'bad', 'hate', 'drink', 'pen', 'hot', 'good', 'day', 'know', 'walk', 'badly', 'slowly', 'apple', 'school', 'apple', 'break', 'apple', 'place', 'watch', 'morning', 'badly', 'learn', 'learn', 'quickly', 'sell', 'student', 'country', 'clean', 'close', 'night', 'teacher', 'cook', 'study', 'dog', 'make', 'badly', 'cat', 'early', 'close', 'big', 'play', 'old', 'strong', 'day', 'learn', 'chair', 'teacher', 'late', 'drive', 'cut', 'well', 'clean', 'well', 'young', 'late', 'make', 'listen', 'child', 'young', 'car', 'watch', 'ugly', 'well', 'think', 'write', 'early', 'forget', 'small', 'fast', 'cook', 'talk', 'school', 'slowly', 'like', 'talk', 'apple', 'write', 'understand', 'car', 'know', 'remember', 'hard', 'evening', 'forget', 'dog', 'year', 'create', 'school', 'weak', 'clean', 'help', 'year', 'build', 'cut', 'break', 'day', 'ugly', 'always', 'table', 'never', 'table', 'week', 'school', 'easily', 'well', 'eat', 'forget', 'love', 'mother', 'love', 'weak', 'good', 'hot', 'slow', 'listen', 'cold', 'drink', 'apple', 'new', 'open', 'happy', 'banana', 'work', 'child', 'think', 'read', 'hate', 'school', 'tree', 'dog', 'hard', 'evening', 'weak', 'work', 'buy', 'sleep', 'close', 'make', 'love', 'pen', 'open', 'father', 'badly', 'child', 'book', 'ugly', 'big', 'talk', 'fast', 'city', 'bad', 'think', 'sell', 'think', 'week', 'small', 'watch', 'buy', 'young', 'house', 'evening', 'dog', 'sleep', 'break', 'car', 'school', 'run', 'quickly', 'hot', 'cold', 'drive', 'friend', 'open', 'early', 'break', 'bad', 'morning', 'strong', 'break', 'often', 'always', 'house', 'new', 'sad', 'day', 'sad', 'talk', 'father', 'watch', 'small', 'love', 'month', 'banana', 'buy', 'remember', 'remember', 'tree', 'country', 'remember', 'easily', 'young', 'easily', 'sometimes', 'always', 'clean', 'beautiful', 'cold', 'day', 'close', 'make', 'run', 'new', 'clean', 'sell', 'talk', 'city', 'bad', 'watch', 'read', 'father', 'never', 'small', 'hard', 'mother', 'help', 'car', 'small', 'city', 'always', 'often', 'weak', 'happy', 'late', 'know', 'city', 'time', 'love', 'create', 'remember', 'sell', 'day', 'young', 'clean', 'listen', 'close', 'watch', 'always'
-];
-
 /* ---------- referencias DOM ---------- */
 const vocabEl=document.getElementById('vocab-list');
 const exEl=document.getElementById('exercise-list');
@@ -384,14 +303,7 @@ function setStatus(msg){
   }
 }
 
-function setDebugStatus(msg) {
-  const debugStatusEl = document.getElementById('debug-status');
-  if (debugStatusEl) {
-    debugStatusEl.textContent = msg;
-  }
-}
-
-function setStatusWithTimer(msg, extraInfo = '') {
+function setStatusWithTimer(msg) {
   // Limpiar timer anterior si existe
   if (statusTimer) {
     clearInterval(statusTimer);
@@ -399,12 +311,10 @@ function setStatusWithTimer(msg, extraInfo = '') {
   }
   
   let seconds = 0;
-  const fullMsg = extraInfo ? `${msg} - ${extraInfo} (0s)` : `${msg} (0s)`;
-  statusEl.textContent = fullMsg;
+  statusEl.textContent = `${msg} (0s)`;
   statusTimer = setInterval(() => {
     seconds++;
-    const fullMsg = extraInfo ? `${msg} - ${extraInfo} (${seconds}s)` : `${msg} (${seconds}s)`;
-    statusEl.textContent = fullMsg;
+    statusEl.textContent = `${msg} (${seconds}s)`;
   }, 1000);
 }
 
@@ -607,175 +517,29 @@ async function speak(el,txt){
 const speakIcon=t=>` <span class="speak" data-text="${t}">🔊</span>`;
 
 /* ---------- generación de datos ---------- */
-async function fetchNewWords(isDebugMode = false, debugInfo = ''){
-  setStatusWithTimer('🔎 Seleccionando palabras…', debugInfo);
-  
-  // Cargar diccionario completo traducido
-  const diccionarioCompleto = await cargarDiccionarioCompleto();
-  
-  // Obtener palabras ya usadas del diccionario local
-  const usedWords = new Set(dictionary.map(w => w.en.toLowerCase()));
-  
-  // Filtrar palabras disponibles del diccionario traducido
-  const availableWords = diccionarioCompleto.filter(word => 
-    !usedWords.has(word.en.toLowerCase())
-  );
-  
-  // Si no hay suficientes palabras disponibles, resetear el diccionario local
-  if (availableWords.length < 10) {
-    console.warn('Pocas palabras disponibles, reseteando diccionario local');
-    dictionary = [];
-    localStorage.setItem(DICT_KEY, JSON.stringify(dictionary));
-    return fetchNewWords(isDebugMode, debugInfo); // Llamada recursiva
-  }
-  
-  // Seleccionar 10 palabras aleatorias
-  const selectedWords = [];
-  const shuffled = [...availableWords].sort(() => Math.random() - 0.5);
-  
-  for (let i = 0; i < 10 && i < shuffled.length; i++) {
-    selectedWords.push(shuffled[i]);
-  }
-  
-  // Cargar ejemplos de vocabulario si no están cargados
-  if (!vocabularioCache) {
-    await cargarEjemplosVocabulario();
-  }
-  
-  // Crear vocabulario con ejemplos mejorados
-  const vocabulario = selectedWords.map(word => {
-    const ejemplo = obtenerEjemploVocabulario(word.en);
-    return {
-      en: word.en,
-      es: word.es,
-      ej_en: ejemplo.ej_en,
-      ej_es: ejemplo.ej_es
-    };
-  });
-  
-  return vocabulario;
-}
-
-// ===== SISTEMA DE FRASES LOCALES =====
-
-// Cache para frases cargadas
-let frasesCache = {};
-
-// Función para cargar frases de un nivel específico
-async function cargarFrasesNivel(nivelId) {
-  if (frasesCache[nivelId]) {
-    return frasesCache[nivelId];
-  }
-  
-  try {
-    const response = await fetch(`data/nivel_${nivelId}_depurado.json`);
-    if (!response.ok) {
-      throw new Error(`Error cargando frases del nivel ${nivelId}`);
+async function fetchNewWords(){
+  setStatusWithTimer('🔎 Obteniendo palabras…');
+  // Limitar a las últimas 50 palabras para evitar prompts excesivos
+  const recentWords = dictionary.slice(-50).map(w=>w.en).join(', ');
+  const prompt=`Genera 10 palabras útiles del día a día en inglés y español. Devuelve SOLO JSON: {"vocabulario":[{"en":"palabra","es":"traducción"}]}. No uses estas palabras: ${recentWords}.`;
+  for(let i=0;i<3;i++){
+    try {
+      const obj=safeJSON(await askOpenAI(prompt));
+      if(obj?.vocabulario?.length===10){
+        const arr=obj.vocabulario.map(o=>({en:o.en.trim(),es:o.es.trim()})).filter(w=>w.en&&w.es);
+        if(arr.length===10) return arr;
+      }
+    } catch (e) {
+      console.error(`Intento ${i+1} falló:`, e);
+      if (i === 2) throw new Error('No se pudieron obtener palabras del vocabulario');
     }
-    const data = await response.json();
-    frasesCache[nivelId] = data.frases || [];
-    return frasesCache[nivelId];
-  } catch (error) {
-    console.error(`Error cargando frases del nivel ${nivelId}:`, error);
-    return [];
   }
+  throw new Error('No se obtuvieron 10 palabras válidas');
 }
 
-// Función para obtener frases no usadas de un nivel
-function obtenerFrasesNoUsadas(nivelId, frases) {
-  const frasesUsadas = JSON.parse(localStorage.getItem(`frases_usadas_nivel_${nivelId}`) || '[]');
-  const frasesDisponibles = frases.filter(frase => !frasesUsadas.includes(frase.id));
-  
-  // Si no hay frases disponibles, resetear el nivel
-  if (frasesDisponibles.length === 0) {
-    localStorage.removeItem(`frases_usadas_nivel_${nivelId}`);
-    return frases; // Devolver todas las frases
-  }
-  
-  return frasesDisponibles;
-}
-
-// Función para marcar frase como usada
-function marcarFraseUsada(nivelId, fraseId) {
-  const frasesUsadas = JSON.parse(localStorage.getItem(`frases_usadas_nivel_${nivelId}`) || '[]');
-  if (!frasesUsadas.includes(fraseId)) {
-    frasesUsadas.push(fraseId);
-    localStorage.setItem(`frases_usadas_nivel_${nivelId}`, JSON.stringify(frasesUsadas));
-  }
-}
-
-// Función para seleccionar frases aleatorias
-function seleccionarFrasesAleatorias(frases, cantidad) {
-  const frasesAleatorias = [];
-  const frasesTemp = [...frases];
-  
-  for (let i = 0; i < cantidad && frasesTemp.length > 0; i++) {
-    const indiceAleatorio = Math.floor(Math.random() * frasesTemp.length);
-    frasesAleatorias.push(frasesTemp[indiceAleatorio]);
-    frasesTemp.splice(indiceAleatorio, 1);
-  }
-  
-  return frasesAleatorias;
-}
-
-// ===== SISTEMA DE EJEMPLOS DE VOCABULARIO =====
-
-// Función para cargar ejemplos de vocabulario (actualizada)
-async function cargarEjemplosVocabulario() {
-  if (vocabularioCache) {
-    return vocabularioCache;
-  }
-  
-  try {
-    const response = await fetch('data/vocabulario_ejemplos.json');
-    if (!response.ok) {
-      throw new Error('Error cargando ejemplos de vocabulario');
-    }
-    const data = await response.json();
-    vocabularioCache = data; // Usar data directamente, no data.ejemplos
-    return vocabularioCache;
-  } catch (error) {
-    console.error('Error cargando ejemplos de vocabulario:', error);
-    return {};
-  }
-}
-
-// Función para obtener ejemplo de vocabulario no usado
-function obtenerEjemploVocabulario(palabra) {
-  const ejemplosVocab = vocabularioCache[palabra];
-  
-  if (!ejemplosVocab || !ejemplosVocab.ejemplos) {
-    // Fallback al ejemplo básico
-    return {
-      ej_en: `Example with ${palabra}`,
-      ej_es: `Ejemplo con ${ejemplosVocab?.palabra_es || palabra} 😊`
-    };
-  }
-  
-  // Obtener ejemplos usados para esta palabra
-  const usados = JSON.parse(localStorage.getItem(`vocab_usado_${palabra}`) || '[]');
-  const ejemplosDisponibles = ejemplosVocab.ejemplos.filter((_, index) => !usados.includes(index));
-  
-  // Si no hay ejemplos disponibles, resetear
-  if (ejemplosDisponibles.length === 0) {
-    localStorage.removeItem(`vocab_usado_${palabra}`);
-    return ejemplosVocab.ejemplos[Math.floor(Math.random() * ejemplosVocab.ejemplos.length)];
-  }
-  
-  // Seleccionar ejemplo aleatorio disponible
-  const indiceAleatorio = Math.floor(Math.random() * ejemplosDisponibles.length);
-  const ejemploSeleccionado = ejemplosDisponibles[indiceAleatorio];
-  
-  // Marcar como usado
-  const indiceOriginal = ejemplosVocab.ejemplos.indexOf(ejemploSeleccionado);
-  usados.push(indiceOriginal);
-  localStorage.setItem(`vocab_usado_${palabra}`, JSON.stringify(usados));
-  
-  return ejemploSeleccionado;
-}
-
-async function fetchLesson(words, isDebugMode = false, debugInfo = ''){
-  setStatusWithTimer('🛠️ Cargando ejercicios…', debugInfo);
+async function fetchLesson(words){
+  setStatusWithTimer('🛠️ Generando ejercicios…');
+  const listado=words.map(w=>`${w.en}:${w.es}`).join(', ');
   
   // Generar explicación gramatical (con manejo de errores)
   let grammarExplanation = '';
@@ -787,75 +551,112 @@ async function fetchLesson(words, isDebugMode = false, debugInfo = ''){
     grammarExplanation = `Gramática del nivel ${nivel}: ${levels[nivel-1].descripcion}`;
   }
 
-  // Cargar frases de ejercicios según el modo
-  let ejercicios = [];
+  // === PROMPT MEJORADO con las tres estrategias ====================
+  let grammarPoints = [];
+  if (modoEnfocado) {
+    // Solo nivel actual
+    grammarPoints = [levels[nivel - 1].descripcion];
+  } else {
+    // Últimos 3 niveles (incluyendo el actual)
+    grammarPoints = [
+      levels[nivel - 1].descripcion,                 // nivel actual
+      ...(nivel > 1 ? [levels[nivel - 2].descripcion] : []),   // 1 nivel atrás
+      ...(nivel > 2 ? [levels[nivel - 3].descripcion] : [])    // 2 niveles atrás
+    ];
+  }
+
+  // A) FEW-SHOT LEARNING: Ejemplos válidos del nivel actual
+  const ejemplosNivelActual = ejemplosPorNivel[nivel]?.valid || [];
+  const fewShotExamples = ejemplosNivelActual.map(ej => `"${ej}"`).join(', ');
   
-  try {
-    const frasesParaApp = await cargarFrasesParaApp();
-    
-    if (modoEnfocado) {
-      // MODO REFORZAR: Solo frases del nivel actual
-      const frasesNivelActual = frasesParaApp[nivel.toString()]?.frases || [];
-      ejercicios = seleccionarFrasesAleatorias(frasesNivelActual, 10);
-      
-    } else {
-      // MODO REPASO: 5 del nivel actual + 5 de niveles inferiores
-      const frasesNivelActual = frasesParaApp[nivel.toString()]?.frases || [];
-      const frasesNivelActualSeleccionadas = seleccionarFrasesAleatorias(frasesNivelActual, 5);
-      
-      // Obtener frases de niveles inferiores
-      const frasesNivelesInferiores = [];
-      for (let nivelInferior = 1; nivelInferior < nivel; nivelInferior++) {
-        const frasesNivel = frasesParaApp[nivelInferior.toString()]?.frases || [];
-        frasesNivelesInferiores.push(...frasesNivel);
-      }
-      
-      const frasesNivelesInferioresSeleccionadas = seleccionarFrasesAleatorias(frasesNivelesInferiores, 5);
-      ejercicios = [...frasesNivelActualSeleccionadas, ...frasesNivelesInferioresSeleccionadas];
-    }
-    
-  } catch (error) {
-    console.error('Error cargando frases de ejercicios:', error);
-    // Fallback al sistema anterior
-    if (modoEnfocado) {
-      const frasesNivelActual = await cargarFrasesNivel(nivel);
-      const frasesDisponibles = obtenerFrasesNoUsadas(nivel, frasesNivelActual);
-      ejercicios = seleccionarFrasesAleatorias(frasesDisponibles, 10);
-      ejercicios.forEach(frase => marcarFraseUsada(nivel, frase.id));
-    } else {
-      const frasesNivelActual = await cargarFrasesNivel(nivel);
-      const frasesDisponiblesActual = obtenerFrasesNoUsadas(nivel, frasesNivelActual);
-      const frasesNivelActualSeleccionadas = seleccionarFrasesAleatorias(frasesDisponiblesActual, 5);
-      frasesNivelActualSeleccionadas.forEach(frase => marcarFraseUsada(nivel, frase.id));
-      
-      const frasesNivelesInferiores = [];
-      for (let nivelInferior = 1; nivelInferior < nivel; nivelInferior++) {
-        const frasesNivel = await cargarFrasesNivel(nivelInferior);
-        const frasesDisponibles = obtenerFrasesNoUsadas(nivelInferior, frasesNivel);
-        frasesNivelesInferiores.push(...frasesDisponibles);
-      }
-      
-      const frasesNivelesInferioresSeleccionadas = seleccionarFrasesAleatorias(frasesNivelesInferiores, 5);
-      frasesNivelesInferioresSeleccionadas.forEach(frase => {
-        const nivelFrase = parseInt(frase.id.split('_')[0].substring(1));
-        marcarFraseUsada(nivelFrase, frase.id);
+  // B) INSTRUCCIONES NEGATIVAS: Ejemplos de lo que NO debe usar
+  const ejemplosNegativos = getEjemplosNegativos(nivel);
+  const instruccionesNegativas = ejemplosNegativos.map(ej => 
+    `- NO usar: ${ej.descripcion} (ej: "${ej.ejemplo}")`
+  ).join('\n');
+  
+  // C) DISTRIBUCIÓN ESPECÍFICA
+  const distribucion = getDistribucionEjercicios(nivel);
+
+  const prompt = `Genera JSON con 10 palabras: ${listado}.
+
+${modoEnfocado ? 
+  `MODO: Solo nivel actual (${levels[nivel-1].descripcion})` :
+  `MODO: Repaso de múltiples niveles
+GRAMÁTICA: ${grammarPoints.join(' + ')}`
+}
+
+${distribucion}
+
+EJEMPLOS VÁLIDOS del nivel actual: [${fewShotExamples}]
+
+${instruccionesNegativas}
+
+JSON:
+{
+  "vocabulario": [{"en":"word","es":"palabra","ej_en":"example","ej_es":"ejemplo 😊"}],
+  "ejercicios": [{"es":"frase 😊","en":"sentence"}]
+}
+
+REGLAS:
+- 10 ejercicios que formen una historia coherente
+- Afirmativas, negativas, interrogativas
+- Cada ejercicio usa una palabra nueva del vocabulario
+- Las frases en español terminan con 😊
+- Respeta exactamente la distribución especificada`;
+
+  // --- Validación robusta y reintentos ---
+  let bestAttempt = null;
+  let bestScore = -1; // cantidad de palabras nuevas cubiertas
+
+  for(let intento=1; intento<=2; intento++){
+    console.log(`Intento ${intento} de generar ejercicios...`);
+    try {
+      const obj = safeJSON(await askOpenAI(prompt));
+      if (!obj) throw new Error('JSON inválido');
+
+      // Normalizar arrays (solo vocabulario y ejercicios)
+      ['vocabulario','ejercicios'].forEach(k=>{
+        if(!obj[k]) return;
+        if(Array.isArray(obj[k])) return;
+        obj[k]=Object.values(obj[k]);
       });
-      
-      ejercicios = [...frasesNivelActualSeleccionadas, ...frasesNivelesInferioresSeleccionadas];
+
+      // Verificar estructura mínima
+      if(!Array.isArray(obj.vocabulario) || !Array.isArray(obj.ejercicios)) throw new Error('Estructura incorrecta');
+      if(obj.vocabulario.length!==10 || obj.ejercicios.length!==10) throw new Error('Longitud incorrecta');
+
+      // Contar cuántas palabras nuevas aparecen en los ejercicios
+      const wordsLower = words.map(w=>w.en.toLowerCase());
+      const exercisesText = obj.ejercicios.map(e=>`${e.en}`.toLowerCase()).join(' ');
+      const foundCount = wordsLower.filter(w=>exercisesText.includes(w)).length;
+
+      console.log(`→ Intento ${intento}: ${foundCount}/10 palabras encontradas`);
+
+      // Actualizar mejor intento
+      if(foundCount > bestScore){
+        bestScore = foundCount;
+        bestAttempt = obj;
+      }
+
+      // Si es perfecto, lo usamos de inmediato
+      if(foundCount === 10){
+        return { ...obj, grammarExplanation };
+      }
+
+    } catch(e){
+      console.warn(`Intento ${intento} fallido:`, e.message);
     }
   }
-  
-  // Convertir frases al formato esperado
-  const ejerciciosFormateados = ejercicios.map(frase => ({
-    es: frase.es,
-    en: frase.en
-  }));
-  
-  return {
-    vocabulario: words, // words ya vienen con ejemplos desde fetchNewWords
-    ejercicios: ejerciciosFormateados,
-    grammarExplanation
-  };
+
+  // Si no obtuvimos un resultado perfecto, usamos el mejor intento si cubre al menos 1 palabra
+  if(bestAttempt && bestScore > 0){
+    console.warn(`Usando mejor intento con ${bestScore}/10 palabras nuevas cubiertas`);
+    return { ...bestAttempt, grammarExplanation };
+  }
+
+  // Ningún intento válido
+  throw new Error('No se pudo generar una lección válida tras 2 intentos.');
 }
 
 
@@ -901,20 +702,10 @@ document.addEventListener('click',e=>{
 });
 
 /* ---------- flujo principal ---------- */
-async function generate(isDebugMode = false){
+async function generate(){
   try {
-    const debugInfo = window.isDebugMode ? `Nivel ${window.debugLevel || nivel}` : '';
-    
-    // Cargar datos necesarios al inicio
-    setStatusWithTimer('📚 Cargando sistema de vocabulario…', debugInfo);
-    await Promise.all([
-      cargarDiccionarioCompleto(),
-      cargarFrasesParaApp(),
-      cargarEjemplosVocabulario()
-    ]);
-    
-    const words = await fetchNewWords(window.isDebugMode, debugInfo);
-    const lesson = await fetchLesson(words, window.isDebugMode, debugInfo);
+    const words  = await fetchNewWords();
+    const lesson = await fetchLesson(words);
 
     // ► elegimos 10 palabras antiguas para el repaso
     const extra = dictionary
@@ -940,25 +731,17 @@ async function generate(isDebugMode = false){
     return lesson;          // ← ahora la función DEVUELVE la lección
   } catch (e) {
     console.error(e);
-    if (window.isDebugMode) {
-      // En modo depuración, no recargar la página, solo mostrar error
-      setStatus('❌ Error en generación - Continuando...');
-      throw e;
-    } else {
-      setStatus('Cargando página…');
-      setTimeout(() => location.reload(), 2000);
-      throw e;
-    }
+    setStatus('Cargando página…');
+    setTimeout(() => location.reload(), 2000);
+    throw e;
   }
 }
 /* ---------- TERMINAR LECCIÓN (función nueva) ---------- */
 function terminarLeccion(lesson){
   // 1· Añade el vocabulario nuevo al diccionario
-  let newWordsCount = 0;
   lesson.vocabulario.forEach(w=>{
     if(!dictionary.some(d => d.en === w.en)){
       dictionary.push({en: w.en, es: w.es});
-      newWordsCount++;
     }
   });
   localStorage.setItem(DICT_KEY, JSON.stringify(dictionary));
@@ -968,30 +751,7 @@ function terminarLeccion(lesson){
   localStorage.setItem(SESSIONS_KEY, JSON.stringify(allSessions));
 
   // 3· Registro en el log
-  logEvent('terminar_leccion_auto', `Nivel ${nivel}, total sesiones: ${allSessions.length}, palabras nuevas: ${newWordsCount}, total diccionario: ${dictionary.length}`);
-
-  // 4· Comprobar si el diccionario está completo y vaciarlo
-  checkAndClearDictionary();
-
-  // 5· Log adicional para debug
-  if (window.isDebugMode) {
-    console.log(`DEBUG: Terminada lección - Nivel ${nivel}, palabras nuevas: ${newWordsCount}, total diccionario: ${dictionary.length}`);
-  }
-}
-
-/* ---------- NUEVA FUNCIÓN: Comprobar y vaciar diccionario ---------- */
-async function checkAndClearDictionary() {
-  try {
-    const totalDict = await cargarDiccionarioCompleto();
-    if (dictionary.length >= totalDict.length) {
-      console.log('Diccionario local completo. Vaciando...');
-      logEvent('diccionario_completo', `Se vació el diccionario con ${dictionary.length} palabras.`);
-      dictionary = [];
-      localStorage.setItem(DICT_KEY, JSON.stringify(dictionary));
-    }
-  } catch (error) {
-    console.error('Error al comprobar el diccionario completo:', error);
-  }
+  logEvent('terminar_leccion_auto', `Nivel ${nivel}, total sesiones: ${allSessions.length}`);
 }
 
 
@@ -1232,8 +992,7 @@ function exportAsCSV(data){
   rows.push(['nivel','sesion','ejemplo_en'].join(','));
 
   data.forEach((les,i)=>{
-    const sesionesPorNivel = window.debugConfig?.sesiones || 1;
-    const sesion = (i % sesionesPorNivel) + 1; // 1-X dentro del nivel
+    const sesion = (i % 2) + 1; // 1-2 dentro del nivel
     les.vocabulario.forEach(vocab=>{
       rows.push([
         les.nivel,
@@ -1247,164 +1006,41 @@ function exportAsCSV(data){
   const url  = URL.createObjectURL(blob);
   const link = document.createElement('a');
   link.href = url;
-  const totalSesiones = allSessions.length;
-  link.download = `curso_ingles_${totalSesiones}_sesiones.csv`;
+  link.download = 'curso_ingles_50_sesiones.csv';
   link.click();
   URL.revokeObjectURL(url);
 }
 
-/* ---------- MODO AUTOMÁTICO: 150 sesiones ---------- */
+/* ---------- MODO AUTOMÁTICO: 60 sesiones ---------- */
 async function runWholeCourse(){
-  // Diálogo para configurar parámetros
-  const nivelInicial = prompt('Nivel inicial (1-25):', '1');
-  const nivelFinal = prompt('Nivel final (1-25):', '15');
-  const sesionesPorNivel = prompt('Número de sesiones por nivel:', '1');
-  
-  // Validar entrada
-  if (!nivelInicial || !nivelFinal || !sesionesPorNivel) {
-    alert('Operación cancelada');
-    return;
-  }
-  
-  const inicio = parseInt(nivelInicial);
-  const fin = parseInt(nivelFinal);
-  const sesiones = parseInt(sesionesPorNivel);
-  
-  if (isNaN(inicio) || isNaN(fin) || isNaN(sesiones) || 
-      inicio < 1 || inicio > 25 || fin < 1 || fin > 25 || 
-      inicio > fin || sesiones < 1 || sesiones > 10) {
-    alert('Parámetros inválidos. Niveles: 1-25, Sesiones: 1-10');
-    return;
-  }
-  
-  const totalSesiones = (fin - inicio + 1) * sesiones;
-  if (!confirm(`¿Ejecutar ${totalSesiones} sesiones automáticamente?\nNiveles: ${inicio}-${fin}\nSesiones por nivel: ${sesiones}`)) return;
+  if(!confirm('¿Ejecutar las 50 sesiones automáticamente?')) return;
 
   /* --- Reset --- */
   localStorage.removeItem(DICT_KEY);
   localStorage.removeItem(SESSIONS_KEY);
   dictionary   = [];
   allSessions  = [];
-  nivel        = inicio;
+  nivel        = 1;
   localStorage.setItem(LEVEL_KEY, nivel);
 
-  /* --- Variable para controlar el modo debug --- */
-  window.isDebugMode = true;
-  window.debugSession = 1;
-  window.debugLevel = inicio;
-  window.debugRunning = true; // Variable para controlar si el debug está ejecutándose
-  window.debugConfig = { inicio, fin, sesiones }; // Guardar configuración
-
-  // Cambiar el botón a "PARAR Y EXPORTAR"
-  handleDebugButton();
-
-  /* --- Función recursiva que simula el comportamiento normal --- */
-  async function runNextSession() {
-    // Verificar si se debe parar el proceso
-    if (!window.debugRunning) {
-      // Proceso detenido manualmente - exportar CSV
-      window.isDebugMode = false;
-      setDebugStatus('⏹️ Proceso detenido - Descargando CSV...');
-      exportAsCSV(allSessions);
-      alert(`✔ Proceso detenido – CSV descargado (${allSessions.length} sesiones generadas)`);
-      handleDebugButton(); // Restaurar botón original
-      return;
+  /* --- 25 niveles × 2 sesiones --- */
+  for(; nivel <= 25; nivel++){
+    for(let ses=1; ses<=2; ses++){
+      const lesson = await generate();   // crea la lección
+      terminarLeccion(lesson);           // la guarda
+      await new Promise(r=>setTimeout(r, 1500)); // pausa para evitar rate-limit
     }
-    
-    if (window.debugLevel > window.debugConfig.fin) {
-      // Terminado - exportar CSV
-      window.isDebugMode = false;
-      window.debugRunning = false;
-      setDebugStatus('✅ Proceso completado - Descargando CSV...');
-      exportAsCSV(allSessions);
-      const totalSesiones = allSessions.length;
-      alert(`✔ Curso completado – CSV descargado (${totalSesiones} sesiones)`);
-      handleDebugButton(); // Restaurar botón original
-      return;
-    }
-
-    try {
-      setDebugStatus(`🔄 Iniciando Nivel ${window.debugLevel} Sesión ${window.debugSession}/${window.debugConfig.sesiones}`);
-      
-      // Simular carga normal de página
-      await generate();
-      
-      // Simular "Dar por terminada la lección"
-      if (currentLesson) {
-        terminarLeccion(currentLesson);
-        setDebugStatus(`✅ Completado Nivel ${window.debugLevel} Sesión ${window.debugSession}/${window.debugConfig.sesiones}`);
-      }
-      
-      // Preparar siguiente sesión
-      window.debugSession++;
-      
-      if (window.debugSession > window.debugConfig.sesiones) {
-        // Pasar al siguiente nivel
-        window.debugSession = 1;
-        window.debugLevel++;
-        if (window.debugLevel <= window.debugConfig.fin) {
-          // Simular "Avanzar nivel"
-          nivel = window.debugLevel;
-          localStorage.setItem(LEVEL_KEY, nivel);
-          levelCurrent.textContent = `${nivel}. ${nivel}. ${levels[nivel-1].descripcion}`;
-          setDebugStatus(`🔄 Avanzando al Nivel ${window.debugLevel}`);
-          
-          // Asegurar que el vocabulario se guarde antes de cambiar de nivel
-          if (currentLesson) {
-            let savedWords = 0;
-            currentLesson.vocabulario.forEach(w=>{
-              if(!dictionary.some(d=>d.en===w.en)) {
-                dictionary.push({en:w.en,es:w.es});
-                savedWords++;
-              }
-            });
-            localStorage.setItem(DICT_KEY,JSON.stringify(dictionary));
-            console.log(`DEBUG: Avanzando nivel - Palabras guardadas: ${savedWords}, total diccionario: ${dictionary.length}`);
-          }
-        }
-      }
-      
-      // Continuar con la siguiente sesión
-      setTimeout(runNextSession, 500);
-      
-    } catch (e) {
-      console.error(`Error en Nivel ${window.debugLevel} Sesión ${window.debugSession}:`, e);
-      setDebugStatus(`❌ Error Nivel ${window.debugLevel} Sesión ${window.debugSession} - Continuando...`);
-      // Continuar con la siguiente sesión
-      setTimeout(runNextSession, 500);
+    if(nivel < 25){
+      localStorage.setItem(LEVEL_KEY, nivel+1);  // subir nivel automáticamente
     }
   }
 
-  // Iniciar el proceso
-  runNextSession();
+  /* --- Exporta CSV --- */
+  exportAsCSV(allSessions);
+  alert('✔ Curso completado – CSV descargado');
 }
 
-// Función para parar el debug y exportar
-function stopDebugAndExport() {
-  if (window.debugRunning) {
-    window.debugRunning = false;
-    setDebugStatus('⏹️ Deteniendo proceso...');
-  }
-}
-
-// Función para manejar el botón debug
-function handleDebugButton() {
-  const debugBtn = document.getElementById('dev-run');
-  
-  if (window.debugRunning) {
-    // Si está ejecutándose, cambiar a botón de parar
-    debugBtn.textContent = 'PARAR Y EXPORTAR';
-    debugBtn.style.background = '#e35353';
-    debugBtn.onclick = stopDebugAndExport;
-  } else {
-    // Si no está ejecutándose, iniciar debug
-    debugBtn.textContent = 'DEBUG';
-    debugBtn.style.background = '';
-    debugBtn.onclick = runWholeCourse;
-  }
-}
-
-// Conectar el botón oculto RUN 150 con el modo automático
+// Conectar el botón oculto RUN 60 con el modo automático
 document.getElementById('dev-run').addEventListener('click', runWholeCourse);
 
 
