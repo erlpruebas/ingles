@@ -1,0 +1,3531 @@
+{
+  "metadata": {
+    "nivel": 9,
+    "descripcion": "Marcadores temporales en presente y pasado (now, yesterday, last week, etc.)",
+    "total_frases": 220,
+    "fecha_creacion": "2025-08-05T18:11:19.084987",
+    "version": "1.0"
+  },
+  "frases": [
+    {
+      "id": "n9_f001",
+      "es": "Ahora estoy jugando al fútbol. ⚽",
+      "en": "Now I am playing soccer.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "playing",
+        "soccer"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f002",
+      "es": "Ayer vi una película emocionante. 🎬",
+      "en": "Yesterday I watched an exciting movie.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "watched",
+        "movie"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f003",
+      "es": "La semana pasada tuve un examen difícil. 📚",
+      "en": "Last week I had a difficult exam.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "had",
+        "exam"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f004",
+      "es": "Ahora estoy escuchando música. 🎶",
+      "en": "Now I am listening to music.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "listening",
+        "music"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f005",
+      "es": "Ayer comí un delicioso helado. 🍦",
+      "en": "Yesterday I ate a delicious ice cream.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "ate",
+        "ice cream"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f006",
+      "es": "La semana pasada viajé a la playa. 🏖️",
+      "en": "Last week I traveled to the beach.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "traveled",
+        "beach"
+      ],
+      "dificultad": 1,
+      "categoria": "viajes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f007",
+      "es": "Ahora estoy dibujando un paisaje. 🎨",
+      "en": "Now I am drawing a landscape.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "drawing",
+        "landscape"
+      ],
+      "dificultad": 1,
+      "categoria": "arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f008",
+      "es": "Ayer jugué videojuegos con mis amigos. 🎮",
+      "en": "Yesterday I played video games with my friends.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "played",
+        "video games"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f009",
+      "es": "La semana pasada aprendí algo nuevo. 📖",
+      "en": "Last week I learned something new.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "learned",
+        "new"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f010",
+      "es": "Ahora estoy cocinando la cena. 🍽️",
+      "en": "Now I am cooking dinner.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "cooking",
+        "dinner"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f011",
+      "es": "Ayer fui al parque con mi familia. 🌳",
+      "en": "Yesterday I went to the park with my family.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "went",
+        "park"
+      ],
+      "dificultad": 1,
+      "categoria": "actividades",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f012",
+      "es": "La semana pasada hice un proyecto escolar. 📝",
+      "en": "Last week I did a school project.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "did",
+        "project"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f013",
+      "es": "Ahora estoy viendo una serie divertida. 📺",
+      "en": "Now I am watching a funny series.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "watching",
+        "series"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f014",
+      "es": "Ayer compré un libro interesante. 📚",
+      "en": "Yesterday I bought an interesting book.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "bought",
+        "book"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f015",
+      "es": "La semana pasada celebré mi cumpleaños. 🎉",
+      "en": "Last week I celebrated my birthday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "celebrated",
+        "birthday"
+      ],
+      "dificultad": 1,
+      "categoria": "celebraciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f016",
+      "es": "Ahora estoy aprendiendo a tocar la guitarra. 🎸",
+      "en": "Now I am learning to play the guitar.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "learning",
+        "guitar"
+      ],
+      "dificultad": 1,
+      "categoria": "música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f017",
+      "es": "Ayer visité a mis abuelos. 👵👴",
+      "en": "Yesterday I visited my grandparents.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "visited",
+        "grandparents"
+      ],
+      "dificultad": 1,
+      "categoria": "familia",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f018",
+      "es": "La semana pasada hice una excursión. 🏞️",
+      "en": "Last week I went on a trip.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "went",
+        "trip"
+      ],
+      "dificultad": 1,
+      "categoria": "viajes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f019",
+      "es": "Ahora estoy organizando mis juguetes. 🧸",
+      "en": "Now I am organizing my toys.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "organizing",
+        "toys"
+      ],
+      "dificultad": 1,
+      "categoria": "hogar",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f020",
+      "es": "Ayer aprendí sobre los planetas. 🌌",
+      "en": "Yesterday I learned about planets.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "learned",
+        "planets"
+      ],
+      "dificultad": 1,
+      "categoria": "ciencia",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f021",
+      "es": "Ahora estoy jugando al fútbol. ⚽",
+      "en": "Now I am playing soccer.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "playing",
+        "soccer"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f022",
+      "es": "Ayer vi una película emocionante. 🎬",
+      "en": "Yesterday I watched an exciting movie.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "watched",
+        "movie"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f023",
+      "es": "La semana pasada tuve un examen difícil. 📚",
+      "en": "Last week I had a difficult exam.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "had",
+        "exam"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f024",
+      "es": "Ahora estoy escuchando música. 🎶",
+      "en": "Now I am listening to music.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "listening",
+        "music"
+      ],
+      "dificultad": 1,
+      "categoria": "música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f025",
+      "es": "Ayer comí helado de chocolate. 🍦",
+      "en": "Yesterday I ate chocolate ice cream.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "ate",
+        "ice cream"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f026",
+      "es": "La semana pasada visité a mis abuelos. 👵👴",
+      "en": "Last week I visited my grandparents.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "visited",
+        "grandparents"
+      ],
+      "dificultad": 1,
+      "categoria": "familia",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f027",
+      "es": "Ahora estoy aprendiendo inglés. 📖",
+      "en": "Now I am learning English.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "learning",
+        "English"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f028",
+      "es": "Ayer jugué con mis amigos. 👫",
+      "en": "Yesterday I played with my friends.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "played",
+        "friends"
+      ],
+      "dificultad": 1,
+      "categoria": "social",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f029",
+      "es": "La semana pasada compré un nuevo libro. 📚",
+      "en": "Last week I bought a new book.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "bought",
+        "book"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f030",
+      "es": "Ahora estoy dibujando un paisaje. 🎨",
+      "en": "Now I am drawing a landscape.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "drawing",
+        "landscape"
+      ],
+      "dificultad": 1,
+      "categoria": "arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f031",
+      "es": "Ayer fui al parque. 🌳",
+      "en": "Yesterday I went to the park.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "went",
+        "park"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f032",
+      "es": "La semana pasada hice una fiesta. 🎉",
+      "en": "Last week I had a party.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "had",
+        "party"
+      ],
+      "dificultad": 1,
+      "categoria": "celebraciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f033",
+      "es": "Ahora estoy cocinando la cena. 🍽️",
+      "en": "Now I am cooking dinner.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "cooking",
+        "dinner"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f034",
+      "es": "Ayer compré un regalo para mi amigo. 🎁",
+      "en": "Yesterday I bought a gift for my friend.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "bought",
+        "gift"
+      ],
+      "dificultad": 1,
+      "categoria": "regalos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f035",
+      "es": "La semana pasada fui a la playa. 🏖️",
+      "en": "Last week I went to the beach.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "went",
+        "beach"
+      ],
+      "dificultad": 1,
+      "categoria": "vacaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f036",
+      "es": "Ahora estoy escribiendo una carta. ✉️",
+      "en": "Now I am writing a letter.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "writing",
+        "letter"
+      ],
+      "dificultad": 1,
+      "categoria": "comunicación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f037",
+      "es": "Ayer jugué videojuegos con mi hermano. 🎮",
+      "en": "Yesterday I played video games with my brother.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "played",
+        "video games"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f038",
+      "es": "La semana pasada aprendí sobre dinosaurios. 🦕",
+      "en": "Last week I learned about dinosaurs.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "learned",
+        "dinosaurs"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f039",
+      "es": "Ahora estoy viendo un documental. 📺",
+      "en": "Now I am watching a documentary.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "watching",
+        "documentary"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f040",
+      "es": "Ayer hice ejercicio en el gimnasio. 🏋️‍♂️",
+      "en": "Yesterday I exercised at the gym.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "exercised",
+        "gym"
+      ],
+      "dificultad": 1,
+      "categoria": "salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f041",
+      "es": "Ahora estoy jugando al fútbol. ⚽",
+      "en": "Now I am playing soccer.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "playing",
+        "soccer"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f042",
+      "es": "Ayer vi una película emocionante. 🎬",
+      "en": "Yesterday I watched an exciting movie.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "watched",
+        "movie"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f043",
+      "es": "La semana pasada tuve un examen difícil. 📚",
+      "en": "Last week I had a difficult exam.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "had",
+        "exam"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f044",
+      "es": "Ahora estoy escuchando música. 🎶",
+      "en": "Now I am listening to music.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "listening",
+        "music"
+      ],
+      "dificultad": 1,
+      "categoria": "música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f045",
+      "es": "Ayer comí helado de chocolate. 🍦",
+      "en": "Yesterday I ate chocolate ice cream.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "ate",
+        "ice cream"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f046",
+      "es": "La semana pasada visité a mis abuelos. 👵👴",
+      "en": "Last week I visited my grandparents.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "visited",
+        "grandparents"
+      ],
+      "dificultad": 1,
+      "categoria": "familia",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f047",
+      "es": "Ahora estoy aprendiendo inglés. 📖",
+      "en": "Now I am learning English.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "learning",
+        "English"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f048",
+      "es": "Ayer jugué videojuegos con mis amigos. 🎮",
+      "en": "Yesterday I played video games with my friends.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "played",
+        "video games"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f049",
+      "es": "La semana pasada fui a una fiesta. 🎉",
+      "en": "Last week I went to a party.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "went",
+        "party"
+      ],
+      "dificultad": 1,
+      "categoria": "social",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f050",
+      "es": "Ahora estoy dibujando un paisaje. 🎨",
+      "en": "Now I am drawing a landscape.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "drawing",
+        "landscape"
+      ],
+      "dificultad": 1,
+      "categoria": "arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f051",
+      "es": "Ayer compré un libro nuevo. 📚",
+      "en": "Yesterday I bought a new book.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "bought",
+        "book"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f052",
+      "es": "La semana pasada aprendí a nadar. 🏊",
+      "en": "Last week I learned how to swim.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "learned",
+        "swim"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f053",
+      "es": "Ahora estoy cocinando la cena. 🍽️",
+      "en": "Now I am cooking dinner.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "cooking",
+        "dinner"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f054",
+      "es": "Ayer hice mis tareas. 📋",
+      "en": "Yesterday I did my homework.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "did",
+        "homework"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f055",
+      "es": "La semana pasada vi un espectáculo de magia. 🎩",
+      "en": "Last week I saw a magic show.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "saw",
+        "magic show"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f056",
+      "es": "Ahora estoy escribiendo una carta. ✉️",
+      "en": "Now I am writing a letter.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "writing",
+        "letter"
+      ],
+      "dificultad": 1,
+      "categoria": "comunicación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f057",
+      "es": "Ayer jugué al baloncesto en el parque. 🏀",
+      "en": "Yesterday I played basketball in the park.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "played",
+        "basketball"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f058",
+      "es": "La semana pasada compré un regalo para mi amigo. 🎁",
+      "en": "Last week I bought a gift for my friend.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "bought",
+        "gift"
+      ],
+      "dificultad": 1,
+      "categoria": "regalos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f059",
+      "es": "Ahora estoy viendo un documental. 📺",
+      "en": "Now I am watching a documentary.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "watching",
+        "documentary"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f060",
+      "es": "Ayer fui al cine con mi familia. 🍿",
+      "en": "Yesterday I went to the cinema with my family.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "went",
+        "cinema"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f061",
+      "es": "Ahora estoy jugando al fútbol. ⚽",
+      "en": "Now I am playing soccer.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "playing",
+        "soccer"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f062",
+      "es": "Ayer vi una película emocionante. 🎬",
+      "en": "Yesterday I watched an exciting movie.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "watched",
+        "movie"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f063",
+      "es": "La semana pasada tuve un examen difícil. 📚",
+      "en": "Last week I had a difficult exam.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "had",
+        "exam"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f064",
+      "es": "Ahora estoy escuchando música. 🎶",
+      "en": "Now I am listening to music.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "listening",
+        "music"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f065",
+      "es": "Ayer compré un nuevo libro. 📖",
+      "en": "Yesterday I bought a new book.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "bought",
+        "book"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f066",
+      "es": "La semana pasada celebramos mi cumpleaños. 🎉",
+      "en": "Last week we celebrated my birthday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "celebrated",
+        "birthday"
+      ],
+      "dificultad": 1,
+      "categoria": "celebraciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f067",
+      "es": "Ahora estoy aprendiendo inglés. 🇬🇧",
+      "en": "Now I am learning English.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "learning",
+        "English"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f068",
+      "es": "Ayer jugué con mis amigos. 👦👧",
+      "en": "Yesterday I played with my friends.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "played",
+        "friends"
+      ],
+      "dificultad": 1,
+      "categoria": "social",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f069",
+      "es": "La semana pasada fui al cine. 🎥",
+      "en": "Last week I went to the cinema.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "went",
+        "cinema"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f070",
+      "es": "Ahora estoy dibujando un paisaje. 🎨",
+      "en": "Now I am drawing a landscape.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "drawing",
+        "landscape"
+      ],
+      "dificultad": 1,
+      "categoria": "arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f071",
+      "es": "Ayer hice una tarea de matemáticas. ➕",
+      "en": "Yesterday I did a math assignment.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "did",
+        "assignment"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f072",
+      "es": "La semana pasada visité a mis abuelos. 👵👴",
+      "en": "Last week I visited my grandparents.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "visited",
+        "grandparents"
+      ],
+      "dificultad": 1,
+      "categoria": "familia",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f073",
+      "es": "Ahora estoy cocinando la cena. 🍽️",
+      "en": "Now I am cooking dinner.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "cooking",
+        "dinner"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f074",
+      "es": "Ayer corrí en el parque. 🏃‍♂️",
+      "en": "Yesterday I ran in the park.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "ran",
+        "park"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f075",
+      "es": "La semana pasada aprendí sobre historia. 📜",
+      "en": "Last week I learned about history.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "learned",
+        "history"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f076",
+      "es": "Ahora estoy escribiendo una carta. ✉️",
+      "en": "Now I am writing a letter.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "writing",
+        "letter"
+      ],
+      "dificultad": 1,
+      "categoria": "comunicación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f077",
+      "es": "Ayer jugué videojuegos con mi hermano. 🎮",
+      "en": "Yesterday I played video games with my brother.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "played",
+        "video games"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f078",
+      "es": "La semana pasada hice una excursión. 🏞️",
+      "en": "Last week I went on a trip.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "went",
+        "trip"
+      ],
+      "dificultad": 1,
+      "categoria": "viajes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f079",
+      "es": "Ahora estoy viendo un documental. 📺",
+      "en": "Now I am watching a documentary.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "watching",
+        "documentary"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f080",
+      "es": "Ayer fui a la biblioteca. 📚",
+      "en": "Yesterday I went to the library.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "went",
+        "library"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f081",
+      "es": "Ahora estoy jugando al fútbol. ⚽",
+      "en": "Now I am playing soccer.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "playing",
+        "soccer"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f082",
+      "es": "Ayer vi una película emocionante. 🎬",
+      "en": "Yesterday I watched an exciting movie.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "watched",
+        "movie"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f083",
+      "es": "La semana pasada tuve un examen difícil. 📚",
+      "en": "Last week I had a difficult exam.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "had",
+        "exam"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f084",
+      "es": "Ahora estoy escuchando música. 🎶",
+      "en": "Now I am listening to music.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "listening",
+        "music"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f085",
+      "es": "Ayer comí helado de chocolate. 🍦",
+      "en": "Yesterday I ate chocolate ice cream.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "ate",
+        "ice cream"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f086",
+      "es": "La semana pasada viajé a la playa. 🏖️",
+      "en": "Last week I traveled to the beach.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "traveled",
+        "beach"
+      ],
+      "dificultad": 1,
+      "categoria": "viajes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f087",
+      "es": "Ahora estoy dibujando un paisaje. 🎨",
+      "en": "Now I am drawing a landscape.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "drawing",
+        "landscape"
+      ],
+      "dificultad": 1,
+      "categoria": "arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f088",
+      "es": "Ayer jugué videojuegos con mis amigos. 🎮",
+      "en": "Yesterday I played video games with my friends.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "played",
+        "video games"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f089",
+      "es": "La semana pasada aprendí a nadar. 🏊",
+      "en": "Last week I learned how to swim.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "learned",
+        "swim"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f090",
+      "es": "Ahora estoy escribiendo una carta. ✉️",
+      "en": "Now I am writing a letter.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "writing",
+        "letter"
+      ],
+      "dificultad": 1,
+      "categoria": "comunicación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f091",
+      "es": "Ayer fui al parque con mi familia. 🌳",
+      "en": "Yesterday I went to the park with my family.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "went",
+        "park"
+      ],
+      "dificultad": 1,
+      "categoria": "actividades",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f092",
+      "es": "La semana pasada celebramos mi cumpleaños. 🎉",
+      "en": "Last week we celebrated my birthday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "celebrated",
+        "birthday"
+      ],
+      "dificultad": 1,
+      "categoria": "celebraciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f093",
+      "es": "Ahora estoy cocinando la cena. 🍽️",
+      "en": "Now I am cooking dinner.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "cooking",
+        "dinner"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f094",
+      "es": "Ayer compré un libro nuevo. 📖",
+      "en": "Yesterday I bought a new book.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "bought",
+        "book"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f095",
+      "es": "La semana pasada visité a mis abuelos. 👵👴",
+      "en": "Last week I visited my grandparents.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "visited",
+        "grandparents"
+      ],
+      "dificultad": 1,
+      "categoria": "familia",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f096",
+      "es": "Ahora estoy aprendiendo inglés. 🇬🇧",
+      "en": "Now I am learning English.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "learning",
+        "English"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f097",
+      "es": "Ayer hice una tarea de matemáticas. ➕",
+      "en": "Yesterday I did a math assignment.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "did",
+        "assignment"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f098",
+      "es": "La semana pasada jugué en un torneo. 🏆",
+      "en": "Last week I played in a tournament.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "played",
+        "tournament"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f099",
+      "es": "Ahora estoy viendo un documental. 📺",
+      "en": "Now I am watching a documentary.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "watching",
+        "documentary"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f100",
+      "es": "Ayer fui a la biblioteca. 📚",
+      "en": "Yesterday I went to the library.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "went",
+        "library"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f101",
+      "es": "Ahora estoy jugando al fútbol. ⚽",
+      "en": "Now I am playing soccer.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "playing",
+        "soccer"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f102",
+      "es": "Ayer vi una película emocionante. 🎬",
+      "en": "Yesterday I watched an exciting movie.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "watched",
+        "movie"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f103",
+      "es": "La semana pasada fui a la playa. 🏖️",
+      "en": "Last week I went to the beach.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "went",
+        "beach"
+      ],
+      "dificultad": 1,
+      "categoria": "viajes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f104",
+      "es": "Ahora estoy escuchando música. 🎶",
+      "en": "Now I am listening to music.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "listening",
+        "music"
+      ],
+      "dificultad": 1,
+      "categoria": "música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f105",
+      "es": "Ayer jugué videojuegos con mis amigos. 🎮",
+      "en": "Yesterday I played video games with my friends.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "played",
+        "video games"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f106",
+      "es": "La semana pasada tuvimos una fiesta. 🎉",
+      "en": "Last week we had a party.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "had",
+        "party"
+      ],
+      "dificultad": 1,
+      "categoria": "celebraciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f107",
+      "es": "Ahora estoy aprendiendo inglés. 📚",
+      "en": "Now I am learning English.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "learning",
+        "English"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f108",
+      "es": "Ayer comí helado de chocolate. 🍦",
+      "en": "Yesterday I ate chocolate ice cream.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "ate",
+        "ice cream"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f109",
+      "es": "La semana pasada visité a mis abuelos. 👵👴",
+      "en": "Last week I visited my grandparents.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "visited",
+        "grandparents"
+      ],
+      "dificultad": 1,
+      "categoria": "familia",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f110",
+      "es": "Ahora estoy dibujando un paisaje. 🎨",
+      "en": "Now I am drawing a landscape.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "drawing",
+        "landscape"
+      ],
+      "dificultad": 1,
+      "categoria": "arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f111",
+      "es": "Ayer compré un libro nuevo. 📖",
+      "en": "Yesterday I bought a new book.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "bought",
+        "book"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f112",
+      "es": "La semana pasada aprendí a nadar. 🏊",
+      "en": "Last week I learned how to swim.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "learned",
+        "swim"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f113",
+      "es": "Ahora estoy escribiendo una carta. ✉️",
+      "en": "Now I am writing a letter.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "writing",
+        "letter"
+      ],
+      "dificultad": 1,
+      "categoria": "comunicación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f114",
+      "es": "Ayer fui al parque con mi familia. 🌳",
+      "en": "Yesterday I went to the park with my family.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "went",
+        "park"
+      ],
+      "dificultad": 1,
+      "categoria": "familia",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f115",
+      "es": "La semana pasada hice un proyecto escolar. 📊",
+      "en": "Last week I did a school project.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "did",
+        "project"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f116",
+      "es": "Ahora estoy cocinando la cena. 🍽️",
+      "en": "Now I am cooking dinner.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "cooking",
+        "dinner"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f117",
+      "es": "Ayer hice ejercicio en el gimnasio. 🏋️",
+      "en": "Yesterday I exercised at the gym.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "exercised",
+        "gym"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f118",
+      "es": "La semana pasada vi un espectáculo de magia. 🎩",
+      "en": "Last week I saw a magic show.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "saw",
+        "magic show"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f119",
+      "es": "Ahora estoy organizando mis juguetes. 🧸",
+      "en": "Now I am organizing my toys.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "organizing",
+        "toys"
+      ],
+      "dificultad": 1,
+      "categoria": "juegos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f120",
+      "es": "Ayer aprendí a montar en bicicleta. 🚲",
+      "en": "Yesterday I learned how to ride a bike.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "learned",
+        "ride"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f121",
+      "es": "Ahora estoy escuchando música. 🎶",
+      "en": "Now I am listening to music.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "listening",
+        "music"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f122",
+      "es": "Ayer vi una película emocionante. 🎥",
+      "en": "Yesterday I watched an exciting movie.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "watched",
+        "movie"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f123",
+      "es": "La semana pasada jugué al fútbol. ⚽",
+      "en": "Last week I played soccer.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "played",
+        "soccer"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f124",
+      "es": "Ahora estoy escribiendo una carta. ✉️",
+      "en": "Now I am writing a letter.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "writing",
+        "letter"
+      ],
+      "dificultad": 1,
+      "categoria": "comunicación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f125",
+      "es": "Ayer compré un nuevo libro. 📚",
+      "en": "Yesterday I bought a new book.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "bought",
+        "book"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f126",
+      "es": "La semana pasada visité a mis abuelos. 👵👴",
+      "en": "Last week I visited my grandparents.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "visited",
+        "grandparents"
+      ],
+      "dificultad": 1,
+      "categoria": "familia",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f127",
+      "es": "Ahora estoy aprendiendo inglés. 🇬🇧",
+      "en": "Now I am learning English.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "learning",
+        "English"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f128",
+      "es": "Ayer jugué videojuegos con mis amigos. 🎮",
+      "en": "Yesterday I played video games with my friends.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "played",
+        "video games"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f129",
+      "es": "La semana pasada fui a la playa. 🏖️",
+      "en": "Last week I went to the beach.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "went",
+        "beach"
+      ],
+      "dificultad": 1,
+      "categoria": "vacaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f130",
+      "es": "Ahora estoy cocinando la cena. 🍽️",
+      "en": "Now I am cooking dinner.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "cooking",
+        "dinner"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f131",
+      "es": "Ayer hice mis deberes. 📖",
+      "en": "Yesterday I did my homework.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "did",
+        "homework"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f132",
+      "es": "La semana pasada asistí a un concierto. 🎶",
+      "en": "Last week I attended a concert.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "attended",
+        "concert"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f133",
+      "es": "Ahora estoy dibujando un paisaje. 🎨",
+      "en": "Now I am drawing a landscape.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "drawing",
+        "landscape"
+      ],
+      "dificultad": 1,
+      "categoria": "arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f134",
+      "es": "Ayer fui al parque. 🌳",
+      "en": "Yesterday I went to the park.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "went",
+        "park"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f135",
+      "es": "La semana pasada compré un regalo. 🎁",
+      "en": "Last week I bought a gift.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "bought",
+        "gift"
+      ],
+      "dificultad": 1,
+      "categoria": "compras",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f136",
+      "es": "Ahora estoy viendo una serie. 📺",
+      "en": "Now I am watching a series.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "watching",
+        "series"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f137",
+      "es": "Ayer jugué con mi perro. 🐶",
+      "en": "Yesterday I played with my dog.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "played",
+        "dog"
+      ],
+      "dificultad": 1,
+      "categoria": "mascotas",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f138",
+      "es": "La semana pasada hice una excursión. 🏞️",
+      "en": "Last week I went on a trip.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "went",
+        "trip"
+      ],
+      "dificultad": 1,
+      "categoria": "viajes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f139",
+      "es": "Ahora estoy organizando mi habitación. 🛏️",
+      "en": "Now I am organizing my room.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "organizing",
+        "room"
+      ],
+      "dificultad": 1,
+      "categoria": "hogar",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f140",
+      "es": "Ayer fui al cine con mis amigos. 🍿",
+      "en": "Yesterday I went to the cinema with my friends.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "went",
+        "cinema"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f141",
+      "es": "Ahora estoy jugando al fútbol. ⚽",
+      "en": "Now I am playing soccer.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "playing",
+        "soccer"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f142",
+      "es": "Ayer vi una película emocionante. 🎬",
+      "en": "Yesterday I watched an exciting movie.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "watched",
+        "movie"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f143",
+      "es": "La semana pasada tuve un examen difícil. 📚",
+      "en": "Last week I had a difficult exam.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "had",
+        "exam"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f144",
+      "es": "Ahora estoy escuchando música. 🎶",
+      "en": "Now I am listening to music.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "listening",
+        "music"
+      ],
+      "dificultad": 1,
+      "categoria": "música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f145",
+      "es": "Ayer comí helado de chocolate. 🍦",
+      "en": "Yesterday I ate chocolate ice cream.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "ate",
+        "ice cream"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f146",
+      "es": "La semana pasada visité a mis abuelos. 👵👴",
+      "en": "Last week I visited my grandparents.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "visited",
+        "grandparents"
+      ],
+      "dificultad": 1,
+      "categoria": "familia",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f147",
+      "es": "Ahora estoy aprendiendo inglés. 🇬🇧",
+      "en": "Now I am learning English.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "learning",
+        "English"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f148",
+      "es": "Ayer jugué videojuegos con mis amigos. 🎮",
+      "en": "Yesterday I played video games with my friends.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "played",
+        "video games"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f149",
+      "es": "La semana pasada fui a una fiesta. 🎉",
+      "en": "Last week I went to a party.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "went",
+        "party"
+      ],
+      "dificultad": 1,
+      "categoria": "social",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f150",
+      "es": "Ahora estoy dibujando un paisaje. 🎨",
+      "en": "Now I am drawing a landscape.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "drawing",
+        "landscape"
+      ],
+      "dificultad": 1,
+      "categoria": "arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f151",
+      "es": "Ayer compré un libro nuevo. 📖",
+      "en": "Yesterday I bought a new book.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "bought",
+        "book"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f152",
+      "es": "La semana pasada aprendí sobre dinosaurios. 🦖",
+      "en": "Last week I learned about dinosaurs.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "learned",
+        "dinosaurs"
+      ],
+      "dificultad": 1,
+      "categoria": "ciencia",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f153",
+      "es": "Ahora estoy cocinando la cena. 🍽️",
+      "en": "Now I am cooking dinner.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "cooking",
+        "dinner"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f154",
+      "es": "Ayer fui al parque con mi perro. 🐶",
+      "en": "Yesterday I went to the park with my dog.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "went",
+        "park"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f155",
+      "es": "La semana pasada hice una presentación en clase. 🏫",
+      "en": "Last week I made a presentation in class.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "made",
+        "presentation"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f156",
+      "es": "Ahora estoy mirando las estrellas. 🌟",
+      "en": "Now I am looking at the stars.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "looking",
+        "stars"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f157",
+      "es": "Ayer recibí un regalo especial. 🎁",
+      "en": "Yesterday I received a special gift.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "received",
+        "gift"
+      ],
+      "dificultad": 1,
+      "categoria": "celebraciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f158",
+      "es": "La semana pasada fui a la playa. 🏖️",
+      "en": "Last week I went to the beach.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "went",
+        "beach"
+      ],
+      "dificultad": 1,
+      "categoria": "vacaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f159",
+      "es": "Ahora estoy escribiendo un cuento. ✍️",
+      "en": "Now I am writing a story.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "writing",
+        "story"
+      ],
+      "dificultad": 1,
+      "categoria": "literatura",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f160",
+      "es": "Ayer jugué al baloncesto en el parque. 🏀",
+      "en": "Yesterday I played basketball in the park.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "played",
+        "basketball"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f161",
+      "es": "Ahora estoy jugando al fútbol. ⚽",
+      "en": "Now I am playing soccer.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "playing",
+        "soccer"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f162",
+      "es": "Ayer vi una película emocionante. 🎬",
+      "en": "Yesterday I watched an exciting movie.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "watched",
+        "movie"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f163",
+      "es": "La semana pasada fui a la playa. 🏖️",
+      "en": "Last week I went to the beach.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "went",
+        "beach"
+      ],
+      "dificultad": 1,
+      "categoria": "vacaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f164",
+      "es": "Ahora estoy escuchando música. 🎶",
+      "en": "Now I am listening to music.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "listening",
+        "music"
+      ],
+      "dificultad": 1,
+      "categoria": "música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f165",
+      "es": "Ayer jugué videojuegos con mis amigos. 🎮",
+      "en": "Yesterday I played video games with my friends.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "played",
+        "video games"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f166",
+      "es": "La semana pasada aprendí algo nuevo en la escuela. 📚",
+      "en": "Last week I learned something new at school.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "learned",
+        "school"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f167",
+      "es": "Ahora estoy haciendo mis deberes. ✏️",
+      "en": "Now I am doing my homework.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "doing",
+        "homework"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f168",
+      "es": "Ayer fui al parque con mi familia. 🌳",
+      "en": "Yesterday I went to the park with my family.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "went",
+        "park"
+      ],
+      "dificultad": 1,
+      "categoria": "actividades",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f169",
+      "es": "La semana pasada celebramos mi cumpleaños. 🎉",
+      "en": "Last week we celebrated my birthday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "celebrated",
+        "birthday"
+      ],
+      "dificultad": 1,
+      "categoria": "celebraciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f170",
+      "es": "Ahora estoy aprendiendo a tocar la guitarra. 🎸",
+      "en": "Now I am learning to play the guitar.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "learning",
+        "guitar"
+      ],
+      "dificultad": 1,
+      "categoria": "música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f171",
+      "es": "Ayer hice un dibujo bonito. 🎨",
+      "en": "Yesterday I made a nice drawing.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "made",
+        "drawing"
+      ],
+      "dificultad": 1,
+      "categoria": "arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f172",
+      "es": "La semana pasada visité a mis abuelos. 👵👴",
+      "en": "Last week I visited my grandparents.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "visited",
+        "grandparents"
+      ],
+      "dificultad": 1,
+      "categoria": "familia",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f173",
+      "es": "Ahora estoy cocinando la cena. 🍽️",
+      "en": "Now I am cooking dinner.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "cooking",
+        "dinner"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f174",
+      "es": "Ayer compré un libro nuevo. 📖",
+      "en": "Yesterday I bought a new book.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "bought",
+        "book"
+      ],
+      "dificultad": 1,
+      "categoria": "lectura",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f175",
+      "es": "La semana pasada jugué en un torneo. 🏆",
+      "en": "Last week I played in a tournament.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "played",
+        "tournament"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f176",
+      "es": "Ahora estoy viendo un documental. 📺",
+      "en": "Now I am watching a documentary.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "watching",
+        "documentary"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f177",
+      "es": "Ayer hice una presentación en clase. 📊",
+      "en": "Yesterday I made a presentation in class.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "made",
+        "presentation"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f178",
+      "es": "La semana pasada fui a un concierto. 🎤",
+      "en": "Last week I went to a concert.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "went",
+        "concert"
+      ],
+      "dificultad": 1,
+      "categoria": "música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f179",
+      "es": "Ahora estoy organizando mi habitación. 🛏️",
+      "en": "Now I am organizing my room.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "organizing",
+        "room"
+      ],
+      "dificultad": 1,
+      "categoria": "hogar",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f180",
+      "es": "Ayer hice un experimento en clase de ciencias. 🔬",
+      "en": "Yesterday I did an experiment in science class.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "did",
+        "experiment"
+      ],
+      "dificultad": 1,
+      "categoria": "ciencias",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f181",
+      "es": "Ahora estoy jugando en el parque. 🛝",
+      "en": "Now I am playing in the park.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "playing",
+        "park"
+      ],
+      "dificultad": 1,
+      "categoria": "actividades",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f182",
+      "es": "Ayer vi una película emocionante. 🎬",
+      "en": "Yesterday I watched an exciting movie.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "watched",
+        "movie"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f183",
+      "es": "La semana pasada tuve un examen difícil. 📚",
+      "en": "Last week I had a difficult exam.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "had",
+        "exam"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f184",
+      "es": "Ahora estoy escuchando música. 🎶",
+      "en": "Now I am listening to music.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "listening",
+        "music"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f185",
+      "es": "Ayer comí helado de chocolate. 🍦",
+      "en": "Yesterday I ate chocolate ice cream.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "ate",
+        "ice cream"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f186",
+      "es": "La semana pasada viajé a la playa. 🏖️",
+      "en": "Last week I traveled to the beach.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "traveled",
+        "beach"
+      ],
+      "dificultad": 1,
+      "categoria": "viajes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f187",
+      "es": "Ahora estoy aprendiendo a nadar. 🏊‍♂️",
+      "en": "Now I am learning to swim.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "learning",
+        "swim"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f188",
+      "es": "Ayer jugué al fútbol con mis amigos. ⚽",
+      "en": "Yesterday I played soccer with my friends.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "played",
+        "soccer"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f189",
+      "es": "La semana pasada leí un libro interesante. 📖",
+      "en": "Last week I read an interesting book.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "read",
+        "book"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f190",
+      "es": "Ahora estoy dibujando un paisaje. 🎨",
+      "en": "Now I am drawing a landscape.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "drawing",
+        "landscape"
+      ],
+      "dificultad": 1,
+      "categoria": "arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f191",
+      "es": "Ayer compré un nuevo juego. 🎮",
+      "en": "Yesterday I bought a new game.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "bought",
+        "game"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f192",
+      "es": "La semana pasada visité a mis abuelos. 👵👴",
+      "en": "Last week I visited my grandparents.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "visited",
+        "grandparents"
+      ],
+      "dificultad": 1,
+      "categoria": "familia",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f193",
+      "es": "Ahora estoy haciendo mis tareas. 📋",
+      "en": "Now I am doing my homework.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "doing",
+        "homework"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f194",
+      "es": "Ayer fui a una fiesta divertida. 🎉",
+      "en": "Yesterday I went to a fun party.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "went",
+        "party"
+      ],
+      "dificultad": 1,
+      "categoria": "social",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f195",
+      "es": "La semana pasada aprendí a montar en bicicleta. 🚴‍♂️",
+      "en": "Last week I learned to ride a bicycle.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "learned",
+        "bicycle"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f196",
+      "es": "Ahora estoy cocinando la cena. 🍽️",
+      "en": "Now I am cooking dinner.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "cooking",
+        "dinner"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f197",
+      "es": "Ayer jugué con mi perro en el jardín. 🐶",
+      "en": "Yesterday I played with my dog in the garden.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "played",
+        "dog"
+      ],
+      "dificultad": 1,
+      "categoria": "mascotas",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f198",
+      "es": "La semana pasada compré un libro nuevo. 📚",
+      "en": "Last week I bought a new book.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "bought",
+        "book"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f199",
+      "es": "Ahora estoy viendo un documental interesante. 📺",
+      "en": "Now I am watching an interesting documentary.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "watching",
+        "documentary"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f200",
+      "es": "Ayer hice un dibujo en clase. ✏️",
+      "en": "Yesterday I made a drawing in class.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "made",
+        "drawing"
+      ],
+      "dificultad": 1,
+      "categoria": "arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f201",
+      "es": "Ahora estoy jugando al fútbol. ⚽",
+      "en": "Now I am playing soccer.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "playing",
+        "soccer"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f202",
+      "es": "Ayer vi una película emocionante. 🎬",
+      "en": "Yesterday I watched an exciting movie.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "watched",
+        "movie"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f203",
+      "es": "La semana pasada tuve un examen difícil. 📚",
+      "en": "Last week I had a difficult exam.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "had",
+        "exam"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f204",
+      "es": "Ahora estoy escuchando música. 🎶",
+      "en": "Now I am listening to music.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "listening",
+        "music"
+      ],
+      "dificultad": 1,
+      "categoria": "música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f205",
+      "es": "Ayer comí helado de chocolate. 🍦",
+      "en": "Yesterday I ate chocolate ice cream.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "ate",
+        "ice cream"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f206",
+      "es": "La semana pasada visité a mis abuelos. 👵👴",
+      "en": "Last week I visited my grandparents.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "visited",
+        "grandparents"
+      ],
+      "dificultad": 1,
+      "categoria": "familia",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f207",
+      "es": "Ahora estoy aprendiendo inglés. 🇬🇧",
+      "en": "Now I am learning English.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "learning",
+        "English"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f208",
+      "es": "Ayer jugué videojuegos con mis amigos. 🎮",
+      "en": "Yesterday I played video games with my friends.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "played",
+        "video games"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f209",
+      "es": "La semana pasada fui al cine. 🍿",
+      "en": "Last week I went to the cinema.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "went",
+        "cinema"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f210",
+      "es": "Ahora estoy escribiendo una carta. ✉️",
+      "en": "Now I am writing a letter.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "writing",
+        "letter"
+      ],
+      "dificultad": 1,
+      "categoria": "comunicación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f211",
+      "es": "Ayer compré un libro nuevo. 📖",
+      "en": "Yesterday I bought a new book.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "bought",
+        "book"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f212",
+      "es": "La semana pasada hice una fiesta. 🎉",
+      "en": "Last week I had a party.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "had",
+        "party"
+      ],
+      "dificultad": 1,
+      "categoria": "celebraciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f213",
+      "es": "Ahora estoy cocinando la cena. 🍽️",
+      "en": "Now I am cooking dinner.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "cooking",
+        "dinner"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f214",
+      "es": "Ayer fui al parque. 🌳",
+      "en": "Yesterday I went to the park.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "went",
+        "park"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f215",
+      "es": "La semana pasada aprendí a nadar. 🏊",
+      "en": "Last week I learned to swim.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "learned",
+        "swim"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f216",
+      "es": "Ahora estoy dibujando un paisaje. 🎨",
+      "en": "Now I am drawing a landscape.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "drawing",
+        "landscape"
+      ],
+      "dificultad": 1,
+      "categoria": "arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f217",
+      "es": "Ayer hice un pastel. 🎂",
+      "en": "Yesterday I made a cake.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "made",
+        "cake"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f218",
+      "es": "La semana pasada jugué al baloncesto. 🏀",
+      "en": "Last week I played basketball.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'last week'",
+      "palabras_clave": [
+        "last week",
+        "played",
+        "basketball"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f219",
+      "es": "Ahora estoy viendo una serie. 📺",
+      "en": "Now I am watching a series.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Presente continuo con marcador temporal 'now'",
+      "palabras_clave": [
+        "now",
+        "watching",
+        "series"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n9_f220",
+      "es": "Ayer fui a la biblioteca. 📚",
+      "en": "Yesterday I went to the library.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Pasado simple con marcador temporal 'yesterday'",
+      "palabras_clave": [
+        "yesterday",
+        "went",
+        "library"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    }
+  ]
+}

@@ -1,0 +1,3011 @@
+{
+  "metadata": {
+    "nivel": 4,
+    "descripcion": "Preguntas en presente simple (do / does + wh-questions)",
+    "total_frases": 220,
+    "fecha_creacion": "2025-08-05T17:20:42.535586",
+    "version": "1.0"
+  },
+  "frases": [
+    {
+      "id": "n4_f001",
+      "es": "Ella siempre juega al baloncesto. 🏀",
+      "en": "She always plays basketball.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "she",
+        "plays"
+      ],
+      "dificultad": 1,
+      "categoria": "Deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f002",
+      "es": "Nosotros vamos al cine los viernes. 🎬",
+      "en": "We go to the movies on Fridays.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "we",
+        "go"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f003",
+      "es": "Ellos comen helado en verano. 🍦",
+      "en": "They eat ice cream in summer.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de objeto",
+      "palabras_clave": [
+        "they",
+        "eat"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f004",
+      "es": "Él siempre estudia matemáticas. 📚",
+      "en": "He always studies math.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "he",
+        "studies"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f005",
+      "es": "Yo leo libros de aventuras. 📖",
+      "en": "I read adventure books.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de objeto",
+      "palabras_clave": [
+        "I",
+        "read"
+      ],
+      "dificultad": 1,
+      "categoria": "Hobbies",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f006",
+      "es": "Nosotros hacemos ejercicio todos los días. 🏋️‍♂️",
+      "en": "We exercise every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "we",
+        "exercise"
+      ],
+      "dificultad": 1,
+      "categoria": "Salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f007",
+      "es": "Ella pinta cuadros hermosos. 🎨",
+      "en": "She paints beautiful pictures.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de objeto",
+      "palabras_clave": [
+        "she",
+        "paints"
+      ],
+      "dificultad": 1,
+      "categoria": "Arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f008",
+      "es": "Ellos juegan videojuegos los domingos. 🎮",
+      "en": "They play video games on Sundays.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "they",
+        "play"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f009",
+      "es": "Él siempre escucha música. 🎶",
+      "en": "He always listens to music.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "he",
+        "listens"
+      ],
+      "dificultad": 1,
+      "categoria": "Música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f011",
+      "es": "Nosotros viajamos a la playa en verano. 🏖️",
+      "en": "We travel to the beach in summer.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "we",
+        "travel"
+      ],
+      "dificultad": 1,
+      "categoria": "Viajes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f012",
+      "es": "Ella cuida de sus mascotas. 🐶",
+      "en": "She takes care of her pets.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de objeto",
+      "palabras_clave": [
+        "she",
+        "takes"
+      ],
+      "dificultad": 1,
+      "categoria": "Animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f013",
+      "es": "Ellos hacen tareas de casa los sábados. 🏡",
+      "en": "They do house chores on Saturdays.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "they",
+        "do"
+      ],
+      "dificultad": 1,
+      "categoria": "Tareas",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f014",
+      "es": "Él siempre juega con sus amigos. 👦👦",
+      "en": "He always plays with his friends.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "he",
+        "plays"
+      ],
+      "dificultad": 1,
+      "categoria": "Amistad",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f015",
+      "es": "Yo practico deportes en la escuela. 🏫",
+      "en": "I practice sports at school.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de lugar",
+      "palabras_clave": [
+        "I",
+        "practice"
+      ],
+      "dificultad": 1,
+      "categoria": "Deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f016",
+      "es": "Nosotros cocinamos juntos los domingos. 🍳",
+      "en": "We cook together on Sundays.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "we",
+        "cook"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f017",
+      "es": "Ella siempre ayuda a sus amigos. 🤝",
+      "en": "She always helps her friends.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "she",
+        "helps"
+      ],
+      "dificultad": 1,
+      "categoria": "Amistad",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f018",
+      "es": "Ellos ven películas de acción. 🎥",
+      "en": "They watch action movies.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de objeto",
+      "palabras_clave": [
+        "they",
+        "watch"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f019",
+      "es": "Yo siempre dibujo en mi cuaderno. ✏️",
+      "en": "I always draw in my notebook.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "I",
+        "draw"
+      ],
+      "dificultad": 1,
+      "categoria": "Arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f020",
+      "es": "Nosotros leemos cuentos antes de dormir. 🌙",
+      "en": "We read stories before sleeping.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "we",
+        "read"
+      ],
+      "dificultad": 1,
+      "categoria": "Hobbies",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f021",
+      "es": "Ella siempre juega al baloncesto. 🏀",
+      "en": "She always plays basketball.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "she",
+        "plays"
+      ],
+      "dificultad": 1,
+      "categoria": "Deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f022",
+      "es": "Nosotros vamos al cine los viernes. 🎬",
+      "en": "We go to the movies on Fridays.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "we",
+        "go"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f023",
+      "es": "Ellos comen helado en verano. 🍦",
+      "en": "They eat ice cream in summer.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de objeto",
+      "palabras_clave": [
+        "they",
+        "eat"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f025",
+      "es": "Yo leo libros de aventuras. 📖",
+      "en": "I read adventure books.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de objeto",
+      "palabras_clave": [
+        "I",
+        "read"
+      ],
+      "dificultad": 1,
+      "categoria": "Hobbies",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f026",
+      "es": "Nosotros hacemos ejercicio los domingos. 🏋️‍♂️",
+      "en": "We do exercise on Sundays.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "we",
+        "do"
+      ],
+      "dificultad": 1,
+      "categoria": "Salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f027",
+      "es": "Ellas ven películas de terror. 🎥",
+      "en": "They watch horror movies.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de objeto",
+      "palabras_clave": [
+        "they",
+        "watch"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f028",
+      "es": "Él toca la guitarra en su tiempo libre. 🎸",
+      "en": "He plays the guitar in his free time.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "he",
+        "plays"
+      ],
+      "dificultad": 1,
+      "categoria": "Música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f029",
+      "es": "Yo siempre desayuno a las ocho. 🍳",
+      "en": "I always have breakfast at eight.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "I",
+        "have"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f030",
+      "es": "Nosotros viajamos a la playa en verano. 🏖️",
+      "en": "We travel to the beach in summer.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "we",
+        "travel"
+      ],
+      "dificultad": 1,
+      "categoria": "Viajes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f031",
+      "es": "Ellos juegan videojuegos los sábados. 🎮",
+      "en": "They play video games on Saturdays.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "they",
+        "play"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f032",
+      "es": "Ella pinta cuadros en su tiempo libre. 🎨",
+      "en": "She paints pictures in her free time.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "she",
+        "paints"
+      ],
+      "dificultad": 1,
+      "categoria": "Arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f033",
+      "es": "Yo siempre escucho música antes de dormir. 🎶",
+      "en": "I always listen to music before sleeping.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "I",
+        "listen"
+      ],
+      "dificultad": 1,
+      "categoria": "Música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f034",
+      "es": "Nosotros cocinamos juntos los domingos. 🍽️",
+      "en": "We cook together on Sundays.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "we",
+        "cook"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f035",
+      "es": "Ellas hacen manualidades en la escuela. ✂️",
+      "en": "They do crafts at school.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de lugar",
+      "palabras_clave": [
+        "they",
+        "do"
+      ],
+      "dificultad": 1,
+      "categoria": "Arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f036",
+      "es": "Él siempre ayuda a sus amigos. 🤝",
+      "en": "He always helps his friends.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "he",
+        "helps"
+      ],
+      "dificultad": 1,
+      "categoria": "Relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f037",
+      "es": "Yo juego al fútbol en el parque. ⚽",
+      "en": "I play soccer in the park.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de lugar",
+      "palabras_clave": [
+        "I",
+        "play"
+      ],
+      "dificultad": 1,
+      "categoria": "Deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f038",
+      "es": "Nosotros leemos cuentos antes de dormir. 📚",
+      "en": "We read stories before sleeping.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "we",
+        "read"
+      ],
+      "dificultad": 1,
+      "categoria": "Hobbies",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f039",
+      "es": "Ellos siempre ríen en las fiestas. 😂",
+      "en": "They always laugh at parties.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "they",
+        "laugh"
+      ],
+      "dificultad": 1,
+      "categoria": "Social",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f041",
+      "es": "Ella siempre juega al baloncesto. 🏀",
+      "en": "She always plays basketball.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "she",
+        "plays"
+      ],
+      "dificultad": 1,
+      "categoria": "Deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f042",
+      "es": "Nosotros vamos al cine los viernes. 🎬",
+      "en": "We go to the movies on Fridays.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "we",
+        "go"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f043",
+      "es": "Ellos comen helado en verano. 🍦",
+      "en": "They eat ice cream in summer.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de objeto",
+      "palabras_clave": [
+        "they",
+        "eat"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f044",
+      "es": "Él siempre estudia matemáticas. 📚",
+      "en": "He always studies math.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "he",
+        "studies"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f045",
+      "es": "Yo juego videojuegos los domingos. 🎮",
+      "en": "I play video games on Sundays.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "I",
+        "play"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f046",
+      "es": "Nosotros vemos televisión por la noche. 📺",
+      "en": "We watch television at night.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "we",
+        "watch"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f047",
+      "es": "Ella toca la guitarra en su tiempo libre. 🎸",
+      "en": "She plays the guitar in her free time.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "she",
+        "plays"
+      ],
+      "dificultad": 1,
+      "categoria": "Música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f048",
+      "es": "Ellos van a la playa en verano. 🏖️",
+      "en": "They go to the beach in summer.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "they",
+        "go"
+      ],
+      "dificultad": 1,
+      "categoria": "Viajes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f049",
+      "es": "Él siempre corre por las mañanas. 🏃‍♂️",
+      "en": "He always runs in the mornings.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "he",
+        "runs"
+      ],
+      "dificultad": 1,
+      "categoria": "Deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f050",
+      "es": "Yo leo libros de aventuras. 📖",
+      "en": "I read adventure books.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de objeto",
+      "palabras_clave": [
+        "I",
+        "read"
+      ],
+      "dificultad": 1,
+      "categoria": "Hobbies",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f051",
+      "es": "Nosotros hacemos manualidades los sábados. 🎨",
+      "en": "We do crafts on Saturdays.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "we",
+        "do"
+      ],
+      "dificultad": 1,
+      "categoria": "Hobbies",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f052",
+      "es": "Ella siempre ayuda a sus amigos. 🤝",
+      "en": "She always helps her friends.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "she",
+        "helps"
+      ],
+      "dificultad": 1,
+      "categoria": "Relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f053",
+      "es": "Ellos juegan a las cartas los viernes. 🃏",
+      "en": "They play cards on Fridays.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "they",
+        "play"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f054",
+      "es": "Él siempre escucha música. 🎶",
+      "en": "He always listens to music.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "he",
+        "listens"
+      ],
+      "dificultad": 1,
+      "categoria": "Música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f055",
+      "es": "Yo dibujo en mi cuaderno. ✏️",
+      "en": "I draw in my notebook.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de lugar",
+      "palabras_clave": [
+        "I",
+        "draw"
+      ],
+      "dificultad": 1,
+      "categoria": "Hobbies",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f058",
+      "es": "Ellos siempre juegan en el parque. 🌳",
+      "en": "They always play in the park.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "they",
+        "play"
+      ],
+      "dificultad": 1,
+      "categoria": "Deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f059",
+      "es": "Yo como cereal en el desayuno. 🥣",
+      "en": "I eat cereal for breakfast.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de objeto",
+      "palabras_clave": [
+        "I",
+        "eat"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f060",
+      "es": "Nosotros hacemos ejercicio en el gimnasio. 🏋️‍♂️",
+      "en": "We exercise at the gym.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de lugar",
+      "palabras_clave": [
+        "we",
+        "exercise"
+      ],
+      "dificultad": 1,
+      "categoria": "Deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f061",
+      "es": "Ella siempre juega al baloncesto. 🏀",
+      "en": "She always plays basketball.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "she",
+        "plays"
+      ],
+      "dificultad": 1,
+      "categoria": "Deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f062",
+      "es": "Nosotros vamos al cine los viernes. 🎬",
+      "en": "We go to the cinema on Fridays.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "we",
+        "go"
+      ],
+      "dificultad": 1,
+      "categoria": "Actividades",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f063",
+      "es": "Ellos comen helado en verano. 🍦",
+      "en": "They eat ice cream in summer.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de objeto",
+      "palabras_clave": [
+        "they",
+        "eat"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f064",
+      "es": "Él siempre estudia matemáticas. 📚",
+      "en": "He always studies math.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "he",
+        "studies"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f065",
+      "es": "Yo leo libros de aventuras. 📖",
+      "en": "I read adventure books.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de objeto",
+      "palabras_clave": [
+        "I",
+        "read"
+      ],
+      "dificultad": 1,
+      "categoria": "Hobbies",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f066",
+      "es": "Nosotros hacemos ejercicio todos los días. 🏋️‍♂️",
+      "en": "We exercise every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "we",
+        "exercise"
+      ],
+      "dificultad": 1,
+      "categoria": "Salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f067",
+      "es": "Ella pinta cuadros hermosos. 🎨",
+      "en": "She paints beautiful pictures.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de objeto",
+      "palabras_clave": [
+        "she",
+        "paints"
+      ],
+      "dificultad": 1,
+      "categoria": "Arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f068",
+      "es": "Ellos juegan videojuegos los fines de semana. 🎮",
+      "en": "They play video games on weekends.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "they",
+        "play"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f069",
+      "es": "Él siempre escucha música clásica. 🎶",
+      "en": "He always listens to classical music.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "he",
+        "listens"
+      ],
+      "dificultad": 1,
+      "categoria": "Música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f070",
+      "es": "Yo voy a la piscina en verano. 🏊‍♂️",
+      "en": "I go to the pool in summer.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "I",
+        "go"
+      ],
+      "dificultad": 1,
+      "categoria": "Actividades",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f072",
+      "es": "Ella siempre viaja en verano. ✈️",
+      "en": "She always travels in summer.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "she",
+        "travels"
+      ],
+      "dificultad": 1,
+      "categoria": "Viajes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f073",
+      "es": "Ellos ven películas de acción. 🎥",
+      "en": "They watch action movies.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de objeto",
+      "palabras_clave": [
+        "they",
+        "watch"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f074",
+      "es": "Yo siempre ayudo a mis amigos. 🤝",
+      "en": "I always help my friends.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "I",
+        "help"
+      ],
+      "dificultad": 1,
+      "categoria": "Relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f076",
+      "es": "Nosotros hacemos manualidades en clase. ✂️",
+      "en": "We do crafts in class.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de lugar",
+      "palabras_clave": [
+        "we",
+        "do"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f077",
+      "es": "Ella siempre cuida a su mascota. 🐶",
+      "en": "She always takes care of her pet.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "she",
+        "takes"
+      ],
+      "dificultad": 1,
+      "categoria": "Mascotas",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f078",
+      "es": "Ellos van a la playa en vacaciones. 🏖️",
+      "en": "They go to the beach on vacation.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "they",
+        "go"
+      ],
+      "dificultad": 1,
+      "categoria": "Viajes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f079",
+      "es": "Yo siempre practico la guitarra. 🎸",
+      "en": "I always practice guitar.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "I",
+        "practice"
+      ],
+      "dificultad": 1,
+      "categoria": "Música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f081",
+      "es": "Ella siempre juega al baloncesto. 🏀",
+      "en": "She always plays basketball.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "she",
+        "plays"
+      ],
+      "dificultad": 1,
+      "categoria": "Deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f082",
+      "es": "Nosotros vamos al cine los viernes. 🎬",
+      "en": "We go to the cinema on Fridays.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "we",
+        "go"
+      ],
+      "dificultad": 1,
+      "categoria": "Actividades",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f083",
+      "es": "Ellos comen helado en verano. 🍦",
+      "en": "They eat ice cream in summer.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de objeto",
+      "palabras_clave": [
+        "they",
+        "eat"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f084",
+      "es": "Él siempre estudia matemáticas. 📚",
+      "en": "He always studies math.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "he",
+        "studies"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f085",
+      "es": "Ella toca la guitarra los domingos. 🎸",
+      "en": "She plays the guitar on Sundays.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "she",
+        "plays"
+      ],
+      "dificultad": 1,
+      "categoria": "Música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f086",
+      "es": "Nosotros bebemos jugo de naranja en el desayuno. 🍊",
+      "en": "We drink orange juice at breakfast.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de objeto",
+      "palabras_clave": [
+        "we",
+        "drink"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f087",
+      "es": "Ellos siempre ven televisión por la noche. 📺",
+      "en": "They always watch TV at night.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "they",
+        "watch"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f089",
+      "es": "Nosotros comemos pasta los domingos. 🍝",
+      "en": "We eat pasta on Sundays.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de objeto",
+      "palabras_clave": [
+        "we",
+        "eat"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f090",
+      "es": "Ella siempre ayuda a sus amigos. 🤝",
+      "en": "She always helps her friends.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "she",
+        "helps"
+      ],
+      "dificultad": 1,
+      "categoria": "Relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f091",
+      "es": "Ellos van a la playa en verano. 🏖️",
+      "en": "They go to the beach in summer.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "they",
+        "go"
+      ],
+      "dificultad": 1,
+      "categoria": "Vacaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f093",
+      "es": "Nosotros siempre leemos cuentos. 📖",
+      "en": "We always read stories.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "we",
+        "read"
+      ],
+      "dificultad": 1,
+      "categoria": "Literatura",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f094",
+      "es": "Ella pinta cuadros los sábados. 🎨",
+      "en": "She paints pictures on Saturdays.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "she",
+        "paints"
+      ],
+      "dificultad": 1,
+      "categoria": "Arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f095",
+      "es": "Ellos juegan en el parque después de la escuela. 🌳",
+      "en": "They play in the park after school.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de lugar",
+      "palabras_clave": [
+        "they",
+        "play"
+      ],
+      "dificultad": 1,
+      "categoria": "Actividades",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f096",
+      "es": "Él siempre escucha música. 🎶",
+      "en": "He always listens to music.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "he",
+        "listens"
+      ],
+      "dificultad": 1,
+      "categoria": "Música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f097",
+      "es": "Nosotros hacemos ejercicio en el gimnasio. 🏋️‍♂️",
+      "en": "We exercise at the gym.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de lugar",
+      "palabras_clave": [
+        "we",
+        "exercise"
+      ],
+      "dificultad": 1,
+      "categoria": "Salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f098",
+      "es": "Ella siempre cocina para su familia. 🍽️",
+      "en": "She always cooks for her family.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "she",
+        "cooks"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f099",
+      "es": "Ellos van a la escuela en autobús. 🚌",
+      "en": "They go to school by bus.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de medio de transporte",
+      "palabras_clave": [
+        "they",
+        "go"
+      ],
+      "dificultad": 1,
+      "categoria": "Transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f100",
+      "es": "Él siempre juega con sus amigos. 👦👦",
+      "en": "He always plays with his friends.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "he",
+        "plays"
+      ],
+      "dificultad": 1,
+      "categoria": "Relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f101",
+      "es": "Ella siempre juega al baloncesto. 🏀",
+      "en": "She always plays basketball.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "she",
+        "plays"
+      ],
+      "dificultad": 1,
+      "categoria": "Deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f102",
+      "es": "Nosotros vamos al cine los viernes. 🎬",
+      "en": "We go to the movies on Fridays.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "we",
+        "go"
+      ],
+      "dificultad": 1,
+      "categoria": "Ocio",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f103",
+      "es": "Ellos comen helado en verano. 🍦",
+      "en": "They eat ice cream in summer.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de objeto",
+      "palabras_clave": [
+        "they",
+        "eat"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f104",
+      "es": "Él siempre estudia matemáticas. 📚",
+      "en": "He always studies math.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "he",
+        "studies"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f105",
+      "es": "Nosotros hacemos ejercicio los domingos. 🏋️‍♂️",
+      "en": "We exercise on Sundays.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "we",
+        "exercise"
+      ],
+      "dificultad": 1,
+      "categoria": "Salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f106",
+      "es": "Ella pinta cuadros en su tiempo libre. 🎨",
+      "en": "She paints pictures in her free time.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "she",
+        "paints"
+      ],
+      "dificultad": 1,
+      "categoria": "Arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f107",
+      "es": "Ellos ven televisión por la noche. 📺",
+      "en": "They watch TV at night.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "they",
+        "watch"
+      ],
+      "dificultad": 1,
+      "categoria": "Ocio",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f109",
+      "es": "Nosotros leemos libros en la biblioteca. 📖",
+      "en": "We read books in the library.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de lugar",
+      "palabras_clave": [
+        "we",
+        "read"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f110",
+      "es": "Ella escucha música en su habitación. 🎶",
+      "en": "She listens to music in her room.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de lugar",
+      "palabras_clave": [
+        "she",
+        "listens"
+      ],
+      "dificultad": 1,
+      "categoria": "Ocio",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f111",
+      "es": "Ellos corren en el parque. 🏃‍♂️",
+      "en": "They run in the park.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de lugar",
+      "palabras_clave": [
+        "they",
+        "run"
+      ],
+      "dificultad": 1,
+      "categoria": "Deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f113",
+      "es": "Nosotros viajamos a la playa en verano. 🏖️",
+      "en": "We travel to the beach in summer.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "we",
+        "travel"
+      ],
+      "dificultad": 1,
+      "categoria": "Viajes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f114",
+      "es": "Ella cocina pasteles los sábados. 🍰",
+      "en": "She bakes cakes on Saturdays.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "she",
+        "bakes"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f115",
+      "es": "Ellos juegan en el patio después de la escuela. 🏫",
+      "en": "They play in the yard after school.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "they",
+        "play"
+      ],
+      "dificultad": 1,
+      "categoria": "Ocio",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f116",
+      "es": "Él siempre ayuda a sus amigos. 🤝",
+      "en": "He always helps his friends.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "he",
+        "helps"
+      ],
+      "dificultad": 1,
+      "categoria": "Relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f117",
+      "es": "Nosotros hacemos tareas juntos. 📋",
+      "en": "We do homework together.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de lugar",
+      "palabras_clave": [
+        "we",
+        "do"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f118",
+      "es": "Ella cuida de su mascota todos los días. 🐶",
+      "en": "She takes care of her pet every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "she",
+        "takes"
+      ],
+      "dificultad": 1,
+      "categoria": "Mascotas",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f119",
+      "es": "Ellos celebran su cumpleaños en octubre. 🎉",
+      "en": "They celebrate their birthday in October.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "they",
+        "celebrate"
+      ],
+      "dificultad": 1,
+      "categoria": "Celebraciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f120",
+      "es": "Él siempre lleva su mochila a la escuela. 🎒",
+      "en": "He always carries his backpack to school.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "he",
+        "carries"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f121",
+      "es": "Ella siempre juega al baloncesto. 🏀",
+      "en": "She always plays basketball.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "she",
+        "plays"
+      ],
+      "dificultad": 1,
+      "categoria": "Deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f122",
+      "es": "Nosotros vamos al cine los viernes. 🎬",
+      "en": "We go to the movies on Fridays.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "we",
+        "go"
+      ],
+      "dificultad": 1,
+      "categoria": "Actividades",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f123",
+      "es": "Ellos comen helado en verano. 🍦",
+      "en": "They eat ice cream in summer.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de objeto",
+      "palabras_clave": [
+        "they",
+        "eat"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f124",
+      "es": "Él siempre estudia matemáticas. 📚",
+      "en": "He always studies math.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "he",
+        "studies"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f125",
+      "es": "Yo leo libros de aventuras. 📖",
+      "en": "I read adventure books.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de objeto",
+      "palabras_clave": [
+        "I",
+        "read"
+      ],
+      "dificultad": 1,
+      "categoria": "Hobbies",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f126",
+      "es": "Nosotros hacemos ejercicio todos los días. 🏋️‍♂️",
+      "en": "We exercise every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "we",
+        "exercise"
+      ],
+      "dificultad": 1,
+      "categoria": "Salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f127",
+      "es": "Ella pinta cuadros hermosos. 🎨",
+      "en": "She paints beautiful pictures.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de objeto",
+      "palabras_clave": [
+        "she",
+        "paints"
+      ],
+      "dificultad": 1,
+      "categoria": "Arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f128",
+      "es": "Ellos juegan videojuegos los fines de semana. 🎮",
+      "en": "They play video games on weekends.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "they",
+        "play"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f129",
+      "es": "Él siempre escucha música. 🎶",
+      "en": "He always listens to music.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "he",
+        "listens"
+      ],
+      "dificultad": 1,
+      "categoria": "Música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f131",
+      "es": "Nosotros viajamos a la playa en verano. 🏖️",
+      "en": "We travel to the beach in summer.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "we",
+        "travel"
+      ],
+      "dificultad": 1,
+      "categoria": "Viajes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f132",
+      "es": "Ella cuida a su mascota todos los días. 🐶",
+      "en": "She takes care of her pet every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "she",
+        "takes"
+      ],
+      "dificultad": 1,
+      "categoria": "Mascotas",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f133",
+      "es": "Ellos ven películas de acción. 🎥",
+      "en": "They watch action movies.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de objeto",
+      "palabras_clave": [
+        "they",
+        "watch"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f134",
+      "es": "Yo hago mis tareas después de la escuela. 📚",
+      "en": "I do my homework after school.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "I",
+        "do"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f135",
+      "es": "Él siempre juega con sus amigos. 👦👦",
+      "en": "He always plays with his friends.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "he",
+        "plays"
+      ],
+      "dificultad": 1,
+      "categoria": "Amistad",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f136",
+      "es": "Nosotros comemos pizza los sábados. 🍕",
+      "en": "We eat pizza on Saturdays.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "we",
+        "eat"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f137",
+      "es": "Ellos hacen manualidades en clase. ✂️",
+      "en": "They do crafts in class.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de objeto",
+      "palabras_clave": [
+        "they",
+        "do"
+      ],
+      "dificultad": 1,
+      "categoria": "Arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f138",
+      "es": "Yo siempre ayudo a mis amigos. 🤝",
+      "en": "I always help my friends.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "I",
+        "help"
+      ],
+      "dificultad": 1,
+      "categoria": "Amistad",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f140",
+      "es": "Nosotros leemos cuentos antes de dormir. 🌙",
+      "en": "We read stories before sleeping.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "we",
+        "read"
+      ],
+      "dificultad": 1,
+      "categoria": "Hobbies",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f141",
+      "es": "Ella siempre juega al baloncesto. 🏀",
+      "en": "She always plays basketball.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "she",
+        "plays"
+      ],
+      "dificultad": 1,
+      "categoria": "Deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f142",
+      "es": "Nosotros vamos al cine los viernes. 🎬",
+      "en": "We go to the movies on Fridays.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "we",
+        "go"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f143",
+      "es": "Ellos comen helado en verano. 🍦",
+      "en": "They eat ice cream in summer.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de objeto",
+      "palabras_clave": [
+        "they",
+        "eat"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f144",
+      "es": "Él siempre estudia matemáticas. 📚",
+      "en": "He always studies math.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "he",
+        "studies"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f145",
+      "es": "Yo leo libros de aventuras. 📖",
+      "en": "I read adventure books.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de objeto",
+      "palabras_clave": [
+        "I",
+        "read"
+      ],
+      "dificultad": 1,
+      "categoria": "Hobbies",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f146",
+      "es": "Nosotros hacemos ejercicio todos los días. 🏋️‍♂️",
+      "en": "We exercise every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "we",
+        "exercise"
+      ],
+      "dificultad": 1,
+      "categoria": "Salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f147",
+      "es": "Ellas van a la playa en verano. 🏖️",
+      "en": "They go to the beach in summer.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "they",
+        "go"
+      ],
+      "dificultad": 1,
+      "categoria": "Vacaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f150",
+      "es": "Nosotros escuchamos música en casa. 🎶",
+      "en": "We listen to music at home.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de lugar",
+      "palabras_clave": [
+        "we",
+        "listen"
+      ],
+      "dificultad": 1,
+      "categoria": "Hobbies",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f151",
+      "es": "Ellas hacen manualidades en la clase. 🎨",
+      "en": "They do crafts in class.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de lugar",
+      "palabras_clave": [
+        "they",
+        "do"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f152",
+      "es": "Él siempre ayuda a sus amigos. 🤝",
+      "en": "He always helps his friends.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "he",
+        "helps"
+      ],
+      "dificultad": 1,
+      "categoria": "Relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f153",
+      "es": "Yo dibujo en mi cuaderno. ✏️",
+      "en": "I draw in my notebook.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de lugar",
+      "palabras_clave": [
+        "I",
+        "draw"
+      ],
+      "dificultad": 1,
+      "categoria": "Hobbies",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f154",
+      "es": "Nosotros cocinamos juntos los domingos. 🍳",
+      "en": "We cook together on Sundays.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "we",
+        "cook"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f155",
+      "es": "Ellos ven películas de acción. 🎥",
+      "en": "They watch action movies.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de objeto",
+      "palabras_clave": [
+        "they",
+        "watch"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f156",
+      "es": "Él siempre corre en el parque. 🏃‍♂️",
+      "en": "He always runs in the park.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "he",
+        "runs"
+      ],
+      "dificultad": 1,
+      "categoria": "Deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f157",
+      "es": "Yo practico piano todos los días. 🎹",
+      "en": "I practice piano every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "I",
+        "practice"
+      ],
+      "dificultad": 1,
+      "categoria": "Música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f158",
+      "es": "Nosotros viajamos a la montaña en invierno. 🏔️",
+      "en": "We travel to the mountains in winter.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "we",
+        "travel"
+      ],
+      "dificultad": 1,
+      "categoria": "Vacaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f159",
+      "es": "Ellas juegan a las cartas en casa. 🃏",
+      "en": "They play cards at home.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de lugar",
+      "palabras_clave": [
+        "they",
+        "play"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f160",
+      "es": "Él siempre mira el amanecer. 🌅",
+      "en": "He always watches the sunrise.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "he",
+        "watches"
+      ],
+      "dificultad": 1,
+      "categoria": "Naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f161",
+      "es": "Ella siempre juega al baloncesto. 🏀",
+      "en": "She always plays basketball.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "she",
+        "plays"
+      ],
+      "dificultad": 1,
+      "categoria": "Deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f162",
+      "es": "Nosotros vamos al cine los viernes. 🎬",
+      "en": "We go to the cinema on Fridays.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "we",
+        "go"
+      ],
+      "dificultad": 1,
+      "categoria": "Ocio",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f163",
+      "es": "Ellos comen helado en verano. 🍦",
+      "en": "They eat ice cream in summer.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de objeto",
+      "palabras_clave": [
+        "they",
+        "eat"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f164",
+      "es": "Él siempre estudia matemáticas. 📚",
+      "en": "He always studies math.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "he",
+        "studies"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f165",
+      "es": "Yo leo libros de aventuras. 📖",
+      "en": "I read adventure books.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de objeto",
+      "palabras_clave": [
+        "I",
+        "read"
+      ],
+      "dificultad": 1,
+      "categoria": "Hobbies",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f166",
+      "es": "Nosotros hacemos ejercicio todos los días. 🏋️‍♂️",
+      "en": "We exercise every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "we",
+        "exercise"
+      ],
+      "dificultad": 1,
+      "categoria": "Salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f167",
+      "es": "Ella toca la guitarra en la banda. 🎸",
+      "en": "She plays the guitar in the band.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de objeto",
+      "palabras_clave": [
+        "she",
+        "plays"
+      ],
+      "dificultad": 1,
+      "categoria": "Música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f168",
+      "es": "Ellos van a la playa en verano. 🏖️",
+      "en": "They go to the beach in summer.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "they",
+        "go"
+      ],
+      "dificultad": 1,
+      "categoria": "Ocio",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f169",
+      "es": "Él siempre juega videojuegos. 🎮",
+      "en": "He always plays video games.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "he",
+        "plays"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f171",
+      "es": "Nosotros hacemos tareas después de la escuela. 📚",
+      "en": "We do homework after school.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "we",
+        "do"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f172",
+      "es": "Ella pinta cuadros en su tiempo libre. 🎨",
+      "en": "She paints pictures in her free time.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "she",
+        "paints"
+      ],
+      "dificultad": 1,
+      "categoria": "Arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f173",
+      "es": "Ellos ven películas los fines de semana. 🎥",
+      "en": "They watch movies on weekends.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "they",
+        "watch"
+      ],
+      "dificultad": 1,
+      "categoria": "Ocio",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f174",
+      "es": "Yo escucho música todos los días. 🎶",
+      "en": "I listen to music every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "I",
+        "listen"
+      ],
+      "dificultad": 1,
+      "categoria": "Música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f176",
+      "es": "Nosotros leemos cuentos antes de dormir. 🌙",
+      "en": "We read stories before sleeping.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "we",
+        "read"
+      ],
+      "dificultad": 1,
+      "categoria": "Hobbies",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f177",
+      "es": "Ella siempre ayuda a sus amigos. 🤝",
+      "en": "She always helps her friends.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "she",
+        "helps"
+      ],
+      "dificultad": 1,
+      "categoria": "Relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f178",
+      "es": "Ellos viajan a la montaña en invierno. 🏔️",
+      "en": "They travel to the mountains in winter.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "they",
+        "travel"
+      ],
+      "dificultad": 1,
+      "categoria": "Ocio",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f179",
+      "es": "Yo practico natación los domingos. 🏊‍♂️",
+      "en": "I practice swimming on Sundays.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "I",
+        "practice"
+      ],
+      "dificultad": 1,
+      "categoria": "Deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f180",
+      "es": "Él siempre come desayuno en la mañana. 🍳",
+      "en": "He always eats breakfast in the morning.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "he",
+        "eats"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f181",
+      "es": "Ella siempre juega al baloncesto. 🏀",
+      "en": "She always plays basketball.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "she",
+        "plays"
+      ],
+      "dificultad": 1,
+      "categoria": "Deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f182",
+      "es": "Nosotros vamos al cine los viernes. 🎬",
+      "en": "We go to the cinema on Fridays.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "we",
+        "go"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f183",
+      "es": "Ellos comen helado en verano. 🍦",
+      "en": "They eat ice cream in summer.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de objeto",
+      "palabras_clave": [
+        "they",
+        "eat"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f184",
+      "es": "Él siempre estudia matemáticas. 📚",
+      "en": "He always studies math.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "he",
+        "studies"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f185",
+      "es": "Yo leo libros de aventuras. 📖",
+      "en": "I read adventure books.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de objeto",
+      "palabras_clave": [
+        "I",
+        "read"
+      ],
+      "dificultad": 1,
+      "categoria": "Hobbies",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f186",
+      "es": "Nosotros hacemos ejercicio todos los días. 🏋️‍♂️",
+      "en": "We exercise every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "we",
+        "exercise"
+      ],
+      "dificultad": 1,
+      "categoria": "Salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f187",
+      "es": "Ellas juegan a las cartas los domingos. 🃏",
+      "en": "They play cards on Sundays.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "they",
+        "play"
+      ],
+      "dificultad": 1,
+      "categoria": "Juegos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f188",
+      "es": "Él toca la guitarra en su tiempo libre. 🎸",
+      "en": "He plays the guitar in his free time.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "he",
+        "plays"
+      ],
+      "dificultad": 1,
+      "categoria": "Música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f189",
+      "es": "Yo dibujo en mi cuaderno. ✏️",
+      "en": "I draw in my notebook.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de objeto",
+      "palabras_clave": [
+        "I",
+        "draw"
+      ],
+      "dificultad": 1,
+      "categoria": "Arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f190",
+      "es": "Nosotros escuchamos música clásica. 🎶",
+      "en": "We listen to classical music.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de objeto",
+      "palabras_clave": [
+        "we",
+        "listen"
+      ],
+      "dificultad": 1,
+      "categoria": "Música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f191",
+      "es": "Ellos ven películas de acción. 🎥",
+      "en": "They watch action movies.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de objeto",
+      "palabras_clave": [
+        "they",
+        "watch"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f192",
+      "es": "Ella siempre ayuda a sus amigos. 🤝",
+      "en": "She always helps her friends.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "she",
+        "helps"
+      ],
+      "dificultad": 1,
+      "categoria": "Relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f193",
+      "es": "Yo practico deportes en la escuela. 🏫",
+      "en": "I practice sports at school.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de lugar",
+      "palabras_clave": [
+        "I",
+        "practice"
+      ],
+      "dificultad": 1,
+      "categoria": "Deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f194",
+      "es": "Nosotros cocinamos juntos los sábados. 🍳",
+      "en": "We cook together on Saturdays.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "we",
+        "cook"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f195",
+      "es": "Ellas leen cuentos antes de dormir. 🌙",
+      "en": "They read stories before sleeping.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "they",
+        "read"
+      ],
+      "dificultad": 1,
+      "categoria": "Hobbies",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f196",
+      "es": "Él siempre juega videojuegos. 🎮",
+      "en": "He always plays video games.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "he",
+        "plays"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f197",
+      "es": "Yo voy a la piscina en verano. 🏊‍♂️",
+      "en": "I go to the pool in summer.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "I",
+        "go"
+      ],
+      "dificultad": 1,
+      "categoria": "Verano",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f198",
+      "es": "Nosotros hacemos manualidades en clase. 🎨",
+      "en": "We do crafts in class.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de lugar",
+      "palabras_clave": [
+        "we",
+        "do"
+      ],
+      "dificultad": 1,
+      "categoria": "Arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f199",
+      "es": "Ellos siempre ríen en las fiestas. 🎉",
+      "en": "They always laugh at parties.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "they",
+        "laugh"
+      ],
+      "dificultad": 1,
+      "categoria": "Social",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f200",
+      "es": "Ella cuida de su mascota todos los días. 🐶",
+      "en": "She takes care of her pet every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "she",
+        "takes"
+      ],
+      "dificultad": 1,
+      "categoria": "Mascotas",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f201",
+      "es": "Ella siempre juega al baloncesto. 🏀",
+      "en": "She always plays basketball.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "she",
+        "plays"
+      ],
+      "dificultad": 1,
+      "categoria": "Deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f202",
+      "es": "Nosotros vamos al cine los viernes. 🎬",
+      "en": "We go to the movies on Fridays.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "we",
+        "go"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f203",
+      "es": "Ellos comen helado en verano. 🍦",
+      "en": "They eat ice cream in summer.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de objeto",
+      "palabras_clave": [
+        "they",
+        "eat"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f204",
+      "es": "Él siempre estudia matemáticas. 📚",
+      "en": "He always studies math.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "he",
+        "studies"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f205",
+      "es": "Yo leo libros de aventuras. 📖",
+      "en": "I read adventure books.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de objeto",
+      "palabras_clave": [
+        "I",
+        "read"
+      ],
+      "dificultad": 1,
+      "categoria": "Hobbies",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f206",
+      "es": "Nosotros hacemos ejercicio todos los días. 🏋️‍♂️",
+      "en": "We exercise every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "we",
+        "exercise"
+      ],
+      "dificultad": 1,
+      "categoria": "Salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f207",
+      "es": "Ellas ven televisión por la tarde. 📺",
+      "en": "They watch TV in the afternoon.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "they",
+        "watch"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f210",
+      "es": "Nosotros viajamos a la playa en verano. 🏖️",
+      "en": "We travel to the beach in summer.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "we",
+        "travel"
+      ],
+      "dificultad": 1,
+      "categoria": "Viajes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f211",
+      "es": "Ellos practican deportes en el parque. 🏞️",
+      "en": "They practice sports in the park.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de lugar",
+      "palabras_clave": [
+        "they",
+        "practice"
+      ],
+      "dificultad": 1,
+      "categoria": "Deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f212",
+      "es": "Ella pinta cuadros en su tiempo libre. 🎨",
+      "en": "She paints pictures in her free time.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "she",
+        "paints"
+      ],
+      "dificultad": 1,
+      "categoria": "Hobbies",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f213",
+      "es": "Yo escucho música por la mañana. 🎶",
+      "en": "I listen to music in the morning.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "I",
+        "listen"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f214",
+      "es": "Él siempre ayuda a sus amigos. 🤝",
+      "en": "He always helps his friends.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "he",
+        "helps"
+      ],
+      "dificultad": 1,
+      "categoria": "Relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f215",
+      "es": "Nosotros cocinamos juntos los domingos. 🍳",
+      "en": "We cook together on Sundays.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de tiempo",
+      "palabras_clave": [
+        "we",
+        "cook"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f216",
+      "es": "Ellas leen revistas de moda. 📚",
+      "en": "They read fashion magazines.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de objeto",
+      "palabras_clave": [
+        "they",
+        "read"
+      ],
+      "dificultad": 1,
+      "categoria": "Hobbies",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f217",
+      "es": "Yo juego al fútbol en el parque. ⚽",
+      "en": "I play soccer in the park.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de lugar",
+      "palabras_clave": [
+        "I",
+        "play"
+      ],
+      "dificultad": 1,
+      "categoria": "Deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f218",
+      "es": "Él siempre lleva su mochila a la escuela. 🎒",
+      "en": "He always carries his backpack to school.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "he",
+        "carries"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f219",
+      "es": "Nosotros hacemos manualidades en clase. ✂️",
+      "en": "We do crafts in class.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con complemento de lugar",
+      "palabras_clave": [
+        "we",
+        "do"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n4_f220",
+      "es": "Ellas siempre ríen juntas. 😂",
+      "en": "They always laugh together.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Afirmativa con adverbio de frecuencia",
+      "palabras_clave": [
+        "they",
+        "laugh"
+      ],
+      "dificultad": 1,
+      "categoria": "Relaciones",
+      "usada": false,
+      "fecha_uso": null
+    }
+  ]
+}

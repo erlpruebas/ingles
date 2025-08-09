@@ -1,0 +1,2786 @@
+{
+  "metadata": {
+    "nivel": 6,
+    "descripcion": "Pasado simple afirmativo (regulares e irregulares comunes)",
+    "total_frases": 220,
+    "fecha_creacion": "2025-08-05T17:39:46.544446",
+    "version": "1.0"
+  },
+  "frases": [
+    {
+      "id": "n6_f001",
+      "es": "Ella bailó en la fiesta 🎉",
+      "en": "She danced at the party.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "danced",
+        "party"
+      ],
+      "dificultad": 1,
+      "categoria": "Celebraciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f002",
+      "es": "Nosotros comimos pizza 🍕",
+      "en": "We ate pizza.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "ate",
+        "pizza"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f003",
+      "es": "Ellos jugaron videojuegos 🎮",
+      "en": "They played video games.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "played",
+        "video games"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f005",
+      "es": "Yo leí un libro 📚",
+      "en": "I read a book.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "read",
+        "book"
+      ],
+      "dificultad": 1,
+      "categoria": "Lectura",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f006",
+      "es": "Ella cocinó una cena deliciosa 🍽️",
+      "en": "She cooked a delicious dinner.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "cooked",
+        "dinner"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f007",
+      "es": "Nosotros viajamos a la playa 🏖️",
+      "en": "We traveled to the beach.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "traveled",
+        "beach"
+      ],
+      "dificultad": 1,
+      "categoria": "Viajes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f010",
+      "es": "Yo escribí una carta ✉️",
+      "en": "I wrote a letter.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "wrote",
+        "letter"
+      ],
+      "dificultad": 1,
+      "categoria": "Escritura",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f011",
+      "es": "Nosotros pintamos un cuadro 🎨",
+      "en": "We painted a picture.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "painted",
+        "picture"
+      ],
+      "dificultad": 1,
+      "categoria": "Arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f012",
+      "es": "Ella compró un regalo 🎁",
+      "en": "She bought a gift.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "bought",
+        "gift"
+      ],
+      "dificultad": 1,
+      "categoria": "Compras",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f013",
+      "es": "Ellos corrieron en el parque 🏃‍♂️",
+      "en": "They ran in the park.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "ran",
+        "park"
+      ],
+      "dificultad": 1,
+      "categoria": "Actividades diarias",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f014",
+      "es": "Yo jugué con mis amigos 🤝",
+      "en": "I played with my friends.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "played",
+        "friends"
+      ],
+      "dificultad": 1,
+      "categoria": "Amistad",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f015",
+      "es": "Él estudió para el examen 📖",
+      "en": "He studied for the exam.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "studied",
+        "exam"
+      ],
+      "dificultad": 1,
+      "categoria": "Estudio",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f016",
+      "es": "Nosotros limpiamos la casa 🧹",
+      "en": "We cleaned the house.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "cleaned",
+        "house"
+      ],
+      "dificultad": 1,
+      "categoria": "Tareas del hogar",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f017",
+      "es": "Ella encontró su teléfono 📱",
+      "en": "She found her phone.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "found",
+        "phone"
+      ],
+      "dificultad": 1,
+      "categoria": "Tecnología",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f018",
+      "es": "Ellos visitaron a sus abuelos 👵👴",
+      "en": "They visited their grandparents.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "visited",
+        "grandparents"
+      ],
+      "dificultad": 1,
+      "categoria": "Familia",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f019",
+      "es": "Yo nadé en la piscina 🏊‍♂️",
+      "en": "I swam in the pool.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "swam",
+        "pool"
+      ],
+      "dificultad": 1,
+      "categoria": "Deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f020",
+      "es": "Él corrió en la carrera 🏁",
+      "en": "He ran in the race.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "ran",
+        "race"
+      ],
+      "dificultad": 1,
+      "categoria": "Deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f021",
+      "es": "Ella bailó en la fiesta 🎉",
+      "en": "She danced at the party.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "danced",
+        "party"
+      ],
+      "dificultad": 1,
+      "categoria": "Actividades sociales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f022",
+      "es": "Nosotros comimos pizza 🍕",
+      "en": "We ate pizza.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "ate",
+        "pizza"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f023",
+      "es": "Ellos jugaron videojuegos 🎮",
+      "en": "They played video games.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "played",
+        "video games"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f025",
+      "es": "Yo estudié para el examen 📚",
+      "en": "I studied for the exam.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "studied",
+        "exam"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f026",
+      "es": "Ella visitó a su abuela 👵",
+      "en": "She visited her grandmother.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "visited",
+        "grandmother"
+      ],
+      "dificultad": 1,
+      "categoria": "Familia",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f027",
+      "es": "Nosotros vimos una película 🎥",
+      "en": "We watched a movie.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "watched",
+        "movie"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f028",
+      "es": "Ellos corrieron en el parque 🏃‍♂️",
+      "en": "They ran in the park.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "ran",
+        "park"
+      ],
+      "dificultad": 1,
+      "categoria": "Actividades al aire libre",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f029",
+      "es": "Él compró un libro 📖",
+      "en": "He bought a book.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "bought",
+        "book"
+      ],
+      "dificultad": 1,
+      "categoria": "Compras",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f030",
+      "es": "Yo escribí una carta ✉️",
+      "en": "I wrote a letter.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "wrote",
+        "letter"
+      ],
+      "dificultad": 1,
+      "categoria": "Comunicación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f031",
+      "es": "Nosotros pintamos un cuadro 🎨",
+      "en": "We painted a picture.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "painted",
+        "picture"
+      ],
+      "dificultad": 1,
+      "categoria": "Arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f032",
+      "es": "Ella escuchó música 🎶",
+      "en": "She listened to music.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "listened",
+        "music"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f033",
+      "es": "Ellos viajaron a España ✈️",
+      "en": "They traveled to Spain.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "traveled",
+        "Spain"
+      ],
+      "dificultad": 1,
+      "categoria": "Viajes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f035",
+      "es": "Yo jugué con mis amigos 🤝",
+      "en": "I played with my friends.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "played",
+        "friends"
+      ],
+      "dificultad": 1,
+      "categoria": "Amistad",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f036",
+      "es": "Nosotros hicimos un pastel 🎂",
+      "en": "We made a cake.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "made",
+        "cake"
+      ],
+      "dificultad": 1,
+      "categoria": "Cocina",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f037",
+      "es": "Ella encontró su teléfono 📱",
+      "en": "She found her phone.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "found",
+        "phone"
+      ],
+      "dificultad": 1,
+      "categoria": "Tecnología",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f038",
+      "es": "Ellos aprendieron sobre historia 📜",
+      "en": "They learned about history.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "learned",
+        "history"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f039",
+      "es": "Yo corrí en la carrera 🏁",
+      "en": "I ran in the race.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "ran",
+        "race"
+      ],
+      "dificultad": 1,
+      "categoria": "Deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f040",
+      "es": "Nosotros celebramos su cumpleaños 🎂",
+      "en": "We celebrated her birthday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "celebrated",
+        "birthday"
+      ],
+      "dificultad": 1,
+      "categoria": "Celebraciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f041",
+      "es": "Ella bailó en la fiesta 🎉",
+      "en": "She danced at the party.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "danced",
+        "party"
+      ],
+      "dificultad": 1,
+      "categoria": "Celebraciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f042",
+      "es": "Nosotros comimos pizza 🍕",
+      "en": "We ate pizza.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "ate",
+        "pizza"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f043",
+      "es": "Ellos jugaron videojuegos 🎮",
+      "en": "They played video games.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "played",
+        "video games"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f045",
+      "es": "Yo estudié para el examen 📚",
+      "en": "I studied for the exam.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "studied",
+        "exam"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f046",
+      "es": "Ella compró un libro 📖",
+      "en": "She bought a book.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "bought",
+        "book"
+      ],
+      "dificultad": 1,
+      "categoria": "Compras",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f047",
+      "es": "Nosotros viajamos a la playa 🏖️",
+      "en": "We traveled to the beach.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "traveled",
+        "beach"
+      ],
+      "dificultad": 1,
+      "categoria": "Vacaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f049",
+      "es": "Él corrió en el parque 🏃‍♂️",
+      "en": "He ran in the park.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "ran",
+        "park"
+      ],
+      "dificultad": 1,
+      "categoria": "Actividades diarias",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f050",
+      "es": "Yo pinté un cuadro 🎨",
+      "en": "I painted a picture.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "painted",
+        "picture"
+      ],
+      "dificultad": 1,
+      "categoria": "Arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f051",
+      "es": "Nosotros escuchamos música 🎶",
+      "en": "We listened to music.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "listened",
+        "music"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f052",
+      "es": "Ella cocinó una cena deliciosa 🍽️",
+      "en": "She cooked a delicious dinner.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "cooked",
+        "dinner"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f053",
+      "es": "Ellos jugaron en el parque 🌳",
+      "en": "They played in the park.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "played",
+        "park"
+      ],
+      "dificultad": 1,
+      "categoria": "Actividades diarias",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f054",
+      "es": "Yo vi un perro en la calle 🐕",
+      "en": "I saw a dog on the street.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "saw",
+        "dog"
+      ],
+      "dificultad": 1,
+      "categoria": "Naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f055",
+      "es": "Él escribió una carta ✉️",
+      "en": "He wrote a letter.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "wrote",
+        "letter"
+      ],
+      "dificultad": 1,
+      "categoria": "Comunicación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f057",
+      "es": "Ella visitó a su abuela 👵",
+      "en": "She visited her grandmother.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "visited",
+        "grandmother"
+      ],
+      "dificultad": 1,
+      "categoria": "Familia",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f058",
+      "es": "Ellos compraron regalos 🎁",
+      "en": "They bought gifts.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "bought",
+        "gifts"
+      ],
+      "dificultad": 1,
+      "categoria": "Compras",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f059",
+      "es": "Yo encontré una moneda 💰",
+      "en": "I found a coin.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "found",
+        "coin"
+      ],
+      "dificultad": 1,
+      "categoria": "Naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f060",
+      "es": "Él limpió su habitación 🛏️",
+      "en": "He cleaned his room.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "cleaned",
+        "room"
+      ],
+      "dificultad": 1,
+      "categoria": "Actividades diarias",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f061",
+      "es": "Ella bailó en la fiesta 🎉",
+      "en": "She danced at the party.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "danced",
+        "party"
+      ],
+      "dificultad": 1,
+      "categoria": "Celebraciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f062",
+      "es": "Nosotros comimos pizza 🍕",
+      "en": "We ate pizza.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "ate",
+        "pizza"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f063",
+      "es": "Ellos jugaron videojuegos 🎮",
+      "en": "They played video games.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "played",
+        "video games"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f065",
+      "es": "Ella estudió para el examen 📚",
+      "en": "She studied for the exam.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "studied",
+        "exam"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f067",
+      "es": "Nosotros viajamos a la playa 🏖️",
+      "en": "We traveled to the beach.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "traveled",
+        "beach"
+      ],
+      "dificultad": 1,
+      "categoria": "Viajes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f068",
+      "es": "Ellos hicieron un proyecto 📊",
+      "en": "They made a project.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "made",
+        "project"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f069",
+      "es": "Yo leí un libro 📖",
+      "en": "I read a book.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "read",
+        "book"
+      ],
+      "dificultad": 1,
+      "categoria": "Lectura",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f070",
+      "es": "Ella cocinó una cena deliciosa 🍽️",
+      "en": "She cooked a delicious dinner.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "cooked",
+        "dinner"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f071",
+      "es": "Él corrió en el parque 🏃‍♂️",
+      "en": "He ran in the park.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "ran",
+        "park"
+      ],
+      "dificultad": 1,
+      "categoria": "Actividades diarias",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f072",
+      "es": "Nosotros escuchamos música 🎶",
+      "en": "We listened to music.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "listened",
+        "music"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f073",
+      "es": "Ellos compraron regalos 🎁",
+      "en": "They bought gifts.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "bought",
+        "gifts"
+      ],
+      "dificultad": 1,
+      "categoria": "Compras",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f074",
+      "es": "Yo pinté un cuadro 🎨",
+      "en": "I painted a picture.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "painted",
+        "picture"
+      ],
+      "dificultad": 1,
+      "categoria": "Arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f075",
+      "es": "Ella visitó a su abuela 👵",
+      "en": "She visited her grandmother.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "visited",
+        "grandmother"
+      ],
+      "dificultad": 1,
+      "categoria": "Familia",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f076",
+      "es": "Él habló con su amigo 🗣️",
+      "en": "He talked to his friend.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "talked",
+        "friend"
+      ],
+      "dificultad": 1,
+      "categoria": "Social",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f078",
+      "es": "Ellos celebraron su cumpleaños 🎂",
+      "en": "They celebrated their birthday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "celebrated",
+        "birthday"
+      ],
+      "dificultad": 1,
+      "categoria": "Celebraciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f079",
+      "es": "Yo encontré mi libro perdido 📚",
+      "en": "I found my lost book.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "found",
+        "book"
+      ],
+      "dificultad": 1,
+      "categoria": "Lectura",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f080",
+      "es": "Ella compró flores para su madre 🌸",
+      "en": "She bought flowers for her mother.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "bought",
+        "flowers"
+      ],
+      "dificultad": 1,
+      "categoria": "Familia",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f081",
+      "es": "Ella cocinó una cena deliciosa 🍽️",
+      "en": "She cooked a delicious dinner.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "cooked",
+        "dinner"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f082",
+      "es": "Nosotros visitamos a nuestros abuelos 👵👴",
+      "en": "We visited our grandparents.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "visited",
+        "grandparents"
+      ],
+      "dificultad": 1,
+      "categoria": "Familia",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f083",
+      "es": "Ellos jugaron en el parque 🏞️",
+      "en": "They played in the park.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "played",
+        "park"
+      ],
+      "dificultad": 1,
+      "categoria": "Actividades diarias",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f084",
+      "es": "Él fue al cine con sus amigos 🎬",
+      "en": "He went to the cinema with his friends.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "went",
+        "cinema"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f085",
+      "es": "Ella bailó en la fiesta 🎉",
+      "en": "She danced at the party.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "danced",
+        "party"
+      ],
+      "dificultad": 1,
+      "categoria": "Fiestas",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f086",
+      "es": "Nosotros vimos una película emocionante 🎥",
+      "en": "We saw an exciting movie.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "saw",
+        "movie"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f087",
+      "es": "Ellos escucharon música en la playa 🎶",
+      "en": "They listened to music at the beach.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "listened",
+        "music"
+      ],
+      "dificultad": 1,
+      "categoria": "Actividades diarias",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f088",
+      "es": "Él corrió en la carrera 🏃‍♂️",
+      "en": "He ran in the race.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "ran",
+        "race"
+      ],
+      "dificultad": 1,
+      "categoria": "Deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f089",
+      "es": "Ella pintó un hermoso cuadro 🎨",
+      "en": "She painted a beautiful picture.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "painted",
+        "picture"
+      ],
+      "dificultad": 1,
+      "categoria": "Arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f090",
+      "es": "Nosotros viajamos a la montaña ⛰️",
+      "en": "We traveled to the mountain.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "traveled",
+        "mountain"
+      ],
+      "dificultad": 1,
+      "categoria": "Viajes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f091",
+      "es": "Ellos comieron pizza 🍕",
+      "en": "They ate pizza.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "ate",
+        "pizza"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f092",
+      "es": "Él estudió para el examen 📚",
+      "en": "He studied for the exam.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "studied",
+        "exam"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f093",
+      "es": "Ella ayudó a su hermano con la tarea 📖",
+      "en": "She helped her brother with homework.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "helped",
+        "homework"
+      ],
+      "dificultad": 1,
+      "categoria": "Familia",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f094",
+      "es": "Nosotros compramos regalos para Navidad 🎁",
+      "en": "We bought gifts for Christmas.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "bought",
+        "gifts"
+      ],
+      "dificultad": 1,
+      "categoria": "Celebraciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f095",
+      "es": "Ellos limpiaron su habitación 🧹",
+      "en": "They cleaned their room.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "cleaned",
+        "room"
+      ],
+      "dificultad": 1,
+      "categoria": "Hogar",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f096",
+      "es": "Él encontró su libro favorito 📖",
+      "en": "He found his favorite book.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "found",
+        "book"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f097",
+      "es": "Ella escuchó un cuento antes de dormir 🌙",
+      "en": "She listened to a story before sleeping.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "listened",
+        "story"
+      ],
+      "dificultad": 1,
+      "categoria": "Cuentos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f098",
+      "es": "Nosotros jugamos videojuegos el fin de semana 🎮",
+      "en": "We played video games on the weekend.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "played",
+        "video games"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f099",
+      "es": "Ellos viajaron en avión ✈️",
+      "en": "They traveled by plane.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "traveled",
+        "plane"
+      ],
+      "dificultad": 1,
+      "categoria": "Viajes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f101",
+      "es": "Ella bailó en la fiesta 🎉",
+      "en": "She danced at the party.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "danced",
+        "party"
+      ],
+      "dificultad": 1,
+      "categoria": "Celebraciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f103",
+      "es": "Nosotros viajamos a la playa 🏖️",
+      "en": "We traveled to the beach.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "traveled",
+        "beach"
+      ],
+      "dificultad": 1,
+      "categoria": "Vacaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f105",
+      "es": "Yo jugué con mis amigos ⚽",
+      "en": "I played with my friends.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "played",
+        "friends"
+      ],
+      "dificultad": 1,
+      "categoria": "Amistad",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f106",
+      "es": "Ella fue a la tienda 🏬",
+      "en": "She went to the store.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "went",
+        "store"
+      ],
+      "dificultad": 1,
+      "categoria": "Compras",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f108",
+      "es": "Nosotros vimos un espectáculo 🎭",
+      "en": "We saw a show.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "saw",
+        "show"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f109",
+      "es": "Ellos cocinaron la cena 🍽️",
+      "en": "They cooked dinner.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "cooked",
+        "dinner"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f111",
+      "es": "Ella pintó un cuadro 🎨",
+      "en": "She painted a picture.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "painted",
+        "picture"
+      ],
+      "dificultad": 1,
+      "categoria": "Arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f112",
+      "es": "Él corrió en el parque 🏃‍♂️",
+      "en": "He ran in the park.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "ran",
+        "park"
+      ],
+      "dificultad": 1,
+      "categoria": "Deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f113",
+      "es": "Nosotros limpiamos la casa 🏡",
+      "en": "We cleaned the house.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "cleaned",
+        "house"
+      ],
+      "dificultad": 1,
+      "categoria": "Tareas del hogar",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f114",
+      "es": "Ellos compraron regalos 🎁",
+      "en": "They bought gifts.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "bought",
+        "gifts"
+      ],
+      "dificultad": 1,
+      "categoria": "Compras",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f115",
+      "es": "Yo escribí una carta ✉️",
+      "en": "I wrote a letter.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "wrote",
+        "letter"
+      ],
+      "dificultad": 1,
+      "categoria": "Escritura",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f116",
+      "es": "Ella estudió para el examen 📖",
+      "en": "She studied for the exam.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "studied",
+        "exam"
+      ],
+      "dificultad": 1,
+      "categoria": "Estudio",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f118",
+      "es": "Nosotros bailamos en la fiesta 🎊",
+      "en": "We danced at the party.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "danced",
+        "party"
+      ],
+      "dificultad": 1,
+      "categoria": "Celebraciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f119",
+      "es": "Ellos viajaron en avión ✈️",
+      "en": "They traveled by plane.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "traveled",
+        "plane"
+      ],
+      "dificultad": 1,
+      "categoria": "Viajes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f120",
+      "es": "Yo vi a mis amigos en el parque 🌳",
+      "en": "I saw my friends at the park.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "saw",
+        "friends"
+      ],
+      "dificultad": 1,
+      "categoria": "Amistad",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f121",
+      "es": "Ella jugó con sus amigos 🎮",
+      "en": "She played with her friends.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "played",
+        "friends"
+      ],
+      "dificultad": 1,
+      "categoria": "Actividades diarias",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f122",
+      "es": "Ellos comieron pizza 🍕",
+      "en": "They ate pizza.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "ate",
+        "pizza"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f123",
+      "es": "Nosotros viajamos a la playa 🏖️",
+      "en": "We traveled to the beach.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "traveled",
+        "beach"
+      ],
+      "dificultad": 1,
+      "categoria": "Vacaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f125",
+      "es": "Ella estudió para el examen 📚",
+      "en": "She studied for the exam.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "studied",
+        "exam"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f127",
+      "es": "Nosotros bailamos en la fiesta 🎉",
+      "en": "We danced at the party.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "danced",
+        "party"
+      ],
+      "dificultad": 1,
+      "categoria": "Celebraciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f128",
+      "es": "Él escribió una carta ✉️",
+      "en": "He wrote a letter.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "wrote",
+        "letter"
+      ],
+      "dificultad": 1,
+      "categoria": "Comunicación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f129",
+      "es": "Ella cocinó una cena deliciosa 🍽️",
+      "en": "She cooked a delicious dinner.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "cooked",
+        "dinner"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f130",
+      "es": "Ellos jugaron en el parque 🌳",
+      "en": "They played in the park.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "played",
+        "park"
+      ],
+      "dificultad": 1,
+      "categoria": "Actividades al aire libre",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f131",
+      "es": "Nosotros vimos un espectáculo de magia 🎩",
+      "en": "We saw a magic show.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "saw",
+        "show"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f132",
+      "es": "Él corrió en la carrera 🏃‍♂️",
+      "en": "He ran in the race.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "ran",
+        "race"
+      ],
+      "dificultad": 1,
+      "categoria": "Deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f133",
+      "es": "Ella pintó un cuadro hermoso 🎨",
+      "en": "She painted a beautiful picture.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "painted",
+        "picture"
+      ],
+      "dificultad": 1,
+      "categoria": "Arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f135",
+      "es": "Nosotros visitamos a nuestros abuelos 👵👴",
+      "en": "We visited our grandparents.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "visited",
+        "grandparents"
+      ],
+      "dificultad": 1,
+      "categoria": "Familia",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f136",
+      "es": "Él encontró su libro perdido 📖",
+      "en": "He found his lost book.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "found",
+        "book"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f137",
+      "es": "Ella limpió su habitación 🧹",
+      "en": "She cleaned her room.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "cleaned",
+        "room"
+      ],
+      "dificultad": 1,
+      "categoria": "Hogar",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f138",
+      "es": "Ellos compraron regalos para sus amigos 🎁",
+      "en": "They bought gifts for their friends.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "bought",
+        "gifts"
+      ],
+      "dificultad": 1,
+      "categoria": "Compras",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f140",
+      "es": "Él saltó en la cama elástica 🤸‍♂️",
+      "en": "He jumped on the trampoline.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "jumped",
+        "trampoline"
+      ],
+      "dificultad": 1,
+      "categoria": "Actividades al aire libre",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f141",
+      "es": "Ella estudió para el examen 📚",
+      "en": "She studied for the exam.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "studied",
+        "exam"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f142",
+      "es": "Nosotros comimos pizza 🍕",
+      "en": "We ate pizza.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "ate",
+        "pizza"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f143",
+      "es": "Ellos jugaron videojuegos 🎮",
+      "en": "They played video games.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "played",
+        "video games"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f145",
+      "es": "Ella bailó en la fiesta 💃",
+      "en": "She danced at the party.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "danced",
+        "party"
+      ],
+      "dificultad": 1,
+      "categoria": "Celebraciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f147",
+      "es": "Nosotros viajamos a la playa 🏖️",
+      "en": "We traveled to the beach.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "traveled",
+        "beach"
+      ],
+      "dificultad": 1,
+      "categoria": "Vacaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f148",
+      "es": "Ellos compraron regalos para su mamá 🎁",
+      "en": "They bought gifts for their mom.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "bought",
+        "gifts"
+      ],
+      "dificultad": 1,
+      "categoria": "Compras",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f149",
+      "es": "Yo limpié mi habitación 🧹",
+      "en": "I cleaned my room.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "cleaned",
+        "room"
+      ],
+      "dificultad": 1,
+      "categoria": "Tareas del hogar",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f150",
+      "es": "Ella leyó un libro fascinante 📖",
+      "en": "She read a fascinating book.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "read",
+        "book"
+      ],
+      "dificultad": 1,
+      "categoria": "Lectura",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f151",
+      "es": "Nosotros escuchamos música en la tarde 🎶",
+      "en": "We listened to music in the afternoon.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "listened",
+        "music"
+      ],
+      "dificultad": 1,
+      "categoria": "Música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f152",
+      "es": "Él corrió en el parque 🏃‍♂️",
+      "en": "He ran in the park.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "ran",
+        "park"
+      ],
+      "dificultad": 1,
+      "categoria": "Deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f153",
+      "es": "Ellos pintaron un cuadro hermoso 🎨",
+      "en": "They painted a beautiful picture.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "painted",
+        "picture"
+      ],
+      "dificultad": 1,
+      "categoria": "Arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f154",
+      "es": "Yo encontré mi juguete favorito 🧸",
+      "en": "I found my favorite toy.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "found",
+        "toy"
+      ],
+      "dificultad": 1,
+      "categoria": "Juguetes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f155",
+      "es": "Nosotros hicimos un proyecto en clase 📊",
+      "en": "We made a project in class.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "made",
+        "project"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f156",
+      "es": "Ella visitó a su abuela 👵",
+      "en": "She visited her grandmother.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "visited",
+        "grandmother"
+      ],
+      "dificultad": 1,
+      "categoria": "Familia",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f157",
+      "es": "Él escribió una carta a su amigo ✉️",
+      "en": "He wrote a letter to his friend.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "wrote",
+        "letter"
+      ],
+      "dificultad": 1,
+      "categoria": "Comunicación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f159",
+      "es": "Ellos celebraron su cumpleaños 🎉",
+      "en": "They celebrated their birthday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "celebrated",
+        "birthday"
+      ],
+      "dificultad": 1,
+      "categoria": "Celebraciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f161",
+      "es": "Ella bailó en la fiesta 🎉",
+      "en": "She danced at the party.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "danced",
+        "party"
+      ],
+      "dificultad": 1,
+      "categoria": "Actividades sociales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f162",
+      "es": "Nosotros comimos pizza 🍕",
+      "en": "We ate pizza.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "ate",
+        "pizza"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f163",
+      "es": "Ellos jugaron videojuegos 🎮",
+      "en": "They played video games.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "played",
+        "video games"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f165",
+      "es": "Yo vi una película 🎥",
+      "en": "I watched a movie.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "watched",
+        "movie"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f166",
+      "es": "Ella escribió una carta ✉️",
+      "en": "She wrote a letter.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "wrote",
+        "letter"
+      ],
+      "dificultad": 1,
+      "categoria": "Comunicación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f167",
+      "es": "Nosotros viajamos a España ✈️",
+      "en": "We traveled to Spain.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "traveled",
+        "Spain"
+      ],
+      "dificultad": 1,
+      "categoria": "Viajes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f168",
+      "es": "Ellos corrieron en el parque 🏃‍♂️",
+      "en": "They ran in the park.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "ran",
+        "park"
+      ],
+      "dificultad": 1,
+      "categoria": "Actividades al aire libre",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f169",
+      "es": "Él escuchó música 🎶",
+      "en": "He listened to music.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "listened",
+        "music"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f170",
+      "es": "Yo compré un libro 📚",
+      "en": "I bought a book.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "bought",
+        "book"
+      ],
+      "dificultad": 1,
+      "categoria": "Compras",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f171",
+      "es": "Nosotros pintamos un cuadro 🎨",
+      "en": "We painted a picture.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "painted",
+        "picture"
+      ],
+      "dificultad": 1,
+      "categoria": "Arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f173",
+      "es": "Él arregló su bicicleta 🚲",
+      "en": "He fixed his bike.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "fixed",
+        "bike"
+      ],
+      "dificultad": 1,
+      "categoria": "Actividades diarias",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f174",
+      "es": "Yo jugué con mis amigos 🤗",
+      "en": "I played with my friends.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "played",
+        "friends"
+      ],
+      "dificultad": 1,
+      "categoria": "Socialización",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f175",
+      "es": "Nosotros vimos un espectáculo 🎭",
+      "en": "We saw a show.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "saw",
+        "show"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f176",
+      "es": "Ellos compraron helado 🍦",
+      "en": "They bought ice cream.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "bought",
+        "ice cream"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f177",
+      "es": "Él corrió en la carrera 🏁",
+      "en": "He ran in the race.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "ran",
+        "race"
+      ],
+      "dificultad": 1,
+      "categoria": "Deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f178",
+      "es": "Yo limpié mi habitación 🧹",
+      "en": "I cleaned my room.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "cleaned",
+        "room"
+      ],
+      "dificultad": 1,
+      "categoria": "Actividades diarias",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f179",
+      "es": "Nosotros escuchamos un cuento 📖",
+      "en": "We listened to a story.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "listened",
+        "story"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f180",
+      "es": "Ellos visitaron a sus abuelos 👵👴",
+      "en": "They visited their grandparents.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "visited",
+        "grandparents"
+      ],
+      "dificultad": 1,
+      "categoria": "Familia",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f181",
+      "es": "Ella estudió para el examen 📚",
+      "en": "She studied for the exam.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "studied",
+        "exam"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f182",
+      "es": "Nosotros escuchamos música 🎶",
+      "en": "We listened to music.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "listened",
+        "music"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f183",
+      "es": "Ellos jugaron videojuegos 🎮",
+      "en": "They played video games.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "played",
+        "video games"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f186",
+      "es": "Ella bailó en la fiesta 💃",
+      "en": "She danced at the party.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "danced",
+        "party"
+      ],
+      "dificultad": 1,
+      "categoria": "Fiestas",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f187",
+      "es": "Nosotros viajamos a la playa 🏖️",
+      "en": "We traveled to the beach.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "traveled",
+        "beach"
+      ],
+      "dificultad": 1,
+      "categoria": "Viajes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f188",
+      "es": "Ellos fueron al cine 🎥",
+      "en": "They went to the cinema.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "went",
+        "cinema"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f189",
+      "es": "Él compró un libro 📖",
+      "en": "He bought a book.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "bought",
+        "book"
+      ],
+      "dificultad": 1,
+      "categoria": "Compras",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f190",
+      "es": "Yo escribí una carta ✉️",
+      "en": "I wrote a letter.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "wrote",
+        "letter"
+      ],
+      "dificultad": 1,
+      "categoria": "Comunicación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f191",
+      "es": "Nosotros pintamos un cuadro 🎨",
+      "en": "We painted a picture.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "painted",
+        "picture"
+      ],
+      "dificultad": 1,
+      "categoria": "Arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f192",
+      "es": "Ellos corrieron en el parque 🏃‍♂️",
+      "en": "They ran in the park.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "ran",
+        "park"
+      ],
+      "dificultad": 1,
+      "categoria": "Deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f194",
+      "es": "Yo cociné la cena 🍽️",
+      "en": "I cooked dinner.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "cooked",
+        "dinner"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f195",
+      "es": "Nosotros limpiamos la casa 🏠",
+      "en": "We cleaned the house.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "cleaned",
+        "house"
+      ],
+      "dificultad": 1,
+      "categoria": "Tareas del hogar",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f196",
+      "es": "Ellos visitaron a sus abuelos 👵👴",
+      "en": "They visited their grandparents.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "visited",
+        "grandparents"
+      ],
+      "dificultad": 1,
+      "categoria": "Familia",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f197",
+      "es": "Él encontró su juguete 🧸",
+      "en": "He found his toy.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "found",
+        "toy"
+      ],
+      "dificultad": 1,
+      "categoria": "Juguetes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f198",
+      "es": "Yo nadé en la piscina 🏊‍♂️",
+      "en": "I swam in the pool.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "swam",
+        "pool"
+      ],
+      "dificultad": 1,
+      "categoria": "Deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f199",
+      "es": "Nosotros compramos helado 🍦",
+      "en": "We bought ice cream.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "bought",
+        "ice cream"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f200",
+      "es": "Ellos jugaron en el parque 🌳",
+      "en": "They played in the park.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "played",
+        "park"
+      ],
+      "dificultad": 1,
+      "categoria": "Actividades diarias",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f201",
+      "es": "Ella bailó en la fiesta 🎉",
+      "en": "She danced at the party.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "danced",
+        "party"
+      ],
+      "dificultad": 1,
+      "categoria": "Celebraciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f202",
+      "es": "Ellos comieron pizza 🍕",
+      "en": "They ate pizza.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "ate",
+        "pizza"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f205",
+      "es": "Ella estudió para el examen 📚",
+      "en": "She studied for the exam.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "studied",
+        "exam"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f206",
+      "es": "Ellos jugaron en el parque 🌳",
+      "en": "They played in the park.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "played",
+        "park"
+      ],
+      "dificultad": 1,
+      "categoria": "Actividades diarias",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f207",
+      "es": "Nosotros fuimos a la playa 🏖️",
+      "en": "We went to the beach.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "went",
+        "beach"
+      ],
+      "dificultad": 1,
+      "categoria": "Excursiones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f208",
+      "es": "Él compró un libro 📖",
+      "en": "He bought a book.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "bought",
+        "book"
+      ],
+      "dificultad": 1,
+      "categoria": "Compras",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f209",
+      "es": "Ella cocinó una cena deliciosa 🍽️",
+      "en": "She cooked a delicious dinner.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "cooked",
+        "dinner"
+      ],
+      "dificultad": 1,
+      "categoria": "Comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f212",
+      "es": "Él pintó un cuadro hermoso 🎨",
+      "en": "He painted a beautiful picture.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "painted",
+        "picture"
+      ],
+      "dificultad": 1,
+      "categoria": "Arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f213",
+      "es": "Ella corrió en la carrera 🏃‍♀️",
+      "en": "She ran in the race.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "ran",
+        "race"
+      ],
+      "dificultad": 1,
+      "categoria": "Deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f214",
+      "es": "Ellos limpiaron su habitación 🧹",
+      "en": "They cleaned their room.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "cleaned",
+        "room"
+      ],
+      "dificultad": 1,
+      "categoria": "Actividades diarias",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f215",
+      "es": "Nosotros jugamos videojuegos 🎮",
+      "en": "We played video games.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "played",
+        "video games"
+      ],
+      "dificultad": 1,
+      "categoria": "Entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f216",
+      "es": "Él llevó su mochila a la escuela 🎒",
+      "en": "He carried his backpack to school.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "carried",
+        "backpack"
+      ],
+      "dificultad": 1,
+      "categoria": "Educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f217",
+      "es": "Ella encontró su perro perdido 🐶",
+      "en": "She found her lost dog.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "found",
+        "dog"
+      ],
+      "dificultad": 1,
+      "categoria": "Mascotas",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f219",
+      "es": "Nosotros celebramos su cumpleaños 🎂",
+      "en": "We celebrated her birthday.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo regular",
+      "palabras_clave": [
+        "celebrated",
+        "birthday"
+      ],
+      "dificultad": 1,
+      "categoria": "Celebraciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n6_f220",
+      "es": "Él escribió una carta ✉️",
+      "en": "He wrote a letter.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "Verbo irregular",
+      "palabras_clave": [
+        "wrote",
+        "letter"
+      ],
+      "dificultad": 1,
+      "categoria": "Comunicación",
+      "usada": false,
+      "fecha_uso": null
+    }
+  ]
+}

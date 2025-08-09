@@ -1,0 +1,3090 @@
+{
+  "metadata": {
+    "nivel": 13,
+    "descripcion": "Must / mustn't / should / shouldn't (obligación y consejo)",
+    "total_frases": 220,
+    "fecha_creacion": "2025-08-05T18:46:37.947592",
+    "version": "1.0"
+  },
+  "frases": [
+    {
+      "id": "n13_f001",
+      "es": "Debes hacer tu tarea todos los días. 📚",
+      "en": "You must do your homework every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "must",
+      "palabras_clave": [
+        "do",
+        "homework"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f002",
+      "es": "No debes hablar durante la película. 🎬",
+      "en": "You mustn't talk during the movie.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "mustn't",
+      "palabras_clave": [
+        "talk",
+        "movie"
+      ],
+      "dificultad": 1,
+      "categoria": "reglas",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f003",
+      "es": "Deberías practicar deportes para estar saludable. ⚽",
+      "en": "You should play sports to stay healthy.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "should",
+      "palabras_clave": [
+        "play",
+        "sports"
+      ],
+      "dificultad": 1,
+      "categoria": "salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f004",
+      "es": "No deberías ver demasiada televisión. 📺",
+      "en": "You shouldn't watch too much television.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "shouldn't",
+      "palabras_clave": [
+        "watch",
+        "television"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f005",
+      "es": "Debes comer frutas y verduras todos los días. 🍎🥦",
+      "en": "You must eat fruits and vegetables every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "must",
+      "palabras_clave": [
+        "eat",
+        "fruits",
+        "vegetables"
+      ],
+      "dificultad": 1,
+      "categoria": "salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f007",
+      "es": "Deberías ayudar a tus amigos cuando lo necesiten. 🤝",
+      "en": "You should help your friends when they need it.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "should",
+      "palabras_clave": [
+        "help",
+        "friends"
+      ],
+      "dificultad": 1,
+      "categoria": "amistad",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f008",
+      "es": "No deberías comer comida chatarra todos los días. 🍔",
+      "en": "You shouldn't eat junk food every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "shouldn't",
+      "palabras_clave": [
+        "eat",
+        "junk food"
+      ],
+      "dificultad": 1,
+      "categoria": "salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f009",
+      "es": "Debes ser amable con los demás. 😊",
+      "en": "You must be kind to others.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "must",
+      "palabras_clave": [
+        "be",
+        "kind"
+      ],
+      "dificultad": 1,
+      "categoria": "valores",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f010",
+      "es": "No debes interrumpir a los profesores. 🚫",
+      "en": "You mustn't interrupt the teachers.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "mustn't",
+      "palabras_clave": [
+        "interrupt",
+        "teachers"
+      ],
+      "dificultad": 1,
+      "categoria": "reglas escolares",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f011",
+      "es": "Deberías hacer ejercicio regularmente. 🏃‍♂️",
+      "en": "You should exercise regularly.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "should",
+      "palabras_clave": [
+        "exercise",
+        "regularly"
+      ],
+      "dificultad": 1,
+      "categoria": "salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f012",
+      "es": "No deberías dejar tus juguetes desordenados. 🧸",
+      "en": "You shouldn't leave your toys messy.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "shouldn't",
+      "palabras_clave": [
+        "leave",
+        "toys"
+      ],
+      "dificultad": 1,
+      "categoria": "hogar",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f013",
+      "es": "Debes respetar las reglas del juego. 🎲",
+      "en": "You must respect the rules of the game.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "must",
+      "palabras_clave": [
+        "respect",
+        "rules"
+      ],
+      "dificultad": 1,
+      "categoria": "juegos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f014",
+      "es": "No debes usar el teléfono en clase. 📱",
+      "en": "You mustn't use your phone in class.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "mustn't",
+      "palabras_clave": [
+        "use",
+        "phone"
+      ],
+      "dificultad": 1,
+      "categoria": "reglas escolares",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f015",
+      "es": "Deberías aprender algo nuevo cada día. 🌟",
+      "en": "You should learn something new every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "should",
+      "palabras_clave": [
+        "learn",
+        "new"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f016",
+      "es": "No deberías pelear con tus amigos. 🥊",
+      "en": "You shouldn't fight with your friends.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "shouldn't",
+      "palabras_clave": [
+        "fight",
+        "friends"
+      ],
+      "dificultad": 1,
+      "categoria": "amistad",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f017",
+      "es": "Debes cuidar el medio ambiente. 🌍",
+      "en": "You must take care of the environment.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "must",
+      "palabras_clave": [
+        "take care",
+        "environment"
+      ],
+      "dificultad": 1,
+      "categoria": "ecología",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f018",
+      "es": "No debes dejar la luz encendida cuando no la necesites. 💡",
+      "en": "You mustn't leave the light on when you don't need it.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "mustn't",
+      "palabras_clave": [
+        "leave",
+        "light"
+      ],
+      "dificultad": 1,
+      "categoria": "ecología",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f019",
+      "es": "Deberías ser puntual a la escuela. ⏰",
+      "en": "You should be punctual to school.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "should",
+      "palabras_clave": [
+        "be",
+        "punctual"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f020",
+      "es": "No deberías hablar mal de los demás. 🚫",
+      "en": "You shouldn't speak badly of others.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "shouldn't",
+      "palabras_clave": [
+        "speak",
+        "badly"
+      ],
+      "dificultad": 1,
+      "categoria": "valores",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f021",
+      "es": "Debes hacer tu tarea todos los días. 📚",
+      "en": "You must do your homework every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "must",
+      "palabras_clave": [
+        "do",
+        "homework"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f022",
+      "es": "No debes hablar durante la clase. 🤫",
+      "en": "You mustn't talk during class.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "mustn't",
+      "palabras_clave": [
+        "talk",
+        "class"
+      ],
+      "dificultad": 1,
+      "categoria": "reglas escolares",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f023",
+      "es": "Deberías practicar deportes para estar saludable. ⚽",
+      "en": "You should play sports to stay healthy.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "should",
+      "palabras_clave": [
+        "play",
+        "sports"
+      ],
+      "dificultad": 1,
+      "categoria": "salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f024",
+      "es": "No deberías ver demasiada televisión. 📺",
+      "en": "You shouldn't watch too much television.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "shouldn't",
+      "palabras_clave": [
+        "watch",
+        "television"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f025",
+      "es": "Debes comer frutas y verduras todos los días. 🍎🥦",
+      "en": "You must eat fruits and vegetables every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "must",
+      "palabras_clave": [
+        "eat",
+        "fruits",
+        "vegetables"
+      ],
+      "dificultad": 1,
+      "categoria": "salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f027",
+      "es": "Deberías ayudar a tus amigos cuando lo necesiten. 🤝",
+      "en": "You should help your friends when they need it.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "should",
+      "palabras_clave": [
+        "help",
+        "friends"
+      ],
+      "dificultad": 1,
+      "categoria": "valores",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f028",
+      "es": "No deberías comer comida chatarra todos los días. 🍔",
+      "en": "You shouldn't eat junk food every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "shouldn't",
+      "palabras_clave": [
+        "eat",
+        "junk food"
+      ],
+      "dificultad": 1,
+      "categoria": "salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f029",
+      "es": "Debes ser amable con los demás. 😊",
+      "en": "You must be kind to others.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "must",
+      "palabras_clave": [
+        "be",
+        "kind"
+      ],
+      "dificultad": 1,
+      "categoria": "valores",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f030",
+      "es": "No debes dejar tus juguetes desordenados. 🧸",
+      "en": "You mustn't leave your toys messy.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "mustn't",
+      "palabras_clave": [
+        "leave",
+        "toys"
+      ],
+      "dificultad": 1,
+      "categoria": "hogar",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f031",
+      "es": "Deberías aprender algo nuevo cada día. 📖",
+      "en": "You should learn something new every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "should",
+      "palabras_clave": [
+        "learn",
+        "new"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f032",
+      "es": "No deberías pelear con tus compañeros. ✋",
+      "en": "You shouldn't fight with your classmates.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "shouldn't",
+      "palabras_clave": [
+        "fight",
+        "classmates"
+      ],
+      "dificultad": 1,
+      "categoria": "valores",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f033",
+      "es": "Debes beber suficiente agua cada día. 💧",
+      "en": "You must drink enough water every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "must",
+      "palabras_clave": [
+        "drink",
+        "water"
+      ],
+      "dificultad": 1,
+      "categoria": "salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f034",
+      "es": "No debes usar el teléfono en clase. 📱",
+      "en": "You mustn't use your phone in class.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "mustn't",
+      "palabras_clave": [
+        "use",
+        "phone"
+      ],
+      "dificultad": 1,
+      "categoria": "reglas escolares",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f035",
+      "es": "Deberías ser puntual a la escuela. ⏰",
+      "en": "You should be on time for school.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "should",
+      "palabras_clave": [
+        "be",
+        "on time"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f036",
+      "es": "No deberías interrumpir a los demás. 🚫",
+      "en": "You shouldn't interrupt others.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "shouldn't",
+      "palabras_clave": [
+        "interrupt",
+        "others"
+      ],
+      "dificultad": 1,
+      "categoria": "valores",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f037",
+      "es": "Debes respetar a tus profesores. 👩‍🏫",
+      "en": "You must respect your teachers.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "must",
+      "palabras_clave": [
+        "respect",
+        "teachers"
+      ],
+      "dificultad": 1,
+      "categoria": "valores",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f039",
+      "es": "Deberías hacer ejercicio regularmente. 🏃",
+      "en": "You should exercise regularly.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "should",
+      "palabras_clave": [
+        "exercise",
+        "regularly"
+      ],
+      "dificultad": 1,
+      "categoria": "salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f040",
+      "es": "No deberías olvidar ser tú mismo. 🌟",
+      "en": "You shouldn't forget to be yourself.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "shouldn't",
+      "palabras_clave": [
+        "forget",
+        "be yourself"
+      ],
+      "dificultad": 1,
+      "categoria": "valores",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f041",
+      "es": "Debes hacer tu tarea todos los días. 📚",
+      "en": "You must do your homework every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "must",
+      "palabras_clave": [
+        "do",
+        "homework"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f043",
+      "es": "Deberías practicar deportes para estar saludable. ⚽",
+      "en": "You should play sports to stay healthy.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "should",
+      "palabras_clave": [
+        "play",
+        "sports"
+      ],
+      "dificultad": 1,
+      "categoria": "salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f044",
+      "es": "No deberías ver demasiada televisión. 📺",
+      "en": "You shouldn't watch too much television.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "shouldn't",
+      "palabras_clave": [
+        "watch",
+        "television"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f045",
+      "es": "Debes comer frutas y verduras todos los días. 🍏🥦",
+      "en": "You must eat fruits and vegetables every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "must",
+      "palabras_clave": [
+        "eat",
+        "fruits"
+      ],
+      "dificultad": 1,
+      "categoria": "salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f046",
+      "es": "No debes hablar en clase sin permiso. 🚫",
+      "en": "You mustn't talk in class without permission.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "mustn't",
+      "palabras_clave": [
+        "talk",
+        "class"
+      ],
+      "dificultad": 1,
+      "categoria": "reglas escolares",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f047",
+      "es": "Deberías ayudar a tus amigos cuando lo necesiten. 🤝",
+      "en": "You should help your friends when they need it.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "should",
+      "palabras_clave": [
+        "help",
+        "friends"
+      ],
+      "dificultad": 1,
+      "categoria": "valores",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f048",
+      "es": "No deberías comer comida chatarra todos los días. 🍔",
+      "en": "You shouldn't eat junk food every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "shouldn't",
+      "palabras_clave": [
+        "eat",
+        "junk food"
+      ],
+      "dificultad": 1,
+      "categoria": "salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f049",
+      "es": "Debes ser amable con los demás. 😊",
+      "en": "You must be kind to others.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "must",
+      "palabras_clave": [
+        "be",
+        "kind"
+      ],
+      "dificultad": 1,
+      "categoria": "valores",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f050",
+      "es": "No debes usar el teléfono en clase. 📵",
+      "en": "You mustn't use your phone in class.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "mustn't",
+      "palabras_clave": [
+        "use",
+        "phone"
+      ],
+      "dificultad": 1,
+      "categoria": "reglas escolares",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f051",
+      "es": "Deberías aprender algo nuevo cada semana. 📅",
+      "en": "You should learn something new every week.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "should",
+      "palabras_clave": [
+        "learn",
+        "new"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f052",
+      "es": "No deberías dejar tus juguetes desordenados. 🧸",
+      "en": "You shouldn't leave your toys messy.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "shouldn't",
+      "palabras_clave": [
+        "leave",
+        "toys"
+      ],
+      "dificultad": 1,
+      "categoria": "hogar",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f053",
+      "es": "Debes ser puntual para tus clases. ⏰",
+      "en": "You must be on time for your classes.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "must",
+      "palabras_clave": [
+        "be",
+        "on time"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f054",
+      "es": "No debes interrumpir a los demás mientras hablan. 🔇",
+      "en": "You mustn't interrupt others while they are speaking.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "mustn't",
+      "palabras_clave": [
+        "interrupt",
+        "others"
+      ],
+      "dificultad": 1,
+      "categoria": "reglas sociales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f055",
+      "es": "Deberías cuidar el medio ambiente. 🌍",
+      "en": "You should take care of the environment.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "should",
+      "palabras_clave": [
+        "take care",
+        "environment"
+      ],
+      "dificultad": 1,
+      "categoria": "medio ambiente",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f056",
+      "es": "No deberías dejar la luz encendida cuando no la necesitas. 💡",
+      "en": "You shouldn't leave the light on when you don't need it.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "shouldn't",
+      "palabras_clave": [
+        "leave",
+        "light"
+      ],
+      "dificultad": 1,
+      "categoria": "hogar",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f057",
+      "es": "Debes respetar a tus profesores. 👩‍🏫",
+      "en": "You must respect your teachers.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "must",
+      "palabras_clave": [
+        "respect",
+        "teachers"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f058",
+      "es": "No debes hacer trampa en los exámenes. 📝",
+      "en": "You mustn't cheat on exams.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "mustn't",
+      "palabras_clave": [
+        "cheat",
+        "exams"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f059",
+      "es": "Deberías ser honesto con tus amigos. 🤗",
+      "en": "You should be honest with your friends.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "should",
+      "palabras_clave": [
+        "be",
+        "honest"
+      ],
+      "dificultad": 1,
+      "categoria": "valores",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f060",
+      "es": "No deberías olvidar agradecer a los demás. 🙏",
+      "en": "You shouldn't forget to thank others.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "shouldn't",
+      "palabras_clave": [
+        "forget",
+        "thank"
+      ],
+      "dificultad": 1,
+      "categoria": "valores",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f061",
+      "es": "Debes hacer tu tarea todos los días. 📚",
+      "en": "You must do your homework every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "must",
+      "palabras_clave": [
+        "do",
+        "homework"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f062",
+      "es": "No debes hablar durante la clase. 🤫",
+      "en": "You mustn't talk during class.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "mustn't",
+      "palabras_clave": [
+        "talk",
+        "class"
+      ],
+      "dificultad": 1,
+      "categoria": "reglas escolares",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f063",
+      "es": "Deberías practicar deportes para estar saludable. ⚽",
+      "en": "You should play sports to stay healthy.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "should",
+      "palabras_clave": [
+        "play",
+        "sports"
+      ],
+      "dificultad": 1,
+      "categoria": "salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f064",
+      "es": "No deberías ver demasiada televisión. 📺",
+      "en": "You shouldn't watch too much television.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "shouldn't",
+      "palabras_clave": [
+        "watch",
+        "television"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f065",
+      "es": "Debes comer frutas y verduras todos los días. 🍎🥦",
+      "en": "You must eat fruits and vegetables every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "must",
+      "palabras_clave": [
+        "eat",
+        "fruits"
+      ],
+      "dificultad": 1,
+      "categoria": "salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f067",
+      "es": "Deberías ayudar a tus amigos cuando lo necesiten. 🤝",
+      "en": "You should help your friends when they need it.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "should",
+      "palabras_clave": [
+        "help",
+        "friends"
+      ],
+      "dificultad": 1,
+      "categoria": "amistad",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f068",
+      "es": "No deberías comer comida chatarra todos los días. 🍔",
+      "en": "You shouldn't eat junk food every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "shouldn't",
+      "palabras_clave": [
+        "eat",
+        "junk food"
+      ],
+      "dificultad": 1,
+      "categoria": "salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f069",
+      "es": "Debes ser amable con los demás. 😊",
+      "en": "You must be kind to others.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "must",
+      "palabras_clave": [
+        "be",
+        "kind"
+      ],
+      "dificultad": 1,
+      "categoria": "valores",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f070",
+      "es": "No debes interrumpir a las personas cuando hablan. 🚫",
+      "en": "You mustn't interrupt people when they are talking.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "mustn't",
+      "palabras_clave": [
+        "interrupt",
+        "people"
+      ],
+      "dificultad": 1,
+      "categoria": "reglas sociales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f071",
+      "es": "Deberías estudiar para tus exámenes con anticipación. 📖",
+      "en": "You should study for your exams in advance.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "should",
+      "palabras_clave": [
+        "study",
+        "exams"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f072",
+      "es": "No deberías dejar tus juguetes desordenados. 🧸",
+      "en": "You shouldn't leave your toys messy.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "shouldn't",
+      "palabras_clave": [
+        "leave",
+        "toys"
+      ],
+      "dificultad": 1,
+      "categoria": "hogar",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f073",
+      "es": "Debes respetar a tus profesores. 👩‍🏫",
+      "en": "You must respect your teachers.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "must",
+      "palabras_clave": [
+        "respect",
+        "teachers"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f074",
+      "es": "No debes usar el teléfono en clase. 📱",
+      "en": "You mustn't use your phone in class.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "mustn't",
+      "palabras_clave": [
+        "use",
+        "phone"
+      ],
+      "dificultad": 1,
+      "categoria": "reglas escolares",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f075",
+      "es": "Deberías aprender algo nuevo cada día. 🌟",
+      "en": "You should learn something new every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "should",
+      "palabras_clave": [
+        "learn",
+        "new"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f076",
+      "es": "No deberías pelear con tus compañeros. ✋",
+      "en": "You shouldn't fight with your classmates.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "shouldn't",
+      "palabras_clave": [
+        "fight",
+        "classmates"
+      ],
+      "dificultad": 1,
+      "categoria": "amistad",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f077",
+      "es": "Debes cuidar el medio ambiente. 🌍",
+      "en": "You must take care of the environment.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "must",
+      "palabras_clave": [
+        "take care",
+        "environment"
+      ],
+      "dificultad": 1,
+      "categoria": "medio ambiente",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f078",
+      "es": "No debes dejar la luz encendida cuando no la necesitas. 💡",
+      "en": "You mustn't leave the light on when you don't need it.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "mustn't",
+      "palabras_clave": [
+        "leave",
+        "light"
+      ],
+      "dificultad": 1,
+      "categoria": "medio ambiente",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f079",
+      "es": "Deberías ser puntual a la escuela. ⏰",
+      "en": "You should be on time for school.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "should",
+      "palabras_clave": [
+        "be",
+        "on time"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f080",
+      "es": "No deberías hacer trampa en los exámenes. 🚫",
+      "en": "You shouldn't cheat on exams.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "shouldn't",
+      "palabras_clave": [
+        "cheat",
+        "exams"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f081",
+      "es": "Debes hacer tu tarea todos los días. 📚",
+      "en": "You must do your homework every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "must",
+      "palabras_clave": [
+        "do",
+        "homework"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f082",
+      "es": "No debes hablar durante la película. 🎬",
+      "en": "You mustn't talk during the movie.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "mustn't",
+      "palabras_clave": [
+        "talk",
+        "movie"
+      ],
+      "dificultad": 1,
+      "categoria": "reglas",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f083",
+      "es": "Deberías practicar deportes regularmente. ⚽",
+      "en": "You should practice sports regularly.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "should",
+      "palabras_clave": [
+        "practice",
+        "sports"
+      ],
+      "dificultad": 1,
+      "categoria": "salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f084",
+      "es": "No deberías ver demasiada televisión. 📺",
+      "en": "You shouldn't watch too much television.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "shouldn't",
+      "palabras_clave": [
+        "watch",
+        "television"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f085",
+      "es": "Debes comer frutas y verduras todos los días. 🍏🥦",
+      "en": "You must eat fruits and vegetables every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "must",
+      "palabras_clave": [
+        "eat",
+        "fruits",
+        "vegetables"
+      ],
+      "dificultad": 1,
+      "categoria": "salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f087",
+      "es": "Deberías ayudar a tus amigos cuando lo necesiten. 🤝",
+      "en": "You should help your friends when they need it.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "should",
+      "palabras_clave": [
+        "help",
+        "friends"
+      ],
+      "dificultad": 1,
+      "categoria": "valores",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f088",
+      "es": "No deberías comer comida chatarra todos los días. 🍔",
+      "en": "You shouldn't eat junk food every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "shouldn't",
+      "palabras_clave": [
+        "eat",
+        "junk food"
+      ],
+      "dificultad": 1,
+      "categoria": "salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f089",
+      "es": "Debes ser amable con los demás. 😊",
+      "en": "You must be kind to others.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "must",
+      "palabras_clave": [
+        "be",
+        "kind"
+      ],
+      "dificultad": 1,
+      "categoria": "valores",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f090",
+      "es": "No debes interrumpir a los profesores. 👩‍🏫",
+      "en": "You mustn't interrupt the teachers.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "mustn't",
+      "palabras_clave": [
+        "interrupt",
+        "teachers"
+      ],
+      "dificultad": 1,
+      "categoria": "reglas",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f091",
+      "es": "Deberías aprender algo nuevo cada día. 📖",
+      "en": "You should learn something new every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "should",
+      "palabras_clave": [
+        "learn",
+        "new"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f092",
+      "es": "No deberías dejar tus juguetes desordenados. 🧸",
+      "en": "You shouldn't leave your toys messy.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "shouldn't",
+      "palabras_clave": [
+        "leave",
+        "toys"
+      ],
+      "dificultad": 1,
+      "categoria": "hogar",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f093",
+      "es": "Debes beber suficiente agua cada día. 💧",
+      "en": "You must drink enough water every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "must",
+      "palabras_clave": [
+        "drink",
+        "water"
+      ],
+      "dificultad": 1,
+      "categoria": "salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f094",
+      "es": "No debes usar el teléfono en clase. 📱",
+      "en": "You mustn't use your phone in class.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "mustn't",
+      "palabras_clave": [
+        "use",
+        "phone"
+      ],
+      "dificultad": 1,
+      "categoria": "reglas",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f095",
+      "es": "Deberías ser puntual a la escuela. ⏰",
+      "en": "You should be punctual to school.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "should",
+      "palabras_clave": [
+        "be",
+        "punctual"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f096",
+      "es": "No deberías pelear con tus compañeros. 🤼‍♂️",
+      "en": "You shouldn't fight with your classmates.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "shouldn't",
+      "palabras_clave": [
+        "fight",
+        "classmates"
+      ],
+      "dificultad": 1,
+      "categoria": "valores",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f097",
+      "es": "Debes respetar las reglas de la escuela. 📜",
+      "en": "You must respect the school rules.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "must",
+      "palabras_clave": [
+        "respect",
+        "rules"
+      ],
+      "dificultad": 1,
+      "categoria": "reglas",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f098",
+      "es": "No debes hacer trampa en los exámenes. 📝",
+      "en": "You mustn't cheat on tests.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "mustn't",
+      "palabras_clave": [
+        "cheat",
+        "tests"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f099",
+      "es": "Deberías cuidar de tus mascotas. 🐶",
+      "en": "You should take care of your pets.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "should",
+      "palabras_clave": [
+        "take care",
+        "pets"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f100",
+      "es": "No deberías dejar que otros te molesten. 🚫",
+      "en": "You shouldn't let others bother you.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "shouldn't",
+      "palabras_clave": [
+        "let",
+        "bother"
+      ],
+      "dificultad": 1,
+      "categoria": "valores",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f101",
+      "es": "Debes hacer tu tarea todos los días. 📚",
+      "en": "You must do your homework every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "must",
+      "palabras_clave": [
+        "do",
+        "homework"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f102",
+      "es": "No debes hablar durante la clase. 🤫",
+      "en": "You mustn't talk during class.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "mustn't",
+      "palabras_clave": [
+        "talk",
+        "class"
+      ],
+      "dificultad": 1,
+      "categoria": "reglas escolares",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f103",
+      "es": "Deberías practicar deportes para estar saludable. ⚽",
+      "en": "You should play sports to stay healthy.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "should",
+      "palabras_clave": [
+        "play",
+        "sports"
+      ],
+      "dificultad": 1,
+      "categoria": "salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f104",
+      "es": "No deberías ver demasiada televisión. 📺",
+      "en": "You shouldn't watch too much television.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "shouldn't",
+      "palabras_clave": [
+        "watch",
+        "television"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f105",
+      "es": "Debes comer frutas y verduras todos los días. 🍎🥦",
+      "en": "You must eat fruits and vegetables every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "must",
+      "palabras_clave": [
+        "eat",
+        "fruits"
+      ],
+      "dificultad": 1,
+      "categoria": "salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f107",
+      "es": "Deberías ayudar a tus amigos cuando lo necesiten. 🤝",
+      "en": "You should help your friends when they need it.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "should",
+      "palabras_clave": [
+        "help",
+        "friends"
+      ],
+      "dificultad": 1,
+      "categoria": "valores",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f108",
+      "es": "No deberías comer comida chatarra todos los días. 🍔",
+      "en": "You shouldn't eat junk food every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "shouldn't",
+      "palabras_clave": [
+        "eat",
+        "junk food"
+      ],
+      "dificultad": 1,
+      "categoria": "salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f109",
+      "es": "Debes ser amable con los demás. 😊",
+      "en": "You must be kind to others.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "must",
+      "palabras_clave": [
+        "be",
+        "kind"
+      ],
+      "dificultad": 1,
+      "categoria": "valores",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f110",
+      "es": "No debes hacer trampa en los exámenes. 🚫",
+      "en": "You mustn't cheat on exams.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "mustn't",
+      "palabras_clave": [
+        "cheat",
+        "exams"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f111",
+      "es": "Deberías aprender algo nuevo cada día. 🌟",
+      "en": "You should learn something new every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "should",
+      "palabras_clave": [
+        "learn",
+        "new"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f112",
+      "es": "No deberías dejar tus juguetes desordenados. 🧸",
+      "en": "You shouldn't leave your toys messy.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "shouldn't",
+      "palabras_clave": [
+        "leave",
+        "toys"
+      ],
+      "dificultad": 1,
+      "categoria": "hogar",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f113",
+      "es": "Debes beber suficiente agua cada día. 💧",
+      "en": "You must drink enough water every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "must",
+      "palabras_clave": [
+        "drink",
+        "water"
+      ],
+      "dificultad": 1,
+      "categoria": "salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f114",
+      "es": "No debes usar el teléfono en clase. 📱",
+      "en": "You mustn't use your phone in class.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "mustn't",
+      "palabras_clave": [
+        "use",
+        "phone"
+      ],
+      "dificultad": 1,
+      "categoria": "reglas escolares",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f115",
+      "es": "Deberías ser responsable con tus cosas. 🧳",
+      "en": "You should be responsible with your things.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "should",
+      "palabras_clave": [
+        "be",
+        "responsible"
+      ],
+      "dificultad": 1,
+      "categoria": "valores",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f116",
+      "es": "No deberías interrumpir a los demás. 🚫",
+      "en": "You shouldn't interrupt others.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "shouldn't",
+      "palabras_clave": [
+        "interrupt",
+        "others"
+      ],
+      "dificultad": 1,
+      "categoria": "valores",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f117",
+      "es": "Debes respetar a tus profesores. 👩‍🏫",
+      "en": "You must respect your teachers.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "must",
+      "palabras_clave": [
+        "respect",
+        "teachers"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f119",
+      "es": "Deberías hacer ejercicio regularmente. 🏃‍♂️",
+      "en": "You should exercise regularly.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "should",
+      "palabras_clave": [
+        "exercise",
+        "regularly"
+      ],
+      "dificultad": 1,
+      "categoria": "salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f120",
+      "es": "No deberías olvidar agradecer a los demás. 🙏",
+      "en": "You shouldn't forget to thank others.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "shouldn't",
+      "palabras_clave": [
+        "forget",
+        "thank"
+      ],
+      "dificultad": 1,
+      "categoria": "valores",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f121",
+      "es": "Debes hacer ejercicio todos los días. 🏃‍♂️",
+      "en": "You must exercise every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "must",
+      "palabras_clave": [
+        "exercise",
+        "every day"
+      ],
+      "dificultad": 1,
+      "categoria": "salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f122",
+      "es": "No debes hablar durante la película. 🎬",
+      "en": "You mustn't talk during the movie.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "mustn't",
+      "palabras_clave": [
+        "talk",
+        "movie"
+      ],
+      "dificultad": 1,
+      "categoria": "reglas",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f123",
+      "es": "Deberías aprender a tocar un instrumento. 🎸",
+      "en": "You should learn to play an instrument.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "should",
+      "palabras_clave": [
+        "learn",
+        "instrument"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f124",
+      "es": "No deberías ver demasiada televisión. 📺",
+      "en": "You shouldn't watch too much television.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "shouldn't",
+      "palabras_clave": [
+        "watch",
+        "television"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f125",
+      "es": "Debes hacer tus tareas antes de jugar. 📚",
+      "en": "You must do your homework before playing.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "must",
+      "palabras_clave": [
+        "do",
+        "homework"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f126",
+      "es": "No debes comer comida chatarra todos los días. 🍔",
+      "en": "You mustn't eat junk food every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "mustn't",
+      "palabras_clave": [
+        "eat",
+        "junk food"
+      ],
+      "dificultad": 1,
+      "categoria": "salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f127",
+      "es": "Deberías practicar deportes con tus amigos. ⚽",
+      "en": "You should play sports with your friends.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "should",
+      "palabras_clave": [
+        "play",
+        "sports"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f128",
+      "es": "No deberías olvidar tus libros en casa. 📖",
+      "en": "You shouldn't forget your books at home.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "shouldn't",
+      "palabras_clave": [
+        "forget",
+        "books"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f129",
+      "es": "Debes ser amable con los demás. 😊",
+      "en": "You must be kind to others.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "must",
+      "palabras_clave": [
+        "be",
+        "kind"
+      ],
+      "dificultad": 1,
+      "categoria": "valores",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f131",
+      "es": "Deberías ayudar a tus padres en casa. 🏠",
+      "en": "You should help your parents at home.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "should",
+      "palabras_clave": [
+        "help",
+        "parents"
+      ],
+      "dificultad": 1,
+      "categoria": "hogar",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f132",
+      "es": "No deberías hablar con extraños. 🚫",
+      "en": "You shouldn't talk to strangers.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "shouldn't",
+      "palabras_clave": [
+        "talk",
+        "strangers"
+      ],
+      "dificultad": 1,
+      "categoria": "seguridad",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f133",
+      "es": "Debes beber suficiente agua cada día. 💧",
+      "en": "You must drink enough water every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "must",
+      "palabras_clave": [
+        "drink",
+        "water"
+      ],
+      "dificultad": 1,
+      "categoria": "salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f134",
+      "es": "No debes usar tu teléfono en clase. 📱",
+      "en": "You mustn't use your phone in class.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "mustn't",
+      "palabras_clave": [
+        "use",
+        "phone"
+      ],
+      "dificultad": 1,
+      "categoria": "reglas",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f135",
+      "es": "Deberías visitar a tus abuelos más a menudo. 👵👴",
+      "en": "You should visit your grandparents more often.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "should",
+      "palabras_clave": [
+        "visit",
+        "grandparents"
+      ],
+      "dificultad": 1,
+      "categoria": "familia",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f136",
+      "es": "No deberías dejar de estudiar para tus exámenes. 📖",
+      "en": "You shouldn't stop studying for your exams.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "shouldn't",
+      "palabras_clave": [
+        "stop",
+        "studying"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f137",
+      "es": "Debes respetar las opiniones de los demás. 🤝",
+      "en": "You must respect others' opinions.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "must",
+      "palabras_clave": [
+        "respect",
+        "opinions"
+      ],
+      "dificultad": 1,
+      "categoria": "valores",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f139",
+      "es": "Deberías practicar la lectura todos los días. 📖",
+      "en": "You should practice reading every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "should",
+      "palabras_clave": [
+        "practice",
+        "reading"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f140",
+      "es": "No deberías dejar tus cosas tiradas. 🧳",
+      "en": "You shouldn't leave your things lying around.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "shouldn't",
+      "palabras_clave": [
+        "leave",
+        "things"
+      ],
+      "dificultad": 1,
+      "categoria": "hogar",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f141",
+      "es": "Debes hacer tu tarea todos los días. 📚",
+      "en": "You must do your homework every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "must",
+      "palabras_clave": [
+        "do",
+        "homework"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f142",
+      "es": "No debes hablar en clase. 🤫",
+      "en": "You mustn't talk in class.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "mustn't",
+      "palabras_clave": [
+        "talk",
+        "class"
+      ],
+      "dificultad": 1,
+      "categoria": "reglas escolares",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f143",
+      "es": "Deberías hacer ejercicio regularmente. 🏃‍♂️",
+      "en": "You should exercise regularly.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "should",
+      "palabras_clave": [
+        "exercise",
+        "regularly"
+      ],
+      "dificultad": 1,
+      "categoria": "salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f144",
+      "es": "No deberías ver demasiada televisión. 📺",
+      "en": "You shouldn't watch too much television.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "shouldn't",
+      "palabras_clave": [
+        "watch",
+        "television"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f145",
+      "es": "Debes comer frutas y verduras. 🍎🥦",
+      "en": "You must eat fruits and vegetables.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "must",
+      "palabras_clave": [
+        "eat",
+        "fruits"
+      ],
+      "dificultad": 1,
+      "categoria": "salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f147",
+      "es": "Deberías practicar un instrumento musical. 🎸",
+      "en": "You should practice a musical instrument.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "should",
+      "palabras_clave": [
+        "practice",
+        "instrument"
+      ],
+      "dificultad": 1,
+      "categoria": "música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f148",
+      "es": "No deberías comer comida chatarra. 🍔",
+      "en": "You shouldn't eat junk food.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "shouldn't",
+      "palabras_clave": [
+        "eat",
+        "junk food"
+      ],
+      "dificultad": 1,
+      "categoria": "salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f149",
+      "es": "Debes ser amable con los demás. 😊",
+      "en": "You must be kind to others.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "must",
+      "palabras_clave": [
+        "be",
+        "kind"
+      ],
+      "dificultad": 1,
+      "categoria": "valores",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f150",
+      "es": "No debes dejar tus cosas tiradas. 🧳",
+      "en": "You mustn't leave your things lying around.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "mustn't",
+      "palabras_clave": [
+        "leave",
+        "things"
+      ],
+      "dificultad": 1,
+      "categoria": "organización",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f151",
+      "es": "Deberías ayudar a tus amigos. 🤝",
+      "en": "You should help your friends.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "should",
+      "palabras_clave": [
+        "help",
+        "friends"
+      ],
+      "dificultad": 1,
+      "categoria": "valores",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f152",
+      "es": "No deberías hablar con extraños. 🚫",
+      "en": "You shouldn't talk to strangers.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "shouldn't",
+      "palabras_clave": [
+        "talk",
+        "strangers"
+      ],
+      "dificultad": 1,
+      "categoria": "seguridad",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f153",
+      "es": "Debes estudiar para tus exámenes. 📖",
+      "en": "You must study for your exams.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "must",
+      "palabras_clave": [
+        "study",
+        "exams"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f154",
+      "es": "No debes usar el teléfono en clase. 📱",
+      "en": "You mustn't use your phone in class.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "mustn't",
+      "palabras_clave": [
+        "use",
+        "phone"
+      ],
+      "dificultad": 1,
+      "categoria": "reglas escolares",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f155",
+      "es": "Deberías aprender un nuevo idioma. 🌍",
+      "en": "You should learn a new language.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "should",
+      "palabras_clave": [
+        "learn",
+        "language"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f156",
+      "es": "No deberías dejar de intentar. 💪",
+      "en": "You shouldn't give up trying.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "shouldn't",
+      "palabras_clave": [
+        "give up",
+        "trying"
+      ],
+      "dificultad": 1,
+      "categoria": "motivación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f157",
+      "es": "Debes respetar a tus profesores. 👩‍🏫",
+      "en": "You must respect your teachers.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "must",
+      "palabras_clave": [
+        "respect",
+        "teachers"
+      ],
+      "dificultad": 1,
+      "categoria": "valores",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f158",
+      "es": "No debes interrumpir a los demás. 🚫",
+      "en": "You mustn't interrupt others.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "mustn't",
+      "palabras_clave": [
+        "interrupt",
+        "others"
+      ],
+      "dificultad": 1,
+      "categoria": "valores",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f159",
+      "es": "Deberías cuidar el medio ambiente. 🌱",
+      "en": "You should take care of the environment.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "should",
+      "palabras_clave": [
+        "take care",
+        "environment"
+      ],
+      "dificultad": 1,
+      "categoria": "ecología",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f160",
+      "es": "No deberías dejar que otros te desanimen. 🙅‍♂️",
+      "en": "You shouldn't let others discourage you.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "shouldn't",
+      "palabras_clave": [
+        "let",
+        "discourage"
+      ],
+      "dificultad": 1,
+      "categoria": "motivación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f161",
+      "es": "Debes hacer tu tarea todos los días. 📚",
+      "en": "You must do your homework every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "must",
+      "palabras_clave": [
+        "do",
+        "homework"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f163",
+      "es": "Deberías practicar deportes para estar saludable. ⚽",
+      "en": "You should play sports to stay healthy.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "should",
+      "palabras_clave": [
+        "play",
+        "sports"
+      ],
+      "dificultad": 1,
+      "categoria": "salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f164",
+      "es": "No deberías ver demasiada televisión. 📺",
+      "en": "You shouldn't watch too much television.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "shouldn't",
+      "palabras_clave": [
+        "watch",
+        "television"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f165",
+      "es": "Debes comer frutas y verduras todos los días. 🍎🥦",
+      "en": "You must eat fruits and vegetables every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "must",
+      "palabras_clave": [
+        "eat",
+        "fruits"
+      ],
+      "dificultad": 1,
+      "categoria": "salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f166",
+      "es": "No debes hablar en clase sin permiso. 🚫",
+      "en": "You mustn't talk in class without permission.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "mustn't",
+      "palabras_clave": [
+        "talk",
+        "class"
+      ],
+      "dificultad": 1,
+      "categoria": "reglas escolares",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f167",
+      "es": "Deberías ayudar a tus amigos cuando lo necesiten. 🤝",
+      "en": "You should help your friends when they need it.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "should",
+      "palabras_clave": [
+        "help",
+        "friends"
+      ],
+      "dificultad": 1,
+      "categoria": "valores",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f168",
+      "es": "No deberías comer comida chatarra todos los días. 🍔",
+      "en": "You shouldn't eat junk food every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "shouldn't",
+      "palabras_clave": [
+        "eat",
+        "junk food"
+      ],
+      "dificultad": 1,
+      "categoria": "salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f169",
+      "es": "Debes ser amable con los demás. 😊",
+      "en": "You must be kind to others.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "must",
+      "palabras_clave": [
+        "be",
+        "kind"
+      ],
+      "dificultad": 1,
+      "categoria": "valores",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f170",
+      "es": "No debes interrumpir a la maestra. 🚫",
+      "en": "You mustn't interrupt the teacher.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "mustn't",
+      "palabras_clave": [
+        "interrupt",
+        "teacher"
+      ],
+      "dificultad": 1,
+      "categoria": "reglas escolares",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f171",
+      "es": "Deberías hacer ejercicio al menos tres veces a la semana. 🏋️‍♂️",
+      "en": "You should exercise at least three times a week.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "should",
+      "palabras_clave": [
+        "exercise",
+        "week"
+      ],
+      "dificultad": 1,
+      "categoria": "salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f172",
+      "es": "No deberías dejar tus cosas tiradas. 🧸",
+      "en": "You shouldn't leave your things lying around.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "shouldn't",
+      "palabras_clave": [
+        "leave",
+        "things"
+      ],
+      "dificultad": 1,
+      "categoria": "organización",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f173",
+      "es": "Debes estudiar para tus exámenes. 📖",
+      "en": "You must study for your exams.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "must",
+      "palabras_clave": [
+        "study",
+        "exams"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f174",
+      "es": "No debes usar el teléfono en clase. 📵",
+      "en": "You mustn't use your phone in class.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "mustn't",
+      "palabras_clave": [
+        "use",
+        "phone"
+      ],
+      "dificultad": 1,
+      "categoria": "reglas escolares",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f175",
+      "es": "Deberías aprender algo nuevo cada día. 🌱",
+      "en": "You should learn something new every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "should",
+      "palabras_clave": [
+        "learn",
+        "new"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f176",
+      "es": "No deberías pelear con tus amigos. 🤜🤛",
+      "en": "You shouldn't fight with your friends.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "shouldn't",
+      "palabras_clave": [
+        "fight",
+        "friends"
+      ],
+      "dificultad": 1,
+      "categoria": "valores",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f177",
+      "es": "Debes ser puntual para tus clases. ⏰",
+      "en": "You must be punctual for your classes.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "must",
+      "palabras_clave": [
+        "be",
+        "punctual"
+      ],
+      "dificultad": 1,
+      "categoria": "reglas escolares",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f178",
+      "es": "No debes comer en clase. 🍽️",
+      "en": "You mustn't eat in class.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "mustn't",
+      "palabras_clave": [
+        "eat",
+        "class"
+      ],
+      "dificultad": 1,
+      "categoria": "reglas escolares",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f179",
+      "es": "Deberías ser respetuoso con los demás. 🙏",
+      "en": "You should be respectful to others.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "should",
+      "palabras_clave": [
+        "be",
+        "respectful"
+      ],
+      "dificultad": 1,
+      "categoria": "valores",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f180",
+      "es": "No deberías dejar de lado tus responsabilidades. 📋",
+      "en": "You shouldn't neglect your responsibilities.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "shouldn't",
+      "palabras_clave": [
+        "neglect",
+        "responsibilities"
+      ],
+      "dificultad": 1,
+      "categoria": "valores",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f181",
+      "es": "Debes hacer tu tarea todos los días. 📚",
+      "en": "You must do your homework every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "must",
+      "palabras_clave": [
+        "do",
+        "homework"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f182",
+      "es": "No debes hablar durante la película. 🎬",
+      "en": "You mustn't talk during the movie.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "mustn't",
+      "palabras_clave": [
+        "talk",
+        "movie"
+      ],
+      "dificultad": 1,
+      "categoria": "reglas",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f183",
+      "es": "Deberías practicar deportes para estar saludable. ⚽",
+      "en": "You should play sports to stay healthy.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "should",
+      "palabras_clave": [
+        "play",
+        "sports"
+      ],
+      "dificultad": 1,
+      "categoria": "salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f184",
+      "es": "No deberías ver demasiada televisión. 📺",
+      "en": "You shouldn't watch too much television.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "shouldn't",
+      "palabras_clave": [
+        "watch",
+        "television"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f185",
+      "es": "Debes llevar una botella de agua a la escuela. 💧",
+      "en": "You must bring a water bottle to school.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "must",
+      "palabras_clave": [
+        "bring",
+        "water bottle"
+      ],
+      "dificultad": 1,
+      "categoria": "higiene",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f187",
+      "es": "Deberías ayudar a tus amigos cuando lo necesiten. 🤝",
+      "en": "You should help your friends when they need it.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "should",
+      "palabras_clave": [
+        "help",
+        "friends"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f188",
+      "es": "No deberías comer comida chatarra todos los días. 🍔",
+      "en": "You shouldn't eat junk food every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "shouldn't",
+      "palabras_clave": [
+        "eat",
+        "junk food"
+      ],
+      "dificultad": 1,
+      "categoria": "salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f189",
+      "es": "Debes ser amable con tus compañeros. 😊",
+      "en": "You must be kind to your classmates.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "must",
+      "palabras_clave": [
+        "be",
+        "kind"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f190",
+      "es": "No debes usar el teléfono en clase. 📱",
+      "en": "You mustn't use your phone in class.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "mustn't",
+      "palabras_clave": [
+        "use",
+        "phone"
+      ],
+      "dificultad": 1,
+      "categoria": "reglas",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f191",
+      "es": "Deberías comer frutas y verduras todos los días. 🍏",
+      "en": "You should eat fruits and vegetables every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "should",
+      "palabras_clave": [
+        "eat",
+        "fruits",
+        "vegetables"
+      ],
+      "dificultad": 1,
+      "categoria": "salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f192",
+      "es": "No deberías dejar tus cosas desordenadas. 🧹",
+      "en": "You shouldn't leave your things messy.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "shouldn't",
+      "palabras_clave": [
+        "leave",
+        "messy"
+      ],
+      "dificultad": 1,
+      "categoria": "organización",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f193",
+      "es": "Debes estudiar para el examen. 📖",
+      "en": "You must study for the exam.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "must",
+      "palabras_clave": [
+        "study",
+        "exam"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f194",
+      "es": "No debes interrumpir a los demás. 🚫",
+      "en": "You mustn't interrupt others.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "mustn't",
+      "palabras_clave": [
+        "interrupt",
+        "others"
+      ],
+      "dificultad": 1,
+      "categoria": "reglas",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f195",
+      "es": "Deberías aprender algo nuevo cada semana. 📅",
+      "en": "You should learn something new every week.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "should",
+      "palabras_clave": [
+        "learn",
+        "new"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f196",
+      "es": "No deberías pelear con tus amigos. 🤜🤛",
+      "en": "You shouldn't fight with your friends.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "shouldn't",
+      "palabras_clave": [
+        "fight",
+        "friends"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f197",
+      "es": "Debes respetar a tus profesores. 👩‍🏫",
+      "en": "You must respect your teachers.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "must",
+      "palabras_clave": [
+        "respect",
+        "teachers"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f198",
+      "es": "No debes hacer trampa en los exámenes. 🚫",
+      "en": "You mustn't cheat on tests.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "mustn't",
+      "palabras_clave": [
+        "cheat",
+        "tests"
+      ],
+      "dificultad": 1,
+      "categoria": "reglas",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f199",
+      "es": "Deberías ser puntual a la escuela. ⏰",
+      "en": "You should be on time to school.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "should",
+      "palabras_clave": [
+        "be",
+        "on time"
+      ],
+      "dificultad": 1,
+      "categoria": "reglas",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f200",
+      "es": "No deberías olvidarte de tus amigos. 👥",
+      "en": "You shouldn't forget about your friends.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "shouldn't",
+      "palabras_clave": [
+        "forget",
+        "friends"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f201",
+      "es": "Debes hacer tu tarea todos los días. 📚",
+      "en": "You must do your homework every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "must",
+      "palabras_clave": [
+        "do",
+        "homework"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f202",
+      "es": "No debes hablar durante la clase. 🤫",
+      "en": "You mustn't talk during class.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "mustn't",
+      "palabras_clave": [
+        "talk",
+        "class"
+      ],
+      "dificultad": 1,
+      "categoria": "reglas escolares",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f203",
+      "es": "Deberías practicar deportes para estar saludable. ⚽",
+      "en": "You should play sports to stay healthy.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "should",
+      "palabras_clave": [
+        "play",
+        "sports"
+      ],
+      "dificultad": 1,
+      "categoria": "salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f204",
+      "es": "No deberías ver demasiada televisión. 📺",
+      "en": "You shouldn't watch too much television.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "shouldn't",
+      "palabras_clave": [
+        "watch",
+        "television"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f205",
+      "es": "Debes comer frutas y verduras todos los días. 🍎🥦",
+      "en": "You must eat fruits and vegetables every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "must",
+      "palabras_clave": [
+        "eat",
+        "fruits"
+      ],
+      "dificultad": 1,
+      "categoria": "salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f207",
+      "es": "Deberías ayudar a tus amigos cuando lo necesiten. 🤝",
+      "en": "You should help your friends when they need it.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "should",
+      "palabras_clave": [
+        "help",
+        "friends"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f208",
+      "es": "No deberías comer comida chatarra todos los días. 🍔",
+      "en": "You shouldn't eat junk food every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "shouldn't",
+      "palabras_clave": [
+        "eat",
+        "junk food"
+      ],
+      "dificultad": 1,
+      "categoria": "salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f209",
+      "es": "Debes ser amable con los demás. 😊",
+      "en": "You must be kind to others.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "must",
+      "palabras_clave": [
+        "be",
+        "kind"
+      ],
+      "dificultad": 1,
+      "categoria": "valores",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f210",
+      "es": "No debes usar el teléfono en clase. 📱",
+      "en": "You mustn't use your phone in class.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "mustn't",
+      "palabras_clave": [
+        "use",
+        "phone"
+      ],
+      "dificultad": 1,
+      "categoria": "reglas escolares",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f211",
+      "es": "Deberías aprender algo nuevo cada día. 📖",
+      "en": "You should learn something new every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "should",
+      "palabras_clave": [
+        "learn",
+        "new"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f212",
+      "es": "No deberías dejar tus juguetes desordenados. 🧸",
+      "en": "You shouldn't leave your toys messy.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "shouldn't",
+      "palabras_clave": [
+        "leave",
+        "toys"
+      ],
+      "dificultad": 1,
+      "categoria": "hogar",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f213",
+      "es": "Debes dormir al menos ocho horas cada noche. 💤",
+      "en": "You must sleep at least eight hours every night.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "must",
+      "palabras_clave": [
+        "sleep",
+        "hours"
+      ],
+      "dificultad": 1,
+      "categoria": "salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f214",
+      "es": "No debes pelear con tus compañeros. ✋",
+      "en": "You mustn't fight with your classmates.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "mustn't",
+      "palabras_clave": [
+        "fight",
+        "classmates"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f215",
+      "es": "Deberías ser responsable con tus cosas. 🧳",
+      "en": "You should be responsible with your belongings.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "should",
+      "palabras_clave": [
+        "be",
+        "responsible"
+      ],
+      "dificultad": 1,
+      "categoria": "valores",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f216",
+      "es": "No deberías interrumpir a los demás. 🚫",
+      "en": "You shouldn't interrupt others.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "shouldn't",
+      "palabras_clave": [
+        "interrupt",
+        "others"
+      ],
+      "dificultad": 1,
+      "categoria": "valores",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f217",
+      "es": "Debes beber suficiente agua cada día. 💧",
+      "en": "You must drink enough water every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "must",
+      "palabras_clave": [
+        "drink",
+        "water"
+      ],
+      "dificultad": 1,
+      "categoria": "salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f219",
+      "es": "Deberías ser puntual a la escuela. ⏰",
+      "en": "You should be on time to school.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "should",
+      "palabras_clave": [
+        "be",
+        "on time"
+      ],
+      "dificultad": 1,
+      "categoria": "reglas escolares",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n13_f220",
+      "es": "No deberías dejar tus cosas tiradas. 🧩",
+      "en": "You shouldn't leave your things lying around.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "shouldn't",
+      "palabras_clave": [
+        "leave",
+        "things"
+      ],
+      "dificultad": 1,
+      "categoria": "hogar",
+      "usada": false,
+      "fecha_uso": null
+    }
+  ]
+}

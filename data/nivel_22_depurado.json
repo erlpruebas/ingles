@@ -1,0 +1,3041 @@
+{
+  "metadata": {
+    "nivel": 22,
+    "descripcion": "Voz pasiva (presente y pasado simple)",
+    "total_frases": 220,
+    "fecha_creacion": "2025-08-05T20:30:00.768766",
+    "version": "1.0"
+  },
+  "frases": [
+    {
+      "id": "n22_f001",
+      "es": "La casa es limpiada por los trabajadores 🏠",
+      "en": "The house is cleaned by the workers",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "house",
+        "workers"
+      ],
+      "dificultad": 1,
+      "categoria": "hogar",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f002",
+      "es": "El coche fue reparado por el mecánico 🚗",
+      "en": "The car was repaired by the mechanic",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "car",
+        "mechanic"
+      ],
+      "dificultad": 1,
+      "categoria": "transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f003",
+      "es": "La tarea es completada por los estudiantes 📚",
+      "en": "The homework is completed by the students",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "homework",
+        "students"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f004",
+      "es": "El regalo fue envuelto por mi madre 🎁",
+      "en": "The gift was wrapped by my mother",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "gift",
+        "mother"
+      ],
+      "dificultad": 1,
+      "categoria": "celebraciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f006",
+      "es": "El dibujo fue hecho por el artista 🎨",
+      "en": "The drawing was made by the artist",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "drawing",
+        "artist"
+      ],
+      "dificultad": 1,
+      "categoria": "arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f007",
+      "es": "La comida es preparada por el chef 🍽️",
+      "en": "The food is prepared by the chef",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "food",
+        "chef"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f008",
+      "es": "El libro fue escrito por el autor 📖",
+      "en": "The book was written by the author",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "book",
+        "author"
+      ],
+      "dificultad": 1,
+      "categoria": "literatura",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f009",
+      "es": "La película es vista por muchas personas 🎬",
+      "en": "The movie is watched by many people",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "movie",
+        "people"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f010",
+      "es": "La canción fue grabada por el cantante 🎤",
+      "en": "The song was recorded by the singer",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "song",
+        "singer"
+      ],
+      "dificultad": 1,
+      "categoria": "música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f012",
+      "es": "La carta fue escrita por mi amigo ✉️",
+      "en": "The letter was written by my friend",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "letter",
+        "friend"
+      ],
+      "dificultad": 1,
+      "categoria": "comunicaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f013",
+      "es": "El proyecto es presentado por el grupo 👥",
+      "en": "The project is presented by the group",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "project",
+        "group"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f014",
+      "es": "La fiesta fue organizada por mis padres 🎉",
+      "en": "The party was organized by my parents",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "party",
+        "parents"
+      ],
+      "dificultad": 1,
+      "categoria": "celebraciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f015",
+      "es": "El examen es corregido por el profesor 📝",
+      "en": "The exam is corrected by the teacher",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "exam",
+        "teacher"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f016",
+      "es": "La historia fue contada por el abuelo 📜",
+      "en": "The story was told by the grandfather",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "story",
+        "grandfather"
+      ],
+      "dificultad": 1,
+      "categoria": "familia",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f017",
+      "es": "El juego es disfrutado por los niños 🎮",
+      "en": "The game is enjoyed by the children",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "game",
+        "children"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f018",
+      "es": "El mural fue pintado por los artistas 🎨",
+      "en": "The mural was painted by the artists",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "mural",
+        "artists"
+      ],
+      "dificultad": 1,
+      "categoria": "arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f019",
+      "es": "La ropa es lavada por la lavandería 👕",
+      "en": "The clothes are washed by the laundry",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "clothes",
+        "laundry"
+      ],
+      "dificultad": 1,
+      "categoria": "hogar",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f020",
+      "es": "El pastel fue decorado por el chef 🎂",
+      "en": "The cake was decorated by the chef",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "cake",
+        "chef"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f021",
+      "es": "La casa es limpiada por los trabajadores 🏠",
+      "en": "The house is cleaned by the workers",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "house",
+        "workers"
+      ],
+      "dificultad": 1,
+      "categoria": "hogar",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f022",
+      "es": "El coche fue reparado por el mecánico 🚗",
+      "en": "The car was repaired by the mechanic",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "car",
+        "mechanic"
+      ],
+      "dificultad": 1,
+      "categoria": "transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f023",
+      "es": "La tarea es completada por los estudiantes 📚",
+      "en": "The homework is completed by the students",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "homework",
+        "students"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f024",
+      "es": "La película fue vista por muchos espectadores 🎬",
+      "en": "The movie was watched by many viewers",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "movie",
+        "viewers"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f025",
+      "es": "El perro es paseado por su dueño 🐕",
+      "en": "The dog is walked by its owner",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "dog",
+        "owner"
+      ],
+      "dificultad": 1,
+      "categoria": "mascotas",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f026",
+      "es": "La canción fue escrita por un famoso artista 🎤",
+      "en": "The song was written by a famous artist",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "song",
+        "artist"
+      ],
+      "dificultad": 1,
+      "categoria": "música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f028",
+      "es": "El libro fue escrito por un autor famoso 📖",
+      "en": "The book was written by a famous author",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "book",
+        "author"
+      ],
+      "dificultad": 1,
+      "categoria": "literatura",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f029",
+      "es": "La comida es preparada por el chef 🍽️",
+      "en": "The food is prepared by the chef",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "food",
+        "chef"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f030",
+      "es": "El regalo fue envuelto por mi madre 🎁",
+      "en": "The gift was wrapped by my mother",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "gift",
+        "mother"
+      ],
+      "dificultad": 1,
+      "categoria": "celebraciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f031",
+      "es": "La ropa es lavada por la lavandería 👕",
+      "en": "The clothes are washed by the laundry",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "clothes",
+        "laundry"
+      ],
+      "dificultad": 1,
+      "categoria": "moda",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f032",
+      "es": "La fiesta fue organizada por mis amigos 🎉",
+      "en": "The party was organized by my friends",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "party",
+        "friends"
+      ],
+      "dificultad": 1,
+      "categoria": "eventos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f033",
+      "es": "El examen es administrado por el profesor 📝",
+      "en": "The exam is administered by the teacher",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "exam",
+        "teacher"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f034",
+      "es": "La carta fue escrita por mi abuelo ✉️",
+      "en": "The letter was written by my grandfather",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "letter",
+        "grandfather"
+      ],
+      "dificultad": 1,
+      "categoria": "comunicaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f035",
+      "es": "El proyecto es presentado por el grupo 👥",
+      "en": "The project is presented by the group",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "project",
+        "group"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f036",
+      "es": "La comida fue servida por el camarero 🍴",
+      "en": "The food was served by the waiter",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "food",
+        "waiter"
+      ],
+      "dificultad": 1,
+      "categoria": "restaurantes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f037",
+      "es": "El coche es conducido por mi padre 🚙",
+      "en": "The car is driven by my father",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "car",
+        "father"
+      ],
+      "dificultad": 1,
+      "categoria": "transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f038",
+      "es": "La habitación fue decorada por la diseñadora 🛏️",
+      "en": "The room was decorated by the designer",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "room",
+        "designer"
+      ],
+      "dificultad": 1,
+      "categoria": "decoración",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f039",
+      "es": "La computadora es utilizada por los estudiantes 💻",
+      "en": "The computer is used by the students",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "computer",
+        "students"
+      ],
+      "dificultad": 1,
+      "categoria": "tecnología",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f040",
+      "es": "El dibujo fue hecho por el niño 🎨",
+      "en": "The drawing was made by the child",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "drawing",
+        "child"
+      ],
+      "dificultad": 1,
+      "categoria": "arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f041",
+      "es": "La casa es limpiada por la familia 🏠",
+      "en": "The house is cleaned by the family",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "house",
+        "family"
+      ],
+      "dificultad": 1,
+      "categoria": "hogar",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f042",
+      "es": "El coche fue reparado por el mecánico 🚗",
+      "en": "The car was repaired by the mechanic",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "car",
+        "mechanic"
+      ],
+      "dificultad": 1,
+      "categoria": "transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f043",
+      "es": "La tarea es hecha por los estudiantes 📚",
+      "en": "The homework is done by the students",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "homework",
+        "students"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f044",
+      "es": "El regalo fue envuelto por mi madre 🎁",
+      "en": "The gift was wrapped by my mother",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "gift",
+        "mother"
+      ],
+      "dificultad": 1,
+      "categoria": "celebraciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f045",
+      "es": "La película es vista por muchas personas 🎬",
+      "en": "The movie is watched by many people",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "movie",
+        "people"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f046",
+      "es": "La canción fue escrita por el artista 🎤",
+      "en": "The song was written by the artist",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "song",
+        "artist"
+      ],
+      "dificultad": 1,
+      "categoria": "música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f048",
+      "es": "La comida fue preparada por el chef 🍽️",
+      "en": "The food was prepared by the chef",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "food",
+        "chef"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f049",
+      "es": "El libro es leído por el profesor 📖",
+      "en": "The book is read by the teacher",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "book",
+        "teacher"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f050",
+      "es": "La carta fue escrita por mi amigo ✉️",
+      "en": "The letter was written by my friend",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "letter",
+        "friend"
+      ],
+      "dificultad": 1,
+      "categoria": "comunicaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f051",
+      "es": "El proyecto es presentado por el grupo 👥",
+      "en": "The project is presented by the group",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "project",
+        "group"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f052",
+      "es": "La fiesta fue organizada por mis amigos 🎉",
+      "en": "The party was organized by my friends",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "party",
+        "friends"
+      ],
+      "dificultad": 1,
+      "categoria": "celebraciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f054",
+      "es": "La ropa fue donada por la comunidad 👕",
+      "en": "The clothes were donated by the community",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "clothes",
+        "community"
+      ],
+      "dificultad": 1,
+      "categoria": "solidaridad",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f055",
+      "es": "La presentación es hecha por el equipo 🎤",
+      "en": "The presentation is made by the team",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "presentation",
+        "team"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f056",
+      "es": "El mural fue pintado por los artistas 🎨",
+      "en": "The mural was painted by the artists",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "mural",
+        "artists"
+      ],
+      "dificultad": 1,
+      "categoria": "arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f057",
+      "es": "El pastel es decorado por el chef 🎂",
+      "en": "The cake is decorated by the chef",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "cake",
+        "chef"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f059",
+      "es": "La comida es servida por los camareros 🍽️",
+      "en": "The food is served by the waiters",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "food",
+        "waiters"
+      ],
+      "dificultad": 1,
+      "categoria": "restaurantes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f060",
+      "es": "El proyecto fue completado por el grupo 👥",
+      "en": "The project was completed by the group",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "project",
+        "group"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f061",
+      "es": "El coche es lavado por el mecánico 🚗",
+      "en": "The car is washed by the mechanic",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "car",
+        "mechanic"
+      ],
+      "dificultad": 1,
+      "categoria": "transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f062",
+      "es": "La tarea fue completada por los estudiantes 📚",
+      "en": "The homework was completed by the students",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "homework",
+        "students"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f063",
+      "es": "El perro es paseado por su dueño 🐶",
+      "en": "The dog is walked by its owner",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "dog",
+        "owner"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f064",
+      "es": "La película fue vista por muchos niños 🎬",
+      "en": "The movie was watched by many children",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "movie",
+        "children"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f065",
+      "es": "La canción es escuchada por los fans 🎶",
+      "en": "The song is listened to by the fans",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "song",
+        "fans"
+      ],
+      "dificultad": 1,
+      "categoria": "música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f066",
+      "es": "El libro fue escrito por un autor famoso 📖",
+      "en": "The book was written by a famous author",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "book",
+        "author"
+      ],
+      "dificultad": 1,
+      "categoria": "literatura",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f067",
+      "es": "La comida es preparada por el chef 🍽️",
+      "en": "The food is prepared by the chef",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "food",
+        "chef"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f068",
+      "es": "El proyecto fue presentado por el grupo 👥",
+      "en": "The project was presented by the group",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "project",
+        "group"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f069",
+      "es": "La casa es construida por los trabajadores 🏠",
+      "en": "The house is built by the workers",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "house",
+        "workers"
+      ],
+      "dificultad": 1,
+      "categoria": "trabajo",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f070",
+      "es": "El regalo fue envuelto por mi madre 🎁",
+      "en": "The gift was wrapped by my mother",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "gift",
+        "mother"
+      ],
+      "dificultad": 1,
+      "categoria": "familia",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f072",
+      "es": "La fiesta fue organizada por mis amigos 🎉",
+      "en": "The party was organized by my friends",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "party",
+        "friends"
+      ],
+      "dificultad": 1,
+      "categoria": "social",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f073",
+      "es": "El dibujo es hecho por el niño ✏️",
+      "en": "The drawing is made by the child",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "drawing",
+        "child"
+      ],
+      "dificultad": 1,
+      "categoria": "arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f074",
+      "es": "La carta fue escrita por mi abuelo ✉️",
+      "en": "The letter was written by my grandfather",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "letter",
+        "grandfather"
+      ],
+      "dificultad": 1,
+      "categoria": "comunicación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f075",
+      "es": "El coche es reparado por el mecánico 🚙",
+      "en": "The car is repaired by the mechanic",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "car",
+        "mechanic"
+      ],
+      "dificultad": 1,
+      "categoria": "transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f076",
+      "es": "La comida fue servida por el camarero 🍴",
+      "en": "The food was served by the waiter",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "food",
+        "waiter"
+      ],
+      "dificultad": 1,
+      "categoria": "restaurantes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f078",
+      "es": "La casa fue vendida por la familia 🏡",
+      "en": "The house was sold by the family",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "house",
+        "family"
+      ],
+      "dificultad": 1,
+      "categoria": "hogar",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f079",
+      "es": "El regalo es dado por el amigo 🎈",
+      "en": "The gift is given by the friend",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "gift",
+        "friend"
+      ],
+      "dificultad": 1,
+      "categoria": "regalos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f080",
+      "es": "La canción fue compuesta por el artista 🎤",
+      "en": "The song was composed by the artist",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "song",
+        "artist"
+      ],
+      "dificultad": 1,
+      "categoria": "música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f081",
+      "es": "La tarea es completada por los estudiantes 📚",
+      "en": "The homework is completed by the students",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "homework",
+        "students"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f082",
+      "es": "La película fue vista por mi familia 🎬",
+      "en": "The movie was watched by my family",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "movie",
+        "family"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f083",
+      "es": "El dibujo es hecho por el niño 🎨",
+      "en": "The drawing is made by the boy",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "drawing",
+        "boy"
+      ],
+      "dificultad": 1,
+      "categoria": "arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f084",
+      "es": "La canción fue escuchada por todos 🎶",
+      "en": "The song was heard by everyone",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "song",
+        "everyone"
+      ],
+      "dificultad": 1,
+      "categoria": "música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f085",
+      "es": "El coche es conducido por mi padre 🚗",
+      "en": "The car is driven by my father",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "car",
+        "father"
+      ],
+      "dificultad": 1,
+      "categoria": "transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f086",
+      "es": "La casa fue construida por los trabajadores 🏠",
+      "en": "The house was built by the workers",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "house",
+        "workers"
+      ],
+      "dificultad": 1,
+      "categoria": "construcción",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f087",
+      "es": "El examen es preparado por el profesor 📖",
+      "en": "The exam is prepared by the teacher",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "exam",
+        "teacher"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f088",
+      "es": "La comida fue servida por el camarero 🍽️",
+      "en": "The food was served by the waiter",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "food",
+        "waiter"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f089",
+      "es": "El libro es escrito por un autor famoso 📚",
+      "en": "The book is written by a famous author",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "book",
+        "author"
+      ],
+      "dificultad": 1,
+      "categoria": "literatura",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f090",
+      "es": "La fiesta fue organizada por mis amigos 🎉",
+      "en": "The party was organized by my friends",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "party",
+        "friends"
+      ],
+      "dificultad": 1,
+      "categoria": "social",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f091",
+      "es": "El regalo es envuelto por mi madre 🎁",
+      "en": "The gift is wrapped by my mother",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "gift",
+        "mother"
+      ],
+      "dificultad": 1,
+      "categoria": "celebraciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f092",
+      "es": "El proyecto fue presentado por el grupo 👥",
+      "en": "The project was presented by the group",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "project",
+        "group"
+      ],
+      "dificultad": 1,
+      "categoria": "trabajo en equipo",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f093",
+      "es": "La carta es escrita por mi abuela ✉️",
+      "en": "The letter is written by my grandmother",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "letter",
+        "grandmother"
+      ],
+      "dificultad": 1,
+      "categoria": "comunicación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f094",
+      "es": "La tarea fue entregada por el alumno 📋",
+      "en": "The assignment was submitted by the student",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "assignment",
+        "student"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f095",
+      "es": "El programa es visto por muchas personas 📺",
+      "en": "The show is watched by many people",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "show",
+        "people"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f096",
+      "es": "El dibujo fue admirado por todos los visitantes 🖼️",
+      "en": "The drawing was admired by all the visitors",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "drawing",
+        "visitors"
+      ],
+      "dificultad": 1,
+      "categoria": "arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f097",
+      "es": "El juego es jugado por los niños 🎮",
+      "en": "The game is played by the children",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "game",
+        "children"
+      ],
+      "dificultad": 1,
+      "categoria": "juegos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f098",
+      "es": "La comida fue preparada por el chef 👨‍🍳",
+      "en": "The meal was prepared by the chef",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "meal",
+        "chef"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f100",
+      "es": "El regalo fue recibido por el niño 🎈",
+      "en": "The gift was received by the boy",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "gift",
+        "boy"
+      ],
+      "dificultad": 1,
+      "categoria": "celebraciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f101",
+      "es": "La tarea es completada por los estudiantes 📚",
+      "en": "The homework is completed by the students",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "homework",
+        "students"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f102",
+      "es": "El coche fue reparado por el mecánico 🚗",
+      "en": "The car was repaired by the mechanic",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "car",
+        "mechanic"
+      ],
+      "dificultad": 1,
+      "categoria": "transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f103",
+      "es": "La película es vista por muchas personas 🎬",
+      "en": "The movie is watched by many people",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "movie",
+        "people"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f104",
+      "es": "La casa fue construida por los obreros 🏠",
+      "en": "The house was built by the workers",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "house",
+        "workers"
+      ],
+      "dificultad": 1,
+      "categoria": "arquitectura",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f105",
+      "es": "El libro es escrito por un famoso autor 📖",
+      "en": "The book is written by a famous author",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "book",
+        "author"
+      ],
+      "dificultad": 1,
+      "categoria": "literatura",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f106",
+      "es": "La canción fue grabada por la banda 🎤",
+      "en": "The song was recorded by the band",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "song",
+        "band"
+      ],
+      "dificultad": 1,
+      "categoria": "música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f107",
+      "es": "El dibujo es hecho por el niño 🎨",
+      "en": "The drawing is made by the child",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "drawing",
+        "child"
+      ],
+      "dificultad": 1,
+      "categoria": "arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f108",
+      "es": "La comida fue preparada por el chef 🍽️",
+      "en": "The food was prepared by the chef",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "food",
+        "chef"
+      ],
+      "dificultad": 1,
+      "categoria": "gastronomía",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f109",
+      "es": "El examen es administrado por el profesor 📝",
+      "en": "The exam is administered by the teacher",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "exam",
+        "teacher"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f110",
+      "es": "El regalo fue envuelto por mi madre 🎁",
+      "en": "The gift was wrapped by my mother",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "gift",
+        "mother"
+      ],
+      "dificultad": 1,
+      "categoria": "celebraciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f111",
+      "es": "La carta es firmada por el director ✍️",
+      "en": "The letter is signed by the principal",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "letter",
+        "principal"
+      ],
+      "dificultad": 1,
+      "categoria": "comunicaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f112",
+      "es": "El proyecto fue presentado por el grupo 👥",
+      "en": "The project was presented by the group",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "project",
+        "group"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f113",
+      "es": "La mesa es limpiada por el personal 🍽️",
+      "en": "The table is cleaned by the staff",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "table",
+        "staff"
+      ],
+      "dificultad": 1,
+      "categoria": "hospitalidad",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f114",
+      "es": "El informe fue escrito por el estudiante 📊",
+      "en": "The report was written by the student",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "report",
+        "student"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f115",
+      "es": "El juego es jugado por los niños 🎮",
+      "en": "The game is played by the children",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "game",
+        "children"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f116",
+      "es": "La presentación fue hecha por el equipo 📈",
+      "en": "The presentation was made by the team",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "presentation",
+        "team"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f117",
+      "es": "El dibujo es admirado por todos 🎨",
+      "en": "The drawing is admired by everyone",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "drawing",
+        "everyone"
+      ],
+      "dificultad": 1,
+      "categoria": "arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f118",
+      "es": "La receta fue compartida por la abuela 🍲",
+      "en": "The recipe was shared by the grandmother",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "recipe",
+        "grandmother"
+      ],
+      "dificultad": 1,
+      "categoria": "gastronomía",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f119",
+      "es": "El mensaje es enviado por el remitente 📩",
+      "en": "The message is sent by the sender",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "message",
+        "sender"
+      ],
+      "dificultad": 1,
+      "categoria": "comunicaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f120",
+      "es": "El evento fue organizado por el comité 🎉",
+      "en": "The event was organized by the committee",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "event",
+        "committee"
+      ],
+      "dificultad": 1,
+      "categoria": "organización",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f121",
+      "es": "La casa es limpiada por los trabajadores 🏠",
+      "en": "The house is cleaned by the workers",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "house",
+        "workers"
+      ],
+      "dificultad": 1,
+      "categoria": "hogar",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f122",
+      "es": "El coche fue reparado por el mecánico 🚗",
+      "en": "The car was repaired by the mechanic",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "car",
+        "mechanic"
+      ],
+      "dificultad": 1,
+      "categoria": "transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f123",
+      "es": "La tarea es completada por los estudiantes 📚",
+      "en": "The homework is completed by the students",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "homework",
+        "students"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f124",
+      "es": "El dibujo fue hecho por la niña 🎨",
+      "en": "The drawing was made by the girl",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "drawing",
+        "girl"
+      ],
+      "dificultad": 1,
+      "categoria": "arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f125",
+      "es": "La comida es servida por el camarero 🍽️",
+      "en": "The food is served by the waiter",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "food",
+        "waiter"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f126",
+      "es": "El libro fue escrito por el autor 📖",
+      "en": "The book was written by the author",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "book",
+        "author"
+      ],
+      "dificultad": 1,
+      "categoria": "literatura",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f128",
+      "es": "El regalo fue dado por su amigo 🎁",
+      "en": "The gift was given by his friend",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "gift",
+        "friend"
+      ],
+      "dificultad": 1,
+      "categoria": "regalos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f129",
+      "es": "La película es vista por muchas personas 🎬",
+      "en": "The movie is watched by many people",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "movie",
+        "people"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f130",
+      "es": "El proyecto fue presentado por el equipo 🏆",
+      "en": "The project was presented by the team",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "project",
+        "team"
+      ],
+      "dificultad": 1,
+      "categoria": "trabajo",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f131",
+      "es": "La carta es escrita por el profesor ✉️",
+      "en": "The letter is written by the teacher",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "letter",
+        "teacher"
+      ],
+      "dificultad": 1,
+      "categoria": "comunicaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f132",
+      "es": "El examen fue corregido por el maestro 📝",
+      "en": "The exam was corrected by the teacher",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "exam",
+        "teacher"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f134",
+      "es": "El teléfono fue usado por su madre 📱",
+      "en": "The phone was used by his mother",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "phone",
+        "mother"
+      ],
+      "dificultad": 1,
+      "categoria": "tecnología",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f135",
+      "es": "La ropa es comprada por los padres 👗",
+      "en": "The clothes are bought by the parents",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "clothes",
+        "parents"
+      ],
+      "dificultad": 1,
+      "categoria": "compras",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f136",
+      "es": "El juego fue creado por los desarrolladores 🎮",
+      "en": "The game was created by the developers",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "game",
+        "developers"
+      ],
+      "dificultad": 1,
+      "categoria": "videojuegos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f137",
+      "es": "La historia es contada por el abuelo 📖",
+      "en": "The story is told by the grandfather",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "story",
+        "grandfather"
+      ],
+      "dificultad": 1,
+      "categoria": "familia",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f138",
+      "es": "La canción fue compuesta por el artista 🎤",
+      "en": "The song was composed by the artist",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "song",
+        "artist"
+      ],
+      "dificultad": 1,
+      "categoria": "música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f139",
+      "es": "El mensaje es enviado por el remitente 📩",
+      "en": "The message is sent by the sender",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "message",
+        "sender"
+      ],
+      "dificultad": 1,
+      "categoria": "comunicaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f140",
+      "es": "El espectáculo fue organizado por el comité 🎭",
+      "en": "The show was organized by the committee",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "show",
+        "committee"
+      ],
+      "dificultad": 1,
+      "categoria": "eventos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f141",
+      "es": "El coche es lavado por el mecánico 🚗",
+      "en": "The car is washed by the mechanic",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "car",
+        "mechanic"
+      ],
+      "dificultad": 1,
+      "categoria": "transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f142",
+      "es": "La tarea fue completada por los estudiantes 📚",
+      "en": "The homework was completed by the students",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "homework",
+        "students"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f143",
+      "es": "El perro es paseado por su dueño 🐕",
+      "en": "The dog is walked by its owner",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "dog",
+        "owner"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f144",
+      "es": "La película fue vista por muchos niños 🎬",
+      "en": "The movie was watched by many children",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "movie",
+        "children"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f145",
+      "es": "La casa es pintada por los trabajadores 🏠",
+      "en": "The house is painted by the workers",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "house",
+        "workers"
+      ],
+      "dificultad": 1,
+      "categoria": "hogar",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f146",
+      "es": "El libro fue escrito por un famoso autor 📖",
+      "en": "The book was written by a famous author",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "book",
+        "author"
+      ],
+      "dificultad": 1,
+      "categoria": "literatura",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f147",
+      "es": "La canción es escuchada por muchos fans 🎶",
+      "en": "The song is listened to by many fans",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "song",
+        "fans"
+      ],
+      "dificultad": 1,
+      "categoria": "música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f148",
+      "es": "El proyecto fue presentado por el equipo 👥",
+      "en": "The project was presented by the team",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "project",
+        "team"
+      ],
+      "dificultad": 1,
+      "categoria": "trabajo",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f149",
+      "es": "La comida es preparada por el chef 🍽️",
+      "en": "The food is prepared by the chef",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "food",
+        "chef"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f150",
+      "es": "El regalo fue envuelto por mi madre 🎁",
+      "en": "The gift was wrapped by my mother",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "gift",
+        "mother"
+      ],
+      "dificultad": 1,
+      "categoria": "celebraciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f151",
+      "es": "El examen es corregido por el profesor 📝",
+      "en": "The exam is corrected by the teacher",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "exam",
+        "teacher"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f152",
+      "es": "La fiesta fue organizada por mis amigos 🎉",
+      "en": "The party was organized by my friends",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "party",
+        "friends"
+      ],
+      "dificultad": 1,
+      "categoria": "social",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f153",
+      "es": "El dibujo es hecho por el niño 🎨",
+      "en": "The drawing is made by the child",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "drawing",
+        "child"
+      ],
+      "dificultad": 1,
+      "categoria": "arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f154",
+      "es": "La carta fue escrita por mi abuelo ✉️",
+      "en": "The letter was written by my grandfather",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "letter",
+        "grandfather"
+      ],
+      "dificultad": 1,
+      "categoria": "comunicación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f155",
+      "es": "El juego es jugado por los niños 🎮",
+      "en": "The game is played by the children",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "game",
+        "children"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f156",
+      "es": "La canción fue compuesta por un artista famoso 🎤",
+      "en": "The song was composed by a famous artist",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "song",
+        "artist"
+      ],
+      "dificultad": 1,
+      "categoria": "música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f157",
+      "es": "El vestido es diseñado por la modista 👗",
+      "en": "The dress is designed by the dressmaker",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "dress",
+        "dressmaker"
+      ],
+      "dificultad": 1,
+      "categoria": "moda",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f158",
+      "es": "El informe fue preparado por el asistente 📊",
+      "en": "The report was prepared by the assistant",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "report",
+        "assistant"
+      ],
+      "dificultad": 1,
+      "categoria": "trabajo",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f160",
+      "es": "El pastel fue decorado por la chef 🎂",
+      "en": "The cake was decorated by the chef",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "cake",
+        "chef"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f161",
+      "es": "El coche es lavado por el mecánico 🚗",
+      "en": "The car is washed by the mechanic",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "car",
+        "mechanic"
+      ],
+      "dificultad": 1,
+      "categoria": "transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f162",
+      "es": "La tarea fue completada por los estudiantes 📚",
+      "en": "The homework was completed by the students",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "homework",
+        "students"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f163",
+      "es": "La casa es pintada por el artista 🎨",
+      "en": "The house is painted by the artist",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "house",
+        "artist"
+      ],
+      "dificultad": 1,
+      "categoria": "arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f164",
+      "es": "El proyecto fue presentado por el equipo 👥",
+      "en": "The project was presented by the team",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "project",
+        "team"
+      ],
+      "dificultad": 1,
+      "categoria": "trabajo",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f165",
+      "es": "La comida es servida por el camarero 🍽️",
+      "en": "The food is served by the waiter",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "food",
+        "waiter"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f166",
+      "es": "El libro fue escrito por el autor 📖",
+      "en": "The book was written by the author",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "book",
+        "author"
+      ],
+      "dificultad": 1,
+      "categoria": "literatura",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f168",
+      "es": "El regalo fue dado por mi amigo 🎁",
+      "en": "The gift was given by my friend",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "gift",
+        "friend"
+      ],
+      "dificultad": 1,
+      "categoria": "regalos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f169",
+      "es": "La película es vista por la familia 🎬",
+      "en": "The movie is watched by the family",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "movie",
+        "family"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f170",
+      "es": "El mensaje fue enviado por el profesor 📩",
+      "en": "The message was sent by the teacher",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "message",
+        "teacher"
+      ],
+      "dificultad": 1,
+      "categoria": "comunicación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f172",
+      "es": "La carta fue escrita por mi hermana ✉️",
+      "en": "The letter was written by my sister",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "letter",
+        "sister"
+      ],
+      "dificultad": 1,
+      "categoria": "comunicaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f174",
+      "es": "El dibujo fue hecho por el niño ✏️",
+      "en": "The drawing was made by the boy",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "drawing",
+        "boy"
+      ],
+      "dificultad": 1,
+      "categoria": "arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f175",
+      "es": "La ropa es lavada por mi madre 👗",
+      "en": "The clothes are washed by my mother",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "clothes",
+        "mother"
+      ],
+      "dificultad": 1,
+      "categoria": "hogar",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f176",
+      "es": "El pastel fue decorado por la chef 🎂",
+      "en": "The cake was decorated by the chef",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "cake",
+        "chef"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f177",
+      "es": "El teléfono es reparado por el técnico 📱",
+      "en": "The phone is repaired by the technician",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "phone",
+        "technician"
+      ],
+      "dificultad": 1,
+      "categoria": "tecnología",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f178",
+      "es": "El dibujo fue admirado por todos 🎨",
+      "en": "The drawing was admired by everyone",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "drawing",
+        "everyone"
+      ],
+      "dificultad": 1,
+      "categoria": "arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f179",
+      "es": "La música es tocada por la banda 🎸",
+      "en": "The music is played by the band",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "music",
+        "band"
+      ],
+      "dificultad": 1,
+      "categoria": "música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f180",
+      "es": "El coche fue vendido por el concesionario 🚙",
+      "en": "The car was sold by the dealership",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "car",
+        "dealership"
+      ],
+      "dificultad": 1,
+      "categoria": "transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f181",
+      "es": "La tarea es completada por los estudiantes 📚",
+      "en": "The homework is completed by the students",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "homework",
+        "students"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f182",
+      "es": "El coche fue reparado por el mecánico 🚗",
+      "en": "The car was repaired by the mechanic",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "car",
+        "mechanic"
+      ],
+      "dificultad": 1,
+      "categoria": "transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f183",
+      "es": "La película es vista por muchas personas 🎬",
+      "en": "The movie is watched by many people",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "movie",
+        "people"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f184",
+      "es": "El regalo fue dado por su amigo 🎁",
+      "en": "The gift was given by his friend",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "gift",
+        "friend"
+      ],
+      "dificultad": 1,
+      "categoria": "regalos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f186",
+      "es": "El libro fue escrito por un autor famoso 📖",
+      "en": "The book was written by a famous author",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "book",
+        "author"
+      ],
+      "dificultad": 1,
+      "categoria": "literatura",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f187",
+      "es": "La comida es preparada por el chef 🍽️",
+      "en": "The food is prepared by the chef",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "food",
+        "chef"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f188",
+      "es": "El proyecto fue presentado por el grupo 👥",
+      "en": "The project was presented by the group",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "project",
+        "group"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f189",
+      "es": "La casa es limpiada por la familia 🏠",
+      "en": "The house is cleaned by the family",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "house",
+        "family"
+      ],
+      "dificultad": 1,
+      "categoria": "hogar",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f190",
+      "es": "La tarea fue entregada por el estudiante 📄",
+      "en": "The assignment was submitted by the student",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "assignment",
+        "student"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f191",
+      "es": "El dibujo es hecho por el niño ✏️",
+      "en": "The drawing is made by the child",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "drawing",
+        "child"
+      ],
+      "dificultad": 1,
+      "categoria": "arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f192",
+      "es": "La carta fue escrita por su hermana ✉️",
+      "en": "The letter was written by his sister",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "letter",
+        "sister"
+      ],
+      "dificultad": 1,
+      "categoria": "comunicaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f193",
+      "es": "El juego es jugado por los niños 🎮",
+      "en": "The game is played by the children",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "game",
+        "children"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f194",
+      "es": "La fiesta fue organizada por sus amigos 🎉",
+      "en": "The party was organized by his friends",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "party",
+        "friends"
+      ],
+      "dificultad": 1,
+      "categoria": "eventos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f195",
+      "es": "El examen es tomado por los alumnos 📝",
+      "en": "The exam is taken by the students",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "exam",
+        "students"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f196",
+      "es": "La comida fue servida por el camarero 🍴",
+      "en": "The food was served by the waiter",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "food",
+        "waiter"
+      ],
+      "dificultad": 1,
+      "categoria": "restaurantes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f197",
+      "es": "La historia es contada por el abuelo 📖",
+      "en": "The story is told by the grandfather",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "story",
+        "grandfather"
+      ],
+      "dificultad": 1,
+      "categoria": "familia",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f198",
+      "es": "El coche fue vendido por el dueño 🚙",
+      "en": "The car was sold by the owner",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "car",
+        "owner"
+      ],
+      "dificultad": 1,
+      "categoria": "transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f199",
+      "es": "La ropa es lavada por la madre 👗",
+      "en": "The clothes are washed by the mother",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "clothes",
+        "mother"
+      ],
+      "dificultad": 1,
+      "categoria": "hogar",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f200",
+      "es": "El dibujo fue colgado por el profesor 🎨",
+      "en": "The drawing was hung by the teacher",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "drawing",
+        "teacher"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f201",
+      "es": "La casa es limpiada por la familia 🏠",
+      "en": "The house is cleaned by the family",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "house",
+        "family"
+      ],
+      "dificultad": 1,
+      "categoria": "hogar",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f202",
+      "es": "El coche fue reparado por el mecánico 🚗",
+      "en": "The car was repaired by the mechanic",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "car",
+        "mechanic"
+      ],
+      "dificultad": 1,
+      "categoria": "transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f203",
+      "es": "La tarea es hecha por los estudiantes 📚",
+      "en": "The homework is done by the students",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "homework",
+        "students"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f204",
+      "es": "El regalo fue envuelto por mi madre 🎁",
+      "en": "The gift was wrapped by my mother",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "gift",
+        "mother"
+      ],
+      "dificultad": 1,
+      "categoria": "celebraciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f205",
+      "es": "La película es vista por muchas personas 🎬",
+      "en": "The movie is watched by many people",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "movie",
+        "people"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f206",
+      "es": "La canción fue compuesta por el artista 🎶",
+      "en": "The song was composed by the artist",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "song",
+        "artist"
+      ],
+      "dificultad": 1,
+      "categoria": "música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f208",
+      "es": "El libro fue escrito por un famoso autor 📖",
+      "en": "The book was written by a famous author",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "book",
+        "author"
+      ],
+      "dificultad": 1,
+      "categoria": "literatura",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f209",
+      "es": "La comida es preparada por el chef 🍽️",
+      "en": "The food is prepared by the chef",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "food",
+        "chef"
+      ],
+      "dificultad": 1,
+      "categoria": "gastronomía",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f210",
+      "es": "La fiesta fue organizada por mis amigos 🎉",
+      "en": "The party was organized by my friends",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "party",
+        "friends"
+      ],
+      "dificultad": 1,
+      "categoria": "social",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f211",
+      "es": "El dibujo es hecho por el niño 🎨",
+      "en": "The drawing is made by the child",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "drawing",
+        "child"
+      ],
+      "dificultad": 1,
+      "categoria": "arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f212",
+      "es": "La carta fue escrita por mi abuelo ✉️",
+      "en": "The letter was written by my grandfather",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "letter",
+        "grandfather"
+      ],
+      "dificultad": 1,
+      "categoria": "comunicaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f213",
+      "es": "El proyecto es presentado por el grupo 👥",
+      "en": "The project is presented by the group",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "project",
+        "group"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f214",
+      "es": "El vestido fue diseñado por la modista 👗",
+      "en": "The dress was designed by the dressmaker",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "dress",
+        "dressmaker"
+      ],
+      "dificultad": 1,
+      "categoria": "moda",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f215",
+      "es": "El juego es jugado por los niños 🎮",
+      "en": "The game is played by the children",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "game",
+        "children"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f216",
+      "es": "La historia fue contada por el abuelo 📜",
+      "en": "The story was told by the grandfather",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "story",
+        "grandfather"
+      ],
+      "dificultad": 1,
+      "categoria": "cultura",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f218",
+      "es": "La mesa fue puesta por el camarero 🍽️",
+      "en": "The table was set by the waiter",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "table",
+        "waiter"
+      ],
+      "dificultad": 1,
+      "categoria": "restaurantes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f219",
+      "es": "La ropa es lavada por la lavandería 🧺",
+      "en": "The clothes are washed by the laundry",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva presente simple",
+      "palabras_clave": [
+        "clothes",
+        "laundry"
+      ],
+      "dificultad": 1,
+      "categoria": "hogar",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n22_f220",
+      "es": "El mural fue pintado por los artistas 🎨",
+      "en": "The mural was painted by the artists",
+      "tipo": "afirmativa",
+      "variante_gramatical": "voz pasiva pasado simple",
+      "palabras_clave": [
+        "mural",
+        "artists"
+      ],
+      "dificultad": 1,
+      "categoria": "arte",
+      "usada": false,
+      "fecha_uso": null
+    }
+  ]
+}

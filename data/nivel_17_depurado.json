@@ -1,0 +1,3221 @@
+{
+  "metadata": {
+    "nivel": 17,
+    "descripcion": "Conectores simples (and, but, because, so, or)",
+    "total_frases": 220,
+    "fecha_creacion": "2025-08-05T19:29:43.821511",
+    "version": "1.0"
+  },
+  "frases": [
+    {
+      "id": "n17_f001",
+      "es": "Ella tiene una bicicleta y un patinete 🛴🚲",
+      "en": "She has a bicycle and a scooter.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "bicycle",
+        "scooter"
+      ],
+      "dificultad": 1,
+      "categoria": "transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f002",
+      "es": "Él es alto pero no juega baloncesto 🏀",
+      "en": "He is tall but does not play basketball.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "tall",
+        "basketball"
+      ],
+      "dificultad": 1,
+      "categoria": "características físicas",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f003",
+      "es": "Ella estudia mucho porque quiere buenas notas 📚",
+      "en": "She studies a lot because she wants good grades.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "because",
+      "palabras_clave": [
+        "studies",
+        "grades"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f005",
+      "es": "Tú puedes elegir un libro o una revista 📖",
+      "en": "You can choose a book or a magazine.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "or",
+      "palabras_clave": [
+        "book",
+        "magazine"
+      ],
+      "dificultad": 1,
+      "categoria": "lectura",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f006",
+      "es": "Ella tiene un gato y un pez 🐱🐟",
+      "en": "She has a cat and a fish.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "cat",
+        "fish"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f007",
+      "es": "Él es inteligente pero a veces perezoso 🧠😴",
+      "en": "He is smart but sometimes lazy.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "smart",
+        "lazy"
+      ],
+      "dificultad": 1,
+      "categoria": "características personales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f008",
+      "es": "Ella está emocionada porque va a un concierto 🎶",
+      "en": "She is excited because she is going to a concert.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "because",
+      "palabras_clave": [
+        "excited",
+        "concert"
+      ],
+      "dificultad": 1,
+      "categoria": "emociones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f009",
+      "es": "Él juega al fútbol, así que es muy activo ⚽",
+      "en": "He plays soccer, so he is very active.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "so",
+      "palabras_clave": [
+        "soccer",
+        "active"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f010",
+      "es": "Puedes comer pizza o hamburguesas 🍕🍔",
+      "en": "You can eat pizza or hamburgers.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "or",
+      "palabras_clave": [
+        "pizza",
+        "hamburgers"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f011",
+      "es": "Ella tiene una hermana y un hermano 👧👦",
+      "en": "She has a sister and a brother.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "sister",
+        "brother"
+      ],
+      "dificultad": 1,
+      "categoria": "familia",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f012",
+      "es": "Él es amable pero a veces serio 😊😐",
+      "en": "He is kind but sometimes serious.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "kind",
+        "serious"
+      ],
+      "dificultad": 1,
+      "categoria": "características personales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f013",
+      "es": "Ella se siente triste porque perdió su juguete 😢🧸",
+      "en": "She feels sad because she lost her toy.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "because",
+      "palabras_clave": [
+        "sad",
+        "lost"
+      ],
+      "dificultad": 1,
+      "categoria": "emociones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f016",
+      "es": "Ella tiene un vestido y unos zapatos nuevos 👗👠",
+      "en": "She has a dress and new shoes.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "dress",
+        "shoes"
+      ],
+      "dificultad": 1,
+      "categoria": "ropa",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f017",
+      "es": "Él es divertido pero a veces un poco tonto 😂🤪",
+      "en": "He is funny but sometimes a bit silly.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "funny",
+        "silly"
+      ],
+      "dificultad": 1,
+      "categoria": "características personales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f018",
+      "es": "Ella está cansada porque no durmió bien 😴",
+      "en": "She is tired because she did not sleep well.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "because",
+      "palabras_clave": [
+        "tired",
+        "sleep"
+      ],
+      "dificultad": 1,
+      "categoria": "salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f019",
+      "es": "Nosotros tenemos una mascota, así que la cuidamos 🐶❤️",
+      "en": "We have a pet, so we take care of it.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "so",
+      "palabras_clave": [
+        "pet",
+        "care"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f020",
+      "es": "Puedes jugar con bloques o con muñecos 🧱🧸",
+      "en": "You can play with blocks or with dolls.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "or",
+      "palabras_clave": [
+        "blocks",
+        "dolls"
+      ],
+      "dificultad": 1,
+      "categoria": "juegos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f021",
+      "es": "Ella tiene una bicicleta y un patinete 🛴🚲",
+      "en": "She has a bicycle and a scooter.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "bicycle",
+        "scooter"
+      ],
+      "dificultad": 1,
+      "categoria": "transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f022",
+      "es": "Él es alto pero no juega baloncesto 🏀",
+      "en": "He is tall but does not play basketball.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "tall",
+        "basketball"
+      ],
+      "dificultad": 1,
+      "categoria": "características físicas",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f023",
+      "es": "Ella estudia mucho porque quiere buenas notas 📚",
+      "en": "She studies a lot because she wants good grades.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "because",
+      "palabras_clave": [
+        "studies",
+        "grades"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f024",
+      "es": "Nosotros vamos al cine o a la playa 🎬🏖️",
+      "en": "We are going to the cinema or to the beach.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "or",
+      "palabras_clave": [
+        "cinema",
+        "beach"
+      ],
+      "dificultad": 1,
+      "categoria": "ocio",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f025",
+      "es": "El perro es grande y muy amigable 🐶",
+      "en": "The dog is big and very friendly.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "dog",
+        "friendly"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f026",
+      "es": "Ella es inteligente pero a veces distraída 🤔",
+      "en": "She is smart but sometimes distracted.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "smart",
+        "distracted"
+      ],
+      "dificultad": 1,
+      "categoria": "características personales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f027",
+      "es": "Él está emocionado porque va a un concierto 🎶",
+      "en": "He is excited because he is going to a concert.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "because",
+      "palabras_clave": [
+        "excited",
+        "concert"
+      ],
+      "dificultad": 1,
+      "categoria": "emociones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f028",
+      "es": "Puedes elegir pizza o hamburguesa 🍕🍔",
+      "en": "You can choose pizza or hamburger.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "or",
+      "palabras_clave": [
+        "pizza",
+        "hamburger"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f029",
+      "es": "El gato es pequeño y muy juguetón 🐱",
+      "en": "The cat is small and very playful.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "cat",
+        "playful"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f030",
+      "es": "Ella es talentosa pero necesita practicar más 🎤",
+      "en": "She is talented but needs to practice more.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "talented",
+        "practice"
+      ],
+      "dificultad": 1,
+      "categoria": "habilidades",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f031",
+      "es": "Él juega al fútbol porque le gusta mucho ⚽",
+      "en": "He plays soccer because he likes it a lot.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "because",
+      "palabras_clave": [
+        "plays",
+        "soccer"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f032",
+      "es": "Nosotros podemos ir al parque o a la piscina 🏞️🏊",
+      "en": "We can go to the park or to the pool.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "or",
+      "palabras_clave": [
+        "park",
+        "pool"
+      ],
+      "dificultad": 1,
+      "categoria": "ocio",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f033",
+      "es": "El libro es interesante y muy divertido 📖",
+      "en": "The book is interesting and very fun.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "book",
+        "fun"
+      ],
+      "dificultad": 1,
+      "categoria": "lectura",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f034",
+      "es": "Ella es amable pero a veces tímida 😊",
+      "en": "She is kind but sometimes shy.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "kind",
+        "shy"
+      ],
+      "dificultad": 1,
+      "categoria": "características personales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f035",
+      "es": "Él está cansado porque no durmió bien 😴",
+      "en": "He is tired because he did not sleep well.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "because",
+      "palabras_clave": [
+        "tired",
+        "sleep"
+      ],
+      "dificultad": 1,
+      "categoria": "salud",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f036",
+      "es": "Puedes tomar agua o jugo 🥤💧",
+      "en": "You can drink water or juice.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "or",
+      "palabras_clave": [
+        "water",
+        "juice"
+      ],
+      "dificultad": 1,
+      "categoria": "bebidas",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f037",
+      "es": "El clima es soleado y cálido hoy ☀️",
+      "en": "The weather is sunny and warm today.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "weather",
+        "sunny"
+      ],
+      "dificultad": 1,
+      "categoria": "clima",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f038",
+      "es": "Ella es creativa pero a veces se siente insegura 🎨",
+      "en": "She is creative but sometimes feels insecure.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "creative",
+        "insecure"
+      ],
+      "dificultad": 1,
+      "categoria": "características personales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f039",
+      "es": "Él juega videojuegos porque le gusta competir 🎮",
+      "en": "He plays video games because he likes to compete.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "because",
+      "palabras_clave": [
+        "video games",
+        "compete"
+      ],
+      "dificultad": 1,
+      "categoria": "ocio",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f040",
+      "es": "Nosotros vamos a la montaña o al campo 🏔️🌳",
+      "en": "We are going to the mountain or to the countryside.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "or",
+      "palabras_clave": [
+        "mountain",
+        "countryside"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f041",
+      "es": "Ella tiene una bicicleta y un patinete 🛴🚲",
+      "en": "She has a bicycle and a scooter.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "bicycle",
+        "scooter"
+      ],
+      "dificultad": 1,
+      "categoria": "transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f042",
+      "es": "Él es alto pero no juega baloncesto 🏀",
+      "en": "He is tall but does not play basketball.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "tall",
+        "basketball"
+      ],
+      "dificultad": 1,
+      "categoria": "características físicas",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f043",
+      "es": "Ella estudia mucho porque quiere buenas notas 📚",
+      "en": "She studies a lot because she wants good grades.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "because",
+      "palabras_clave": [
+        "studies",
+        "grades"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f045",
+      "es": "¿Quieres pizza o hamburguesa? 🍕🍔",
+      "en": "Do you want pizza or a hamburger?",
+      "tipo": "afirmativa",
+      "variante_gramatical": "or",
+      "palabras_clave": [
+        "pizza",
+        "hamburger"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f046",
+      "es": "Ella tiene un gato y un pez 🐱🐟",
+      "en": "She has a cat and a fish.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "cat",
+        "fish"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f047",
+      "es": "Él es divertido pero a veces serio 😄😐",
+      "en": "He is funny but sometimes serious.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "funny",
+        "serious"
+      ],
+      "dificultad": 1,
+      "categoria": "características personales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f048",
+      "es": "Ella está emocionada porque va a un concierto 🎶",
+      "en": "She is excited because she is going to a concert.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "because",
+      "palabras_clave": [
+        "excited",
+        "concert"
+      ],
+      "dificultad": 1,
+      "categoria": "emociones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f049",
+      "es": "Él juega fútbol, así que es muy activo ⚽",
+      "en": "He plays soccer, so he is very active.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "so",
+      "palabras_clave": [
+        "soccer",
+        "active"
+      ],
+      "dificultad": 1,
+      "categoria": "deporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f050",
+      "es": "¿Prefieres té o café? ☕🍵",
+      "en": "Do you prefer tea or coffee?",
+      "tipo": "afirmativa",
+      "variante_gramatical": "or",
+      "palabras_clave": [
+        "tea",
+        "coffee"
+      ],
+      "dificultad": 1,
+      "categoria": "bebidas",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f051",
+      "es": "Ella tiene un libro y un cuaderno 📖📓",
+      "en": "She has a book and a notebook.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "book",
+        "notebook"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f052",
+      "es": "Él es inteligente pero a veces perezoso 🧠😴",
+      "en": "He is smart but sometimes lazy.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "smart",
+        "lazy"
+      ],
+      "dificultad": 1,
+      "categoria": "características personales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f053",
+      "es": "Ella sonríe porque está feliz 😊",
+      "en": "She smiles because she is happy.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "because",
+      "palabras_clave": [
+        "smiles",
+        "happy"
+      ],
+      "dificultad": 1,
+      "categoria": "emociones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f054",
+      "es": "Nosotros vamos a la playa, así que llevamos toallas 🏖️",
+      "en": "We are going to the beach, so we are bringing towels.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "so",
+      "palabras_clave": [
+        "beach",
+        "towels"
+      ],
+      "dificultad": 1,
+      "categoria": "ocio",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f055",
+      "es": "¿Quieres helado o pastel? 🍦🍰",
+      "en": "Do you want ice cream or cake?",
+      "tipo": "afirmativa",
+      "variante_gramatical": "or",
+      "palabras_clave": [
+        "ice cream",
+        "cake"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f056",
+      "es": "Ella tiene una guitarra y un piano 🎸🎹",
+      "en": "She has a guitar and a piano.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "guitar",
+        "piano"
+      ],
+      "dificultad": 1,
+      "categoria": "música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f057",
+      "es": "Él es amable pero a veces tímido 😊😳",
+      "en": "He is kind but sometimes shy.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "kind",
+        "shy"
+      ],
+      "dificultad": 1,
+      "categoria": "características personales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f058",
+      "es": "Ella corre rápido porque quiere ganar 🏃‍♀️🏆",
+      "en": "She runs fast because she wants to win.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "because",
+      "palabras_clave": [
+        "runs",
+        "win"
+      ],
+      "dificultad": 1,
+      "categoria": "deporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f059",
+      "es": "Nosotros jugamos videojuegos, así que estamos felices 🎮😊",
+      "en": "We play video games, so we are happy.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "so",
+      "palabras_clave": [
+        "video games",
+        "happy"
+      ],
+      "dificultad": 1,
+      "categoria": "ocio",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f060",
+      "es": "¿Prefieres verano o invierno? ☀️❄️",
+      "en": "Do you prefer summer or winter?",
+      "tipo": "afirmativa",
+      "variante_gramatical": "or",
+      "palabras_clave": [
+        "summer",
+        "winter"
+      ],
+      "dificultad": 1,
+      "categoria": "estaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f061",
+      "es": "Ella tiene un libro y una mochila 📚🎒",
+      "en": "She has a book and a backpack.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "book",
+        "backpack"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f062",
+      "es": "Él es alto pero no juega baloncesto 🏀",
+      "en": "He is tall but does not play basketball.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "tall",
+        "basketball"
+      ],
+      "dificultad": 1,
+      "categoria": "características físicas",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f063",
+      "es": "Ella estudia mucho porque quiere buenas notas 📖",
+      "en": "She studies a lot because she wants good grades.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "because",
+      "palabras_clave": [
+        "studies",
+        "grades"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f064",
+      "es": "Nosotros vamos al cine y luego a cenar 🎬🍽️",
+      "en": "We are going to the movies and then to dinner.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "movies",
+        "dinner"
+      ],
+      "dificultad": 1,
+      "categoria": "actividades",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f065",
+      "es": "Ella es amable pero a veces es tímida 😊😳",
+      "en": "She is kind but sometimes shy.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "kind",
+        "shy"
+      ],
+      "dificultad": 1,
+      "categoria": "características personales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f066",
+      "es": "Él juega al fútbol porque le gusta mucho ⚽️❤️",
+      "en": "He plays soccer because he likes it a lot.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "because",
+      "palabras_clave": [
+        "plays",
+        "soccer"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f067",
+      "es": "Ella tiene una guitarra y canta muy bien 🎸🎤",
+      "en": "She has a guitar and sings very well.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "guitar",
+        "sings"
+      ],
+      "dificultad": 1,
+      "categoria": "música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f068",
+      "es": "Él es inteligente pero a veces se distrae 🤓😅",
+      "en": "He is smart but sometimes gets distracted.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "smart",
+        "distracted"
+      ],
+      "dificultad": 1,
+      "categoria": "características personales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f069",
+      "es": "Nosotros vamos a la playa porque hace buen tiempo 🏖️☀️",
+      "en": "We are going to the beach because the weather is nice.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "because",
+      "palabras_clave": [
+        "beach",
+        "weather"
+      ],
+      "dificultad": 1,
+      "categoria": "actividades",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f070",
+      "es": "Ella tiene una bicicleta y le gusta andar en ella 🚲❤️",
+      "en": "She has a bicycle and likes to ride it.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "bicycle",
+        "ride"
+      ],
+      "dificultad": 1,
+      "categoria": "transportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f071",
+      "es": "Él es divertido pero a veces es serio 😂😐",
+      "en": "He is funny but sometimes serious.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "funny",
+        "serious"
+      ],
+      "dificultad": 1,
+      "categoria": "características personales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f072",
+      "es": "Nosotros tenemos una mascota porque nos gusta cuidar animales 🐶❤️",
+      "en": "We have a pet because we like taking care of animals.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "because",
+      "palabras_clave": [
+        "pet",
+        "animals"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f073",
+      "es": "Ella tiene un vestido y unos zapatos bonitos 👗👠",
+      "en": "She has a dress and some pretty shoes.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "dress",
+        "shoes"
+      ],
+      "dificultad": 1,
+      "categoria": "ropa",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f074",
+      "es": "Él es rápido pero no siempre gana 🏃‍♂️🏆",
+      "en": "He is fast but does not always win.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "fast",
+        "win"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f075",
+      "es": "Nosotros hacemos un proyecto porque queremos aprender 📊📚",
+      "en": "We are doing a project because we want to learn.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "because",
+      "palabras_clave": [
+        "project",
+        "learn"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f076",
+      "es": "Ella tiene un teléfono y usa redes sociales 📱🌐",
+      "en": "She has a phone and uses social media.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "phone",
+        "social media"
+      ],
+      "dificultad": 1,
+      "categoria": "tecnología",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f077",
+      "es": "Él es creativo pero a veces se siente inseguro 🎨😟",
+      "en": "He is creative but sometimes feels insecure.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "creative",
+        "insecure"
+      ],
+      "dificultad": 1,
+      "categoria": "características personales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f078",
+      "es": "Nosotros jugamos videojuegos porque son divertidos 🎮😄",
+      "en": "We play video games because they are fun.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "because",
+      "palabras_clave": [
+        "video games",
+        "fun"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f079",
+      "es": "Ella tiene una planta y la cuida bien 🌱🌼",
+      "en": "She has a plant and takes good care of it.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "plant",
+        "care"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f080",
+      "es": "Él es amable pero a veces es un poco travieso 😇😜",
+      "en": "He is nice but sometimes a little naughty.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "nice",
+        "naughty"
+      ],
+      "dificultad": 1,
+      "categoria": "características personales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f081",
+      "es": "Ella tiene un libro y una mochila 📚🎒",
+      "en": "She has a book and a backpack.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "book",
+        "backpack"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f082",
+      "es": "Él es alto pero no juega baloncesto 🏀",
+      "en": "He is tall but does not play basketball.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "tall",
+        "basketball"
+      ],
+      "dificultad": 1,
+      "categoria": "características físicas",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f083",
+      "es": "Ella estudia mucho porque quiere buenas notas 📖",
+      "en": "She studies a lot because she wants good grades.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "because",
+      "palabras_clave": [
+        "studies",
+        "grades"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f084",
+      "es": "Nosotros vamos al cine y después a cenar 🎬🍽️",
+      "en": "We are going to the movies and then to dinner.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "movies",
+        "dinner"
+      ],
+      "dificultad": 1,
+      "categoria": "actividades",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f085",
+      "es": "Ella es amable pero a veces es tímida 😊😳",
+      "en": "She is kind but sometimes shy.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "kind",
+        "shy"
+      ],
+      "dificultad": 1,
+      "categoria": "características personales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f086",
+      "es": "Él juega al fútbol porque le gusta mucho ⚽️❤️",
+      "en": "He plays soccer because he likes it a lot.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "because",
+      "palabras_clave": [
+        "plays",
+        "soccer"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f087",
+      "es": "Ella tiene una guitarra y canta muy bien 🎸🎤",
+      "en": "She has a guitar and sings very well.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "guitar",
+        "sings"
+      ],
+      "dificultad": 1,
+      "categoria": "música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f088",
+      "es": "Él es inteligente pero a veces distraído 🤓😵",
+      "en": "He is smart but sometimes distracted.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "smart",
+        "distracted"
+      ],
+      "dificultad": 1,
+      "categoria": "características personales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f089",
+      "es": "Nosotros vamos a la playa porque hace buen tiempo 🏖️☀️",
+      "en": "We are going to the beach because the weather is nice.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "because",
+      "palabras_clave": [
+        "beach",
+        "weather"
+      ],
+      "dificultad": 1,
+      "categoria": "actividades",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f090",
+      "es": "Ella tiene un gato o un perro en casa 🐱🐶",
+      "en": "She has a cat or a dog at home.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "or",
+      "palabras_clave": [
+        "cat",
+        "dog"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f091",
+      "es": "Él corre rápido y salta alto 🏃‍♂️🏆",
+      "en": "He runs fast and jumps high.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "runs",
+        "jumps"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f092",
+      "es": "Ella es creativa pero a veces se siente insegura 🎨😟",
+      "en": "She is creative but sometimes feels insecure.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "creative",
+        "insecure"
+      ],
+      "dificultad": 1,
+      "categoria": "características personales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f093",
+      "es": "Él juega videojuegos porque le gusta competir 🎮🏆",
+      "en": "He plays video games because he likes to compete.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "because",
+      "palabras_clave": [
+        "plays",
+        "video games"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f094",
+      "es": "Nosotros podemos ir al parque o al zoológico 🦁🌳",
+      "en": "We can go to the park or the zoo.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "or",
+      "palabras_clave": [
+        "park",
+        "zoo"
+      ],
+      "dificultad": 1,
+      "categoria": "actividades",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f095",
+      "es": "Ella tiene una bicicleta y le gusta andar en ella 🚲❤️",
+      "en": "She has a bicycle and likes to ride it.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "bicycle",
+        "ride"
+      ],
+      "dificultad": 1,
+      "categoria": "transportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f096",
+      "es": "Él es divertido pero a veces es serio 😂😐",
+      "en": "He is funny but sometimes serious.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "funny",
+        "serious"
+      ],
+      "dificultad": 1,
+      "categoria": "características personales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f097",
+      "es": "Nosotros vamos a la piscina porque hace calor 🏊‍♂️☀️",
+      "en": "We are going to the pool because it is hot.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "because",
+      "palabras_clave": [
+        "pool",
+        "hot"
+      ],
+      "dificultad": 1,
+      "categoria": "actividades",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f098",
+      "es": "Ella tiene un perro o un gato en casa 🐶🐱",
+      "en": "She has a dog or a cat at home.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "or",
+      "palabras_clave": [
+        "dog",
+        "cat"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f099",
+      "es": "Él estudia matemáticas y ciencias en la escuela 📐🔬",
+      "en": "He studies math and science at school.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "math",
+        "science"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f100",
+      "es": "Ella es talentosa pero necesita practicar más 🎤🎶",
+      "en": "She is talented but needs to practice more.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "talented",
+        "practice"
+      ],
+      "dificultad": 1,
+      "categoria": "habilidades",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f101",
+      "es": "Ella tiene un libro y una mochila 📚🎒",
+      "en": "She has a book and a backpack.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "book",
+        "backpack"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f102",
+      "es": "Él es alto pero tímido 🧑‍🦰😶",
+      "en": "He is tall but shy.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "tall",
+        "shy"
+      ],
+      "dificultad": 1,
+      "categoria": "características físicas",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f103",
+      "es": "Ella estudia mucho porque quiere buenas notas 📖✏️",
+      "en": "She studies a lot because she wants good grades.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "because",
+      "palabras_clave": [
+        "studies",
+        "grades"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f104",
+      "es": "Nosotros vamos al cine y luego a cenar 🎬🍽️",
+      "en": "We are going to the movies and then to dinner.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "movies",
+        "dinner"
+      ],
+      "dificultad": 1,
+      "categoria": "actividades",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f105",
+      "es": "Ella es muy inteligente pero a veces perezosa 🧠😴",
+      "en": "She is very smart but sometimes lazy.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "smart",
+        "lazy"
+      ],
+      "dificultad": 1,
+      "categoria": "características personales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f106",
+      "es": "Él juega al fútbol porque le gusta el deporte ⚽️🏃‍♂️",
+      "en": "He plays soccer because he likes the sport.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "because",
+      "palabras_clave": [
+        "plays",
+        "sport"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f107",
+      "es": "Ella tiene un gato o un perro 🐱🐶",
+      "en": "She has a cat or a dog.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "or",
+      "palabras_clave": [
+        "cat",
+        "dog"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f108",
+      "es": "Nosotros vamos a la playa y nadamos en el mar 🏖️🌊",
+      "en": "We go to the beach and swim in the sea.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "beach",
+        "swim"
+      ],
+      "dificultad": 1,
+      "categoria": "vacaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f109",
+      "es": "Él es divertido pero un poco raro 😄🤪",
+      "en": "He is funny but a little weird.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "funny",
+        "weird"
+      ],
+      "dificultad": 1,
+      "categoria": "características personales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f110",
+      "es": "Ella canta bien porque practica todos los días 🎤🎶",
+      "en": "She sings well because she practices every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "because",
+      "palabras_clave": [
+        "sings",
+        "practices"
+      ],
+      "dificultad": 1,
+      "categoria": "música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f112",
+      "es": "Nosotros tenemos un jardín y muchas flores 🌼🌷",
+      "en": "We have a garden and many flowers.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "garden",
+        "flowers"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f113",
+      "es": "Ella es amable pero a veces seria 😊😐",
+      "en": "She is kind but sometimes serious.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "kind",
+        "serious"
+      ],
+      "dificultad": 1,
+      "categoria": "características personales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f114",
+      "es": "Él corre rápido porque quiere ganar la carrera 🏃‍♂️🏆",
+      "en": "He runs fast because he wants to win the race.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "because",
+      "palabras_clave": [
+        "runs",
+        "win"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f115",
+      "es": "Nosotros tenemos una casa y un coche 🚗🏡",
+      "en": "We have a house and a car.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "house",
+        "car"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f116",
+      "es": "Ella es creativa pero a veces desorganizada 🎨🗂️",
+      "en": "She is creative but sometimes disorganized.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "creative",
+        "disorganized"
+      ],
+      "dificultad": 1,
+      "categoria": "características personales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f117",
+      "es": "Él toca la guitarra porque ama la música 🎸❤️",
+      "en": "He plays the guitar because he loves music.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "because",
+      "palabras_clave": [
+        "plays",
+        "music"
+      ],
+      "dificultad": 1,
+      "categoria": "música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f118",
+      "es": "Tú puedes ir al parque o quedarte en casa 🌳🏠",
+      "en": "You can go to the park or stay at home.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "or",
+      "palabras_clave": [
+        "park",
+        "home"
+      ],
+      "dificultad": 1,
+      "categoria": "actividades",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f119",
+      "es": "Nosotros vamos a la montaña y hacemos senderismo 🏔️🥾",
+      "en": "We go to the mountain and hike.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "mountain",
+        "hike"
+      ],
+      "dificultad": 1,
+      "categoria": "naturaleza",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f120",
+      "es": "Ella es simpática pero a veces un poco tímida 😊😳",
+      "en": "She is nice but sometimes a little shy.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "nice",
+        "shy"
+      ],
+      "dificultad": 1,
+      "categoria": "características personales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f121",
+      "es": "Ella tiene una bicicleta y un patinete 🛴🚲",
+      "en": "She has a bicycle and a scooter.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "bicycle",
+        "scooter"
+      ],
+      "dificultad": 1,
+      "categoria": "transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f122",
+      "es": "Él es alto pero no juega baloncesto 🏀",
+      "en": "He is tall but does not play basketball.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "tall",
+        "basketball"
+      ],
+      "dificultad": 1,
+      "categoria": "características físicas",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f123",
+      "es": "Ella estudia mucho porque quiere buenas notas 📚",
+      "en": "She studies a lot because she wants good grades.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "because",
+      "palabras_clave": [
+        "studies",
+        "grades"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f124",
+      "es": "Nos gusta el helado, así que lo compramos 🍦",
+      "en": "We like ice cream, so we buy it.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "so",
+      "palabras_clave": [
+        "ice cream",
+        "buy"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f125",
+      "es": "Puedes elegir pizza o hamburguesa 🍕🍔",
+      "en": "You can choose pizza or hamburger.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "or",
+      "palabras_clave": [
+        "pizza",
+        "hamburger"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f126",
+      "es": "Ella tiene un gato y un pez 🐱🐟",
+      "en": "She has a cat and a fish.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "cat",
+        "fish"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f127",
+      "es": "Él es divertido pero a veces serio 😂😐",
+      "en": "He is funny but sometimes serious.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "funny",
+        "serious"
+      ],
+      "dificultad": 1,
+      "categoria": "características personales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f128",
+      "es": "Ella corre rápido porque quiere ganar 🏃‍♀️🏆",
+      "en": "She runs fast because she wants to win.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "because",
+      "palabras_clave": [
+        "runs",
+        "win"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f129",
+      "es": "Me gusta el chocolate, así que lo como a menudo 🍫",
+      "en": "I like chocolate, so I eat it often.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "so",
+      "palabras_clave": [
+        "chocolate",
+        "eat"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f130",
+      "es": "Puedes jugar videojuegos o leer un libro 🎮📖",
+      "en": "You can play video games or read a book.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "or",
+      "palabras_clave": [
+        "video games",
+        "book"
+      ],
+      "dificultad": 1,
+      "categoria": "ocio",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f131",
+      "es": "Ella tiene un hermano y una hermana 👩‍❤️‍👨",
+      "en": "She has a brother and a sister.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "brother",
+        "sister"
+      ],
+      "dificultad": 1,
+      "categoria": "familia",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f132",
+      "es": "Él es amable pero a veces tímido 😊😳",
+      "en": "He is kind but sometimes shy.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "kind",
+        "shy"
+      ],
+      "dificultad": 1,
+      "categoria": "características personales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f133",
+      "es": "Ella juega al fútbol porque le gusta mucho ⚽️❤️",
+      "en": "She plays soccer because she likes it a lot.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "because",
+      "palabras_clave": [
+        "plays",
+        "soccer"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f134",
+      "es": "Nos gusta ir al cine, así que vamos este fin de semana 🎬🍿",
+      "en": "We like going to the movies, so we are going this weekend.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "so",
+      "palabras_clave": [
+        "movies",
+        "going"
+      ],
+      "dificultad": 1,
+      "categoria": "ocio",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f135",
+      "es": "Puedes tomar agua o jugo 🥤💧",
+      "en": "You can have water or juice.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "or",
+      "palabras_clave": [
+        "water",
+        "juice"
+      ],
+      "dificultad": 1,
+      "categoria": "bebidas",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f136",
+      "es": "Ella tiene un vestido y unos zapatos 👗👠",
+      "en": "She has a dress and some shoes.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "dress",
+        "shoes"
+      ],
+      "dificultad": 1,
+      "categoria": "ropa",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f137",
+      "es": "Él es inteligente pero a veces perezoso 🤓😴",
+      "en": "He is smart but sometimes lazy.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "smart",
+        "lazy"
+      ],
+      "dificultad": 1,
+      "categoria": "características personales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f138",
+      "es": "Ella canta bien porque practica todos los días 🎤🎶",
+      "en": "She sings well because she practices every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "because",
+      "palabras_clave": [
+        "sings",
+        "practices"
+      ],
+      "dificultad": 1,
+      "categoria": "arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f139",
+      "es": "Nos gusta la playa, así que vamos en verano 🏖️☀️",
+      "en": "We like the beach, so we go in summer.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "so",
+      "palabras_clave": [
+        "beach",
+        "go"
+      ],
+      "dificultad": 1,
+      "categoria": "ocio",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f140",
+      "es": "Puedes ver una película o un programa de televisión 📺🎥",
+      "en": "You can watch a movie or a TV show.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "or",
+      "palabras_clave": [
+        "movie",
+        "TV show"
+      ],
+      "dificultad": 1,
+      "categoria": "ocio",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f141",
+      "es": "Ella tiene una bicicleta y un patinete 🛴🚲",
+      "en": "She has a bicycle and a scooter.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "bicycle",
+        "scooter"
+      ],
+      "dificultad": 1,
+      "categoria": "transportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f142",
+      "es": "Él es alto pero no juega baloncesto 🏀",
+      "en": "He is tall but does not play basketball.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "tall",
+        "basketball"
+      ],
+      "dificultad": 1,
+      "categoria": "características físicas",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f143",
+      "es": "Ella estudia mucho porque quiere buenas notas 📚",
+      "en": "She studies a lot because she wants good grades.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "because",
+      "palabras_clave": [
+        "studies",
+        "grades"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f144",
+      "es": "Nos gusta el helado, así que vamos a la heladería 🍦",
+      "en": "We like ice cream, so we are going to the ice cream shop.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "so",
+      "palabras_clave": [
+        "ice cream",
+        "shop"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f145",
+      "es": "¿Quieres pizza o hamburguesa? 🍕🍔",
+      "en": "Do you want pizza or a hamburger?",
+      "tipo": "afirmativa",
+      "variante_gramatical": "or",
+      "palabras_clave": [
+        "pizza",
+        "hamburger"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f146",
+      "es": "Ella tiene un gato y un pez 🐱🐟",
+      "en": "She has a cat and a fish.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "cat",
+        "fish"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f147",
+      "es": "Él es inteligente pero a veces perezoso 🤓😴",
+      "en": "He is smart but sometimes lazy.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "smart",
+        "lazy"
+      ],
+      "dificultad": 1,
+      "categoria": "características personales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f148",
+      "es": "Ella está emocionada porque va a un concierto 🎶",
+      "en": "She is excited because she is going to a concert.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "because",
+      "palabras_clave": [
+        "excited",
+        "concert"
+      ],
+      "dificultad": 1,
+      "categoria": "emociones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f149",
+      "es": "Él juega al fútbol, así que es muy activo ⚽",
+      "en": "He plays soccer, so he is very active.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "so",
+      "palabras_clave": [
+        "soccer",
+        "active"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f150",
+      "es": "¿Prefieres té o café? ☕🍵",
+      "en": "Do you prefer tea or coffee?",
+      "tipo": "afirmativa",
+      "variante_gramatical": "or",
+      "palabras_clave": [
+        "tea",
+        "coffee"
+      ],
+      "dificultad": 1,
+      "categoria": "bebidas",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f151",
+      "es": "Ella tiene una hermana y un hermano 👧👦",
+      "en": "She has a sister and a brother.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "sister",
+        "brother"
+      ],
+      "dificultad": 1,
+      "categoria": "familia",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f152",
+      "es": "Él es divertido pero a veces serio 😄😐",
+      "en": "He is funny but sometimes serious.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "funny",
+        "serious"
+      ],
+      "dificultad": 1,
+      "categoria": "características personales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f153",
+      "es": "Ella corre rápido porque entrena todos los días 🏃‍♀️💨",
+      "en": "She runs fast because she trains every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "because",
+      "palabras_clave": [
+        "runs",
+        "trains"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f154",
+      "es": "Nos gusta el cine, así que vamos a ver una película 🎬",
+      "en": "We like the cinema, so we are going to watch a movie.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "so",
+      "palabras_clave": [
+        "cinema",
+        "movie"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f156",
+      "es": "Ella tiene un libro y una revista 📖📚",
+      "en": "She has a book and a magazine.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "book",
+        "magazine"
+      ],
+      "dificultad": 1,
+      "categoria": "lectura",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f157",
+      "es": "Él es amable pero a veces tímido 😊😳",
+      "en": "He is kind but sometimes shy.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "kind",
+        "shy"
+      ],
+      "dificultad": 1,
+      "categoria": "características personales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f158",
+      "es": "Ella juega al piano porque le gusta la música 🎹🎶",
+      "en": "She plays the piano because she likes music.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "because",
+      "palabras_clave": [
+        "plays",
+        "music"
+      ],
+      "dificultad": 1,
+      "categoria": "música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f159",
+      "es": "Nos encanta la playa, así que vamos cada verano 🏖️☀️",
+      "en": "We love the beach, so we go every summer.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "so",
+      "palabras_clave": [
+        "beach",
+        "summer"
+      ],
+      "dificultad": 1,
+      "categoria": "vacaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f160",
+      "es": "¿Prefieres chocolate o vainilla? 🍫🍦",
+      "en": "Do you prefer chocolate or vanilla?",
+      "tipo": "afirmativa",
+      "variante_gramatical": "or",
+      "palabras_clave": [
+        "chocolate",
+        "vanilla"
+      ],
+      "dificultad": 1,
+      "categoria": "sabores",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f161",
+      "es": "Ella tiene un libro y una mochila 📚🎒",
+      "en": "She has a book and a backpack.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "book",
+        "backpack"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f162",
+      "es": "Él es alto pero no juega baloncesto 🏀",
+      "en": "He is tall but does not play basketball.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "tall",
+        "basketball"
+      ],
+      "dificultad": 1,
+      "categoria": "características físicas",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f163",
+      "es": "Ella estudia mucho porque quiere buenas notas 📖",
+      "en": "She studies a lot because she wants good grades.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "because",
+      "palabras_clave": [
+        "studies",
+        "grades"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f164",
+      "es": "Nosotros vamos al cine y luego a cenar 🎬🍽️",
+      "en": "We are going to the movies and then to dinner.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "movies",
+        "dinner"
+      ],
+      "dificultad": 1,
+      "categoria": "actividades",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f165",
+      "es": "Ella es amable pero a veces es tímida 😊😶",
+      "en": "She is kind but sometimes shy.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "kind",
+        "shy"
+      ],
+      "dificultad": 1,
+      "categoria": "características personales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f166",
+      "es": "Él juega al fútbol porque le gusta el deporte ⚽️",
+      "en": "He plays soccer because he likes sports.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "because",
+      "palabras_clave": [
+        "plays",
+        "sports"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f167",
+      "es": "Ella tiene un gato y un pez 🐱🐟",
+      "en": "She has a cat and a fish.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "cat",
+        "fish"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f168",
+      "es": "Él es inteligente pero a veces distraído 🧠😵",
+      "en": "He is smart but sometimes distracted.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "smart",
+        "distracted"
+      ],
+      "dificultad": 1,
+      "categoria": "características personales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f169",
+      "es": "Nosotros vamos a la playa porque hace calor 🏖️☀️",
+      "en": "We go to the beach because it is hot.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "because",
+      "palabras_clave": [
+        "beach",
+        "hot"
+      ],
+      "dificultad": 1,
+      "categoria": "clima",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f170",
+      "es": "Ella toca la guitarra y canta 🎸🎤",
+      "en": "She plays the guitar and sings.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "guitar",
+        "sings"
+      ],
+      "dificultad": 1,
+      "categoria": "música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f171",
+      "es": "Él es divertido pero a veces serio 😂😐",
+      "en": "He is funny but sometimes serious.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "funny",
+        "serious"
+      ],
+      "dificultad": 1,
+      "categoria": "características personales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f172",
+      "es": "Ella corre rápido porque quiere ganar 🏃‍♀️🏆",
+      "en": "She runs fast because she wants to win.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "because",
+      "palabras_clave": [
+        "runs",
+        "win"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f173",
+      "es": "Nosotros tenemos una casa y un jardín 🏡🌻",
+      "en": "We have a house and a garden.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "house",
+        "garden"
+      ],
+      "dificultad": 1,
+      "categoria": "hogar",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f174",
+      "es": "Él es amable pero un poco tímido 😊😳",
+      "en": "He is nice but a little shy.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "nice",
+        "shy"
+      ],
+      "dificultad": 1,
+      "categoria": "características personales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f175",
+      "es": "Ella juega con sus amigos porque le gusta socializar 👫🎉",
+      "en": "She plays with her friends because she likes to socialize.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "because",
+      "palabras_clave": [
+        "plays",
+        "friends"
+      ],
+      "dificultad": 1,
+      "categoria": "social",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f176",
+      "es": "Nosotros tenemos un perro y un loro 🐶🦜",
+      "en": "We have a dog and a parrot.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "dog",
+        "parrot"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f177",
+      "es": "Él es fuerte pero no le gusta pelear 💪✋",
+      "en": "He is strong but does not like to fight.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "strong",
+        "fight"
+      ],
+      "dificultad": 1,
+      "categoria": "características personales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f178",
+      "es": "Ella pinta cuadros porque le gusta el arte 🎨🖼️",
+      "en": "She paints pictures because she likes art.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "because",
+      "palabras_clave": [
+        "paints",
+        "art"
+      ],
+      "dificultad": 1,
+      "categoria": "arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f179",
+      "es": "Nosotros vamos al parque y jugamos allí 🌳🏞️",
+      "en": "We go to the park and play there.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "park",
+        "play"
+      ],
+      "dificultad": 1,
+      "categoria": "actividades",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f180",
+      "es": "Él es un buen amigo porque siempre ayuda 🤝❤️",
+      "en": "He is a good friend because he always helps.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "because",
+      "palabras_clave": [
+        "good",
+        "helps"
+      ],
+      "dificultad": 1,
+      "categoria": "relaciones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f181",
+      "es": "Ella tiene un libro y una mochila 📚🎒",
+      "en": "She has a book and a backpack.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "book",
+        "backpack"
+      ],
+      "dificultad": 1,
+      "categoria": "objetos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f182",
+      "es": "Él es alto pero no juega baloncesto 🏀",
+      "en": "He is tall but does not play basketball.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "tall",
+        "basketball"
+      ],
+      "dificultad": 1,
+      "categoria": "características físicas",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f183",
+      "es": "Ella estudia mucho porque quiere buenas notas 📖",
+      "en": "She studies a lot because she wants good grades.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "because",
+      "palabras_clave": [
+        "studies",
+        "grades"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f184",
+      "es": "Nosotros vamos al cine y luego a cenar 🎬🍽️",
+      "en": "We are going to the movies and then to dinner.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "movies",
+        "dinner"
+      ],
+      "dificultad": 1,
+      "categoria": "actividades",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f185",
+      "es": "Ella es amable pero a veces es tímida 😊😶",
+      "en": "She is kind but sometimes shy.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "kind",
+        "shy"
+      ],
+      "dificultad": 1,
+      "categoria": "características personales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f186",
+      "es": "Él corre rápido porque quiere ganar la carrera 🏃‍♂️🏆",
+      "en": "He runs fast because he wants to win the race.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "because",
+      "palabras_clave": [
+        "runs",
+        "race"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f187",
+      "es": "Ella tiene un gato o un perro 🐱🐶",
+      "en": "She has a cat or a dog.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "or",
+      "palabras_clave": [
+        "cat",
+        "dog"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f188",
+      "es": "Nosotros jugamos en el parque y hacemos un picnic 🌳🍉",
+      "en": "We play in the park and have a picnic.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "play",
+        "picnic"
+      ],
+      "dificultad": 1,
+      "categoria": "actividades",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f189",
+      "es": "Él es inteligente pero a veces distraído 🤓😵",
+      "en": "He is smart but sometimes distracted.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "smart",
+        "distracted"
+      ],
+      "dificultad": 1,
+      "categoria": "características personales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f190",
+      "es": "Ella canta bien porque practica todos los días 🎤🎶",
+      "en": "She sings well because she practices every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "because",
+      "palabras_clave": [
+        "sings",
+        "practices"
+      ],
+      "dificultad": 1,
+      "categoria": "arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f191",
+      "es": "Él quiere pizza o hamburguesa 🍕🍔",
+      "en": "He wants pizza or a hamburger.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "or",
+      "palabras_clave": [
+        "pizza",
+        "hamburger"
+      ],
+      "dificultad": 1,
+      "categoria": "comida",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f192",
+      "es": "Nosotros tenemos clases de arte y música 🎨🎵",
+      "en": "We have art and music classes.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "art",
+        "music"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f193",
+      "es": "Ella es divertida pero a veces un poco loca 😂🤪",
+      "en": "She is funny but sometimes a bit crazy.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "funny",
+        "crazy"
+      ],
+      "dificultad": 1,
+      "categoria": "características personales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f194",
+      "es": "Él juega videojuegos porque le gusta competir 🎮🏆",
+      "en": "He plays video games because he likes to compete.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "because",
+      "palabras_clave": [
+        "plays",
+        "compete"
+      ],
+      "dificultad": 1,
+      "categoria": "entretenimiento",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f195",
+      "es": "Nosotros vamos a la playa o a la montaña 🏖️⛰️",
+      "en": "We go to the beach or the mountains.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "or",
+      "palabras_clave": [
+        "beach",
+        "mountains"
+      ],
+      "dificultad": 1,
+      "categoria": "viajes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f196",
+      "es": "Ella tiene una bicicleta y un patinete 🚲🛴",
+      "en": "She has a bicycle and a scooter.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "bicycle",
+        "scooter"
+      ],
+      "dificultad": 1,
+      "categoria": "transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f197",
+      "es": "Él es fuerte pero no le gusta pelear 💪✋",
+      "en": "He is strong but does not like to fight.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "strong",
+        "fight"
+      ],
+      "dificultad": 1,
+      "categoria": "características personales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f198",
+      "es": "Ella tiene un talento especial porque practica mucho 🌟🎨",
+      "en": "She has a special talent because she practices a lot.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "because",
+      "palabras_clave": [
+        "talent",
+        "practices"
+      ],
+      "dificultad": 1,
+      "categoria": "habilidades",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f199",
+      "es": "Nosotros tenemos una fiesta o un picnic este fin de semana 🎉🍔",
+      "en": "We have a party or a picnic this weekend.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "or",
+      "palabras_clave": [
+        "party",
+        "picnic"
+      ],
+      "dificultad": 1,
+      "categoria": "eventos",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f200",
+      "es": "Él toca la guitarra y canta en la escuela 🎸🎤",
+      "en": "He plays the guitar and sings at school.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "guitar",
+        "sings"
+      ],
+      "dificultad": 1,
+      "categoria": "arte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f201",
+      "es": "Ella juega al fútbol y al baloncesto ⚽🏀",
+      "en": "She plays soccer and basketball.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "soccer",
+        "basketball"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f202",
+      "es": "Él es alto pero no muy rápido 🏃‍♂️",
+      "en": "He is tall but not very fast.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "tall",
+        "fast"
+      ],
+      "dificultad": 1,
+      "categoria": "características físicas",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f203",
+      "es": "Ella estudia mucho porque quiere buenas notas 📚",
+      "en": "She studies a lot because she wants good grades.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "because",
+      "palabras_clave": [
+        "studies",
+        "grades"
+      ],
+      "dificultad": 1,
+      "categoria": "educación",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f204",
+      "es": "Nosotros vamos al cine y luego a cenar 🎬🍽️",
+      "en": "We are going to the movies and then to dinner.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "movies",
+        "dinner"
+      ],
+      "dificultad": 1,
+      "categoria": "ocio",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f205",
+      "es": "Ella es amable pero a veces tímida 😊😶",
+      "en": "She is kind but sometimes shy.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "kind",
+        "shy"
+      ],
+      "dificultad": 1,
+      "categoria": "características personales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f206",
+      "es": "Él se siente feliz porque tiene muchos amigos 😄👫",
+      "en": "He feels happy because he has many friends.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "because",
+      "palabras_clave": [
+        "happy",
+        "friends"
+      ],
+      "dificultad": 1,
+      "categoria": "emociones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f207",
+      "es": "Ella tiene un libro y una revista 📖📰",
+      "en": "She has a book and a magazine.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "book",
+        "magazine"
+      ],
+      "dificultad": 1,
+      "categoria": "lectura",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f208",
+      "es": "Él es inteligente pero a veces perezoso 🤓😴",
+      "en": "He is smart but sometimes lazy.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "smart",
+        "lazy"
+      ],
+      "dificultad": 1,
+      "categoria": "características personales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f209",
+      "es": "Nosotros vamos a la playa porque hace buen tiempo 🏖️☀️",
+      "en": "We are going to the beach because the weather is nice.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "because",
+      "palabras_clave": [
+        "beach",
+        "weather"
+      ],
+      "dificultad": 1,
+      "categoria": "ocio",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f210",
+      "es": "Ella toca la guitarra y canta 🎸🎤",
+      "en": "She plays the guitar and sings.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "guitar",
+        "sings"
+      ],
+      "dificultad": 1,
+      "categoria": "música",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f211",
+      "es": "Él es fuerte pero no muy rápido 💪🏃‍♂️",
+      "en": "He is strong but not very fast.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "strong",
+        "fast"
+      ],
+      "dificultad": 1,
+      "categoria": "características físicas",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f212",
+      "es": "Ella está emocionada porque va a un concierto 🎉🎶",
+      "en": "She is excited because she is going to a concert.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "because",
+      "palabras_clave": [
+        "excited",
+        "concert"
+      ],
+      "dificultad": 1,
+      "categoria": "emociones",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f213",
+      "es": "Nosotros tenemos una casa y un jardín 🏡🌳",
+      "en": "We have a house and a garden.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "house",
+        "garden"
+      ],
+      "dificultad": 1,
+      "categoria": "hogar",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f214",
+      "es": "Él es divertido pero a veces serio 😂😐",
+      "en": "He is funny but sometimes serious.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "funny",
+        "serious"
+      ],
+      "dificultad": 1,
+      "categoria": "características personales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f215",
+      "es": "Ella corre rápido porque entrena todos los días 🏃‍♀️🏅",
+      "en": "She runs fast because she trains every day.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "because",
+      "palabras_clave": [
+        "runs",
+        "trains"
+      ],
+      "dificultad": 1,
+      "categoria": "deportes",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f216",
+      "es": "Nosotros vamos a la piscina y luego a comer 🏊‍♂️🍔",
+      "en": "We are going to the pool and then to eat.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "pool",
+        "eat"
+      ],
+      "dificultad": 1,
+      "categoria": "ocio",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f217",
+      "es": "Él es amable pero a veces un poco tímido 😊😳",
+      "en": "He is kind but sometimes a little shy.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "kind",
+        "shy"
+      ],
+      "dificultad": 1,
+      "categoria": "características personales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f218",
+      "es": "Ella tiene un coche nuevo porque ahorró dinero 🚗💰",
+      "en": "She has a new car because she saved money.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "because",
+      "palabras_clave": [
+        "new car",
+        "saved"
+      ],
+      "dificultad": 1,
+      "categoria": "transporte",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f219",
+      "es": "Nosotros tenemos una mascota y un pez 🐶🐟",
+      "en": "We have a pet and a fish.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "and",
+      "palabras_clave": [
+        "pet",
+        "fish"
+      ],
+      "dificultad": 1,
+      "categoria": "animales",
+      "usada": false,
+      "fecha_uso": null
+    },
+    {
+      "id": "n17_f220",
+      "es": "Él es creativo pero a veces desorganizado 🎨🗂️",
+      "en": "He is creative but sometimes disorganized.",
+      "tipo": "afirmativa",
+      "variante_gramatical": "but",
+      "palabras_clave": [
+        "creative",
+        "disorganized"
+      ],
+      "dificultad": 1,
+      "categoria": "características personales",
+      "usada": false,
+      "fecha_uso": null
+    }
+  ]
+}
