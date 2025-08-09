@@ -28,6 +28,48 @@
     .speak{cursor:pointer;margin-left:.4rem}
     #dict-box{column-count:4;column-gap:1rem}
     #clear-dict{background:#e35353}
+    /* Botón de tema flotante */
+    #theme-btn {
+      position: fixed;
+      top: 18px;
+      right: 70px; /* separado del botón de ayuda */
+      z-index: 2000;
+      background: var(--surface);
+      color: var(--primary);
+      border: none;
+      border-radius: 50%;
+      width: 38px;
+      height: 38px;
+      font-size: 1.3rem;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.18);
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.2s;
+      pointer-events: auto;
+    }
+    #theme-btn:hover { background: var(--primary); color: var(--surface); }
+    /* Popover de tema */
+    #theme-popover {
+      position: fixed;
+      top: 62px;
+      right: 18px;
+      z-index: 2100;
+      background: var(--surface);
+      color: var(--text);
+      border-radius: var(--rad);
+      box-shadow: 0 8px 24px rgba(0,0,0,0.35);
+      padding: .75rem;
+      width: 220px;
+      font-size: .95rem;
+    }
+    #theme-popover h4 { margin: 0 0 .5rem 0; color: var(--primary); font-size: 1rem; }
+    .theme-option { display: flex; align-items: center; gap: .5rem; padding: .4rem .35rem; border-radius: 8px; cursor: pointer; }
+    .theme-option:hover { background: rgba(255,255,255,0.06); }
+    .theme-dot { width: 18px; height: 18px; border-radius: 50%; border: 2px solid rgba(0,0,0,.15); box-shadow: inset 0 0 0 2px rgba(255,255,255,.3); }
+    .theme-label { flex: 1; }
+    .theme-active { outline: 2px solid var(--primary); }
     /* Ayuda flotante */
     #help-btn {
       position: fixed;
@@ -115,6 +157,8 @@
         height: 44px;
         font-size: 1.7rem;
       }
+      #theme-btn { top: 10px; right: 62px; width: 44px; height: 44px; font-size: 1.6rem; }
+      #theme-popover { top: 60px; right: 10px; width: calc(95vw - 20px); }
       #help-modal button.close-help {
         top: 10px;
         right: 10px;
@@ -137,7 +181,7 @@
 <section>
   <h2>Chat con tu profesor virtual</h2>
   <div id="chat-box"></div>
-  <input id="chat-input" placeholder="Escribe tu pregunta…" style="width:100%;padding:.5rem;border-radius:var(--rad);border:none">
+  <input id="chat-input" placeholder="Escribe tu pregunta…" style="width:100%;padding:.5rem;border-radius:var(--rad);border:1px solid var(--primary);background:var(--surface);color:var(--text)">
   <button id="chat-send">Enviar</button>
 </section>
 
@@ -198,6 +242,28 @@
 
 <!-- Botón de ayuda flotante -->
 <button id="help-btn" title="¿Cómo funciona?" onclick="openHelpModal(event)" ontouchend="openHelpModal(event)">?</button>
+  <!-- Botón de tema flotante -->
+  <button id="theme-btn" title="Tema de colores" aria-haspopup="true" aria-expanded="false">🎨</button>
+  <!-- Popover selección de tema -->
+  <div id="theme-popover" class="hidden" role="menu" aria-label="Seleccionar tema">
+    <h4>Tema de colores</h4>
+    <div class="theme-option" data-theme="dark" role="menuitem">
+      <span class="theme-dot" style="background:#121212;border-color:#666"></span>
+      <span class="theme-label">Modo oscuro</span>
+    </div>
+    <div class="theme-option" data-theme="red" role="menuitem">
+      <span class="theme-dot" style="background:#ff8a80"></span>
+      <span class="theme-label">Rojo</span>
+    </div>
+    <div class="theme-option" data-theme="green" role="menuitem">
+      <span class="theme-dot" style="background:#a5d6a7"></span>
+      <span class="theme-label">Verde</span>
+    </div>
+    <div class="theme-option" data-theme="blue" role="menuitem">
+      <span class="theme-dot" style="background:#90caf9"></span>
+      <span class="theme-label">Azul</span>
+    </div>
+  </div>
 <!-- Modal de ayuda (mover justo antes de </body>) -->
 <div id="help-modal" role="dialog" aria-modal="true" aria-labelledby="help-title">
   <button class="close-help" title="Cerrar ayuda">&times;</button>
@@ -233,7 +299,41 @@ function logEvent(action, details='') {
 const DICT_KEY='curso_ingles_diccionario';
 const ENDPOINT='/.netlify/functions/openai';
 const TTS_ENDPOINT='/.netlify/functions/tts';
-const LEVEL_KEY = 'curso_ingles_nivel';
+  const LEVEL_KEY = 'curso_ingles_nivel';
+  const THEME_KEY = 'curso_ingles_tema';
+
+  // Temas disponibles: definen las variables CSS base
+  const THEMES = {
+    dark: { bg:'#121212', surface:'#1e1e1e', text:'#e0e0e0', primary:'#bb86fc', accent:'#03dac6' },
+    red:  { bg:'#fff7f7', surface:'#ffffff', text:'#222222', primary:'#ff8a80', accent:'#ff5252' },
+    green:{ bg:'#f7fff9', surface:'#ffffff', text:'#222222', primary:'#a5d6a7', accent:'#66bb6a' },
+    blue: { bg:'#f7fbff', surface:'#ffffff', text:'#222222', primary:'#90caf9', accent:'#42a5f5' }
+  };
+
+  function applyTheme(themeName){
+    const t = THEMES[themeName] || THEMES.dark;
+    const root = document.documentElement;
+    root.style.setProperty('--bg', t.bg);
+    root.style.setProperty('--surface', t.surface);
+    root.style.setProperty('--text', t.text);
+    root.style.setProperty('--primary', t.primary);
+    root.style.setProperty('--accent', t.accent);
+    // Marcar activo en popover si existe
+    const opts = document.querySelectorAll('#theme-popover .theme-option');
+    opts.forEach(o=>{
+      if(o.dataset.theme===themeName){ o.classList.add('theme-active'); }
+      else { o.classList.remove('theme-active'); }
+    });
+    // Actualizar aria-expanded del botón
+    const themeBtn = document.getElementById('theme-btn');
+    if(themeBtn) themeBtn.setAttribute('aria-expanded', !document.getElementById('theme-popover').classList.contains('hidden'));
+  }
+
+  // Aplicar tema guardado al cargar
+  (function(){
+    const saved = localStorage.getItem(THEME_KEY) || 'dark';
+    applyTheme(saved);
+  })();
 
 // === NUEVO: para modo automático ===
 const SESSIONS_KEY = 'curso_ingles_sesiones';   // guardará cada lección completa
@@ -898,6 +998,13 @@ document.addEventListener('click',e=>{
     e.target.nextElementSibling.classList.toggle('hidden');
     logEvent('click_boton', 'Mostrar solución');
   }
+    // Cerrar popover de tema si se hace click fuera
+    const pop = document.getElementById('theme-popover');
+    const btn = document.getElementById('theme-btn');
+    if(pop && !pop.classList.contains('hidden')){
+      const clickedInside = pop.contains(e.target) || btn.contains(e.target);
+      if(!clickedInside){ pop.classList.add('hidden'); btn.setAttribute('aria-expanded','false'); }
+    }
 });
 
 /* ---------- flujo principal ---------- */
@@ -1233,6 +1340,29 @@ if(helpModal) {
   document.addEventListener('keydown', function(e) {
     if(helpModal.classList.contains('visible') && e.key === 'Escape') helpModal.classList.remove('visible');
   });
+
+  // --- Tema: listeners ---
+  (function initThemeUI(){
+    const btn = document.getElementById('theme-btn');
+    const pop = document.getElementById('theme-popover');
+    if(!btn || !pop) return;
+    btn.addEventListener('click', function(e){
+      e.preventDefault(); e.stopPropagation();
+      const isHidden = pop.classList.contains('hidden');
+      pop.classList.toggle('hidden');
+      btn.setAttribute('aria-expanded', String(!isHidden));
+    });
+    pop.addEventListener('click', function(e){
+      const opt = e.target.closest('.theme-option');
+      if(!opt) return;
+      const themeName = opt.dataset.theme;
+      localStorage.setItem(THEME_KEY, themeName);
+      applyTheme(themeName);
+      pop.classList.add('hidden');
+      btn.setAttribute('aria-expanded', 'false');
+      logEvent('tema_cambiado', themeName);
+    });
+  })();
 }
 // ---------- Utilidad: formatear texto del asistente con saltos de línea ----------
 function formatAssistantText(text){
