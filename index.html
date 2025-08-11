@@ -174,9 +174,36 @@
 <p id="status"></p>
 <p id="debug-status" style="color:var(--accent);margin-top:0.5rem;font-size:0.9rem;"></p>
 
-<section><h2>Vocabulario</h2><p class="note">Copia 10&nbsp;veces cada palabra en tu cuaderno para aprenderlas.</p><div id="vocab-list"></div></section>
-<section><h2>Ejercicios</h2><p class="note">Traduce al inglés en tu cuaderno y, si encuentras palabras que no conoces, cópialas diez veces para aprenderlas.</p><div id="grammar-explanation" style="background:var(--surface);padding:1rem;border-radius:var(--rad);margin-bottom:1rem;border-left:4px solid var(--primary);"></div><div id="exercise-list"></div></section>
-<section><h2>Repaso</h2><p class="note">Traduce estas palabras al inglés en tu cuaderno y, si alguna no te la sabes, cópiala diez veces para aprenderla.</p><div id="review-list"></div></section>
+<section>
+  <h2 style="margin-bottom:0">
+    <button id="toggle-vocab" style="all:unset;cursor:pointer;color:var(--primary)">▸ Vocabulario</button>
+  </h2>
+  <div id="vocab-content" class="hidden" style="margin-top:.5rem">
+    <p class="note">Copia 10 veces cada palabra en tu cuaderno para aprenderlas.</p>
+    <div id="vocab-list"></div>
+  </div>
+ </section>
+
+<section>
+  <h2 style="margin-bottom:0">
+    <button id="toggle-exercises" style="all:unset;cursor:pointer;color:var(--primary)">▸ Ejercicios</button>
+  </h2>
+  <div id="exercises-content" class="hidden" style="margin-top:.5rem">
+    <p class="note">Traduce al inglés en tu cuaderno y, si encuentras palabras que no conoces, cópialas diez veces para aprenderlas.</p>
+    <div id="grammar-explanation" style="background:var(--surface);padding:1rem;border-radius:var(--rad);margin-bottom:1rem;border-left:4px solid var(--primary);"></div>
+    <div id="exercise-list"></div>
+  </div>
+</section>
+
+<section>
+  <h2 style="margin-bottom:0">
+    <button id="toggle-review" style="all:unset;cursor:pointer;color:var(--primary)">▸ Repaso</button>
+  </h2>
+  <div id="review-content" class="hidden" style="margin-top:.5rem">
+    <p class="note">Traduce estas palabras al inglés en tu cuaderno y, si alguna no te la sabes, cópiala diez veces para aprenderla.</p>
+    <div id="review-list"></div>
+  </div>
+</section>
 
 <section>
   <h2>Chat con tu profesor virtual</h2>
@@ -299,8 +326,13 @@ function logEvent(action, details='') {
 const DICT_KEY='curso_ingles_diccionario';
 const ENDPOINT='/.netlify/functions/openai';
 const TTS_ENDPOINT='/.netlify/functions/tts';
-  const LEVEL_KEY = 'curso_ingles_nivel';
+const LEVEL_KEY = 'curso_ingles_nivel';
   const THEME_KEY = 'curso_ingles_tema';
+  // Claves para el estado de las secciones desplegables
+  const VOCAB_SECTION_KEY = 'curso_ingles_vocab_section';
+  const EXERCISES_SECTION_KEY = 'curso_ingles_exercises_section';
+  const REVIEW_SECTION_KEY = 'curso_ingles_review_section';
+  const ABOUT_SECTION_KEY = 'curso_ingles_about_section';
 
   // Temas disponibles: definen las variables CSS base
   const THEMES = {
@@ -880,8 +912,20 @@ async function fetchLesson(words, isDebugMode = false, debugInfo = ''){
   // Generar explicación gramatical (con manejo de errores)
   let grammarExplanation = '';
   try {
-    const grammarExplanationPrompt = `Explica brevemente (1-2 líneas) la gramática del nivel ${nivel}: "${levels[nivel-1].descripcion}" para un estudiante de 10-11 años.`;
-    grammarExplanation = await askOpenAI(grammarExplanationPrompt);
+    // Intentar cargar desde archivo pre-generado
+    const resp = await fetch('data/explicaciones_gramatica.json');
+    if (resp.ok) {
+      const expData = await resp.json();
+      const pieza = expData.niveles?.find(x => x.nivel === nivel);
+      if (pieza && pieza.explicacion) {
+        grammarExplanation = pieza.explicacion;
+      }
+    }
+    // Fallback a API si no hay archivo o no hay entrada
+    if (!grammarExplanation) {
+      const grammarExplanationPrompt = `Explica brevemente (1-2 líneas) la gramática del nivel ${nivel}: "${levels[nivel-1].descripcion}" para un estudiante de 10-11 años.`;
+      grammarExplanation = await askOpenAI(grammarExplanationPrompt);
+    }
   } catch (e) {
     console.error('Error generando explicación gramatical:', e);
     grammarExplanation = `Gramática del nivel ${nivel}: ${levels[nivel-1].descripcion}`;
@@ -1004,7 +1048,7 @@ document.addEventListener('click',e=>{
     if(pop && !pop.classList.contains('hidden')){
       const clickedInside = pop.contains(e.target) || btn.contains(e.target);
       if(!clickedInside){ pop.classList.add('hidden'); btn.setAttribute('aria-expanded','false'); }
-    }
+  }
 });
 
 /* ---------- flujo principal ---------- */
@@ -1052,7 +1096,7 @@ async function generate(isDebugMode = false){
       setStatus('❌ Error en generación - Continuando...');
       throw e;
     } else {
-      setStatus('Cargando página…');
+    setStatus('Cargando página…');
       setTimeout(() => location.reload(), 2000);
       throw e;
     }
@@ -1135,6 +1179,7 @@ window.addEventListener('load',()=>{
         document.querySelectorAll('.item span:not(.hidden)').forEach(el=>el.classList.add('hidden'));
         dictBox.classList.add('hidden'); btnClear.classList.add('hidden'); btnShow.textContent='Ver diccionario completo';
         aboutText.classList.add('hidden'); toggleAbout.textContent='▸ Sobre la aplicación';
+        try { localStorage.setItem(ABOUT_SECTION_KEY, 'false'); } catch {}
         window.scrollTo({top:0,left:0,behavior:'smooth'});
         setTimeout(()=>location.reload(),500);
       }
@@ -1169,6 +1214,7 @@ window.addEventListener('load',()=>{
         document.querySelectorAll('.item span:not(.hidden)').forEach(el=>el.classList.add('hidden'));
         dictBox.classList.add('hidden'); btnClear.classList.add('hidden'); btnShow.textContent='Ver diccionario completo';
         aboutText.classList.add('hidden'); toggleAbout.textContent='▸ Sobre la aplicación';
+        try { localStorage.setItem(ABOUT_SECTION_KEY, 'false'); } catch {}
         window.scrollTo({top:0,left:0,behavior:'smooth'});
         setTimeout(()=>location.reload(),500);
       }
@@ -1294,11 +1340,28 @@ btnClear.addEventListener('click',()=>{
 });
 
 /* ---------- Sobre la aplicación ---------- */
-toggleAbout.addEventListener('click',()=>{
-  const open=!aboutText.classList.toggle('hidden');
-  toggleAbout.textContent=(open?'▾':'▸')+' Sobre la aplicación';
-  logEvent('click_boton', open?'Mostrar sobre':'Ocultar sobre');
-});
+(function initAbout(){
+  const _toggleAbout = document.getElementById('toggle-about');
+  const _aboutText = document.getElementById('about-text');
+  if(_toggleAbout && _aboutText){
+    // aplicar estado guardado al cargar (por defecto cerrado)
+    const saved = localStorage.getItem(ABOUT_SECTION_KEY);
+    const open = saved === null ? false : saved === 'true';
+    if(open){ _aboutText.classList.remove('hidden'); }
+    else { _aboutText.classList.add('hidden'); }
+    _toggleAbout.textContent=(open?'▾':'▸')+' Sobre la aplicación';
+
+    _toggleAbout.addEventListener('click',()=>{
+      const isOpen = !_aboutText.classList.contains('hidden');
+      const newState = !isOpen;
+      if(newState){ _aboutText.classList.remove('hidden'); }
+      else { _aboutText.classList.add('hidden'); }
+      _toggleAbout.textContent=(newState?'▾':'▸')+' Sobre la aplicación';
+      localStorage.setItem(ABOUT_SECTION_KEY, newState.toString());
+      logEvent('click_boton', newState?'Mostrar sobre':'Ocultar sobre');
+    });
+  }
+})();
 
 function enviarSugerencia() {
   const comentario = document.getElementById('sugerencia').value;
@@ -1321,6 +1384,74 @@ function enviarSugerencia() {
       setTimeout(() => mensaje.style.display = 'none', 3000);
     }).catch(console.error);
 }
+
+/* ---------- Secciones desplegables ---------- */
+(function initCollapsibleSections(){
+  // helper: estado guardado (true = abierto por defecto)
+  function getSectionState(key, defaultValue = true) {
+    const saved = localStorage.getItem(key);
+    return saved === null ? defaultValue : saved === 'true';
+  }
+  // helper: guardar estado
+  function saveSectionState(key, isOpen) {
+    localStorage.setItem(key, isOpen.toString());
+  }
+  // helper: actualizar botón y contenido
+  function updateSection(toggleBtn, content, isOpen, sectionName) {
+    if (isOpen) {
+      content.classList.remove('hidden');
+      toggleBtn.textContent = '▾ ' + sectionName;
+    } else {
+      content.classList.add('hidden');
+      toggleBtn.textContent = '▸ ' + sectionName;
+    }
+  }
+
+  // Vocabulario
+  const toggleVocab = document.getElementById('toggle-vocab');
+  const vocabContent = document.getElementById('vocab-content');
+  if(toggleVocab && vocabContent){
+    const vocabOpen = getSectionState(VOCAB_SECTION_KEY, true);
+    updateSection(toggleVocab, vocabContent, vocabOpen, 'Vocabulario');
+    toggleVocab.addEventListener('click',()=>{
+      const isOpen = !vocabContent.classList.contains('hidden');
+      const newState = !isOpen;
+      updateSection(toggleVocab, vocabContent, newState, 'Vocabulario');
+      saveSectionState(VOCAB_SECTION_KEY, newState);
+      logEvent('click_boton', newState?'Mostrar vocabulario':'Ocultar vocabulario');
+    });
+  }
+
+  // Ejercicios
+  const toggleExercises = document.getElementById('toggle-exercises');
+  const exercisesContent = document.getElementById('exercises-content');
+  if(toggleExercises && exercisesContent){
+    const exercisesOpen = getSectionState(EXERCISES_SECTION_KEY, true);
+    updateSection(toggleExercises, exercisesContent, exercisesOpen, 'Ejercicios');
+    toggleExercises.addEventListener('click',()=>{
+      const isOpen = !exercisesContent.classList.contains('hidden');
+      const newState = !isOpen;
+      updateSection(toggleExercises, exercisesContent, newState, 'Ejercicios');
+      saveSectionState(EXERCISES_SECTION_KEY, newState);
+      logEvent('click_boton', newState?'Mostrar ejercicios':'Ocultar ejercicios');
+    });
+  }
+
+  // Repaso
+  const toggleReview = document.getElementById('toggle-review');
+  const reviewContent = document.getElementById('review-content');
+  if(toggleReview && reviewContent){
+    const reviewOpen = getSectionState(REVIEW_SECTION_KEY, true);
+    updateSection(toggleReview, reviewContent, reviewOpen, 'Repaso');
+    toggleReview.addEventListener('click',()=>{
+      const isOpen = !reviewContent.classList.contains('hidden');
+      const newState = !isOpen;
+      updateSection(toggleReview, reviewContent, newState, 'Repaso');
+      saveSectionState(REVIEW_SECTION_KEY, newState);
+      logEvent('click_boton', newState?'Mostrar repaso':'Ocultar repaso');
+    });
+  }
+})();
 
 // Ayuda flotante
 function openHelpModal(e) {
