@@ -1,0 +1,135 @@
+{
+  "metadata": {
+    "total_niveles": 25,
+    "fecha_creacion": "2025-08-10T13:33:21.628287",
+    "modelo": "gpt-4o-mini",
+    "version_script": "1.0"
+  },
+  "niveles": [
+    {
+      "nivel": 1,
+      "descripcion": "Presente simple con 'to be' (afirmativo, negativo, interrogativo)",
+      "explicacion": "Usamos 'am', 'is', 'are' para decir cómo somos, no somos o preguntar. Ej: 'I am happy.'"
+    },
+    {
+      "nivel": 2,
+      "descripcion": "Presente simple con verbos regulares (afirmativo, negativo, interrogativo)",
+      "explicacion": "Usamos el presente simple para acciones habituales: 'I play', 'I don't play', 'Do I play?'"
+    },
+    {
+      "nivel": 3,
+      "descripcion": "Presente simple negativo con 'don't' y 'doesn't'",
+      "explicacion": "Usamos 'don't' con I, you, we, they y 'doesn't' con he, she, it para decir que algo no pasa. Ejemplo: She doesn't like cats."
+    },
+    {
+      "nivel": 4,
+      "descripcion": "Preguntas en presente simple con 'do', 'does' y palabras interrogativas",
+      "explicacion": "Usa 'do' o 'does' al inicio para preguntar en presente. Ejemplo: 'Do you play?' o 'Does she play?'"
+    },
+    {
+      "nivel": 5,
+      "descripcion": "Presente continuo (afirmativo, negativo, interrogativo)",
+      "explicacion": "Usamos 'am/is/are' + verbo con 'ing' para acciones que pasan ahora. Ej: 'I am eating.'"
+    },
+    {
+      "nivel": 6,
+      "descripcion": "Pasado simple con verbos regulares e irregulares comunes",
+      "explicacion": "Usamos el pasado simple para acciones terminadas. Verbos regulares terminan en '-ed'; irregulares cambian. Ejemplo: 'play' es 'played', 'go' es 'went'."
+    },
+    {
+      "nivel": 7,
+      "descripcion": "Pasado simple negativo con 'didn't' y preguntas con 'did'",
+      "explicacion": "Usa 'didn't' para decir que algo no pasó y 'Did' para preguntar si pasó. Ejemplo: 'I didn't play' y 'Did you play?'"
+    },
+    {
+      "nivel": 8,
+      "descripcion": "Verbo 'to be' en pasado (was/were) con negaciones y preguntas",
+      "explicacion": "Usa 'wasn't' o 'weren't' para negar y cambia el orden para preguntar. Ej: 'Was he there?'"
+    },
+    {
+      "nivel": 9,
+      "descripcion": "Expresiones de tiempo en presente y pasado (now, yesterday, last week)",
+      "explicacion": "Usamos 'now' para el presente, 'yesterday' para el pasado reciente y 'last week' para la semana pasada. Ejemplo: 'I play now', 'I played yesterday', 'I played last week'."
+    },
+    {
+      "nivel": 10,
+      "descripcion": "Futuro con 'going to' para planes e intenciones",
+      "explicacion": "Usamos 'going to' para hablar de lo que planeamos hacer. Ejemplo: I'm going to play soccer."
+    },
+    {
+      "nivel": 11,
+      "descripcion": "Futuro con 'will' para predicciones y decisiones espontáneas",
+      "explicacion": "Usamos 'will' para decir lo que creemos que pasará o para decidir algo en el momento. Ejemplo: 'It will rain tomorrow.'"
+    },
+    {
+      "nivel": 12,
+      "descripcion": "Verbos modales 'can' y 'can't' (habilidad, permiso, posibilidad)",
+      "explicacion": "'Can' muestra habilidad o permiso; 'can't' indica que no se puede. Ejemplo: 'I can swim' (Puedo nadar)."
+    },
+    {
+      "nivel": 13,
+      "descripcion": "Verbos modales 'must', 'mustn't', 'should', 'shouldn't' (obligación y consejo)",
+      "explicacion": "'Must' y 'mustn't' indican obligación; 'should' y 'shouldn't' dan consejos. Ejemplo: You must do your homework."
+    },
+    {
+      "nivel": 14,
+      "descripcion": "There is/are con cuantificadores (some, any, a lot of, much/many)",
+      "explicacion": "Usamos 'there is/are' para decir que algo existe, y 'some', 'any', 'a lot of', 'much/many' para indicar cantidad. Ejemplo: There are some apples."
+    },
+    {
+      "nivel": 15,
+      "descripcion": "Comparativos de adjetivos (más/menos que)",
+      "explicacion": "Usamos 'más' o 'menos' antes del adjetivo para comparar dos cosas. Ejemplo: 'El perro es más grande que el gato.'"
+    },
+    {
+      "nivel": 16,
+      "descripcion": "Superlativos de adjetivos (el más/la más)",
+      "explicacion": "Usamos 'el más' o 'la más' para decir que algo es lo mejor o lo peor. Ejemplo: 'Ella es la más rápida.'"
+    },
+    {
+      "nivel": 17,
+      "descripcion": "Conectores básicos (and, but, because, so, or)",
+      "explicacion": "Usamos 'and', 'but', 'because', 'so' y 'or' para unir ideas: 'I like apples and oranges.'"
+    },
+    {
+      "nivel": 18,
+      "descripcion": "Adverbios de frecuencia (always, usually, sometimes, never)",
+      "explicacion": "Los adverbios de frecuencia dicen con qué frecuencia ocurre algo: 'always' (siempre), 'usually' (usualmente), 'sometimes' (a veces), 'never' (nunca). Ejemplo: 'I always eat breakfast.'"
+    },
+    {
+      "nivel": 19,
+      "descripcion": "Presente perfecto con 'have/has' y marcadores temporales",
+      "explicacion": "Usamos 'have/has' + verbo pasado para acciones que empezaron en el pasado y siguen ahora. Ejemplo: 'I have eaten today.'"
+    },
+    {
+      "nivel": 20,
+      "descripcion": "Condicionales de hechos generales y situaciones reales/futuras",
+      "explicacion": "Usamos 'if' para hablar de cosas que siempre pasan o que podrían pasar en el futuro. Ejemplo: If it rains, I use an umbrella."
+    },
+    {
+      "nivel": 21,
+      "descripcion": "Condicionales hipotéticas en presente y pasado",
+      "explicacion": "Usamos 'if' para hablar de situaciones imaginarias: 'If I were a bird, I would fly.'"
+    },
+    {
+      "nivel": 22,
+      "descripcion": "Voz pasiva en presente simple y pasado simple",
+      "explicacion": "En voz pasiva, el objeto se convierte en sujeto. Presente: 'is/are + verbo en pasado'. Pasado: 'was/were + verbo en pasado'. Ejemplo: 'The cake is eaten.'"
+    },
+    {
+      "nivel": 23,
+      "descripcion": "Discurso indirecto con verbos de comunicación",
+      "explicacion": "Usamos el discurso indirecto para contar lo que alguien dijo, usando verbos como 'decir' o 'preguntar'. Ejemplo: Ella dijo que estaba feliz."
+    },
+    {
+      "nivel": 24,
+      "descripcion": "Phrasal verbs comunes de uso cotidiano",
+      "explicacion": "Los phrasal verbs son verbos con una preposición que cambian su significado. Ejemplo: 'turn on' significa encender."
+    },
+    {
+      "nivel": 25,
+      "descripcion": "Expresiones idiomáticas y conectores avanzados",
+      "explicacion": "Aprendemos frases especiales y palabras que conectan ideas para hacer el inglés más interesante. Ejemplo: 'It's raining cats and dogs' significa que llueve mucho."
+    }
+  ]
+}
